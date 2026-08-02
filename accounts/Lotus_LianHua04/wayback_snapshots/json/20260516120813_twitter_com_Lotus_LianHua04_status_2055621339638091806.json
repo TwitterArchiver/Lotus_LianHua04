@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055283003341844480"
+      ],
+      "media_source_tweet_id": [
+        "2055283082911949109"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2055621339638091806",
+    "created_at": "2026-05-16T12:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055621339638091806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1922977952477622272",
+          "start": 3,
+          "username": "ThinkFloating"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1jgU7YBamo",
+          "end": 42,
+          "expanded_url": "https://x.com/ThinkFloating/status/2055283082911949109/video/1",
+          "media_key": "13_2055283003341844480",
+          "start": 19,
+          "url": "https://t.co/1jgU7YBamo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055621339638091806",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 563
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055283082911949109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ThinkFloating: https://t.co/1jgU7YBamo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18750,
+        "height": 720,
+        "media_key": "13_2055283003341844480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055283003341844480/img/lQy0plekRbE9lHg0.jpg",
+        "public_metrics": {
+          "view_count": 11427
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055283003341844480/vid/avc1/462x270/6LEhxPqO6WSfHtut.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055283003341844480/vid/avc1/616x360/AiJLMzE6OK7ugguH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055283003341844480/vid/avc1/1232x720/uYbvxz08CxwfHA-X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055283003341844480/pl/cEVSRfJ0gBqZmdTk.m3u8?v=137"
+          }
+        ],
+        "width": 1232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055283003341844480"
+          ],
+          "media_source_tweet_id": [
+            "2055283082911949109"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2055621339638091806",
+        "created_at": "2026-05-16T12:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055621339638091806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1922977952477622272",
+              "start": 3,
+              "username": "ThinkFloating"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1jgU7YBamo",
+              "end": 42,
+              "expanded_url": "https://x.com/ThinkFloating/status/2055283082911949109/video/1",
+              "media_key": "13_2055283003341844480",
+              "start": 19,
+              "url": "https://t.co/1jgU7YBamo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055621339638091806",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 563
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055283082911949109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ThinkFloating: https://t.co/1jgU7YBamo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055283003341844480"
+          ]
+        },
+        "author_id": "1922977952477622272",
+        "conversation_id": "2055283082911949109",
+        "created_at": "2026-05-15T13:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055283082911949109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1jgU7YBamo",
+              "end": 23,
+              "expanded_url": "https://x.com/ThinkFloating/status/2055283082911949109/video/1",
+              "media_key": "13_2055283003341844480",
+              "start": 0,
+              "url": "https://t.co/1jgU7YBamo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055283082911949109",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 31401,
+          "like_count": 2188,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 563
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1jgU7YBamo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 21,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1537
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T11:31:00.000Z",
+        "description": "🪞🪩✨ Reflections dance under the disco ball, where dreams wear their brightest light.",
+        "id": "1922977952477622272",
+        "name": "⚝ ⚝ ⚝",
+        "pinned_tweet_id": "2051722247828553907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923130865246220289/Tf5rnVOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23064,
+          "following_count": 9084,
+          "like_count": 8268,
+          "listed_count": 101,
+          "media_count": 1700,
+          "tweet_count": 7397
+        },
+        "username": "ThinkFloating",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071983460164497408"
+      ],
+      "media_source_tweet_id": [
+        "2071983464308470088"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2072284470263038252",
+    "created_at": "2026-07-01T11:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T12:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072284470263038252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1976025274652200961",
+          "start": 3,
+          "username": "mokaramelle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yBxcPbqQKz",
+          "end": 84,
+          "expanded_url": "https://x.com/jeoncalorie/status/2071983464308470088/photo/1",
+          "media_key": "3_2071983460164497408",
+          "start": 61,
+          "url": "https://t.co/yBxcPbqQKz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072284470263038252",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1892
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071983464308470088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mokaramelle: this is how i feel around my skinny friends https://t.co/yBxcPbqQKz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2071983460164497408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEp-quW8AANUTZ.jpg",
+        "width": 642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071983460164497408"
+          ],
+          "media_source_tweet_id": [
+            "2071983464308470088"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2072284470263038252",
+        "created_at": "2026-07-01T11:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072284470263038252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1976025274652200961",
+              "start": 3,
+              "username": "mokaramelle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yBxcPbqQKz",
+              "end": 84,
+              "expanded_url": "https://x.com/jeoncalorie/status/2071983464308470088/photo/1",
+              "media_key": "3_2071983460164497408",
+              "start": 61,
+              "url": "https://t.co/yBxcPbqQKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072284470263038252",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1892
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071983464308470088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mokaramelle: this is how i feel around my skinny friends https://t.co/yBxcPbqQKz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071983460164497408"
+          ]
+        },
+        "author_id": "1976025274652200961",
+        "conversation_id": "2071983464308470088",
+        "created_at": "2026-06-30T15:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071983464308470088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yBxcPbqQKz",
+              "end": 67,
+              "expanded_url": "https://x.com/jeoncalorie/status/2071983464308470088/photo/1",
+              "media_key": "3_2071983460164497408",
+              "start": 44,
+              "url": "https://t.co/yBxcPbqQKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071983464308470088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 31756,
+          "like_count": 5635,
+          "quote_count": 20,
+          "reply_count": 7,
+          "retweet_count": 1892
+        },
+        "reply_settings": "everyone",
+        "text": "this is how i feel around my skinny friends https://t.co/yBxcPbqQKz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 28,
+          "like_count": 1180,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2671
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T20:42:00.000Z",
+        "description": "⠀#edtwt .ᐟ ⠀omading jungkook ⠀⟡₊ 🪽⊹",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 1,
+                "tag": "edtwt"
+              }
+            ]
+          }
+        },
+        "id": "1976025274652200961",
+        "location": "high 16s",
+        "name": "xia ୨୧",
+        "pinned_tweet_id": "2016352679815954718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071125773268688896/BMnESDPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 497,
+          "like_count": 6710,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 1202
+        },
+        "url": "",
+        "username": "mokaramelle",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2010363518726402101",
+    "created_at": "2026-01-11T14:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T15:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010363518726402101"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010363518726402101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "死猪不怕开水烫这句话特别适合中国人。六十年代某位伟大的革命家把所有中国人基因改造成死猪或拎开水壶的人，总之都是无赖。这样的基因一代代传下去了。芳龄永继。这才是真正的非物质文化遗产"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2010363518726402101",
+        "created_at": "2026-01-11T14:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T15:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010363518726402101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010363518726402101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死猪不怕开水烫这句话特别适合中国人。六十年代某位伟大的革命家把所有中国人基因改造成死猪或拎开水壶的人，总之都是无赖。这样的基因一代代传下去了。芳龄永继。这才是真正的非物质文化遗产"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007192426985992192/ko8Vx42m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 7,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 334
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

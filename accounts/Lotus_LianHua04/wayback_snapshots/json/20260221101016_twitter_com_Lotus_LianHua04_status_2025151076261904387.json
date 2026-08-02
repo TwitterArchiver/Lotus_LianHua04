@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2022930495667875840"
+      ],
+      "media_source_tweet_id": [
+        "2022935094642786342"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025151076261904387",
+    "created_at": "2026-02-21T10:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T11:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025151076261904387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qSnRssgU1x",
+          "end": 67,
+          "expanded_url": "https://x.com/SalviaSWC/status/2022935094642786342/video/1",
+          "media_key": "13_2022930495667875840",
+          "start": 44,
+          "url": "https://t.co/qSnRssgU1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025151076261904387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022935094642786342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 希望你们永远不要知道最底下几层的药物是什么......😢 https://t.co/qSnRssgU1x"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2025151076261904387].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2025151076261904387",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2025151076261904387"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47880,
+        "height": 1944,
+        "media_key": "13_2022930495667875840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022930495667875840/img/0a35bwF2Pe1wvbzX.jpg",
+        "public_metrics": {
+          "view_count": 11008
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022930495667875840/vid/avc1/320x376/vMvdVVycMPPqrRHg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022930495667875840/vid/avc1/480x564/1tDPFamBQEFbxHMl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022930495667875840/vid/avc1/720x846/0GhaNN1qVruZdwvz.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022930495667875840/pl/AgdT40VY3kp1_Fit.m3u8?tag=14"
+          }
+        ],
+        "width": 1654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022930495667875840"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2022935094642786342",
+        "created_at": "2026-02-15T07:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T08:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022935094642786342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qSnRssgU1x",
+              "end": 52,
+              "expanded_url": "https://x.com/SalviaSWC/status/2022935094642786342/video/1",
+              "media_key": "13_2022930495667875840",
+              "start": 29,
+              "url": "https://t.co/qSnRssgU1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022935094642786342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 6902,
+          "like_count": 345,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "希望你们永远不要知道最底下几层的药物是什么......😢 https://t.co/qSnRssgU1x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 16,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 623
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨OD知识开源化↓请支持FreeODwiki喵！|Say Know to Drugs 💊丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2730,
+          "following_count": 822,
+          "like_count": 19410,
+          "listed_count": 10,
+          "media_count": 294,
+          "tweet_count": 5542
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2073908465085403170",
+    "created_at": "2026-07-05T23:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T00:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073908465085403170"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073908465085403170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的想在十五岁生日当天自杀。但是我生日过去好几个月了。现在我就想在十六岁生日当天自杀。我感觉我每年生日都必须去见朋友，不然我就会因为自己一个人待着觉得没什么好坚持的时间不冲突赶紧把自己捅死吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2073908465085403170",
+        "created_at": "2026-07-05T23:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T00:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073908465085403170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073908465085403170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的想在十五岁生日当天自杀。但是我生日过去好几个月了。现在我就想在十六岁生日当天自杀。我感觉我每年生日都必须去见朋友，不然我就会因为自己一个人待着觉得没什么好坚持的时间不冲突赶紧把自己捅死吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 29,
+          "like_count": 1283,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 2845
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

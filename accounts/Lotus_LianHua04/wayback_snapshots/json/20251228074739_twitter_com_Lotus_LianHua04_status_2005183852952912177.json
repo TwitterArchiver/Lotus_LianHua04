@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2005183852952912177",
+    "created_at": "2025-12-28T07:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T08:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005183852952912177"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005183852952912177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我肚子疼得要死！而且是一种痛经的感觉虽然我根本不痛经而且我也没来月经"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2005183852952912177",
+        "created_at": "2025-12-28T07:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T08:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005183852952912177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005183852952912177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我肚子疼得要死！而且是一种痛经的感觉虽然我根本不痛经而且我也没来月经"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003156132467261440/hf-wJIXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 6,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 159
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

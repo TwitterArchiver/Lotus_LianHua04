@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2003537560086413387",
+    "created_at": "2025-12-23T18:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T19:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003537560086413387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cigsmake/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/cigsmake/status/2003270832961855881",
+          "start": 13,
+          "url": "https://t.co/ApKAuRSOCj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003537560086413387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003270832961855881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "底下换成粉魔爪就是我日常 https://t.co/ApKAuRSOCj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1625,
+        "media_key": "3_1995935104338714624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7L8ZwjXYAAnEPB.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2003537560086413387",
+        "created_at": "2025-12-23T18:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T19:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003537560086413387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cigsmake/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/cigsmake/status/2003270832961855881",
+              "start": 13,
+              "url": "https://t.co/ApKAuRSOCj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003537560086413387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003270832961855881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "底下换成粉魔爪就是我日常 https://t.co/ApKAuRSOCj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995935104338714624"
+          ]
+        },
+        "author_id": "1221441944267653120",
+        "conversation_id": "2003270832961855881",
+        "created_at": "2025-12-23T01:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T02:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003270832961855881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TziPbfJkXn",
+              "end": 23,
+              "expanded_url": "https://x.com/CigsMake/status/2003270832961855881/photo/1",
+              "media_key": "3_1995935104338714624",
+              "start": 0,
+              "url": "https://t.co/TziPbfJkXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003270832961855881",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 540,
+          "impression_count": 178131,
+          "like_count": 22813,
+          "quote_count": 91,
+          "reply_count": 34,
+          "retweet_count": 2687
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TziPbfJkXn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003156132467261440/hf-wJIXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 42
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-26T14:37:19.000Z",
+        "description": "Cigarettes and Cultural Things From The Past",
+        "id": "1221441944267653120",
+        "location": "United States",
+        "name": "Cigarette Nostalgia",
+        "pinned_tweet_id": "1320363512087171072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1226870747395743744/PDCqoH7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229189,
+          "following_count": 402,
+          "like_count": 39982,
+          "listed_count": 360,
+          "media_count": 2371,
+          "tweet_count": 2903
+        },
+        "username": "CigsMake",
+        "verified": true
+      }
+    ]
+  }
+}

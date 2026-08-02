@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2077407278878052608",
+    "created_at": "2026-07-15T14:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077407278878052608"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077407278878052608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我母还在期待我找个有钱人。她知道我谈了个女人的时候第一时间在意的是对面有没有钱，是不是为了我的钱，知道对面给我转账了就不言语了。如果我没发胖我妈会让我当妓女她当皮条客"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2077407278878052608",
+        "created_at": "2026-07-15T14:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077407278878052608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077407278878052608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我母还在期待我找个有钱人。她知道我谈了个女人的时候第一时间在意的是对面有没有钱，是不是为了我的钱，知道对面给我转账了就不言语了。如果我没发胖我妈会让我当妓女她当皮条客"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 29,
+          "like_count": 1367,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 3125
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

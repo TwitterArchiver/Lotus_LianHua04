@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2015739342640263652",
+    "created_at": "2026-01-26T10:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T11:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015739342640263652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1969003080587923456",
+          "start": 3,
+          "username": "my065826911172"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015739342640263652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 191
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015313791962247563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @my065826911172: 我教你如何变得受欢迎，把男的称呼为死公狗，女的称呼为贱婊子，小孩称呼为小畜生，老人称呼为老不死，动物称为骚福瑞，穷人称呼为社会底层，有钱人称呼为社会败类，高学历称呼为啃老读书的，低学历称呼为智力障碍，长得好看的你就说他滥交整容做鸡鸭，长得…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2015739342640263652",
+        "created_at": "2026-01-26T10:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015739342640263652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1969003080587923456",
+              "start": 3,
+              "username": "my065826911172"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015739342640263652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 191
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015313791962247563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @my065826911172: 我教你如何变得受欢迎，把男的称呼为死公狗，女的称呼为贱婊子，小孩称呼为小畜生，老人称呼为老不死，动物称为骚福瑞，穷人称呼为社会底层，有钱人称呼为社会败类，高学历称呼为啃老读书的，低学历称呼为智力障碍，长得好看的你就说他滥交整容做鸡鸭，长得…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969003080587923456",
+        "conversation_id": "2015313791962247563",
+        "created_at": "2026-01-25T06:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T07:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015313791962247563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015313791962247563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 120993,
+          "like_count": 1981,
+          "quote_count": 29,
+          "reply_count": 82,
+          "retweet_count": 191
+        },
+        "reply_settings": "everyone",
+        "text": "我教你如何变得受欢迎，把男的称呼为死公狗，女的称呼为贱婊子，小孩称呼为小畜生，老人称呼为老不死，动物称为骚福瑞，穷人称呼为社会底层，有钱人称呼为社会败类，高学历称呼为啃老读书的，低学历称呼为智力障碍，长得好看的你就说他滥交整容做鸡鸭，长得丑的你就说他老妈是不是跟猪交配才长得这么丑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 8,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 440
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T11:38:23.000Z",
+        "description": "",
+        "id": "1969003080587923456",
+        "location": "你的床底",
+        "name": "miu叽",
+        "pinned_tweet_id": "2005893654322548772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003406638104137728/y0VR9YJr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 15,
+          "like_count": 765,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 526
+        },
+        "username": "my065826911172",
+        "verified": false
+      }
+    ]
+  }
+}

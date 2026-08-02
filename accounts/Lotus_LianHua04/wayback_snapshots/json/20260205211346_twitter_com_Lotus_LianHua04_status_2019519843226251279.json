@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2019519843226251279",
+    "created_at": "2026-02-05T21:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T22:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019519843226251279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1764232461439897600",
+          "start": 3,
+          "username": "baobao_7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019519843226251279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019180317026992596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baobao_7777: 看见我用辱女词，不要急，骂完你妈下一句就骂你爸了，这只是女士优先的折中手段，你爷爷奶奶姥姥姥爷舅舅舅母表姐表哥亲姐亲哥和你祖宗十八代的骨灰全都排着号呢，不要着急的呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2019519843226251279",
+        "created_at": "2026-02-05T21:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T22:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019519843226251279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1764232461439897600",
+              "start": 3,
+              "username": "baobao_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019519843226251279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019180317026992596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baobao_7777: 看见我用辱女词，不要急，骂完你妈下一句就骂你爸了，这只是女士优先的折中手段，你爷爷奶奶姥姥姥爷舅舅舅母表姐表哥亲姐亲哥和你祖宗十八代的骨灰全都排着号呢，不要着急的呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764232461439897600",
+        "conversation_id": "2019180317026992596",
+        "created_at": "2026-02-04T22:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T23:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019180317026992596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019180317026992596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5669,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "看见我用辱女词，不要急，骂完你妈下一句就骂你爸了，这只是女士优先的折中手段，你爷爷奶奶姥姥姥爷舅舅舅母表姐表哥亲姐亲哥和你祖宗十八代的骨灰全都排着号呢，不要着急的呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙 購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 9,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 511
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T10:13:08.000Z",
+        "description": "你好我是堡 当朋友圈发｜性别男取向男｜爱分享爱骂街爱发骚 身体里有一个表子人格偶尔会出来和呆萌主人格争夺身体控制权｜不互fo 想和好看or有趣的人玩｜链接是提问箱欢迎发消息",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/burger7777",
+                "end": 23,
+                "expanded_url": "https://ngl.link/burger7777",
+                "start": 0,
+                "url": "https://t.co/GIQCODGHiA"
+              }
+            ]
+          }
+        },
+        "id": "1764232461439897600",
+        "location": "^ω^",
+        "name": "幻想天降180正装帅男自愿让小堡法",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016383384122228736/BvC1QVbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 91,
+          "like_count": 13392,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 2872
+        },
+        "url": "https://t.co/GIQCODGHiA",
+        "username": "baobao_7777",
+        "verified": false
+      }
+    ]
+  }
+}

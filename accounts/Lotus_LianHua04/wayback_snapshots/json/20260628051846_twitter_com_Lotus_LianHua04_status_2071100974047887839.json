@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2071100974047887839",
+    "created_at": "2026-06-28T05:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T06:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071100974047887839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/izuna347/statu…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/izuna347/status/2070699644192018886",
+          "start": 93,
+          "url": "https://t.co/l2y8wJvcqR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071100974047887839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070699644192018886",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点像我妈的善良版本吧。我小姨的告密人格又剧烈顶号之后我知道我爸妈年轻的时候也狂嗑止咳药和摇头丸，但是他们两个根本没有因此包容我反而因为自己嗑过知道嗑完是什么状态每次抓我嗑药一抓一个准 https://t.co/l2y8wJvcqR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2071100974047887839",
+        "created_at": "2026-06-28T05:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071100974047887839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/izuna347/statu…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/izuna347/status/2070699644192018886",
+              "start": 93,
+              "url": "https://t.co/l2y8wJvcqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071100974047887839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070699644192018886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点像我妈的善良版本吧。我小姨的告密人格又剧烈顶号之后我知道我爸妈年轻的时候也狂嗑止咳药和摇头丸，但是他们两个根本没有因此包容我反而因为自己嗑过知道嗑完是什么状态每次抓我嗑药一抓一个准 https://t.co/l2y8wJvcqR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486946165937651716",
+        "conversation_id": "2070699644192018886",
+        "created_at": "2026-06-27T02:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070699644192018886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070699644192018886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 79795,
+          "like_count": 435,
+          "quote_count": 6,
+          "reply_count": 41,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我跟妈妈说 我好想抽大麻 她跟我说…她十几岁时跟朋友抽过 细细的 很香 还吸过k粉 天昏地暗的 吐了很久 还吃过摇头丸 一直跳舞 但是她没有上瘾 她的朋友上瘾了 但是妈妈只试过这几个..中国管控之后就只吸烟了嗯..大概这就是妈妈为什么会对我的性取向还有磕药这么包容吧 嗯 我是社会妹的孩子….我不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 26,
+          "like_count": 1095,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 2500
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T06:16:23.000Z",
+        "description": "HE/HIM🏳️‍🌈-SHTWT 988TWT",
+        "id": "1486946165937651716",
+        "name": "izuna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055029378954792960/W3zEJTZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 227,
+          "like_count": 7757,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1405
+        },
+        "url": "",
+        "username": "IZUNA347",
+        "verified": false
+      }
+    ]
+  }
+}

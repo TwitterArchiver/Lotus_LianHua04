@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2067456358203445477",
+    "created_at": "2026-06-18T03:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067456358203445477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1403238479899811847",
+          "start": 3,
+          "username": "LqeYk4ooUGgqB7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067456358203445477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067275793731104863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LqeYk4ooUGgqB7c: 中国人一看到馒头逼就走不动路了\n这是骨子里对碳水的热爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2067456358203445477",
+        "created_at": "2026-06-18T03:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067456358203445477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1403238479899811847",
+              "start": 3,
+              "username": "LqeYk4ooUGgqB7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067456358203445477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067275793731104863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LqeYk4ooUGgqB7c: 中国人一看到馒头逼就走不动路了\n这是骨子里对碳水的热爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403238479899811847",
+        "conversation_id": "2067275793731104863",
+        "created_at": "2026-06-17T15:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067275793731104863"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067275793731104863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2273,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "中国人一看到馒头逼就走不动路了\n这是骨子里对碳水的热爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 25,
+          "like_count": 960,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 2148
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-11T06:32:00.000Z",
+        "description": "当pyq发啦 🚪99",
+        "id": "1403238479899811847",
+        "location": "20.8km",
+        "name": "摆烂小鱼",
+        "pinned_tweet_id": "2036842761966772421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011475900039380992/YvHWrbQ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 79,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 241
+        },
+        "username": "LqeYk4ooUGgqB7c",
+        "verified": false
+      }
+    ]
+  }
+}

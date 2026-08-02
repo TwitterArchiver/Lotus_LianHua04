@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2071192977381195857",
+    "created_at": "2026-06-28T11:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071192977381195857"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071192977381195857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "会为爱情痛苦的人也不是恋爱脑。我要发起一个把恋爱脑这个词还给恋爱脑的运动。生活中只有傻逼，能找到一个让你开怀大孝的爹系男友妈系女友不容易。知足常乐阿弥陀佛阿帕次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2071192977381195857",
+        "created_at": "2026-06-28T11:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071192977381195857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071192977381195857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会为爱情痛苦的人也不是恋爱脑。我要发起一个把恋爱脑这个词还给恋爱脑的运动。生活中只有傻逼，能找到一个让你开怀大孝的爹系男友妈系女友不容易。知足常乐阿弥陀佛阿帕次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 27,
+          "like_count": 1104,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 2542
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

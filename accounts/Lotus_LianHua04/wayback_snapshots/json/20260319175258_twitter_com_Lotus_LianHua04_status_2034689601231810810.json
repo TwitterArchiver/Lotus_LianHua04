@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2034689601231810810",
+    "created_at": "2026-03-19T17:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T18:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034689601231810810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bdzzbw6goo2/st…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/bdzzbw6goo2/status/2034428896733790719",
+          "start": 100,
+          "url": "https://t.co/GAzCFa0W6V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034689601231810810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034428896733790719",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝我od了3t愈美片要洗胃吗😭\n宝宝我od了2t感康还有救吗😭\n宝宝我割出一道白痕需要缝针吗😭\n宝宝我od了2t健胃消食片要洗胃吗😭\n宝宝我od了三份盒饭要催吐么😭\n宝宝我od了三罐汽水要尿尿么😭 https://t.co/GAzCFa0W6V"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2034689601231810810",
+        "created_at": "2026-03-19T17:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T18:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034689601231810810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bdzzbw6goo2/st…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/bdzzbw6goo2/status/2034428896733790719",
+              "start": 100,
+              "url": "https://t.co/GAzCFa0W6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034689601231810810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034428896733790719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝我od了3t愈美片要洗胃吗😭\n宝宝我od了2t感康还有救吗😭\n宝宝我割出一道白痕需要缝针吗😭\n宝宝我od了2t健胃消食片要洗胃吗😭\n宝宝我od了三份盒饭要催吐么😭\n宝宝我od了三罐汽水要尿尿么😭 https://t.co/GAzCFa0W6V"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2034428896733790719",
+        "created_at": "2026-03-19T00:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T01:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034428896733790719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Suintouhea2t/s…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/Suintouhea2t/status/2034412833228947887",
+              "start": 68,
+              "url": "https://t.co/NnUuOSmm90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034428896733790719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1398,
+          "like_count": 21,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034412833228947887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝我od了3t愈美片要洗胃吗😭\n宝宝我od了2t感康还有救吗😭\n宝宝我割出一道白痕需要缝针吗😭\n宝宝我od了2t健胃消食片要洗胃吗😭 https://t.co/NnUuOSmm90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 20,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 845
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 569,
+          "like_count": 44419,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 136
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

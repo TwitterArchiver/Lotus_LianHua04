@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2070783739693871264",
+    "created_at": "2026-06-27T09:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070795951824838835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967257406129504256",
+          "start": 0,
+          "username": "Zdu1279757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070795951824838835",
+    "in_reply_to_user_id": "1967257406129504256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070783739693871264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zdu1279757 不穿聚拢内衣基本上都是外扩的，不能违背地心引力啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070783731510784000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzm1RNbsAAVnfX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070783731519078402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzm1RPaQAIS346.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2070783739693871264",
+        "created_at": "2026-06-27T09:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070795951824838835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967257406129504256",
+              "start": 0,
+              "username": "Zdu1279757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070795951824838835",
+        "in_reply_to_user_id": "1967257406129504256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070783739693871264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zdu1279757 不穿聚拢内衣基本上都是外扩的，不能违背地心引力啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070783731510784000",
+            "3_2070783731519078402"
+          ]
+        },
+        "author_id": "1967257406129504256",
+        "conversation_id": "2070783739693871264",
+        "created_at": "2026-06-27T08:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070783739693871264"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "成都线下"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "胖妹"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "奶子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyV2XviEDL",
+              "end": 46,
+              "expanded_url": "https://x.com/Zdu1279757/status/2070783739693871264/photo/1",
+              "media_key": "3_2070783731510784000",
+              "start": 23,
+              "url": "https://t.co/dyV2XviEDL"
+            },
+            {
+              "display_url": "pic.x.com/dyV2XviEDL",
+              "end": 46,
+              "expanded_url": "https://x.com/Zdu1279757/status/2070783739693871264/photo/1",
+              "media_key": "3_2070783731519078402",
+              "start": 23,
+              "url": "https://t.co/dyV2XviEDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070783739693871264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "胸部外扩怎么办呀😖#成都线下 #胖妹 #奶子 https://t.co/dyV2XviEDL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 27,
+          "like_count": 1093,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2472
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T16:01:43.000Z",
+        "description": "不管这个世界上多少坏人讨厌我 攻击我 不爱我我依旧不语 就萌萌的躺在这里 🚪52",
+        "id": "1967257406129504256",
+        "name": "iukio",
+        "pinned_tweet_id": "2060323322676863455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060324836292059136/KMYYNM1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 38,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "Zdu1279757",
+        "verified": false
+      }
+    ]
+  }
+}

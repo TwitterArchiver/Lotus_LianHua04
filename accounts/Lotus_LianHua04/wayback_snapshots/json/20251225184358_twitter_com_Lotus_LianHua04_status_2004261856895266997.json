@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2004261856895266997",
+    "created_at": "2025-12-25T18:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T19:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004261856895266997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nothingnes7430…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/nothingnes74306/status/2004195675849085332",
+          "start": 33,
+          "url": "https://t.co/oSurJUhGAF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004261856895266997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004195675849085332",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "张爱玲在十五岁已经写出霸王别姬了，我想我五十岁都写不出那么精妙的 https://t.co/oSurJUhGAF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2004261856895266997",
+        "created_at": "2025-12-25T18:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T19:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004261856895266997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nothingnes7430…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/nothingnes74306/status/2004195675849085332",
+              "start": 33,
+              "url": "https://t.co/oSurJUhGAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004261856895266997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004195675849085332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "张爱玲在十五岁已经写出霸王别姬了，我想我五十岁都写不出那么精妙的 https://t.co/oSurJUhGAF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933200730443415552",
+        "conversation_id": "2004195675849085332",
+        "created_at": "2025-12-25T14:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T15:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004195675849085332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004195675849085332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢的男神女神18岁早都名扬世界挣钱挣的盆满钵满了，反观我自己每天只会嗑药抽烟打游戏懵逼昏天黑地"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003156132467261440/hf-wJIXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 83
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T16:33:06.000Z",
+        "description": "Love me until I love myself",
+        "id": "1933200730443415552",
+        "name": "nothingness",
+        "pinned_tweet_id": "1996083641584083434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996409076876476416/kYNAR_lU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 130,
+          "like_count": 2321,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 164
+        },
+        "username": "nothingnes74306",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2076051625882353675",
+    "created_at": "2026-07-11T21:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T22:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076053220321796356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1993071208456499201",
+          "start": 0,
+          "username": "tobymiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076053220321796356",
+    "in_reply_to_user_id": "1993071208456499201",
+    "lang": "no",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076051625882353675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tobymiao grape monster+guava monster"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2076051625882353675",
+        "created_at": "2026-07-11T21:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T22:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076053220321796356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1993071208456499201",
+              "start": 0,
+              "username": "tobymiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076053220321796356",
+        "in_reply_to_user_id": "1993071208456499201",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076051625882353675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tobymiao grape monster+guava monster"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993071208456499201",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          }
+        ],
+        "conversation_id": "2076051625882353675",
+        "created_at": "2026-07-11T21:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T22:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076051625882353675"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "edrtwt"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "Lmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076051625882353675",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#edrtwt what's y'alls favorite low cal drinks or snacks? going to the store on monday i think so pls #Lmk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 29,
+          "like_count": 1326,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 3005
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T21:36:35.000Z",
+        "description": "18 he him\nbpd + ednos + autism\nsw 154 cw 141.8 gw 130 ugw 100",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tobymiao.straw.page",
+                "end": 23,
+                "expanded_url": "https://tobymiao.straw.page",
+                "start": 0,
+                "url": "https://t.co/e8epaNfuYc"
+              }
+            ]
+          }
+        },
+        "id": "1993071208456499201",
+        "location": "bmi 24.0",
+        "name": "toby",
+        "pinned_tweet_id": "2075649156052394464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074658689638641665/bZ_ww4Yn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 147,
+          "like_count": 1188,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/e8epaNfuYc",
+        "username": "tobymiao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2005182251953525042",
+    "created_at": "2025-12-28T07:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T08:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005182251953525042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2005182063746711900",
+          "start": 21,
+          "url": "https://t.co/f0sfvVaSSQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005182251953525042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005182063746711900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我以前磕港美一次只吃十二粒十四粒你敢信！ https://t.co/f0sfvVaSSQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2005182251953525042",
+        "created_at": "2025-12-28T07:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T08:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005182251953525042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2005182063746711900",
+              "start": 21,
+              "url": "https://t.co/f0sfvVaSSQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005182251953525042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005182063746711900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以前磕港美一次只吃十二粒十四粒你敢信！ https://t.co/f0sfvVaSSQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2005182063746711900",
+        "created_at": "2025-12-28T07:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T08:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005182063746711900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005182063746711900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有上过一次第三高原才知道自己以前浪费了多少粒药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003156132467261440/hf-wJIXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 6,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 158
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

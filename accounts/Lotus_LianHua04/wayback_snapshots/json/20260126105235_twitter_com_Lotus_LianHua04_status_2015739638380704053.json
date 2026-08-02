@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2015739638380704053",
+    "created_at": "2026-01-26T10:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T11:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015739638380704053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805596018278547458",
+          "start": 3,
+          "username": "Jx_0103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015739638380704053",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1526
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015404063127740771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jx_0103: 가난하면 애를 낳지 말아라&lt; 부모 마음에는 비수처럼 꽂히는 말이겠지만 맞말임 부모가 재력이 있는 사람은 20대에 스포츠카 뽑고 돈 쓰는데 가난한 부모 아래에서 자라온 사람은 같은 나이에도 막노동하다가 죽고 하나의 생명이 돈 때…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2015739638380704053",
+        "created_at": "2026-01-26T10:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015739638380704053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805596018278547458",
+              "start": 3,
+              "username": "Jx_0103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015739638380704053",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1526
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015404063127740771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jx_0103: 가난하면 애를 낳지 말아라&lt; 부모 마음에는 비수처럼 꽂히는 말이겠지만 맞말임 부모가 재력이 있는 사람은 20대에 스포츠카 뽑고 돈 쓰는데 가난한 부모 아래에서 자라온 사람은 같은 나이에도 막노동하다가 죽고 하나의 생명이 돈 때…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805596018278547458",
+        "conversation_id": "2015404063127740771",
+        "created_at": "2026-01-25T12:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T13:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015404063127740771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015404063127740771",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 717,
+          "impression_count": 683577,
+          "like_count": 10023,
+          "quote_count": 479,
+          "reply_count": 64,
+          "retweet_count": 1526
+        },
+        "reply_settings": "everyone",
+        "text": "가난하면 애를 낳지 말아라&lt; 부모 마음에는 비수처럼 꽂히는 말이겠지만 맞말임 부모가 재력이 있는 사람은 20대에 스포츠카 뽑고 돈 쓰는데 가난한 부모 아래에서 자라온 사람은 같은 나이에도 막노동하다가 죽고 하나의 생명이 돈 때문에 사고든 자의든 죽는게 안타까움 세상이 참 불공평하기도 하고"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 8,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 441
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T13:37:10.000Z",
+        "description": "중학생",
+        "id": "1805596018278547458",
+        "location": "검은해적단 ",
+        "name": "정신병신",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996621931668557827/A-A-xGmX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 170,
+          "like_count": 549,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 192
+        },
+        "username": "Jx_0103",
+        "verified": false
+      }
+    ]
+  }
+}

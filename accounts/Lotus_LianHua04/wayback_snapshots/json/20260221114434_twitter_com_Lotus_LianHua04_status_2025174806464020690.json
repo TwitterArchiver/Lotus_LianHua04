@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2025174806464020690",
+    "created_at": "2026-02-21T11:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T12:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025174806464020690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2025174661836017712",
+          "start": 32,
+          "url": "https://t.co/OPz7qZRvSq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025174806464020690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025174661836017712",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要么特别善良特别疲倦，要么每天都在带着自己的fens去霸凌别人 https://t.co/OPz7qZRvSq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2025174806464020690",
+        "created_at": "2026-02-21T11:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025174806464020690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2025174661836017712",
+              "start": 32,
+              "url": "https://t.co/OPz7qZRvSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025174806464020690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025174661836017712",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要么特别善良特别疲倦，要么每天都在带着自己的fens去霸凌别人 https://t.co/OPz7qZRvSq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2025174661836017712",
+        "created_at": "2026-02-21T11:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025174661836017712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025174661836017712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直很烦那种“美女跟普女玩是为了显得自己更美”的傻逼话。。这种话一般是长得像别人的脚趾一样脸庞的男性生物所说，他不了解女人更不了解长得好看的人，实际上长得好看的人只有两个极端。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 16,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 626
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

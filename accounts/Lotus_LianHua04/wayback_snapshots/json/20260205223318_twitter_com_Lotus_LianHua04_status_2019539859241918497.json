@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2009426097608241152"
+      ],
+      "media_source_tweet_id": [
+        "2019436855683383389"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2019539859241918497",
+    "created_at": "2026-02-05T22:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T23:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019539859241918497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520106800216829952",
+          "start": 3,
+          "username": "gifsbut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3PJj5K2Sj7",
+          "end": 36,
+          "expanded_url": "https://x.com/gifsbut/status/2019436855683383389/photo/1",
+          "media_key": "16_2009426097608241152",
+          "start": 13,
+          "url": "https://t.co/3PJj5K2Sj7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019539859241918497",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 448
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019436855683383389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gifsbut: https://t.co/3PJj5K2Sj7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 210,
+        "media_key": "16_2009426097608241152",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G-LqY65WsAAmXzu.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G-LqY65WsAAmXzu.mp4"
+          }
+        ],
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2009426097608241152"
+          ],
+          "media_source_tweet_id": [
+            "2019436855683383389"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2019539859241918497",
+        "created_at": "2026-02-05T22:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T23:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019539859241918497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520106800216829952",
+              "start": 3,
+              "username": "gifsbut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3PJj5K2Sj7",
+              "end": 36,
+              "expanded_url": "https://x.com/gifsbut/status/2019436855683383389/photo/1",
+              "media_key": "16_2009426097608241152",
+              "start": 13,
+              "url": "https://t.co/3PJj5K2Sj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019539859241918497",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 448
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019436855683383389",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gifsbut: https://t.co/3PJj5K2Sj7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2009426097608241152"
+          ]
+        },
+        "author_id": "1520106800216829952",
+        "conversation_id": "2019436855683383389",
+        "created_at": "2026-02-05T15:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T16:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019436855683383389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3PJj5K2Sj7",
+              "end": 23,
+              "expanded_url": "https://x.com/gifsbut/status/2019436855683383389/photo/1",
+              "media_key": "16_2009426097608241152",
+              "start": 0,
+              "url": "https://t.co/3PJj5K2Sj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019436855683383389",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 437,
+          "impression_count": 82985,
+          "like_count": 3882,
+          "quote_count": 27,
+          "reply_count": 5,
+          "retweet_count": 448
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3PJj5K2Sj7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙 購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 11,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 518
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T18:24:49.000Z",
+        "description": "sometimes they're videos | dm submissions",
+        "id": "1520106800216829952",
+        "name": "gifs but slightly faster",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802468233825390592/Ie-rm7ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112836,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 48,
+          "media_count": 298,
+          "tweet_count": 299
+        },
+        "username": "gifsbut",
+        "verified": true
+      }
+    ]
+  }
+}

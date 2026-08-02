@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2068211005289599041",
+    "created_at": "2026-06-20T05:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068211005289599041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928386560036306944",
+          "start": 3,
+          "username": "zhoudied"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068211005289599041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068176505080107474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhoudied: 因为吸烟骂我的中国人等着吧毛泽东是个大烟鬼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2068211005289599041",
+        "created_at": "2026-06-20T05:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068211005289599041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928386560036306944",
+              "start": 3,
+              "username": "zhoudied"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068211005289599041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068176505080107474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhoudied: 因为吸烟骂我的中国人等着吧毛泽东是个大烟鬼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928386560036306944",
+        "conversation_id": "2068176505080107474",
+        "created_at": "2026-06-20T03:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068176505080107474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068176505080107474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "因为吸烟骂我的中国人等着吧毛泽东是个大烟鬼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 25,
+          "like_count": 1025,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 2228
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T09:42:44.000Z",
+        "description": "我不会在这个世界上停留太久",
+        "id": "1928386560036306944",
+        "location": "哈萨克",
+        "name": "₊˚⊹琳⋆˚𝜗𝜚˚⋆🍀🌷",
+        "pinned_tweet_id": "2056248297153859917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066214629320294400/GprRGNsX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 615,
+          "like_count": 9525,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 4280
+        },
+        "url": "",
+        "username": "zhoudied",
+        "verified": false
+      }
+    ]
+  }
+}

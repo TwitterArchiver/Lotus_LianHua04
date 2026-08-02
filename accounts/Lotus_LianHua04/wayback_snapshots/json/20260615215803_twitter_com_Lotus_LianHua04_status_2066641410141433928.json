@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "1987807446782325182",
+    "created_at": "2026-06-15T21:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T22:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066641410141433928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1073598060339576832",
+          "start": 0,
+          "username": "TheExtremeMusi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066641410141433928",
+    "in_reply_to_user_id": "1073598060339576832",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987807446782325182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheExtremeMusi1 young girl sunday blues&amp;rejoice&amp;tobacco road"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1987639233717100545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5WDWiNWYAEQ747.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "1987807446782325182",
+        "created_at": "2026-06-15T21:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T22:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066641410141433928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1073598060339576832",
+              "start": 0,
+              "username": "TheExtremeMusi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066641410141433928",
+        "in_reply_to_user_id": "1073598060339576832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987807446782325182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheExtremeMusi1 young girl sunday blues&amp;rejoice&amp;tobacco road"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987639233717100545"
+          ]
+        },
+        "author_id": "1073598060339576832",
+        "conversation_id": "1987807446782325182",
+        "created_at": "2025-11-10T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987807446782325182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DkSoZYxCw",
+              "end": 81,
+              "expanded_url": "https://x.com/TheExtremeMusi1/status/1987807446782325182/photo/1",
+              "media_key": "3_1987639233717100545",
+              "start": 58,
+              "url": "https://t.co/5DkSoZYxCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987807446782325182",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7880,
+          "like_count": 107,
+          "quote_count": 1,
+          "reply_count": 119,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "What’s your all-time favourite Jefferson Airplane song??? https://t.co/5DkSoZYxCw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 26,
+          "like_count": 939,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 2090
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-14T15:18:18.000Z",
+        "description": "Music is Life",
+        "id": "1073598060339576832",
+        "location": "Louth, Ireland",
+        "name": "The Extreme Music Enthusiast",
+        "pinned_tweet_id": "2064286383729217885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1073598717360525312/luRQPktO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106956,
+          "following_count": 13,
+          "like_count": 339887,
+          "listed_count": 338,
+          "media_count": 51479,
+          "tweet_count": 92627
+        },
+        "username": "TheExtremeMusi1",
+        "verified": true
+      }
+    ]
+  }
+}

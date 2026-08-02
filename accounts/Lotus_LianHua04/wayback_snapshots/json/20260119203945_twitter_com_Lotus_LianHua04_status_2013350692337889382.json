@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2013350692337889382",
+    "created_at": "2026-01-19T20:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T21:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013350692337889382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hell_etc/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hell_etc/status/2013107506474570025",
+          "start": 8,
+          "url": "https://t.co/mCx2E4dJUn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013350692337889382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013107506474570025",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大哥哥别骚了！ https://t.co/mCx2E4dJUn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "3_2013107498350206976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_-mpXW4AAnSjB.jpg",
+        "width": 405
+      },
+      {
+        "height": 540,
+        "media_key": "3_2013107498450886656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_-mpvXIAAWiAU.jpg",
+        "width": 405
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2013350692337889382",
+        "created_at": "2026-01-19T20:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T21:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013350692337889382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hell_etc/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hell_etc/status/2013107506474570025",
+              "start": 8,
+              "url": "https://t.co/mCx2E4dJUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013350692337889382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013107506474570025",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大哥哥别骚了！ https://t.co/mCx2E4dJUn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013107498350206976",
+            "3_2013107498450886656"
+          ]
+        },
+        "author_id": "169362364",
+        "conversation_id": "2013107506474570025",
+        "created_at": "2026-01-19T04:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013107506474570025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/okZXkwqgK2",
+              "end": 23,
+              "expanded_url": "https://x.com/HELL_ETC/status/2013107506474570025/photo/1",
+              "media_key": "3_2013107498350206976",
+              "start": 0,
+              "url": "https://t.co/okZXkwqgK2"
+            },
+            {
+              "display_url": "pic.x.com/okZXkwqgK2",
+              "end": 23,
+              "expanded_url": "https://x.com/HELL_ETC/status/2013107506474570025/photo/1",
+              "media_key": "3_2013107498450886656",
+              "start": 0,
+              "url": "https://t.co/okZXkwqgK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013107506474570025",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 688,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/okZXkwqgK2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 8,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 398
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-22T04:28:18.000Z",
+        "description": "Mídia, notícias, ETC.",
+        "id": "169362364",
+        "name": "HELL, ETC.",
+        "pinned_tweet_id": "1070700353883131906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766160498989346816/ou0Pdvuy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5312,
+          "following_count": 3,
+          "like_count": 467,
+          "listed_count": 22,
+          "media_count": 18339,
+          "tweet_count": 24705
+        },
+        "username": "HELL_ETC",
+        "verified": false
+      }
+    ]
+  }
+}

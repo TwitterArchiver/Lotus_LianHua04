@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2074957355276447867",
+    "created_at": "2026-07-08T20:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T21:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074957355276447867"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074957355276447867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果我是在成年以后才得了抑郁症或者其它什么的精神疾病我才不会说这种话，但我在性格都还没来得及形成的时候精神病说我来啦，所以如果我的精神病没了我的性格也没了因为我的性格就是我的精神病本身，我的一切都是按照它去塑造的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2074957355276447867",
+        "created_at": "2026-07-08T20:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074957355276447867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074957355276447867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我是在成年以后才得了抑郁症或者其它什么的精神疾病我才不会说这种话，但我在性格都还没来得及形成的时候精神病说我来啦，所以如果我的精神病没了我的性格也没了因为我的性格就是我的精神病本身，我的一切都是按照它去塑造的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 29,
+          "like_count": 1310,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 2942
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

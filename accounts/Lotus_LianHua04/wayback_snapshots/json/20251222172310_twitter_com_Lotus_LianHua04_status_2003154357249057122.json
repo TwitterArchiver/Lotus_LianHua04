@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2003154357249057122",
+    "created_at": "2025-12-22T17:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T18:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003154357249057122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2003153829190316113",
+          "start": 135,
+          "url": "https://t.co/CUxazznmQN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003154357249057122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003153829190316113",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就像中国父母最爱说的是“你要不是我小孩我都懒得教育你”之类。。我爹以前经常跟我堂弟说“要是你姐和你这样我早就揍她了”然并卵，最终的结果是我堂弟跟他毫无关系甚至过年懒得理他，这句话成功在每次我妈翻旧账的时候立大功。但我妈也不是真的很爱我很替我委屈，她只是希望我爸是个孤儿 https://t.co/CUxazznmQN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2003154357249057122",
+        "created_at": "2025-12-22T17:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T18:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003154357249057122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2003153829190316113",
+              "start": 135,
+              "url": "https://t.co/CUxazznmQN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003154357249057122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003153829190316113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就像中国父母最爱说的是“你要不是我小孩我都懒得教育你”之类。。我爹以前经常跟我堂弟说“要是你姐和你这样我早就揍她了”然并卵，最终的结果是我堂弟跟他毫无关系甚至过年懒得理他，这句话成功在每次我妈翻旧账的时候立大功。但我妈也不是真的很爱我很替我委屈，她只是希望我爸是个孤儿 https://t.co/CUxazznmQN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2003153829190316113",
+        "created_at": "2025-12-22T17:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T18:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003153829190316113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003153829190316113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从来没有见过比中国人还爱欺负自己人的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002670298060189696/pFP0w8Su_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

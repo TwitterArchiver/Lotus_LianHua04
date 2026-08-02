@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2074970411570508030",
+    "created_at": "2026-07-08T22:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T23:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074978505389949055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1777176214652035072",
+          "start": 0,
+          "username": "7u7uqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074978505389949055",
+    "in_reply_to_user_id": "1777176214652035072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074970411570508030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7u7uqu 我一直在说话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2074970411570508030",
+        "created_at": "2026-07-08T22:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T23:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074978505389949055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1777176214652035072",
+              "start": 0,
+              "username": "7u7uqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074978505389949055",
+        "in_reply_to_user_id": "1777176214652035072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074970411570508030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7u7uqu 我一直在说话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777176214652035072",
+        "conversation_id": "2074970411570508030",
+        "created_at": "2026-07-08T21:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074970411570508030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "吗啡天使’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1nxnR…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1nxnRREDXQmxO",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2074970412979781632/vtgERMiZ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074970412979781632/vtgERMiZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 陪我讲话陪我讲话陪我讲话",
+              "unwound_url": "https://twitter.com/i/spaces/1nxnRREDXQmxO/peek",
+              "url": "https://t.co/fm4x6y0Ue4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074970411570508030",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fm4x6y0Ue4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 29,
+          "like_count": 1310,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 2945
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T03:26:57.000Z",
+        "description": "この世界が終わるのが今ならいい。",
+        "id": "1777176214652035072",
+        "name": "吗啡天使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822887119930699776/dLc82awk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6755,
+          "following_count": 7,
+          "like_count": 106,
+          "listed_count": 7,
+          "media_count": 37,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "7u7uqu",
+        "verified": false
+      }
+    ]
+  }
+}

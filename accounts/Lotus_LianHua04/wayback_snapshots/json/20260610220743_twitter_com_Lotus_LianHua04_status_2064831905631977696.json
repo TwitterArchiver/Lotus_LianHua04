@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2064831905631977696",
+    "created_at": "2026-06-10T22:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T23:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064831905631977696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1998302380589473792",
+          "start": 3,
+          "username": "Mayfield_Gulosa"
+        },
+        {
+          "end": 37,
+          "id": "1225650596960751616",
+          "start": 21,
+          "username": "naomisexxysyria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064831905631977696",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064563875618374025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mayfield_Gulosa: @naomisexxysyria só falta ele dar o cu pro loiro, pra tentar engravidar tbm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2064831905631977696",
+        "created_at": "2026-06-10T22:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T23:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064831905631977696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1998302380589473792",
+              "start": 3,
+              "username": "Mayfield_Gulosa"
+            },
+            {
+              "end": 37,
+              "id": "1225650596960751616",
+              "start": 21,
+              "username": "naomisexxysyria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064831905631977696",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064563875618374025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mayfield_Gulosa: @naomisexxysyria só falta ele dar o cu pro loiro, pra tentar engravidar tbm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998302380589473792",
+        "conversation_id": "2064548984241168394",
+        "created_at": "2026-06-10T04:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064563875618374025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1225650596960751616",
+              "start": 0,
+              "username": "naomisexxysyria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064563875618374025",
+        "in_reply_to_user_id": "1225650596960751616",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7330,
+          "like_count": 506,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064548984241168394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naomisexxysyria só falta ele dar o cu pro loiro, pra tentar engravidar tbm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 27,
+          "like_count": 886,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1942
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T08:03:42.000Z",
+        "description": "Ψ Gay\n\n֍ Ele/Dele\n\n֍ Escritor\n\n֍ Mestre de RPG 🎲\n\n֍ Embaixador da Flacalcinha\n\n֍ 18y\n\n֍ O amor da minha vida: @angelode200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "angelode200"
+              }
+            ]
+          }
+        },
+        "id": "1998302380589473792",
+        "name": "Max Kawai viu Backrooms (Scorsese levante a mão)",
+        "pinned_tweet_id": "2045244570426868146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063461541521801217/SQnjpUlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 75,
+          "like_count": 31525,
+          "listed_count": 0,
+          "media_count": 589,
+          "tweet_count": 3398
+        },
+        "username": "Mayfield_Gulosa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-07T05:21:05.000Z",
+        "description": "NUMBER 33¿rlk blondie¿¿ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏a Menina do Real Trap ¿¿المصيدة السيبيرية",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/intl-pt/artist…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/intl-pt/artist/0fG9wxFRa1bzec8iNhJXHw?si=Yql364yDTPeHuNtukycuQg",
+                "start": 0,
+                "url": "https://t.co/XqFbMZEKzB"
+              }
+            ]
+          }
+        },
+        "id": "1225650596960751616",
+        "location": "Rio de Jane.",
+        "name": "NAOMI Del Síria BEBEL LOIRINHA 🧖🏼‍♀️🩸",
+        "pinned_tweet_id": "2060759863974645895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059382738273079296/kR2_BMj-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2840,
+          "following_count": 246,
+          "like_count": 18926,
+          "listed_count": 5,
+          "media_count": 39,
+          "tweet_count": 3058
+        },
+        "url": "https://t.co/XqFbMZEKzB",
+        "username": "naomisexxysyria",
+        "verified": false
+      }
+    ]
+  }
+}

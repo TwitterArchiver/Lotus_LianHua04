@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2009525217224523819",
+    "created_at": "2026-01-09T07:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T08:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009525217224523819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chucaorenlei/s…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/chucaorenlei/status/2008941108907397568",
+          "start": 40,
+          "url": "https://t.co/LpHRm4rcq6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009525217224523819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008941108907397568",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈的喜欢的角色本来就够老了还要老到六十岁那我只能说好死不送！我有我自己的坚持！ https://t.co/LpHRm4rcq6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2009525217224523819",
+        "created_at": "2026-01-09T07:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T08:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009525217224523819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chucaorenlei/s…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/chucaorenlei/status/2008941108907397568",
+              "start": 40,
+              "url": "https://t.co/LpHRm4rcq6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009525217224523819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008941108907397568",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈的喜欢的角色本来就够老了还要老到六十岁那我只能说好死不送！我有我自己的坚持！ https://t.co/LpHRm4rcq6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324943600929529857",
+        "conversation_id": "2008941108907397568",
+        "created_at": "2026-01-07T16:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008941108907397568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008941108907397568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 300878,
+          "like_count": 1914,
+          "quote_count": 13,
+          "reply_count": 67,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "你在你父母的逼迫下\n嫁给了一个60岁的老头\n你对他百般嫌弃\n好在他和你结婚不久就死了\n还给你留下了1000万存款，跑车和别墅\n你打开了他留给你的信\n你发现他是你二次元的爱人\n为了你来到三次元\n代价是加速变老"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007192426985992192/ko8Vx42m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 7,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 294
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-07T05:15:55.000Z",
+        "description": "重新自我介绍下吧💔爱哭💔脾气不好💔胆小💔强迫症💔喜欢自闭💔成绩差打游戏菜💔满口脏话💔矫情💔爱吃醋💔爱生气喜欢听歌💔睡觉吃东西缺乏安全感💔熬夜洁癖💔爱黏人话多不自信💔爱他脑子有病💔内向难以控制情绪💔 如果有天我变坏了💔善良也不在了💔就别把我往回拽了💔更别说你爱了💔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chucaorenlei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chucaorenlei",
+                "start": 0,
+                "url": "https://t.co/9MGsrQXozw"
+              }
+            ]
+          }
+        },
+        "id": "1324943600929529857",
+        "location": "不会卖萌的不要跟我讲话了 我看到太冰冷的文字就聊不下去",
+        "name": "除草人类",
+        "pinned_tweet_id": "2007925591451017607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005600123280084992/stFtmw9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6124,
+          "following_count": 602,
+          "like_count": 1354,
+          "listed_count": 19,
+          "media_count": 137,
+          "tweet_count": 1290
+        },
+        "url": "https://t.co/9MGsrQXozw",
+        "username": "chucaorenlei",
+        "verified": false
+      }
+    ]
+  }
+}

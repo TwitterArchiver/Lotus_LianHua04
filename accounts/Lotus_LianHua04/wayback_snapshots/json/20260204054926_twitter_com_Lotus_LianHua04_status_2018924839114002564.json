@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2018924839114002564",
+    "created_at": "2026-02-04T05:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T06:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018924839114002564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1933697991061483521",
+          "start": 3,
+          "username": "erbukuawu"
+        },
+        {
+          "end": 27,
+          "id": "1821431905071570944",
+          "start": 15,
+          "username": "tuitenvwang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018924839114002564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018595581791555866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @erbukuawu: @tuitenvwang 有什么办法，还不是在墙内的时候被福的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2018924839114002564",
+        "created_at": "2026-02-04T05:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T06:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018924839114002564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1933697991061483521",
+              "start": 3,
+              "username": "erbukuawu"
+            },
+            {
+              "end": 27,
+              "id": "1821431905071570944",
+              "start": 15,
+              "username": "tuitenvwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018924839114002564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018595581791555866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @erbukuawu: @tuitenvwang 有什么办法，还不是在墙内的时候被福的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933697991061483521",
+        "conversation_id": "2018337998858080559",
+        "created_at": "2026-02-03T08:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T09:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018595581791555866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821431905071570944",
+              "start": 0,
+              "username": "tuitenvwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018595581791555866",
+        "in_reply_to_user_id": "1821431905071570944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12421,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018337998858080559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuitenvwang 有什么办法，还不是在墙内的时候被福的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、萬寶路香煙      購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 8,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 476
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T01:28:35.000Z",
+        "description": "",
+        "id": "1933697991061483521",
+        "name": "茶屋词人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012454634531786753/xm1rLkVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 221,
+          "like_count": 5299,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 504
+        },
+        "username": "erbukuawu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T06:23:12.000Z",
+        "description": "想起我了就捡起地上的小卡片打给我 ｜｜｜段子自取👉🏻 @Dicksuck2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "Dicksuck2778"
+              }
+            ]
+          }
+        },
+        "id": "1821431905071570944",
+        "location": "香港",
+        "name": "坟场宝宝",
+        "pinned_tweet_id": "1918958966819704880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017060237157785600/E_Wtfgop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14268,
+          "following_count": 313,
+          "like_count": 5052,
+          "listed_count": 14,
+          "media_count": 390,
+          "tweet_count": 2470
+        },
+        "username": "tuitenvwang",
+        "verified": true
+      }
+    ]
+  }
+}

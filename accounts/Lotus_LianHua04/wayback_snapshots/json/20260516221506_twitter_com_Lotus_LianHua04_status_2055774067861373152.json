@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2055774067861373152",
+    "created_at": "2026-05-16T22:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T23:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055774067861373152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/weedporns/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/weedporns/status/2055428021960446077",
+          "start": 7,
+          "url": "https://t.co/1WzLqnleJw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055774067861373152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055428021960446077",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点圣母怜子 https://t.co/1WzLqnleJw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2055428019217403905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZY5LLWkAEZcUR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2055774067861373152",
+        "created_at": "2026-05-16T22:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T23:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055774067861373152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weedporns/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/weedporns/status/2055428021960446077",
+              "start": 7,
+              "url": "https://t.co/1WzLqnleJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055774067861373152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055428021960446077",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点圣母怜子 https://t.co/1WzLqnleJw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055428019217403905"
+          ]
+        },
+        "author_id": "2430796532",
+        "conversation_id": "2055428021960446077",
+        "created_at": "2026-05-15T23:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T00:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055428021960446077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjsMh228f0",
+              "end": 92,
+              "expanded_url": "https://x.com/WeedPorns/status/2055428021960446077/photo/1",
+              "media_key": "3_2055428019217403905",
+              "start": 69,
+              "url": "https://t.co/AjsMh228f0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055428021960446077",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 35397,
+          "like_count": 2398,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 347
+        },
+        "reply_settings": "everyone",
+        "text": "If I win the lottery I’m not telling anyone, but there will be signs https://t.co/AjsMh228f0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 22,
+          "like_count": 708,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 1547
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-06T17:48:34.000Z",
+        "description": "All the best original stoner content! Posting at 4:20pm EST every day 💨 Contact - Twitter.pb37@gmail.com ⬇️ FREE Weed ⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/weedporns",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/weedporns",
+                "start": 0,
+                "url": "https://t.co/Iw4WyLGIKW"
+              }
+            ]
+          }
+        },
+        "id": "2430796532",
+        "name": "Weed Porn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/452866877698502656/2dWtZCW1_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485802,
+          "following_count": 40,
+          "like_count": 10503,
+          "listed_count": 1731,
+          "media_count": 7078,
+          "tweet_count": 9653
+        },
+        "url": "https://t.co/Iw4WyLGIKW",
+        "username": "WeedPorns",
+        "verified": true
+      }
+    ]
+  }
+}

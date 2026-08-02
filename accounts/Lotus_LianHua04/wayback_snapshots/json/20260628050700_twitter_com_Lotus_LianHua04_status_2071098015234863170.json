@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2071098015234863170",
+    "created_at": "2026-06-28T05:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T06:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071098015234863170"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071098015234863170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现每个主动拉着我吸毒的人都把我当傻逼了。除了多年前遇到的香港最后一个嬉皮士什么都没说给我抽了几口他的大麻。嗳，陌生人你好么？亲爱的你躲在哪里发呆？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2071098015234863170",
+        "created_at": "2026-06-28T05:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071098015234863170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071098015234863170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现每个主动拉着我吸毒的人都把我当傻逼了。除了多年前遇到的香港最后一个嬉皮士什么都没说给我抽了几口他的大麻。嗳，陌生人你好么？亲爱的你躲在哪里发呆？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 26,
+          "like_count": 1094,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 2496
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

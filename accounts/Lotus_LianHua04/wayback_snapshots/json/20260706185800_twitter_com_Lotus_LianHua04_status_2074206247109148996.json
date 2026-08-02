@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074206210648125441",
+        "3_2074206210652270594"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074206247109148996",
+    "created_at": "2026-07-06T18:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T19:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074206247109148996"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 13,
+          "tag": "drugtwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vrT6vr8VIo",
+          "end": 45,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2074206247109148996/photo/1",
+          "media_key": "3_2074206210648125441",
+          "start": 22,
+          "url": "https://t.co/vrT6vr8VIo"
+        },
+        {
+          "display_url": "pic.x.com/vrT6vr8VIo",
+          "end": 45,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2074206247109148996/photo/1",
+          "media_key": "3_2074206210652270594",
+          "start": 22,
+          "url": "https://t.co/vrT6vr8VIo"
+        },
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2050212248220467452",
+          "start": 46,
+          "url": "https://t.co/m6NO9gcExE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074206247109148996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050212248220467452",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "细节一元纸币致敬那年今日\n#drugtwt https://t.co/vrT6vr8VIo https://t.co/m6NO9gcExE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074206210648125441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkPjxiXMAEBddT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2074206210652270594",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkPjxjWcAI5atP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2050212187319189504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPRHzNWQAAuvwv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050212187268911104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPRHzBXEAAfk_j.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074206210648125441",
+            "3_2074206210652270594"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074206247109148996",
+        "created_at": "2026-07-06T18:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074206247109148996"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 13,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vrT6vr8VIo",
+              "end": 45,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2074206247109148996/photo/1",
+              "media_key": "3_2074206210648125441",
+              "start": 22,
+              "url": "https://t.co/vrT6vr8VIo"
+            },
+            {
+              "display_url": "pic.x.com/vrT6vr8VIo",
+              "end": 45,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2074206247109148996/photo/1",
+              "media_key": "3_2074206210652270594",
+              "start": 22,
+              "url": "https://t.co/vrT6vr8VIo"
+            },
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2050212248220467452",
+              "start": 46,
+              "url": "https://t.co/m6NO9gcExE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074206247109148996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050212248220467452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "细节一元纸币致敬那年今日\n#drugtwt https://t.co/vrT6vr8VIo https://t.co/m6NO9gcExE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050212187319189504",
+            "3_2050212187268911104"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2050212248220467452",
+        "created_at": "2026-05-01T13:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050212248220467452"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7TlVYtrDPp",
+              "end": 54,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2050212248220467452/photo/1",
+              "media_key": "3_2050212187319189504",
+              "start": 31,
+              "url": "https://t.co/7TlVYtrDPp"
+            },
+            {
+              "display_url": "pic.x.com/7TlVYtrDPp",
+              "end": 54,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2050212248220467452/photo/1",
+              "media_key": "3_2050212187268911104",
+              "start": 31,
+              "url": "https://t.co/7TlVYtrDPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050212248220467452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2747,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "毛泽东也要吸毒！毛爷爷！敬礼！立正！稍息！\n#drugtwt https://t.co/7TlVYtrDPp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 29,
+          "like_count": 1289,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 2859
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

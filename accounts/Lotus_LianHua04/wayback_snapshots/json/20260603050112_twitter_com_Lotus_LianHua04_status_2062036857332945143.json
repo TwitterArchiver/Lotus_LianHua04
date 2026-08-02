@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2062036857332945143",
+    "created_at": "2026-06-03T05:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062036857332945143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1455820868957835264",
+          "start": 3,
+          "username": "mochionthetop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062036857332945143",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1576
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061806493398335684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mochionthetop: エロ漫画では指一本突っ込まれただけで仰け反ってﾋﾞｸﾝﾋﾞｸﾝするほど敏感エリア扱いなのに婦人科検診になるといきなり無感覚ゾーンということにさせられるダブスタ臓器、膣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2062036857332945143",
+        "created_at": "2026-06-03T05:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062036857332945143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1455820868957835264",
+              "start": 3,
+              "username": "mochionthetop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062036857332945143",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1576
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061806493398335684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mochionthetop: エロ漫画では指一本突っ込まれただけで仰け反ってﾋﾞｸﾝﾋﾞｸﾝするほど敏感エリア扱いなのに婦人科検診になるといきなり無感覚ゾーンということにさせられるダブスタ臓器、膣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455820868957835264",
+        "conversation_id": "2061806493398335684",
+        "created_at": "2026-06-02T13:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061806493398335684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FUDE_ba_ko/sta…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/FUDE_ba_ko/status/2061690958111215922",
+              "start": 84,
+              "url": "https://t.co/uLMYG9s0zO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061806493398335684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1031,
+          "impression_count": 1911459,
+          "like_count": 27189,
+          "quote_count": 42,
+          "reply_count": 38,
+          "retweet_count": 1576
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061690958111215922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "エロ漫画では指一本突っ込まれただけで仰け反ってﾋﾞｸﾝﾋﾞｸﾝするほど敏感エリア扱いなのに婦人科検診になるといきなり無感覚ゾーンということにさせられるダブスタ臓器、膣 https://t.co/uLMYG9s0zO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 26,
+          "like_count": 778,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1711
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T08:55:38.000Z",
+        "description": "",
+        "id": "1455820868957835264",
+        "location": "日本",
+        "name": "もちーぬ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832252187449126912/7e0pm8fx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 224,
+          "like_count": 273295,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 5293
+        },
+        "username": "mochionthetop",
+        "verified": false
+      }
+    ]
+  }
+}

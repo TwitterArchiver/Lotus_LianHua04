@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2015741019325964323",
+    "created_at": "2026-01-26T10:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T11:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015741019325964323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/taikongjile001…",
+          "end": 151,
+          "expanded_url": "https://twitter.com/taikongjile001/status/2015598060186042750",
+          "start": 128,
+          "url": "https://t.co/Ya6cgkmPIF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015741019325964323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015598060186042750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国人冒号基操勿六。只要你是小众的在这个国家你等着去死就好。很古早的一部纪录片杀马特我爱你里的嫌弃和歧视，包括刻意拍摄他们的农村家庭，如果是个外国人在拍中国人要急死了，但他们自己拍自己去霸凌一群穿得特殊的农村孩子就变成了“真实”“这是我看过最包容的片子” https://t.co/Ya6cgkmPIF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 199,
+        "media_key": "3_2015598008768053248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jXtbqawAAbRoO.jpg",
+        "width": 436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2015741019325964323",
+        "created_at": "2026-01-26T10:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015741019325964323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/taikongjile001…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/taikongjile001/status/2015598060186042750",
+              "start": 128,
+              "url": "https://t.co/Ya6cgkmPIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015741019325964323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015598060186042750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人冒号基操勿六。只要你是小众的在这个国家你等着去死就好。很古早的一部纪录片杀马特我爱你里的嫌弃和歧视，包括刻意拍摄他们的农村家庭，如果是个外国人在拍中国人要急死了，但他们自己拍自己去霸凌一群穿得特殊的农村孩子就变成了“真实”“这是我看过最包容的片子” https://t.co/Ya6cgkmPIF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015598008768053248"
+          ]
+        },
+        "author_id": "454656004",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015598060186042750",
+        "created_at": "2026-01-26T01:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015598060186042750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRcrwV1XmP",
+              "end": 165,
+              "expanded_url": "https://x.com/taikonjile001/status/2015598060186042750/photo/1",
+              "media_key": "3_2015598008768053248",
+              "start": 142,
+              "url": "https://t.co/dRcrwV1XmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015598060186042750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“打入”，凭什么不愿意开诚布公地表明想要了解的意愿，偏要当“卧底”？原因还是歧视，怕和这些人打交道降低了自己的身价。“暗语”将欧迪讲的如同地下组织；“成瘾”更是带有呼之欲出的贬义色彩，其污名化本质我们已经在前文提到了。\n\n当然这也不完全怪作者，娱乐性内容是具有本质困境的，详见如下。 https://t.co/dRcrwV1XmP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 8,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 444
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-04T07:09:27.000Z",
+        "description": "官网：https://t.co/ahdCIHHRJD\n交流群：https://t.co/0dHnh4NwZx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 26,
+                "expanded_url": "https://overdose.day/",
+                "start": 3,
+                "url": "https://t.co/ahdCIHHRJD"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 54,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 31,
+                "url": "https://t.co/0dHnh4NwZx"
+              }
+            ]
+          }
+        },
+        "id": "454656004",
+        "location": "memphis, Tn",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "256432078848151552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015596343691972609/3AX9GPcF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 39,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 15
+        },
+        "username": "taikongjile001",
+        "verified": false
+      }
+    ]
+  }
+}

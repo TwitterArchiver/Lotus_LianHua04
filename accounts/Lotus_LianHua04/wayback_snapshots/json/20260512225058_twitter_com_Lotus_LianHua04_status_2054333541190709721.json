@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2052009121516486969",
+    "created_at": "2026-05-12T22:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T23:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054333541190709721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2030111155960827904",
+          "start": 0,
+          "username": "Yangf7mm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054333541190709721",
+    "in_reply_to_user_id": "2030111155960827904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052009121516486969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yangf7mm 偷偷举报给城管，去店里假装吃坏肚子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2052009121516486969",
+        "created_at": "2026-05-12T22:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054333541190709721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2030111155960827904",
+              "start": 0,
+              "username": "Yangf7mm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054333541190709721",
+        "in_reply_to_user_id": "2030111155960827904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052009121516486969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yangf7mm 偷偷举报给城管，去店里假装吃坏肚子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030111155960827904",
+        "conversation_id": "2052009121516486969",
+        "created_at": "2026-05-06T12:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052009121516486969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052009121516486969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在有一个傻逼欺负我闺蜜，拿打火机烧钥匙烫她。他爹在我家附近卖坛子鸡我们怎么整他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 21,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1442
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T02:44:06.000Z",
+        "description": "牆內蘋果噪音apnz🍎｜ze/zir",
+        "id": "2030111155960827904",
+        "name": "淚淚淚灼傷🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047692542519779328/0jw6oUq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 111,
+          "like_count": 3854,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 92
+        },
+        "username": "Yangf7mm",
+        "verified": false
+      }
+    ]
+  }
+}

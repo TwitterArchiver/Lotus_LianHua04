@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2062511530495938699",
+    "created_at": "2026-06-04T12:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062511530495938699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/giyommigirl/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/giyommigirl/status/2062364330482704606",
+          "start": 28,
+          "url": "https://t.co/7lpLwHMKnm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062511530495938699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062364330482704606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "韩国人我和你们无冤无仇吧我今天的晚餐吃的还是泡菜炒饭呢 https://t.co/7lpLwHMKnm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2062511530495938699",
+        "created_at": "2026-06-04T12:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062511530495938699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/giyommigirl/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/giyommigirl/status/2062364330482704606",
+              "start": 28,
+              "url": "https://t.co/7lpLwHMKnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062511530495938699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062364330482704606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "韩国人我和你们无冤无仇吧我今天的晚餐吃的还是泡菜炒饭呢 https://t.co/7lpLwHMKnm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730415242860236800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2062364330482704606",
+        "created_at": "2026-06-04T02:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062364330482704606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062364330482704606",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 376,
+          "impression_count": 101637,
+          "like_count": 2972,
+          "quote_count": 209,
+          "reply_count": 48,
+          "retweet_count": 654
+        },
+        "reply_settings": "everyone",
+        "text": "가진거 많은 사람들이 ㅈㄴ 열심히삶\n이미 이뤄놓은것도 많고 돈도 많은데\n절약 빡세게 하고 건강관리도 똑띠기함\n하루를 허투루 보내는걸 본적이업슴\n근데 정작 가진건 내장지방밖에 없는 나같은 애들이 하루종일 트위터하고 돈도 똥싸듯이 푸다닥푸다닥 쓰고 손가락만 빨고잇음"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 26,
+          "like_count": 798,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1749
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T02:35:30.000Z",
+        "description": "돼머리: 돼코야키에서돼쓰오부시가뿡아간상태",
+        "id": "1730415242860236800",
+        "location": "🤙돼냥이!!♡",
+        "name": "부랄냥돼머리",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018833815016501248/adMnhRhj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5034,
+          "following_count": 1936,
+          "like_count": 32746,
+          "listed_count": 61,
+          "media_count": 1559,
+          "tweet_count": 33626
+        },
+        "username": "giyommigirl",
+        "verified": true
+      }
+    ]
+  }
+}

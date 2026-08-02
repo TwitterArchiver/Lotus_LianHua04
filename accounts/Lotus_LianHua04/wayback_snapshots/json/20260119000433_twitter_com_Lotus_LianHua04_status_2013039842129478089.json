@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2013039842129478089",
+    "created_at": "2026-01-19T00:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T01:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013039842129478089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/colesperson/st…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/colesperson/status/2012733259696820423",
+          "start": 50,
+          "url": "https://t.co/By2upAV9RE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013039842129478089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012733259696820423",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "头像赶紧换成中国农村龅牙土狗。你习爹爹看到你用日本柴犬头像一点也不吃醋，你毛爷爷看到了一点也不嫉妒 https://t.co/By2upAV9RE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2012733249198473216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-6qOeoXwAAHsF0.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2013039842129478089",
+        "created_at": "2026-01-19T00:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T01:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013039842129478089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/colesperson/st…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/colesperson/status/2012733259696820423",
+              "start": 50,
+              "url": "https://t.co/By2upAV9RE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013039842129478089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012733259696820423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "头像赶紧换成中国农村龅牙土狗。你习爹爹看到你用日本柴犬头像一点也不吃醋，你毛爷爷看到了一点也不嫉妒 https://t.co/By2upAV9RE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012733249198473216"
+          ]
+        },
+        "author_id": "1590939682568736769",
+        "conversation_id": "2012733259696820423",
+        "created_at": "2026-01-18T03:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T04:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012733259696820423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ngViXwf98",
+              "end": 49,
+              "expanded_url": "https://x.com/ColesPerson/status/2012733259696820423/photo/1",
+              "media_key": "3_2012733249198473216",
+              "start": 26,
+              "url": "https://t.co/2ngViXwf98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012733259696820423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 112605,
+          "like_count": 786,
+          "quote_count": 11,
+          "reply_count": 107,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "失业率这么高，老百姓可该咋整，有没有失业的一起唠唠 https://t.co/2ngViXwf98"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 12,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 390
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "🚪8964，用来给南方大山里的孩子买姨妈巾/姨父巾用",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "汉命贵0975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983668137922064384/aKdXx6yC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 1393,
+          "like_count": 26471,
+          "listed_count": 5,
+          "media_count": 897,
+          "tweet_count": 9761
+        },
+        "username": "ColesPerson",
+        "verified": false
+      }
+    ]
+  }
+}

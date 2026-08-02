@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2071104201887768821",
+    "created_at": "2026-06-28T05:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T06:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071104201887768821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "947542884286427136",
+          "start": 3,
+          "username": "freeopioids"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071104201887768821",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4702
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070655284771467484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @freeopioids: Korean insults be like: yeah your women have fat asses n big tits but that’s gross 🤢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2071104201887768821",
+        "created_at": "2026-06-28T05:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071104201887768821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "947542884286427136",
+              "start": 3,
+              "username": "freeopioids"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071104201887768821",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4702
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070655284771467484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @freeopioids: Korean insults be like: yeah your women have fat asses n big tits but that’s gross 🤢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "947542884286427136",
+        "conversation_id": "2070655284771467484",
+        "created_at": "2026-06-26T23:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T00:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070655284771467484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070655284771467484",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4161,
+          "impression_count": 1872316,
+          "like_count": 128161,
+          "quote_count": 114,
+          "reply_count": 153,
+          "retweet_count": 4702
+        },
+        "reply_settings": "everyone",
+        "text": "Korean insults be like: yeah your women have fat asses n big tits but that’s gross 🤢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 26,
+          "like_count": 1097,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 2506
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-31T19:00:02.000Z",
+        "description": "boy/rich/evil/21/single/humble/sexy/gambler/funny/liar/humble",
+        "id": "947542884286427136",
+        "location": "latino / arab",
+        "name": "ຸ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994778461953499137/1xQjTdnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 630,
+          "like_count": 34319,
+          "listed_count": 7,
+          "media_count": 1847,
+          "tweet_count": 13950
+        },
+        "url": "",
+        "username": "freeopioids",
+        "verified": true
+      }
+    ]
+  }
+}

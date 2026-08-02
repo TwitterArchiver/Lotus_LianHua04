@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2070519007103328297",
+    "created_at": "2026-06-26T14:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T15:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070519007103328297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1976282086354059267",
+          "start": 3,
+          "username": "qlzuw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070519007103328297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070061090520932455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qlzuw: ？俺が詰めて吐かなければその分の食料が飢餓で困ってる人らの元にいくんか？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2070519007103328297",
+        "created_at": "2026-06-26T14:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070519007103328297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1976282086354059267",
+              "start": 3,
+              "username": "qlzuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070519007103328297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070061090520932455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qlzuw: ？俺が詰めて吐かなければその分の食料が飢餓で困ってる人らの元にいくんか？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976282086354059267",
+        "conversation_id": "2070061090520932455",
+        "created_at": "2026-06-25T08:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070061090520932455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/___lxr666/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/___lxr666/status/2069985388786331934",
+              "start": 37,
+              "url": "https://t.co/Um4nlYpf63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070061090520932455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 22903,
+          "like_count": 77,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069985388786331934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？俺が詰めて吐かなければその分の食料が飢餓で困ってる人らの元にいくんか？ https://t.co/Um4nlYpf63"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 26,
+          "like_count": 1078,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 2428
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T13:42:33.000Z",
+        "description": "➰12 bmi11",
+        "id": "1976282086354059267",
+        "name": "無理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063864147490832384/ESR--gYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 220,
+          "like_count": 1037,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "qlzuw",
+        "verified": false
+      }
+    ]
+  }
+}

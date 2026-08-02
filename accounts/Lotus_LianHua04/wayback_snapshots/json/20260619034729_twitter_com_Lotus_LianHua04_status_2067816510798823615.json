@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2067816030756634679",
+    "created_at": "2026-06-19T03:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067816510798823615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1933200730443415552",
+          "start": 0,
+          "username": "nothingnes74306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067816510798823615",
+    "in_reply_to_user_id": "1933200730443415552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067816030756634679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothingnes74306 致敬那些時代de眼淚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067816008535158784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJbtDmasAAjMbH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067816008547737601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJbtDpaoAEKxw7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2067816030756634679",
+        "created_at": "2026-06-19T03:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067816510798823615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1933200730443415552",
+              "start": 0,
+              "username": "nothingnes74306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067816510798823615",
+        "in_reply_to_user_id": "1933200730443415552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067816030756634679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothingnes74306 致敬那些時代de眼淚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067816008535158784",
+            "3_2067816008547737601"
+          ]
+        },
+        "author_id": "1933200730443415552",
+        "conversation_id": "2067816030756634679",
+        "created_at": "2026-06-19T03:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067816030756634679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QyNShfdUzT",
+              "end": 29,
+              "expanded_url": "https://x.com/nothingnes74306/status/2067816030756634679/photo/1",
+              "media_key": "3_2067816008535158784",
+              "start": 6,
+              "url": "https://t.co/QyNShfdUzT"
+            },
+            {
+              "display_url": "pic.x.com/QyNShfdUzT",
+              "end": 29,
+              "expanded_url": "https://x.com/nothingnes74306/status/2067816030756634679/photo/1",
+              "media_key": "3_2067816008547737601",
+              "start": 6,
+              "url": "https://t.co/QyNShfdUzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067816030756634679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上古老物件 https://t.co/QyNShfdUzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 25,
+          "like_count": 992,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 2191
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T16:33:06.000Z",
+        "description": "trust no one",
+        "id": "1933200730443415552",
+        "name": "nothingness",
+        "pinned_tweet_id": "2043580945433854076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996409076876476416/kYNAR_lU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 116,
+          "like_count": 6599,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 659
+        },
+        "url": "",
+        "username": "nothingnes74306",
+        "verified": false
+      }
+    ]
+  }
+}

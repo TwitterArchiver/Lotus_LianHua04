@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019426119217250304"
+      ],
+      "media_source_tweet_id": [
+        "2019426121520156824"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2019521432716472673",
+    "created_at": "2026-02-05T21:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T22:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019521432716472673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1309708058239684608",
+          "start": 3,
+          "username": "APsychedelics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6RHYT5Ah53",
+          "end": 67,
+          "expanded_url": "https://x.com/APsychedelics/status/2019426121520156824/photo/1",
+          "media_key": "3_2019426119217250304",
+          "start": 44,
+          "url": "https://t.co/6RHYT5Ah53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019521432716472673",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019426121520156824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @APsychedelics: 3 signs she's into you 😂 https://t.co/6RHYT5Ah53"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2019426119217250304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZxWyYXAAAUHWa.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019426119217250304"
+          ],
+          "media_source_tweet_id": [
+            "2019426121520156824"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2019521432716472673",
+        "created_at": "2026-02-05T21:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T22:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019521432716472673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1309708058239684608",
+              "start": 3,
+              "username": "APsychedelics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RHYT5Ah53",
+              "end": 67,
+              "expanded_url": "https://x.com/APsychedelics/status/2019426121520156824/photo/1",
+              "media_key": "3_2019426119217250304",
+              "start": 44,
+              "url": "https://t.co/6RHYT5Ah53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019521432716472673",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019426121520156824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @APsychedelics: 3 signs she's into you 😂 https://t.co/6RHYT5Ah53"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019426119217250304"
+          ]
+        },
+        "author_id": "1309708058239684608",
+        "conversation_id": "2019426121520156824",
+        "created_at": "2026-02-05T15:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T16:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019426121520156824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RHYT5Ah53",
+              "end": 48,
+              "expanded_url": "https://x.com/APsychedelics/status/2019426121520156824/photo/1",
+              "media_key": "3_2019426119217250304",
+              "start": 25,
+              "url": "https://t.co/6RHYT5Ah53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019426121520156824",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 855,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "3 signs she's into you 😂 https://t.co/6RHYT5Ah53"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙 購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 9,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 512
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-26T04:15:38.000Z",
+        "description": "Join the 24/7 discussion in my Super Psychedelic Hæven community channel on Telegram! Link below ⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/psychhaeven",
+                "end": 23,
+                "expanded_url": "https://t.me/psychhaeven",
+                "start": 0,
+                "url": "https://t.co/UnANRzyAdb"
+              }
+            ]
+          }
+        },
+        "id": "1309708058239684608",
+        "location": "Spaceship Earth",
+        "name": "👾 𝐀𝐥𝐢𝐞𝐧𝐬 & 𝐏𝐬𝐲𝐜𝐡𝐞𝐝𝐞𝐥𝐢𝐜𝐬 🌵",
+        "pinned_tweet_id": "1907841187915968859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684640764330987520/9RWz9rO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11771,
+          "following_count": 655,
+          "like_count": 50563,
+          "listed_count": 53,
+          "media_count": 28244,
+          "tweet_count": 37961
+        },
+        "url": "https://t.co/UnANRzyAdb",
+        "username": "APsychedelics",
+        "verified": false
+      }
+    ]
+  }
+}

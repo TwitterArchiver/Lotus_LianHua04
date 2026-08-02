@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048654494339416064"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2048654610370351451",
+    "created_at": "2026-04-27T06:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T07:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048654610370351451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WMNWfO2cMt",
+          "end": 30,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2048654610370351451/video/1",
+          "media_key": "13_2048654494339416064",
+          "start": 7,
+          "url": "https://t.co/WMNWfO2cMt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048654610370351451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "领养代替购买 https://t.co/WMNWfO2cMt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5671,
+        "height": 1280,
+        "media_key": "13_2048654494339416064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048654494339416064/img/k_kWcbtZjfEAbYV0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048654494339416064/vid/avc1/320x568/bWJ5QC7CteMRD9Ob.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048654494339416064/vid/avc1/480x852/ph3K1FIQZrsoIGqW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048654494339416064/vid/avc1/720x1280/TYcvlo_5ITI6Zo8A.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048654494339416064/pl/gSIdtU_hWMRls4ZH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048654494339416064"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2048654610370351451",
+        "created_at": "2026-04-27T06:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048654610370351451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMNWfO2cMt",
+              "end": 30,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2048654610370351451/video/1",
+              "media_key": "13_2048654494339416064",
+              "start": 7,
+              "url": "https://t.co/WMNWfO2cMt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048654610370351451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "领养代替购买 https://t.co/WMNWfO2cMt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 21,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1150
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

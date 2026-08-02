@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2068924259510940102",
+    "created_at": "2026-06-22T05:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T06:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068924259510940102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuu00401/statu…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/yuu00401/status/2068714470541803922",
+          "start": 50,
+          "url": "https://t.co/XugA8GPsuq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068924259510940102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068714470541803922",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点浪漫，有点唯美吧。我突然理解为什么有人嬷毛泽东了，如果不知道这个人是毛泽东的话他的性格很典型啊 https://t.co/XugA8GPsuq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2068924259510940102",
+        "created_at": "2026-06-22T05:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068924259510940102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuu00401/statu…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/yuu00401/status/2068714470541803922",
+              "start": 50,
+              "url": "https://t.co/XugA8GPsuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068924259510940102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068714470541803922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点浪漫，有点唯美吧。我突然理解为什么有人嬷毛泽东了，如果不知道这个人是毛泽东的话他的性格很典型啊 https://t.co/XugA8GPsuq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554424317483655175",
+        "conversation_id": "2068714470541803922",
+        "created_at": "2026-06-21T15:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068714470541803922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068714470541803922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 20591,
+          "like_count": 118,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "教员身上一直是带点抽象的，后三十年得了植物神经紊乱综合征，精神状态一言难尽。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 26,
+          "like_count": 1049,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 2303
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T11:10:23.000Z",
+        "description": "原来我走了那么远，远到那些无话不谈，渐渐听不清了",
+        "id": "1554424317483655175",
+        "location": "拉尼亚凯亚超星系",
+        "name": "yuu🎀",
+        "pinned_tweet_id": "1979443587306647701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063450891232186368/8csvW8EW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4066,
+          "following_count": 809,
+          "like_count": 75484,
+          "listed_count": 6,
+          "media_count": 2427,
+          "tweet_count": 35376
+        },
+        "url": "",
+        "username": "yuu00401",
+        "verified": false
+      }
+    ]
+  }
+}

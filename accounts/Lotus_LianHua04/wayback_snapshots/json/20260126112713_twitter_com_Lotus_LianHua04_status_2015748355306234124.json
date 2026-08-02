@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996700868855603200"
+      ],
+      "media_source_tweet_id": [
+        "1996700872513081390"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2015748355306234124",
+    "created_at": "2026-01-26T11:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T12:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015748355306234124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1166387941",
+          "start": 3,
+          "username": "whotfisjovana"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ew8NJxuRHe",
+          "end": 42,
+          "expanded_url": "https://x.com/whotfisjovana/status/1996700872513081390/photo/1",
+          "media_key": "3_1996700868855603200",
+          "start": 19,
+          "url": "https://t.co/Ew8NJxuRHe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015748355306234124",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7524
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996700872513081390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whotfisjovana: https://t.co/Ew8NJxuRHe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_1996700868855603200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7W03HraIAASdxy.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996700868855603200"
+          ],
+          "media_source_tweet_id": [
+            "1996700872513081390"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2015748355306234124",
+        "created_at": "2026-01-26T11:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015748355306234124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1166387941",
+              "start": 3,
+              "username": "whotfisjovana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ew8NJxuRHe",
+              "end": 42,
+              "expanded_url": "https://x.com/whotfisjovana/status/1996700872513081390/photo/1",
+              "media_key": "3_1996700868855603200",
+              "start": 19,
+              "url": "https://t.co/Ew8NJxuRHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015748355306234124",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7524
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996700872513081390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whotfisjovana: https://t.co/Ew8NJxuRHe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996700868855603200"
+          ]
+        },
+        "author_id": "1166387941",
+        "conversation_id": "1996700872513081390",
+        "created_at": "2025-12-04T21:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T22:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996700872513081390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ew8NJxuRHe",
+              "end": 23,
+              "expanded_url": "https://x.com/whotfisjovana/status/1996700872513081390/photo/1",
+              "media_key": "3_1996700868855603200",
+              "start": 0,
+              "url": "https://t.co/Ew8NJxuRHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996700872513081390",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1095,
+          "impression_count": 468055,
+          "like_count": 60603,
+          "quote_count": 142,
+          "reply_count": 48,
+          "retweet_count": 7524
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ew8NJxuRHe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 8,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 448
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-10T16:38:39.000Z",
+        "description": "girl on the internet, meme creator & curator 🩰 business: thenotoriousjov@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whotfisjovana.com",
+                "end": 23,
+                "expanded_url": "http://whotfisjovana.com",
+                "start": 0,
+                "url": "https://t.co/mO0dLQUUh8"
+              }
+            ]
+          }
+        },
+        "id": "1166387941",
+        "location": "never miss a post! notifs 🔛🔔",
+        "name": "The Notorious J.O.V.",
+        "pinned_tweet_id": "2015255997309403525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1442270608109232129/NrIOEyYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419548,
+          "following_count": 8100,
+          "like_count": 209443,
+          "listed_count": 702,
+          "media_count": 88886,
+          "tweet_count": 212903
+        },
+        "url": "https://t.co/mO0dLQUUh8",
+        "username": "whotfisjovana",
+        "verified": true
+      }
+    ]
+  }
+}

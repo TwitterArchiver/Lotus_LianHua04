@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2056776866745192615",
+    "created_at": "2026-05-19T16:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056776866745192615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoyobewild/sta…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/yoyobewild/status/2056650573970370989",
+          "start": 66,
+          "url": "https://t.co/bggWMBgvsI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056776866745192615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056650573970370989",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每次坐电梯听到重复的广告词，能照出人影的电梯门，莫名其妙的嗡嗡声都特别想呕。有一次真的呕出来了旁边的死逼小孩还在那里“我操牛逼” https://t.co/bggWMBgvsI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2056776866745192615",
+        "created_at": "2026-05-19T16:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056776866745192615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoyobewild/sta…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/yoyobewild/status/2056650573970370989",
+              "start": 66,
+              "url": "https://t.co/bggWMBgvsI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056776866745192615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056650573970370989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每次坐电梯听到重复的广告词，能照出人影的电梯门，莫名其妙的嗡嗡声都特别想呕。有一次真的呕出来了旁边的死逼小孩还在那里“我操牛逼” https://t.co/bggWMBgvsI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "2056650573970370989",
+        "created_at": "2026-05-19T08:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056650573970370989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056650573970370989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12379,
+          "like_count": 363,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "电梯广告。\n密闭空间，重复的广告词，超大声量。\n我觉得对于一些精神病患者来说，这种东西会引发应激。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 23,
+          "like_count": 719,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1576
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，倡导社会契约论，保障公民权利。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5039,
+          "following_count": 190,
+          "like_count": 38530,
+          "listed_count": 18,
+          "media_count": 392,
+          "tweet_count": 8210
+        },
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

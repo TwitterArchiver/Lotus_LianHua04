@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2062019018651832326",
+    "created_at": "2026-06-03T03:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T04:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062019018651832326"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062019018651832326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有一个从幼儿园开始就在脑子里幻想的纹身。在右侧腹部刺一个有金色鬈发，画烟熏妆，长得像波姬小丝的女人，从舷窗中探出头，她穿着水手服，左手抚上舷窗边缘，右手半只手臂伸出去并且夹着点燃的香烟，伸出去的手臂上缠绕着鱼线，鱼线最末端是用线绑住的五芒星"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2062019018651832326",
+        "created_at": "2026-06-03T03:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062019018651832326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062019018651832326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个从幼儿园开始就在脑子里幻想的纹身。在右侧腹部刺一个有金色鬈发，画烟熏妆，长得像波姬小丝的女人，从舷窗中探出头，她穿着水手服，左手抚上舷窗边缘，右手半只手臂伸出去并且夹着点燃的香烟，伸出去的手臂上缠绕着鱼线，鱼线最末端是用线绑住的五芒星"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 26,
+          "like_count": 775,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1704
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

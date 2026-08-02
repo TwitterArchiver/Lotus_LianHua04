@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2070526664422138162",
+    "created_at": "2026-06-26T17:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T18:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070558694312431695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809233055196073984",
+          "start": 0,
+          "username": "Jy666992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070558694312431695",
+    "in_reply_to_user_id": "1809233055196073984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070526664422138162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jy666992 我总是在花坛或者深水埗那边的餐厅后门垃圾桶看到有人抽大麻，有穿得像理工男的有穿普通印花T恤的甚至有戴小帽子的中东人。。搞得我现在一想到什么人都有可能吸过大麻就莫名其妙很想笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070526632293732352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv9AH_akAAM721.jpg",
+        "width": 1643
+      },
+      {
+        "height": 1410,
+        "media_key": "3_2070526632260202497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv9AH3a8AEe-P6.jpg",
+        "width": 1110
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070526632344125441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv9AILbgAEKszj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070526632297938944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv9AIAawAAclLU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2070526664422138162",
+        "created_at": "2026-06-26T17:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070558694312431695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070558694312431695",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070526664422138162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 我总是在花坛或者深水埗那边的餐厅后门垃圾桶看到有人抽大麻，有穿得像理工男的有穿普通印花T恤的甚至有戴小帽子的中东人。。搞得我现在一想到什么人都有可能吸过大麻就莫名其妙很想笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070526632293732352",
+            "3_2070526632260202497",
+            "3_2070526632344125441",
+            "3_2070526632297938944"
+          ]
+        },
+        "author_id": "1809233055196073984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070526664422138162",
+        "created_at": "2026-06-26T15:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070526664422138162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJ0NKKz0UG",
+              "end": 124,
+              "expanded_url": "https://x.com/Jy666992/status/2070526664422138162/photo/1",
+              "media_key": "3_2070526632293732352",
+              "start": 101,
+              "url": "https://t.co/SJ0NKKz0UG"
+            },
+            {
+              "display_url": "pic.x.com/SJ0NKKz0UG",
+              "end": 124,
+              "expanded_url": "https://x.com/Jy666992/status/2070526664422138162/photo/1",
+              "media_key": "3_2070526632260202497",
+              "start": 101,
+              "url": "https://t.co/SJ0NKKz0UG"
+            },
+            {
+              "display_url": "pic.x.com/SJ0NKKz0UG",
+              "end": 124,
+              "expanded_url": "https://x.com/Jy666992/status/2070526664422138162/photo/1",
+              "media_key": "3_2070526632344125441",
+              "start": 101,
+              "url": "https://t.co/SJ0NKKz0UG"
+            },
+            {
+              "display_url": "pic.x.com/SJ0NKKz0UG",
+              "end": 124,
+              "expanded_url": "https://x.com/Jy666992/status/2070526664422138162/photo/1",
+              "media_key": "3_2070526632297938944",
+              "start": 101,
+              "url": "https://t.co/SJ0NKKz0UG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070526664422138162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次在店里吸大麻\n在这之前我都觉得精神状态不好是一种很私人的事 只能和志同道合 也叫所谓的同圈人交流\n后来我发现420真的是一个群体……\n\n在大麻店想跟店长闲聊等到下劲点再决定去不去……（太尴尬了） https://t.co/SJ0NKKz0UG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 26,
+          "like_count": 1086,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 2451
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好总惹事感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2069854465931497694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 234,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 600
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

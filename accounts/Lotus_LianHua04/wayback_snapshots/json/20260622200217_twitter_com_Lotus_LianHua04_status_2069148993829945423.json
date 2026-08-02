@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069148977371533313"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2069148993829945423",
+    "created_at": "2026-06-22T20:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T21:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069148993829945423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LG32k4U9rK",
+          "end": 27,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2069148993829945423/photo/1",
+          "media_key": "3_2069148977371533313",
+          "start": 4,
+          "url": "https://t.co/LG32k4U9rK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069148993829945423",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "67？ https://t.co/LG32k4U9rK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_2069148977371533313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcYCDeX0AE9qJi.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069148977371533313"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2069148993829945423",
+        "created_at": "2026-06-22T20:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T21:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069148993829945423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LG32k4U9rK",
+              "end": 27,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2069148993829945423/photo/1",
+              "media_key": "3_2069148977371533313",
+              "start": 4,
+              "url": "https://t.co/LG32k4U9rK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069148993829945423",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "67？ https://t.co/LG32k4U9rK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 26,
+          "like_count": 1054,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 2338
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

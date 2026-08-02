@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2072753553299431729",
+    "created_at": "2026-07-02T18:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T19:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072753553299431729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/greenfish_111/…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/greenfish_111/status/2072706744502145352",
+          "start": 132,
+          "url": "https://t.co/gton5rLca7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072753553299431729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072706744502145352",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这集真是我爸。我之所以会搬来南京这个让我每天产生6677个自杀幻想的地方就是因为我爸跟我妈崩溃大哭说要她来南京不然自己待不下去了。但是这两个老逗比从重新同居第一天就开始吵架，我妈因为专武磨刀石没到货被ban了战斗力下降我爸也因为人生地不熟不敢摔门离家出走夜不归宿 https://t.co/gton5rLca7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072706733504610305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMO7yt4aQAEhfTn.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2072753553299431729",
+        "created_at": "2026-07-02T18:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072753553299431729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/greenfish_111/…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/greenfish_111/status/2072706744502145352",
+              "start": 132,
+              "url": "https://t.co/gton5rLca7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072753553299431729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072706744502145352",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这集真是我爸。我之所以会搬来南京这个让我每天产生6677个自杀幻想的地方就是因为我爸跟我妈崩溃大哭说要她来南京不然自己待不下去了。但是这两个老逗比从重新同居第一天就开始吵架，我妈因为专武磨刀石没到货被ban了战斗力下降我爸也因为人生地不熟不敢摔门离家出走夜不归宿 https://t.co/gton5rLca7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072706733504610305"
+          ]
+        },
+        "author_id": "1244543552652054528",
+        "conversation_id": "2072706744502145352",
+        "created_at": "2026-07-02T15:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072706744502145352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MygoyZQHCX",
+              "end": 98,
+              "expanded_url": "https://x.com/Greenfish_111/status/2072706744502145352/photo/1",
+              "media_key": "3_2072706733504610305",
+              "start": 75,
+              "url": "https://t.co/MygoyZQHCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072706744502145352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8753,
+          "like_count": 116,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爸爸是地雷男怎么办。\n我爸因为我妈没及时接他电话就生气了 然后好像是拿酒瓶砸了自己流血了\n感觉不知道为什么家庭角色好像逆转了 爸妈就像我的孩子一样… https://t.co/MygoyZQHCX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 29,
+          "like_count": 1210,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2751
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中无力地裂开\nbpd/日常号@flyfrog_222/我的画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "flyfrog_222"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "woyaosleep444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fiiiish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fiiiish",
+                "start": 0,
+                "url": "https://t.co/V2GB3spiAO"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "非同类私信请先过🚪888",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2069292400196125097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5071,
+          "following_count": 555,
+          "like_count": 13313,
+          "listed_count": 8,
+          "media_count": 1078,
+          "tweet_count": 14357
+        },
+        "url": "https://t.co/V2GB3spiAO",
+        "username": "Greenfish_111",
+        "verified": false
+      }
+    ]
+  }
+}

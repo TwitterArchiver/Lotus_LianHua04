@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2043664030808641639",
+    "created_at": "2026-04-13T12:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043664030808641639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2043663789766197352",
+          "start": 71,
+          "url": "https://t.co/E7ZPAK4meh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043664030808641639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043663789766197352",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "具体是不是这个回复我也忘了，我只是很无奈，很无语。二五年一整年到现在我爸妈只给过我二百块，但因为我家本身算有钱所以我的一切抱怨都成了无病呻吟 https://t.co/E7ZPAK4meh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2043664030808641639",
+        "created_at": "2026-04-13T12:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043664030808641639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2043663789766197352",
+              "start": 71,
+              "url": "https://t.co/E7ZPAK4meh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043664030808641639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043663789766197352",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "具体是不是这个回复我也忘了，我只是很无奈，很无语。二五年一整年到现在我爸妈只给过我二百块，但因为我家本身算有钱所以我的一切抱怨都成了无病呻吟 https://t.co/E7ZPAK4meh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2043663789766197352",
+        "created_at": "2026-04-13T12:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043663789766197352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043663789766197352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真心不想觉得我爸妈给我钱是对我好，这不是养孩子应该做的么？我连吃饭都不和他们一起吃，不给钱我不就饿死了。我无法理解中国人为什么会觉得自己家的孩子在“自己家里”是吃白饭的。我和朋友打语音脑子不清楚我就问“我在我家里到底是不是吃白饭的”我朋友说“什么叫你在你自己家里是吃白饭的？”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 21,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1073
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

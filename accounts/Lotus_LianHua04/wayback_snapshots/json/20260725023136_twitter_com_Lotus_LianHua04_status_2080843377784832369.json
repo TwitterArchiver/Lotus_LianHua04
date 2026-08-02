@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2080843377784832369",
+    "created_at": "2026-07-25T02:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080843377784832369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2078664629383790592",
+          "start": 3,
+          "username": "carmelcoldfoam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080843377784832369",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 378
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080139168395489733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carmelcoldfoam: edtwt is so funny cause its really just the same 5 posts recycled"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2080843377784832369",
+        "created_at": "2026-07-25T02:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080843377784832369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2078664629383790592",
+              "start": 3,
+              "username": "carmelcoldfoam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080843377784832369",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 378
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080139168395489733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @carmelcoldfoam: edtwt is so funny cause its really just the same 5 posts recycled"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078664629383790592",
+        "conversation_id": "2080139168395489733",
+        "created_at": "2026-07-23T03:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080139168395489733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080139168395489733",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 33531,
+          "like_count": 4169,
+          "quote_count": 10,
+          "reply_count": 30,
+          "retweet_count": 378
+        },
+        "reply_settings": "everyone",
+        "text": "edtwt is so funny cause its really just the same 5 posts recycled"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 30,
+          "like_count": 1461,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 3262
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-19T02:15:10.000Z",
+        "description": "⠀⠀⠀⠀──⠀ 🩰˙⠀#edrtwt diary⠀ ⨾ ⠀gbmi 18",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 11,
+                "tag": "edrtwt"
+              }
+            ]
+          }
+        },
+        "id": "2078664629383790592",
+        "location": "she  ּ𝄢  16  ",
+        "name": "tori¹²",
+        "pinned_tweet_id": "2080129721329693134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079329060522524672/3FH1Q2jp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 312,
+          "like_count": 1262,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "carmelcoldfoam",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2004757791685443728",
+    "created_at": "2025-12-27T03:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T04:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004757791685443728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2004757418233004244",
+          "start": 84,
+          "url": "https://t.co/2G9OE8WVRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004757791685443728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004757418233004244",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以前穷孩子时候家楼下就有。一人喝一口就开始疯，过了不到半小时就平静下来，然后又开始喝。能闹一晚上。小时候可鄙视这种人了结果自己现在吃完港美也喜欢下楼和别人超大声讲电话 https://t.co/2G9OE8WVRW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2004757791685443728",
+        "created_at": "2025-12-27T03:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004757791685443728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2004757418233004244",
+              "start": 84,
+              "url": "https://t.co/2G9OE8WVRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004757791685443728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004757418233004244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前穷孩子时候家楼下就有。一人喝一口就开始疯，过了不到半小时就平静下来，然后又开始喝。能闹一晚上。小时候可鄙视这种人了结果自己现在吃完港美也喜欢下楼和别人超大声讲电话 https://t.co/2G9OE8WVRW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2004757418233004244",
+        "created_at": "2025-12-27T03:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004757418233004244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004757418233004244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想到了“小待是大力出奇迹”这句话。我痴痴地笑了好久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003156132467261440/hf-wJIXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 5,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 135
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048375519595646976"
+      ],
+      "media_source_tweet_id": [
+        "2048801849130512722"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2053033401939075466",
+    "created_at": "2026-05-09T08:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T09:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053033401939075466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1624670194550407168",
+          "start": 3,
+          "username": "AndrzejZmiasta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rzDYbzbmPf",
+          "end": 129,
+          "expanded_url": "https://x.com/AndrzejZmiasta/status/2048801849130512722/video/1",
+          "media_key": "13_2048375519595646976",
+          "start": 106,
+          "url": "https://t.co/rzDYbzbmPf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053033401939075466",
+    "lang": "pl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048801849130512722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AndrzejZmiasta: Wspaniały utwór z wokalem Grace Slick👏\nJefferson Airplane - Somebody To Love (1967)🎶🎤 https://t.co/rzDYbzbmPf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 173987,
+        "height": 480,
+        "media_key": "13_2048375519595646976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048375519595646976/img/JiI1ZJxEEY5A8_7N.jpg",
+        "public_metrics": {
+          "view_count": 8917
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048375519595646976/vid/avc1/360x270/B3eoRKEegZJDWUfV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048375519595646976/vid/avc1/480x360/WIdQ0YLqoYRHHISh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048375519595646976/vid/avc1/640x480/IoaeskJ6oodFIFNJ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048375519595646976/pl/kzYjnPkE294Tfuog.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048375519595646976"
+          ],
+          "media_source_tweet_id": [
+            "2048801849130512722"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053033401939075466",
+        "created_at": "2026-05-09T08:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053033401939075466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1624670194550407168",
+              "start": 3,
+              "username": "AndrzejZmiasta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzDYbzbmPf",
+              "end": 129,
+              "expanded_url": "https://x.com/AndrzejZmiasta/status/2048801849130512722/video/1",
+              "media_key": "13_2048375519595646976",
+              "start": 106,
+              "url": "https://t.co/rzDYbzbmPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053033401939075466",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048801849130512722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AndrzejZmiasta: Wspaniały utwór z wokalem Grace Slick👏\nJefferson Airplane - Somebody To Love (1967)🎶🎤 https://t.co/rzDYbzbmPf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048375519595646976"
+          ]
+        },
+        "author_id": "1624670194550407168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048801849130512722",
+        "created_at": "2026-04-27T16:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048801849130512722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzDYbzbmPf",
+              "end": 109,
+              "expanded_url": "https://x.com/AndrzejZmiasta/status/2048801849130512722/video/1",
+              "media_key": "13_2048375519595646976",
+              "start": 86,
+              "url": "https://t.co/rzDYbzbmPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048801849130512722",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 14445,
+          "like_count": 497,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "Wspaniały utwór z wokalem Grace Slick👏\nJefferson Airplane - Somebody To Love (1967)🎶🎤 https://t.co/rzDYbzbmPf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 23,
+          "like_count": 587,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1321
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-12T07:22:33.000Z",
+        "description": "Polak z krwi i kości, kocham Polskę i Polaków\nNie jestem niczyim problemem\nLubię komentować głupie wpisy\nNie żyję z X-a, nie proszę o kawę, nic nie muszę.",
+        "id": "1624670194550407168",
+        "location": "Gdzieś w sercu Polski",
+        "name": "Andrzej",
+        "pinned_tweet_id": "2037832737470423076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895843542532042752/2P33D_LR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7052,
+          "following_count": 4931,
+          "like_count": 26361,
+          "listed_count": 76,
+          "media_count": 9879,
+          "tweet_count": 15580
+        },
+        "username": "AndrzejZmiasta",
+        "verified": false
+      }
+    ]
+  }
+}

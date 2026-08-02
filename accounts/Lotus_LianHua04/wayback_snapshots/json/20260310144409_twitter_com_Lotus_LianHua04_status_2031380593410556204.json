@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031199043192500226",
+        "3_2031199058342092800",
+        "3_2031199077627531264",
+        "3_2031199000481902592"
+      ],
+      "media_source_tweet_id": [
+        "2031199568918970521",
+        "2031199568918970521",
+        "2031199568918970521",
+        "2031199568918970521"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2031380593410556204",
+    "created_at": "2026-03-10T14:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T15:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031380593410556204"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "日本",
+          "probability": 0.921,
+          "start": 15,
+          "type": "Place"
+        },
+        {
+          "end": 34,
+          "normalized_text": "三井",
+          "probability": 0.3392,
+          "start": 33,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1113891736432984065",
+          "start": 3,
+          "username": "GuruZerow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2WtAqYUFwV",
+          "end": 116,
+          "expanded_url": "https://x.com/GuruZerow/status/2031199568918970521/photo/1",
+          "media_key": "3_2031199043192500226",
+          "start": 93,
+          "url": "https://t.co/2WtAqYUFwV"
+        },
+        {
+          "display_url": "pic.x.com/2WtAqYUFwV",
+          "end": 116,
+          "expanded_url": "https://x.com/GuruZerow/status/2031199568918970521/photo/1",
+          "media_key": "3_2031199058342092800",
+          "start": 93,
+          "url": "https://t.co/2WtAqYUFwV"
+        },
+        {
+          "display_url": "pic.x.com/2WtAqYUFwV",
+          "end": 116,
+          "expanded_url": "https://x.com/GuruZerow/status/2031199568918970521/photo/1",
+          "media_key": "3_2031199077627531264",
+          "start": 93,
+          "url": "https://t.co/2WtAqYUFwV"
+        },
+        {
+          "display_url": "pic.x.com/2WtAqYUFwV",
+          "end": 116,
+          "expanded_url": "https://x.com/GuruZerow/status/2031199568918970521/photo/1",
+          "media_key": "3_2031199000481902592",
+          "start": 93,
+          "url": "https://t.co/2WtAqYUFwV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031380593410556204",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 663
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031199568918970521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GuruZerow: 日本がまだ大日本帝国のときに\n陸軍や三井が作っていたアヘン錠と粉末コカイン\n\n注意書きには「適量が1回0.05gで1日3回0.15gまで」は的確過ぎる…笑 https://t.co/2WtAqYUFwV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031199043192500226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDBExJ2aMAIN_Z_.jpg",
+        "width": 1265
+      },
+      {
+        "height": 1257,
+        "media_key": "3_2031199058342092800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDBEyCSWoAA1W71.jpg",
+        "width": 1320
+      },
+      {
+        "height": 808,
+        "media_key": "3_2031199077627531264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDBEzKIXEAAL7u6.jpg",
+        "width": 1320
+      },
+      {
+        "height": 850,
+        "media_key": "3_2031199000481902592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDBEuqvaMAADpcX.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031199043192500226",
+            "3_2031199058342092800",
+            "3_2031199077627531264",
+            "3_2031199000481902592"
+          ],
+          "media_source_tweet_id": [
+            "2031199568918970521",
+            "2031199568918970521",
+            "2031199568918970521",
+            "2031199568918970521"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2031380593410556204",
+        "created_at": "2026-03-10T14:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031380593410556204"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "日本",
+              "probability": 0.921,
+              "start": 15,
+              "type": "Place"
+            },
+            {
+              "end": 34,
+              "normalized_text": "三井",
+              "probability": 0.3392,
+              "start": 33,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1113891736432984065",
+              "start": 3,
+              "username": "GuruZerow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2WtAqYUFwV",
+              "end": 116,
+              "expanded_url": "https://x.com/GuruZerow/status/2031199568918970521/photo/1",
+              "media_key": "3_2031199043192500226",
+              "start": 93,
+              "url": "https://t.co/2WtAqYUFwV"
+            },
+            {
+              "display_url": "pic.x.com/2WtAqYUFwV",
+              "end": 116,
+              "expanded_url": "https://x.com/GuruZerow/status/2031199568918970521/photo/1",
+              "media_key": "3_2031199058342092800",
+              "start": 93,
+              "url": "https://t.co/2WtAqYUFwV"
+            },
+            {
+              "display_url": "pic.x.com/2WtAqYUFwV",
+              "end": 116,
+              "expanded_url": "https://x.com/GuruZerow/status/2031199568918970521/photo/1",
+              "media_key": "3_2031199077627531264",
+              "start": 93,
+              "url": "https://t.co/2WtAqYUFwV"
+            },
+            {
+              "display_url": "pic.x.com/2WtAqYUFwV",
+              "end": 116,
+              "expanded_url": "https://x.com/GuruZerow/status/2031199568918970521/photo/1",
+              "media_key": "3_2031199000481902592",
+              "start": 93,
+              "url": "https://t.co/2WtAqYUFwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031380593410556204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 663
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031199568918970521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GuruZerow: 日本がまだ大日本帝国のときに\n陸軍や三井が作っていたアヘン錠と粉末コカイン\n\n注意書きには「適量が1回0.05gで1日3回0.15gまで」は的確過ぎる…笑 https://t.co/2WtAqYUFwV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031199043192500226",
+            "3_2031199058342092800",
+            "3_2031199077627531264",
+            "3_2031199000481902592"
+          ]
+        },
+        "author_id": "1113891736432984065",
+        "conversation_id": "2031199568918970521",
+        "created_at": "2026-03-10T02:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T03:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031199568918970521"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "日本",
+              "probability": 0.9241,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 19,
+              "normalized_text": "三井",
+              "probability": 0.3182,
+              "start": 18,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2WtAqYUFwV",
+              "end": 101,
+              "expanded_url": "https://x.com/GuruZerow/status/2031199568918970521/photo/1",
+              "media_key": "3_2031199043192500226",
+              "start": 78,
+              "url": "https://t.co/2WtAqYUFwV"
+            },
+            {
+              "display_url": "pic.x.com/2WtAqYUFwV",
+              "end": 101,
+              "expanded_url": "https://x.com/GuruZerow/status/2031199568918970521/photo/1",
+              "media_key": "3_2031199058342092800",
+              "start": 78,
+              "url": "https://t.co/2WtAqYUFwV"
+            },
+            {
+              "display_url": "pic.x.com/2WtAqYUFwV",
+              "end": 101,
+              "expanded_url": "https://x.com/GuruZerow/status/2031199568918970521/photo/1",
+              "media_key": "3_2031199077627531264",
+              "start": 78,
+              "url": "https://t.co/2WtAqYUFwV"
+            },
+            {
+              "display_url": "pic.x.com/2WtAqYUFwV",
+              "end": 101,
+              "expanded_url": "https://x.com/GuruZerow/status/2031199568918970521/photo/1",
+              "media_key": "3_2031199000481902592",
+              "start": 78,
+              "url": "https://t.co/2WtAqYUFwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031199568918970521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 723,
+          "impression_count": 359334,
+          "like_count": 3734,
+          "quote_count": 35,
+          "reply_count": 32,
+          "retweet_count": 663
+        },
+        "reply_settings": "everyone",
+        "text": "日本がまだ大日本帝国のときに\n陸軍や三井が作っていたアヘン錠と粉末コカイン\n\n注意書きには「適量が1回0.05gで1日3回0.15gまで」は的確過ぎる…笑 https://t.co/2WtAqYUFwV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 20,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 727
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-04T19:50:59.000Z",
+        "description": "汝神信、上帝不匙。李下不摘帽。犬廻衆チワワ組。「マリファナ青春治療」に出てきたカナダ🇨🇦晩香坡にあった医療大麻屋の日系店長。海外ニュース多め\nCBDとゼオライトを混ぜて加熱すると簡単にTHCに変化してしまう故に悪い子でもマネしないように、懲役10年だよ",
+        "id": "1113891736432984065",
+        "location": "مُجَاهِدِين",
+        "name": "早巻CBDゼオライト🌈🇨🇦🇺🇸",
+        "pinned_tweet_id": "1781687517521055803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1416604303779840003/H74dHvYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10417,
+          "following_count": 417,
+          "like_count": 37759,
+          "listed_count": 42,
+          "media_count": 1612,
+          "tweet_count": 15291
+        },
+        "username": "GuruZerow",
+        "verified": true
+      }
+    ]
+  }
+}

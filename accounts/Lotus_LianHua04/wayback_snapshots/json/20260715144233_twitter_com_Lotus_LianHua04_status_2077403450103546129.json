@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2077300859658965348",
+    "created_at": "2026-07-15T14:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077403450103546129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2027342983457370113",
+          "start": 0,
+          "username": "x_xcherry0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077403450103546129",
+    "in_reply_to_user_id": "2027342983457370113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077390833956106674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_xcherry0719 中国人到现在居然还没搞出来一个能比得上摇头丸的十分之一的策划药。我难受。一群不思进取的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2077300859658965348",
+        "created_at": "2026-07-15T14:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077403450103546129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2027342983457370113",
+              "start": 0,
+              "username": "x_xcherry0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077403450103546129",
+        "in_reply_to_user_id": "2027342983457370113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077390833956106674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_xcherry0719 中国人到现在居然还没搞出来一个能比得上摇头丸的十分之一的策划药。我难受。一群不思进取的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027342983457370113",
+        "conversation_id": "2077300859658965348",
+        "created_at": "2026-07-15T13:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077390833956106674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077390833956106674",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077300859658965348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 大策划药时代到来了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 29,
+          "like_count": 1365,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 3122
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T11:20:31.000Z",
+        "description": "我只是在装我自设妹我不是霓虹金好吧\n10年/餐券od药物全肯定毒虫/双相/上学中\n同类都会回fo好吧，欢迎来和我玩我是社交孤儿",
+        "id": "2027342983457370113",
+        "location": "DXM星球",
+        "name": "チェリーちゃん🖤",
+        "pinned_tweet_id": "2076986918278168659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050257900237647872/kgPPiKEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 30,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "x_xcherry0719",
+        "verified": false
+      }
+    ]
+  }
+}

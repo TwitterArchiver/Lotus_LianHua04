@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2062993850654740779",
+    "created_at": "2026-06-05T20:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T21:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062993850654740779"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062993850654740779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从来不认真听我说话的婊子，乐子，傻子。等我他妈嗑大了神智不清的时候说的话又全当真了。我憎恨那些想把一切都弄成爱情的傻逼，我不知道她是觉得我和她的友情比不上恋爱还是她觉得爱情才更靠谱，但是你他妈为什么要逼着我承认我嗑大了的时候说的话甚至我只是说我好喜欢你又没说我们在一起之类的你有病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2062993850654740779",
+        "created_at": "2026-06-05T20:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T21:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062993850654740779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062993850654740779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从来不认真听我说话的婊子，乐子，傻子。等我他妈嗑大了神智不清的时候说的话又全当真了。我憎恨那些想把一切都弄成爱情的傻逼，我不知道她是觉得我和她的友情比不上恋爱还是她觉得爱情才更靠谱，但是你他妈为什么要逼着我承认我嗑大了的时候说的话甚至我只是说我好喜欢你又没说我们在一起之类的你有病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 25,
+          "like_count": 816,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1800
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

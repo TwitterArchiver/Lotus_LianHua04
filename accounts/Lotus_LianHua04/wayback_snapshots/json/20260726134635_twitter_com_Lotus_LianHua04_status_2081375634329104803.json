@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081375618898198528"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2081374411786268899",
+    "created_at": "2026-07-26T13:46:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081375634329104803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1429055428374130693",
+          "start": 0,
+          "username": "Gamer94469"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4nqCzCCEV8",
+          "end": 52,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2081375634329104803/photo/1",
+          "media_key": "3_2081375618898198528",
+          "start": 29,
+          "url": "https://t.co/4nqCzCCEV8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081375634329104803",
+    "in_reply_to_user_id": "1429055428374130693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081374411786268899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gamer94469 我选择把我购入的物资和它拍摄合影 https://t.co/4nqCzCCEV8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2081375618898198528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKIGQiWAAAJp8P.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081374401933791233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKG_a_a0AE9CgZ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081375618898198528"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2081374411786268899",
+        "created_at": "2026-07-26T13:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081375634329104803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1429055428374130693",
+              "start": 0,
+              "username": "Gamer94469"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nqCzCCEV8",
+              "end": 52,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2081375634329104803/photo/1",
+              "media_key": "3_2081375618898198528",
+              "start": 29,
+              "url": "https://t.co/4nqCzCCEV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081375634329104803",
+        "in_reply_to_user_id": "1429055428374130693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081374411786268899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gamer94469 我选择把我购入的物资和它拍摄合影 https://t.co/4nqCzCCEV8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081374401933791233"
+          ]
+        },
+        "author_id": "1429055428374130693",
+        "conversation_id": "2081374411786268899",
+        "created_at": "2026-07-26T13:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081374411786268899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QfksjkcCUR",
+              "end": 47,
+              "expanded_url": "https://x.com/Gamer94469/status/2081374411786268899/photo/1",
+              "media_key": "3_2081374401933791233",
+              "start": 24,
+              "url": "https://t.co/QfksjkcCUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081374411786268899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下你在外面磕大了毒驾一回家在门口看到这个 https://t.co/QfksjkcCUR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 30,
+          "like_count": 1476,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 3277
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-21T12:19:04.000Z",
+        "description": "即刻绞杀即刻刎颈",
+        "id": "1429055428374130693",
+        "name": "人民杀手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081052712846929920/lcU3Xjl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 308,
+          "like_count": 22501,
+          "listed_count": 2,
+          "media_count": 755,
+          "tweet_count": 5851
+        },
+        "url": "",
+        "username": "Gamer94469",
+        "verified": false
+      }
+    ]
+  }
+}

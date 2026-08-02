@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2037886912397230503",
+    "created_at": "2026-03-28T13:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T14:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037886912397230503"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/av1o492/status…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/av1o492/status/2037867660776485059",
+          "start": 22,
+          "url": "https://t.co/q2bTdYyaC7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037886912397230503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037867660776485059",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "转发这盒普瑞巴林，你可以买到所有你想买的药 https://t.co/q2bTdYyaC7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037867657664327680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEf11mpW8AAWxeH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2037886912397230503",
+        "created_at": "2026-03-28T13:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037886912397230503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/av1o492/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/av1o492/status/2037867660776485059",
+              "start": 22,
+              "url": "https://t.co/q2bTdYyaC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037886912397230503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037867660776485059",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转发这盒普瑞巴林，你可以买到所有你想买的药 https://t.co/q2bTdYyaC7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037867657664327680"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2037867660776485059",
+        "created_at": "2026-03-28T12:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T13:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037867660776485059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kPhoZH1Obv",
+              "end": 41,
+              "expanded_url": "https://x.com/AV1O492/status/2037867660776485059/photo/1",
+              "media_key": "3_2037867657664327680",
+              "start": 18,
+              "url": "https://t.co/kPhoZH1Obv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037867660776485059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 662,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在线下药店编瞎话买到普瑞了笑死我了 https://t.co/kPhoZH1Obv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 20,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 990
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037442931037032448/I19VSiwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 72,
+          "like_count": 3351,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 1550
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

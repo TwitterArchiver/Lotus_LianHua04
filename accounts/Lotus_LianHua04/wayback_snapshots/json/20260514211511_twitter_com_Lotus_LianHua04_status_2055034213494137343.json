@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2055034213494137343",
+    "created_at": "2026-05-14T21:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T22:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055034213494137343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2054890483327881635",
+          "start": 10,
+          "url": "https://t.co/SfWu372DNP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055034213494137343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054890483327881635",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈还喝了五瓶酒 https://t.co/SfWu372DNP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2054890468593315840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRv_nDXMAA3RLq.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2055034213494137343",
+        "created_at": "2026-05-14T21:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T22:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055034213494137343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2054890483327881635",
+              "start": 10,
+              "url": "https://t.co/SfWu372DNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055034213494137343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054890483327881635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈还喝了五瓶酒 https://t.co/SfWu372DNP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054890468593315840"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2054890483327881635",
+        "created_at": "2026-05-14T11:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054890483327881635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IL19nU0Vuj",
+              "end": 33,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2054890483327881635/photo/1",
+              "media_key": "3_2054890468593315840",
+              "start": 10,
+              "url": "https://t.co/IL19nU0Vuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054890483327881635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "传说中会犯傻的剂量 https://t.co/IL19nU0Vuj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 21,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1465
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

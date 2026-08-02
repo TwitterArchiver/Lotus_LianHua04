@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2069363073660367099",
+    "created_at": "2026-06-23T10:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069363073660367099"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069363073660367099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我其实很想捅死之前那个天天打金铲铲总翻白眼的便利店员，在我精神病最严重的那段时间我鬼上身拿着水果刀放在口袋里一路上我都在许愿自己被枪毙，结果走到里面发现店员变成了一个陌生面孔的女青年。我就呆逼地站在那里之后买了超级大一壶清酒当场灌完。好奇异搞笑，好闹麻啊。店员的眼睛究竟看到了多远"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2069363073660367099",
+        "created_at": "2026-06-23T10:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069363073660367099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069363073660367099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实很想捅死之前那个天天打金铲铲总翻白眼的便利店员，在我精神病最严重的那段时间我鬼上身拿着水果刀放在口袋里一路上我都在许愿自己被枪毙，结果走到里面发现店员变成了一个陌生面孔的女青年。我就呆逼地站在那里之后买了超级大一壶清酒当场灌完。好奇异搞笑，好闹麻啊。店员的眼睛究竟看到了多远"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 26,
+          "like_count": 1064,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 2368
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

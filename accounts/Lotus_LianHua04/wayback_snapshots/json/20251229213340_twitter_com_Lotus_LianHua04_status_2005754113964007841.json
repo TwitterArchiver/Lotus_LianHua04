@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2005754113964007841",
+    "created_at": "2025-12-29T21:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T22:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005754113964007841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 148,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2005753322322682333",
+          "start": 125,
+          "url": "https://t.co/y4cwxlg1Yd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005754113964007841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005753322322682333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "考不上高中甚至初中肆业，家里也不打算出钱去上职高的县城孩子。留在这里没有钱，没有工作，因为镇上只有两家杂牌奶茶店肯招工，还只要一两个。去大城市又年龄不够，现在东门几乎不找十八岁以下的。其实哪怕是体力活也没有那些普通人想的容易找。普通已经是一种幸运了 https://t.co/y4cwxlg1Yd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2005754113964007841",
+        "created_at": "2025-12-29T21:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T22:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005754113964007841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2005753322322682333",
+              "start": 125,
+              "url": "https://t.co/y4cwxlg1Yd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005754113964007841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005753322322682333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "考不上高中甚至初中肆业，家里也不打算出钱去上职高的县城孩子。留在这里没有钱，没有工作，因为镇上只有两家杂牌奶茶店肯招工，还只要一两个。去大城市又年龄不够，现在东门几乎不找十八岁以下的。其实哪怕是体力活也没有那些普通人想的容易找。普通已经是一种幸运了 https://t.co/y4cwxlg1Yd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2005753322322682333",
+        "created_at": "2025-12-29T21:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T22:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005753322322682333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005753322322682333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我老家真的太多被“害”了去吸毒的人了，甚至有很多人到死的那一天都不知道被自己吸的被叫作面粉的东西是什么。每次想到这些人我其实真的觉得很难过。人生根本没有什么选择。99%都是社会，国家，家庭替你选了。你的交友圈，你上的学校，你身边的环境，你可能的工作。这些你自己能选择的只有1%"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003156132467261440/hf-wJIXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 6,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 182
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

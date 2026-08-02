@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2071919419366756647",
+    "created_at": "2026-06-30T11:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071919419366756647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/n_ne373/status…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/n_ne373/status/2071689146410938567",
+          "start": 27,
+          "url": "https://t.co/JM5YxIonZq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071919419366756647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071689146410938567",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国人一破防就开始白左，内个，小布尔乔亚。有点唯美吧 https://t.co/JM5YxIonZq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_2071689135312740352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMAeStNaIAAP3Bk.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1970,
+        "media_key": "3_2071689135321198592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMAeStPbMAAPMyv.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2071919419366756647",
+        "created_at": "2026-06-30T11:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071919419366756647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/n_ne373/status…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/n_ne373/status/2071689146410938567",
+              "start": 27,
+              "url": "https://t.co/JM5YxIonZq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071919419366756647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071689146410938567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人一破防就开始白左，内个，小布尔乔亚。有点唯美吧 https://t.co/JM5YxIonZq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071689135312740352",
+            "3_2071689135321198592"
+          ]
+        },
+        "author_id": "1820986559694520320",
+        "conversation_id": "2071689146410938567",
+        "created_at": "2026-06-29T20:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T21:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071689146410938567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3TCSmelGw",
+              "end": 166,
+              "expanded_url": "https://x.com/n_ne373/status/2071689146410938567/photo/1",
+              "media_key": "3_2071689135312740352",
+              "start": 143,
+              "url": "https://t.co/h3TCSmelGw"
+            },
+            {
+              "display_url": "pic.x.com/h3TCSmelGw",
+              "end": 166,
+              "expanded_url": "https://x.com/n_ne373/status/2071689146410938567/photo/1",
+              "media_key": "3_2071689135321198592",
+              "start": 143,
+              "url": "https://t.co/h3TCSmelGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071689146410938567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "客观事实不就是为了爽，专门找了一个可以打着保护环境的幌子去杀动物的解压办法\n人家自己都说了自己平常不这样拿动物的生命取乐，就是因为这次有正当理由了而已😂你还在这辩护什么呢\n最后本人不站任何立场自己就是自己，也不知道为啥500fo就网红了\n经过你所评价的我最后只能通过这些话看到你自己哦 https://t.co/h3TCSmelGw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 28,
+          "like_count": 1156,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 2601
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T00:53:34.000Z",
+        "description": "我叫373｜这里好像只有碎碎念｜intp asd｜查成分互fo\n匿名问答：https://t.co/VRxGbV6kFb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/37381507",
+                "end": 60,
+                "expanded_url": "https://ngl.link/37381507",
+                "start": 37,
+                "url": "https://t.co/VRxGbV6kFb"
+              }
+            ]
+          }
+        },
+        "id": "1820986559694520320",
+        "name": "みず",
+        "pinned_tweet_id": "2064306561414283431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030056220367917056/2nll6Kpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 177,
+          "like_count": 5210,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1726
+        },
+        "url": "",
+        "username": "n_ne373",
+        "verified": false
+      }
+    ]
+  }
+}

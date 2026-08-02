@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2011901694142267778",
+    "created_at": "2026-01-19T00:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T01:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013039268529401985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1746892910707232768",
+          "start": 0,
+          "username": "xc20010101"
+        },
+        {
+          "end": 23,
+          "id": "1933596840907194368",
+          "start": 12,
+          "username": "Skyrshzone"
+        },
+        {
+          "end": 34,
+          "id": "1836276354041495553",
+          "start": 24,
+          "username": "CABR_Lies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013039268529401985",
+    "in_reply_to_user_id": "1746892910707232768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012855466192200035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xc20010101 @Skyrshzone @CABR_Lies 这他妈和吃饲料有什么区别！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2011901694142267778",
+        "created_at": "2026-01-19T00:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T01:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013039268529401985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1746892910707232768",
+              "start": 0,
+              "username": "xc20010101"
+            },
+            {
+              "end": 23,
+              "id": "1933596840907194368",
+              "start": 12,
+              "username": "Skyrshzone"
+            },
+            {
+              "end": 34,
+              "id": "1836276354041495553",
+              "start": 24,
+              "username": "CABR_Lies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013039268529401985",
+        "in_reply_to_user_id": "1746892910707232768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012855466192200035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xc20010101 @Skyrshzone @CABR_Lies 这他妈和吃饲料有什么区别！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746892910707232768",
+        "conversation_id": "2011901694142267778",
+        "created_at": "2026-01-18T11:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T12:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012855466192200035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933596840907194368",
+              "start": 0,
+              "username": "Skyrshzone"
+            },
+            {
+              "end": 28,
+              "id": "2002670122767667200",
+              "start": 12,
+              "username": "Lotus_LianHua04"
+            },
+            {
+              "end": 39,
+              "id": "1836276354041495553",
+              "start": 29,
+              "username": "CABR_Lies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012855466192200035",
+        "in_reply_to_user_id": "1933596840907194368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012213152700575910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Skyrshzone @Lotus_LianHua04 @CABR_Lies 我觉得od 富马酸喹硫平的才是天才，我现在在外面的药房都只能买到一盒一次还要处方才行，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 12,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 389
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T13:51:58.000Z",
+        "description": "宁鸣而死，不默而生。",
+        "id": "1746892910707232768",
+        "name": "夕辞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748476138824118272/zAGNEf9U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 78,
+          "like_count": 2185,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 196
+        },
+        "username": "xc20010101",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T18:46:41.000Z",
+        "description": "洒上空枝见血痕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/skyrshzone",
+                "end": 23,
+                "expanded_url": "https://ngl.link/skyrshzone",
+                "start": 0,
+                "url": "https://t.co/HD89N6wsf8"
+              }
+            ]
+          }
+        },
+        "id": "1933596840907194368",
+        "location": "he/they",
+        "name": "冷川緒",
+        "pinned_tweet_id": "2011506550217851089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009286882656739328/Exu94cdA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 142,
+          "like_count": 44682,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1819
+        },
+        "url": "https://t.co/HD89N6wsf8",
+        "username": "Skyrshzone",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️营业右上角搜索 #shtwt #drugtwt｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕷𝖚𝖛 𝖑𝖎𝖐𝖊 𝖗𝖔𝖈𝖐 𝖗𝖔𝖑𝖑 @Pardon_Love_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 58,
+                "tag": "shtwt"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "Pardon_Love_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/i/communities/2002034506979750304",
+                "start": 0,
+                "url": "https://t.co/NzgTJgrTtB"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "1869201059912282381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011180329244246017/MhsXEVWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5004,
+          "following_count": 158,
+          "like_count": 26782,
+          "listed_count": 8,
+          "media_count": 1171,
+          "tweet_count": 14586
+        },
+        "url": "https://t.co/NzgTJgrTtB",
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

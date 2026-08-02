@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060687362028453889",
+        "3_2060687361999044613"
+      ],
+      "media_source_tweet_id": [
+        "2060687394261569815",
+        "2060687394261569815"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2061140546744152389",
+    "created_at": "2026-05-31T17:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061140546744152389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1921133504139501568",
+          "start": 3,
+          "username": "777pmo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gehAkpOWQX",
+          "end": 35,
+          "expanded_url": "https://x.com/777pmo/status/2060687394261569815/photo/1",
+          "media_key": "3_2060687362028453889",
+          "start": 12,
+          "url": "https://t.co/gehAkpOWQX"
+        },
+        {
+          "display_url": "pic.x.com/gehAkpOWQX",
+          "end": 35,
+          "expanded_url": "https://x.com/777pmo/status/2060687394261569815/photo/1",
+          "media_key": "3_2060687361999044613",
+          "start": 12,
+          "url": "https://t.co/gehAkpOWQX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061140546744152389",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 947
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060687394261569815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @777pmo: https://t.co/gehAkpOWQX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_2060687362028453889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkIPN7XwAEbdD1.jpg",
+        "width": 959
+      },
+      {
+        "height": 669,
+        "media_key": "3_2060687361999044613",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkIPN0XAAU8kcP.jpg",
+        "width": 458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060687362028453889",
+            "3_2060687361999044613"
+          ],
+          "media_source_tweet_id": [
+            "2060687394261569815",
+            "2060687394261569815"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2061140546744152389",
+        "created_at": "2026-05-31T17:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061140546744152389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1921133504139501568",
+              "start": 3,
+              "username": "777pmo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gehAkpOWQX",
+              "end": 35,
+              "expanded_url": "https://x.com/777pmo/status/2060687394261569815/photo/1",
+              "media_key": "3_2060687362028453889",
+              "start": 12,
+              "url": "https://t.co/gehAkpOWQX"
+            },
+            {
+              "display_url": "pic.x.com/gehAkpOWQX",
+              "end": 35,
+              "expanded_url": "https://x.com/777pmo/status/2060687394261569815/photo/1",
+              "media_key": "3_2060687361999044613",
+              "start": 12,
+              "url": "https://t.co/gehAkpOWQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061140546744152389",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 947
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060687394261569815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @777pmo: https://t.co/gehAkpOWQX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060687362028453889",
+            "3_2060687361999044613"
+          ]
+        },
+        "author_id": "1921133504139501568",
+        "conversation_id": "2060687394261569815",
+        "created_at": "2026-05-30T11:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060687394261569815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gehAkpOWQX",
+              "end": 23,
+              "expanded_url": "https://x.com/777pmo/status/2060687394261569815/photo/1",
+              "media_key": "3_2060687362028453889",
+              "start": 0,
+              "url": "https://t.co/gehAkpOWQX"
+            },
+            {
+              "display_url": "pic.x.com/gehAkpOWQX",
+              "end": 23,
+              "expanded_url": "https://x.com/777pmo/status/2060687394261569815/photo/1",
+              "media_key": "3_2060687361999044613",
+              "start": 0,
+              "url": "https://t.co/gehAkpOWQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060687394261569815",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 511,
+          "impression_count": 2160208,
+          "like_count": 24463,
+          "quote_count": 219,
+          "reply_count": 49,
+          "retweet_count": 947
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gehAkpOWQX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 25,
+          "like_count": 757,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1664
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T09:21:52.000Z",
+        "description": "October cunt @mari777_angel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "mari777_angel"
+              }
+            ]
+          }
+        },
+        "id": "1921133504139501568",
+        "location": "50 dm fee",
+        "name": "777",
+        "pinned_tweet_id": "2054641468132728869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025056084115456/VyP4lGCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 210,
+          "like_count": 16794,
+          "listed_count": 2,
+          "media_count": 836,
+          "tweet_count": 4774
+        },
+        "username": "777pmo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069361413408030721",
+        "3_2069361413416464385",
+        "3_2069361413546741760",
+        "3_2069361413378736128"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2069361486074376673",
+    "created_at": "2026-06-23T10:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069361486074376673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TH74wxeyfl",
+          "end": 46,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2069361486074376673/photo/1",
+          "media_key": "3_2069361413408030721",
+          "start": 23,
+          "url": "https://t.co/TH74wxeyfl"
+        },
+        {
+          "display_url": "pic.x.com/TH74wxeyfl",
+          "end": 46,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2069361486074376673/photo/1",
+          "media_key": "3_2069361413416464385",
+          "start": 23,
+          "url": "https://t.co/TH74wxeyfl"
+        },
+        {
+          "display_url": "pic.x.com/TH74wxeyfl",
+          "end": 46,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2069361486074376673/photo/1",
+          "media_key": "3_2069361413546741760",
+          "start": 23,
+          "url": "https://t.co/TH74wxeyfl"
+        },
+        {
+          "display_url": "pic.x.com/TH74wxeyfl",
+          "end": 46,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2069361486074376673/photo/1",
+          "media_key": "3_2069361413378736128",
+          "start": 23,
+          "url": "https://t.co/TH74wxeyfl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069361486074376673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "集美，好多麻等着我去闹啊。你想闹出怎样的麻。 https://t.co/TH74wxeyfl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_2069361413408030721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfZPdYWAAE9clb.jpg",
+        "width": 765
+      },
+      {
+        "height": 599,
+        "media_key": "3_2069361413416464385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfZPdaWsAEWLAb.jpg",
+        "width": 745
+      },
+      {
+        "height": 1473,
+        "media_key": "3_2069361413546741760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfZPd5akAAPYZd.jpg",
+        "width": 739
+      },
+      {
+        "height": 536,
+        "media_key": "3_2069361413378736128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfZPdRXAAAa1ez.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069361413408030721",
+            "3_2069361413416464385",
+            "3_2069361413546741760",
+            "3_2069361413378736128"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2069361486074376673",
+        "created_at": "2026-06-23T10:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069361486074376673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TH74wxeyfl",
+              "end": 46,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2069361486074376673/photo/1",
+              "media_key": "3_2069361413408030721",
+              "start": 23,
+              "url": "https://t.co/TH74wxeyfl"
+            },
+            {
+              "display_url": "pic.x.com/TH74wxeyfl",
+              "end": 46,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2069361486074376673/photo/1",
+              "media_key": "3_2069361413416464385",
+              "start": 23,
+              "url": "https://t.co/TH74wxeyfl"
+            },
+            {
+              "display_url": "pic.x.com/TH74wxeyfl",
+              "end": 46,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2069361486074376673/photo/1",
+              "media_key": "3_2069361413546741760",
+              "start": 23,
+              "url": "https://t.co/TH74wxeyfl"
+            },
+            {
+              "display_url": "pic.x.com/TH74wxeyfl",
+              "end": 46,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2069361486074376673/photo/1",
+              "media_key": "3_2069361413378736128",
+              "start": 23,
+              "url": "https://t.co/TH74wxeyfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069361486074376673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "集美，好多麻等着我去闹啊。你想闹出怎样的麻。 https://t.co/TH74wxeyfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 26,
+          "like_count": 1064,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 2366
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

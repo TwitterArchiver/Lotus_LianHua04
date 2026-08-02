@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2071838801475846242",
+    "created_at": "2026-06-30T06:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T07:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071838801475846242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luv1187348/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/luv1187348/status/2071494900760334619",
+          "start": 16,
+          "url": "https://t.co/ayttg6LCK6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071838801475846242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071494900760334619",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个就是我家产。好浪漫好唯美吧 https://t.co/ayttg6LCK6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2071838801475846242",
+        "created_at": "2026-06-30T06:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071838801475846242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luv1187348/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/luv1187348/status/2071494900760334619",
+              "start": 16,
+              "url": "https://t.co/ayttg6LCK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071838801475846242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071494900760334619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个就是我家产。好浪漫好唯美吧 https://t.co/ayttg6LCK6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717080688342794240",
+        "conversation_id": "2071494900760334619",
+        "created_at": "2026-06-29T07:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071494900760334619"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071494900760334619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 46604,
+          "like_count": 401,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "你文化水准高，知道什么LGBT，我乡下人，我不知道我是不是男同，我爸妈从小就不要我了，村里东一口西一口混饭长大的，饥一顿饱一顿是常态，这个男的给我吃给我喝给我住，夏天还让我吹空调，操就操了，不让他操我还能干嘛，死在路边吗，我不知道你们这些大学生在想什么，我只知道幸福很难，遇到就要抓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 28,
+          "like_count": 1148,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 2596
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T07:28:41.000Z",
+        "description": "别看我长得萌就一定呆啊",
+        "id": "1717080688342794240",
+        "name": "大耳帽兜",
+        "pinned_tweet_id": "1941787163991195786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992801489765777408/ghcSPAZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 341,
+          "like_count": 780,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 2802
+        },
+        "url": "",
+        "username": "luv1187348",
+        "verified": false
+      }
+    ]
+  }
+}

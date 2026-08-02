@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061995386068217856"
+      ],
+      "media_source_tweet_id": [
+        "2061995392108036114"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2062234751734579684",
+    "created_at": "2026-06-03T18:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062234751734579684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1979698494316138496",
+          "start": 3,
+          "username": "llpipi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wTec8o3g6Q",
+          "end": 35,
+          "expanded_url": "https://x.com/llpipi/status/2061995392108036114/photo/1",
+          "media_key": "3_2061995386068217856",
+          "start": 12,
+          "url": "https://t.co/wTec8o3g6Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062234751734579684",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 780
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061995392108036114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @llpipi: https://t.co/wTec8o3g6Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_2061995386068217856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2t4PMXMAACPOx.jpg",
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061995386068217856"
+          ],
+          "media_source_tweet_id": [
+            "2061995392108036114"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2062234751734579684",
+        "created_at": "2026-06-03T18:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062234751734579684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1979698494316138496",
+              "start": 3,
+              "username": "llpipi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wTec8o3g6Q",
+              "end": 35,
+              "expanded_url": "https://x.com/llpipi/status/2061995392108036114/photo/1",
+              "media_key": "3_2061995386068217856",
+              "start": 12,
+              "url": "https://t.co/wTec8o3g6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062234751734579684",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 780
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061995392108036114",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @llpipi: https://t.co/wTec8o3g6Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061995386068217856"
+          ]
+        },
+        "author_id": "1979698494316138496",
+        "conversation_id": "2061995392108036114",
+        "created_at": "2026-06-03T02:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061995392108036114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wTec8o3g6Q",
+              "end": 23,
+              "expanded_url": "https://x.com/llpipi/status/2061995392108036114/photo/1",
+              "media_key": "3_2061995386068217856",
+              "start": 0,
+              "url": "https://t.co/wTec8o3g6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061995392108036114",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 47466,
+          "like_count": 4377,
+          "quote_count": 15,
+          "reply_count": 2,
+          "retweet_count": 780
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wTec8o3g6Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 26,
+          "like_count": 792,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1727
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T23:58:13.000Z",
+        "description": "Visuals from the other side",
+        "id": "1979698494316138496",
+        "name": "BMW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022587898940608512/XzCdZk-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16136,
+          "following_count": 0,
+          "like_count": 7947,
+          "listed_count": 22,
+          "media_count": 3464,
+          "tweet_count": 4504
+        },
+        "username": "llpipi",
+        "verified": true
+      }
+    ]
+  }
+}

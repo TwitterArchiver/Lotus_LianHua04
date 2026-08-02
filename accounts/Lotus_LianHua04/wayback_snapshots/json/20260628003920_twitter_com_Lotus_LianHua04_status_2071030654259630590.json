@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071030643593535488",
+        "3_2071030643593506816"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2071030654259630590",
+    "created_at": "2026-06-28T00:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T01:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071030654259630590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L0PF0hO6ic",
+          "end": 73,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2071030654259630590/photo/1",
+          "media_key": "3_2071030643593535488",
+          "start": 50,
+          "url": "https://t.co/L0PF0hO6ic"
+        },
+        {
+          "display_url": "pic.x.com/L0PF0hO6ic",
+          "end": 73,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2071030654259630590/photo/1",
+          "media_key": "3_2071030643593506816",
+          "start": 50,
+          "url": "https://t.co/L0PF0hO6ic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071030654259630590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我说真的我爹是维多利亚时代的英国人吧，发育成熟了就要把小孩弄出去打工，他的大脑里没有青少年这个概念 https://t.co/L0PF0hO6ic"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 779,
+        "media_key": "3_2071030643593535488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3HZcZXYAA89C5.jpg",
+        "width": 741
+      },
+      {
+        "height": 792,
+        "media_key": "3_2071030643593506816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3HZcZW8AATXJH.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071030643593535488",
+            "3_2071030643593506816"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2071030654259630590",
+        "created_at": "2026-06-28T00:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T01:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071030654259630590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L0PF0hO6ic",
+              "end": 73,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2071030654259630590/photo/1",
+              "media_key": "3_2071030643593535488",
+              "start": 50,
+              "url": "https://t.co/L0PF0hO6ic"
+            },
+            {
+              "display_url": "pic.x.com/L0PF0hO6ic",
+              "end": 73,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2071030654259630590/photo/1",
+              "media_key": "3_2071030643593506816",
+              "start": 50,
+              "url": "https://t.co/L0PF0hO6ic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071030654259630590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说真的我爹是维多利亚时代的英国人吧，发育成熟了就要把小孩弄出去打工，他的大脑里没有青少年这个概念 https://t.co/L0PF0hO6ic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 26,
+          "like_count": 1094,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 2487
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

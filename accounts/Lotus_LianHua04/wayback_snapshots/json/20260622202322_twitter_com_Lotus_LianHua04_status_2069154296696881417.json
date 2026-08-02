@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2069154296696881417",
+    "created_at": "2026-06-22T20:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T21:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069154296696881417"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069154296696881417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "pov：当那个和你每天都聊一通宵的天使女孩在得知你的精神病治不好是遗传的时候突然对你恶语相向并把你拉进一个有很多她的“姐姐”的群想让你在她们说完几句话之后突然变成一个健全的“强女”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2069154296696881417",
+        "created_at": "2026-06-22T20:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T21:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069154296696881417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069154296696881417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pov：当那个和你每天都聊一通宵的天使女孩在得知你的精神病治不好是遗传的时候突然对你恶语相向并把你拉进一个有很多她的“姐姐”的群想让你在她们说完几句话之后突然变成一个健全的“强女”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 26,
+          "like_count": 1054,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 2344
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

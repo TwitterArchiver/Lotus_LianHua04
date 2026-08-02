@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Vaping",
+          "id": "1047109035600764929",
+          "name": "Vaping"
+        }
+      }
+    ],
+    "conversation_id": "2071680783098523920",
+    "created_at": "2026-06-29T19:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T20:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071680783098523920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2598018877",
+          "start": 3,
+          "username": "europemaxxed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071680783098523920",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7052
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071354700826624450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @europemaxxed: Would you please not vape your fruity flavor around my kids? my wife and i are raising them organically on Marlboro reds"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2071680783098523920",
+        "created_at": "2026-06-29T19:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T20:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071680783098523920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2598018877",
+              "start": 3,
+              "username": "europemaxxed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071680783098523920",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7052
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071354700826624450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @europemaxxed: Would you please not vape your fruity flavor around my kids? my wife and i are raising them organically on Marlboro reds"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2598018877",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2071354700826624450",
+        "created_at": "2026-06-28T22:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T23:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071354700826624450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071354700826624450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1446,
+          "impression_count": 1255866,
+          "like_count": 81299,
+          "quote_count": 110,
+          "reply_count": 118,
+          "retweet_count": 7052
+        },
+        "reply_settings": "everyone",
+        "text": "Would you please not vape your fruity flavor around my kids? my wife and i are raising them organically on Marlboro reds"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 28,
+          "like_count": 1137,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 2583
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-01T13:28:42.000Z",
+        "description": "If I'm an advocate for anything, it's to move",
+        "id": "2598018877",
+        "location": "Denmark | Europe",
+        "name": "Mads",
+        "pinned_tweet_id": "2008925990060183782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053397653631721478/fhQgTcio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181683,
+          "following_count": 268,
+          "like_count": 68014,
+          "listed_count": 303,
+          "media_count": 5460,
+          "tweet_count": 7331
+        },
+        "url": "",
+        "username": "europemaxxed",
+        "verified": true
+      }
+    ]
+  }
+}

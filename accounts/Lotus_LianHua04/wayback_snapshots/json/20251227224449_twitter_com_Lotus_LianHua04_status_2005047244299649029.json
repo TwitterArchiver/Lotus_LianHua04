@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2005047244299649029",
+    "created_at": "2025-12-27T22:44:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T23:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005047244299649029"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/swii100/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/swii100/status/2004639508571324717",
+          "start": 5,
+          "url": "https://t.co/84mr0KSXap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005047244299649029",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004639508571324717",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "永久心情 https://t.co/84mr0KSXap"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1512,
+        "media_key": "3_2004639499775606785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9HpAQbXgAEMKcK.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2005047244299649029",
+        "created_at": "2025-12-27T22:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T23:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005047244299649029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/swii100/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/swii100/status/2004639508571324717",
+              "start": 5,
+              "url": "https://t.co/84mr0KSXap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005047244299649029",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004639508571324717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "永久心情 https://t.co/84mr0KSXap"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004639499775606785"
+          ]
+        },
+        "author_id": "1737632523436298240",
+        "conversation_id": "2004639508571324717",
+        "created_at": "2025-12-26T19:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T20:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004639508571324717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/24fzfO8DNW",
+              "end": 23,
+              "expanded_url": "https://x.com/swii100/status/2004639508571324717/photo/1",
+              "media_key": "3_2004639499775606785",
+              "start": 0,
+              "url": "https://t.co/24fzfO8DNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004639508571324717",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6383,
+          "impression_count": 13545382,
+          "like_count": 76955,
+          "quote_count": 578,
+          "reply_count": 339,
+          "retweet_count": 12716
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/24fzfO8DNW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003156132467261440/hf-wJIXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 5,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 146
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T00:34:20.000Z",
+        "description": "chil chil!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/Sss.teel/top3",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/Sss.teel/top3",
+                "start": 0,
+                "url": "https://t.co/slRB6r6wYO"
+              }
+            ]
+          }
+        },
+        "id": "1737632523436298240",
+        "location": "الطايف",
+        "name": "سعد",
+        "pinned_tweet_id": "1746764491252015471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750228349929029632/cl2Hw6zE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 178,
+          "like_count": 18282,
+          "listed_count": 2,
+          "media_count": 2836,
+          "tweet_count": 17514
+        },
+        "url": "https://t.co/slRB6r6wYO",
+        "username": "swii100",
+        "verified": false
+      }
+    ]
+  }
+}

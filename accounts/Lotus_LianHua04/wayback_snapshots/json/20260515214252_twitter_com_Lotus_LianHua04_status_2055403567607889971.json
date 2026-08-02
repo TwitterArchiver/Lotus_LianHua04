@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055021217841831936"
+      ],
+      "media_source_tweet_id": [
+        "2055021220903735790"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2055403567607889971",
+    "created_at": "2026-05-15T21:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T22:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055403567607889971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1549276129055256576",
+          "start": 3,
+          "username": "Guttergore1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GBkmNMYWF6",
+          "end": 40,
+          "expanded_url": "https://x.com/Guttergore1/status/2055021220903735790/photo/1",
+          "media_key": "3_2055021217841831936",
+          "start": 17,
+          "url": "https://t.co/GBkmNMYWF6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055403567607889971",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1752
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055021220903735790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Guttergore1: https://t.co/GBkmNMYWF6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 965,
+        "media_key": "3_2055021217841831936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITm6N9aYAAlguj.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055021217841831936"
+          ],
+          "media_source_tweet_id": [
+            "2055021220903735790"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2055403567607889971",
+        "created_at": "2026-05-15T21:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T22:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055403567607889971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1549276129055256576",
+              "start": 3,
+              "username": "Guttergore1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBkmNMYWF6",
+              "end": 40,
+              "expanded_url": "https://x.com/Guttergore1/status/2055021220903735790/photo/1",
+              "media_key": "3_2055021217841831936",
+              "start": 17,
+              "url": "https://t.co/GBkmNMYWF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055403567607889971",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1752
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055021220903735790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Guttergore1: https://t.co/GBkmNMYWF6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055021217841831936"
+          ]
+        },
+        "author_id": "1549276129055256576",
+        "conversation_id": "2055021220903735790",
+        "created_at": "2026-05-14T20:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T21:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055021220903735790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBkmNMYWF6",
+              "end": 23,
+              "expanded_url": "https://x.com/Guttergore1/status/2055021220903735790/photo/1",
+              "media_key": "3_2055021217841831936",
+              "start": 0,
+              "url": "https://t.co/GBkmNMYWF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055021220903735790",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 223,
+          "impression_count": 95138,
+          "like_count": 8560,
+          "quote_count": 45,
+          "reply_count": 5,
+          "retweet_count": 1752
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GBkmNMYWF6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 21,
+          "like_count": 698,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1503
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T06:13:15.000Z",
+        "description": "𐦍⋅˚₊🩵☆ ⋆ﾟ⊹ 💿 hihi ♡ 🍶 ## 🩹૮₍ ´𖦹 ˕ ×` ₎ა ♱ 🫧🫧 i ♡ figures🪽 ꒰აꨄ︎໒꒱ ⌨️ `✦ ˑ ִֶ 𓂃⊹ ^^🎧 ★?//red wine and cigarettes ♥︎ 🫗 yaoi ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/guttergore1",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/guttergore1",
+                "start": 0,
+                "url": "https://t.co/gbFRxr8ywu"
+              }
+            ]
+          }
+        },
+        "id": "1549276129055256576",
+        "location": "{23}☆⌒ ₍ᐢ ̥ ̞ ̥ᐢ₎ ",
+        "name": "★？♡ ✚！",
+        "pinned_tweet_id": "2013078417793814535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000780891397001216/6DVMPxsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109610,
+          "following_count": 558,
+          "like_count": 93417,
+          "listed_count": 178,
+          "media_count": 8192,
+          "tweet_count": 40702
+        },
+        "url": "https://t.co/gbFRxr8ywu",
+        "username": "Guttergore1",
+        "verified": true
+      }
+    ]
+  }
+}

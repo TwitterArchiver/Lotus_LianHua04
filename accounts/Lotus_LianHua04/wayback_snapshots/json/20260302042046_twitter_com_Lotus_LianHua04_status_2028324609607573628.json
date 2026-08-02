@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2028324609607573628",
+    "created_at": "2026-03-02T04:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T05:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028324609607573628"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028324609607573628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真正的爱应该是包容我。如果你无法做到又不会谴责你，是你控制我伤害我还非要说这是爱我。我没要你爱我啊，你承认你这是伤害我有什么不行的。一直是你自己不肯承认而已，我从来没强迫别人爱我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2028324609607573628",
+        "created_at": "2026-03-02T04:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028324609607573628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028324609607573628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真正的爱应该是包容我。如果你无法做到又不会谴责你，是你控制我伤害我还非要说这是爱我。我没要你爱我啊，你承认你这是伤害我有什么不行的。一直是你自己不肯承认而已，我从来没强迫别人爱我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 17,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 681
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2010656985323315211",
+    "created_at": "2026-01-12T10:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T11:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010656985323315211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kitty068_ly/st…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/kitty068_ly/status/2010540118298198043",
+          "start": 91,
+          "url": "https://t.co/TD6LnUUMpx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010656985323315211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010540118298198043",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实后面那种就像男同性恋的“体育生”“黑皮”“纯🔝”这些词条。。有一个不吓人但如果有人自称他是“纯top黑皮体育生”那他大概疯了很多年了。大女主高能量吸引力法则小蝴蝶小老头同理。。 https://t.co/TD6LnUUMpx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2010656985323315211",
+        "created_at": "2026-01-12T10:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010656985323315211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kitty068_ly/st…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/kitty068_ly/status/2010540118298198043",
+              "start": 91,
+              "url": "https://t.co/TD6LnUUMpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010656985323315211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010540118298198043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实后面那种就像男同性恋的“体育生”“黑皮”“纯🔝”这些词条。。有一个不吓人但如果有人自称他是“纯top黑皮体育生”那他大概疯了很多年了。大女主高能量吸引力法则小蝴蝶小老头同理。。 https://t.co/TD6LnUUMpx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741063508102627328",
+        "conversation_id": "2010540118298198043",
+        "created_at": "2026-01-12T02:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T03:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010540118298198043"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010540118298198043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4361,
+          "like_count": 94,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "一个说自己是婊子餐券精神病脑残的人比说自己是大女主高能量向上社交磁场正念快乐小狗小蝴蝶的人要好相处，自称精神病的人不一定发疯但是爱说自己正常的人一定自私狭隘而且爱审判别人是否符合自己的正常标准"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007192426985992192/ko8Vx42m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 7,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 341
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "千万不能让它知道海的那边有什么",
+        "id": "1741063508102627328",
+        "location": "Fall in love",
+        "name": "异子而食",
+        "pinned_tweet_id": "2010537941366620274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010299285691396096/xLggXpgG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 220,
+          "like_count": 1404,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1148
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

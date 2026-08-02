@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064019402442358785"
+      ],
+      "media_source_tweet_id": [
+        "2064019459505881504"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2064737409112134113",
+    "created_at": "2026-06-10T15:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064737409112134113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1999912652756430850",
+          "start": 3,
+          "username": "oversizedsuit06"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xu7vXgUcxJ",
+          "end": 72,
+          "expanded_url": "https://x.com/oversizedsuit06/status/2064019459505881504/photo/1",
+          "media_key": "3_2064019402442358785",
+          "start": 49,
+          "url": "https://t.co/Xu7vXgUcxJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064737409112134113",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064019459505881504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oversizedsuit06: this was funnier in my head https://t.co/Xu7vXgUcxJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2064019402442358785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTetfwXQAEVa2h.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064019402442358785"
+          ],
+          "media_source_tweet_id": [
+            "2064019459505881504"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2064737409112134113",
+        "created_at": "2026-06-10T15:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064737409112134113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1999912652756430850",
+              "start": 3,
+              "username": "oversizedsuit06"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xu7vXgUcxJ",
+              "end": 72,
+              "expanded_url": "https://x.com/oversizedsuit06/status/2064019459505881504/photo/1",
+              "media_key": "3_2064019402442358785",
+              "start": 49,
+              "url": "https://t.co/Xu7vXgUcxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064737409112134113",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064019459505881504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oversizedsuit06: this was funnier in my head https://t.co/Xu7vXgUcxJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064019402442358785"
+          ]
+        },
+        "author_id": "1999912652756430850",
+        "conversation_id": "2064019459505881504",
+        "created_at": "2026-06-08T16:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064019459505881504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xu7vXgUcxJ",
+              "end": 51,
+              "expanded_url": "https://x.com/oversizedsuit06/status/2064019459505881504/photo/1",
+              "media_key": "3_2064019402442358785",
+              "start": 28,
+              "url": "https://t.co/Xu7vXgUcxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064019459505881504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 451,
+          "impression_count": 113569,
+          "like_count": 13965,
+          "quote_count": 14,
+          "reply_count": 41,
+          "retweet_count": 1136
+        },
+        "reply_settings": "everyone",
+        "text": "this was funnier in my head https://t.co/Xu7vXgUcxJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 27,
+          "like_count": 881,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1936
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T18:42:04.000Z",
+        "description": "realest I’ve been | tumblr user",
+        "id": "1999912652756430850",
+        "location": "19 & stupid ",
+        "name": "𝜗𝜚",
+        "pinned_tweet_id": "2028713594498551995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003727136419414016/Qbz4cLFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 267,
+          "like_count": 2528,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 472
+        },
+        "username": "oversizedsuit06",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2036607125875728457",
+    "created_at": "2026-03-25T00:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T01:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036607125875728457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/salviaswc/stat…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/salviaswc/status/2036600198688891040",
+          "start": 37,
+          "url": "https://t.co/SSc20rdnKv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036607125875728457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036600198688891040",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在开药甚至比之前更方便了，昨天晚上处方单发出去几乎没有说“有涂改痕迹” https://t.co/SSc20rdnKv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2036507793557954560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMhDGFWIAAzvVw.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036508423970287616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMhnyjW8AAdchM.jpg",
+        "width": 965
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2036607125875728457",
+        "created_at": "2026-03-25T00:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T01:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036607125875728457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/salviaswc/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/salviaswc/status/2036600198688891040",
+              "start": 37,
+              "url": "https://t.co/SSc20rdnKv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036607125875728457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036600198688891040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在开药甚至比之前更方便了，昨天晚上处方单发出去几乎没有说“有涂改痕迹” https://t.co/SSc20rdnKv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036507793557954560",
+            "3_2036508423970287616"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2036600198688891040",
+        "created_at": "2026-03-25T00:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T01:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036600198688891040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/96AHDR5tok",
+              "end": 146,
+              "expanded_url": "https://x.com/SalviaSWC/status/2036600198688891040/photo/1",
+              "media_key": "3_2036507793557954560",
+              "start": 123,
+              "url": "https://t.co/96AHDR5tok"
+            },
+            {
+              "display_url": "pic.x.com/96AHDR5tok",
+              "end": 146,
+              "expanded_url": "https://x.com/SalviaSWC/status/2036600198688891040/photo/1",
+              "media_key": "3_2036508423970287616",
+              "start": 123,
+              "url": "https://t.co/96AHDR5tok"
+            },
+            {
+              "display_url": "x.com/yaowubaike/sta…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/yaowubaike/status/2036422538436432030",
+              "start": 147,
+              "url": "https://t.co/NlKZMzI4C3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036600198688891040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036422538436432030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么还有人有这种想法，有意无意地散布焦虑?大家可看好了，全国药监局没有任何动态。这就意味着除非你是云南人，否则(目前)不会受到影响。\n\n建议大家别整天盯着李云齐看，人家的语言能力甚至无法让他利索地组织个标题，能传达给大家的信息的质量又能有多高? https://t.co/96AHDR5tok https://t.co/NlKZMzI4C3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 21,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 929
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n本号暂为2026中推模拟大选🗳️OD党临时发言号📢|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿（中推OD党版）",
+        "pinned_tweet_id": "2036091782501433723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3622,
+          "following_count": 979,
+          "like_count": 21582,
+          "listed_count": 9,
+          "media_count": 392,
+          "tweet_count": 6453
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

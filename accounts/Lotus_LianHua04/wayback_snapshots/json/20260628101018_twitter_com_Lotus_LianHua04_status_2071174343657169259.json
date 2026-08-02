@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2071174343657169259",
+    "created_at": "2026-06-28T10:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T11:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071174343657169259"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071174343657169259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有点压抑了。我想问问我的神婆人格在夏天结束之前我能谈上恋爱不。但之前我问过一个在我生日之前能谈上恋爱么，神婆人格说可以，但神婆人格在四月初送来一个傻逼。我朋友发了张有我和她头像的照片在说说我转发了，之后对面就“你转发的照片里那些人不是你朋友么你怎么不叫她们陪你？”我好无奈鸭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2071174343657169259",
+        "created_at": "2026-06-28T10:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071174343657169259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071174343657169259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有点压抑了。我想问问我的神婆人格在夏天结束之前我能谈上恋爱不。但之前我问过一个在我生日之前能谈上恋爱么，神婆人格说可以，但神婆人格在四月初送来一个傻逼。我朋友发了张有我和她头像的照片在说说我转发了，之后对面就“你转发的照片里那些人不是你朋友么你怎么不叫她们陪你？”我好无奈鸭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 26,
+          "like_count": 1102,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 2528
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2034742262178226314",
+    "created_at": "2026-03-19T21:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T22:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034742262178226314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1986453582716280834",
+          "start": 3,
+          "username": "darawkko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034742262178226314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034636234077962699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @darawkko: 宝宝大烟馆正式开张：这里免费提供右美沙芬、普瑞巴林、思诺思、愈美、白兔、金刚烷胺、甘草片、止咳糖浆等基础款娱乐药物，重量级嘉宾曲马多、地西泮、吗啡、芬太尼，以及彩蛋项目魔法邮票、魔法香烟，另外还有百年老资历鸦片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2034742262178226314",
+        "created_at": "2026-03-19T21:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T22:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034742262178226314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1986453582716280834",
+              "start": 3,
+              "username": "darawkko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034742262178226314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034636234077962699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @darawkko: 宝宝大烟馆正式开张：这里免费提供右美沙芬、普瑞巴林、思诺思、愈美、白兔、金刚烷胺、甘草片、止咳糖浆等基础款娱乐药物，重量级嘉宾曲马多、地西泮、吗啡、芬太尼，以及彩蛋项目魔法邮票、魔法香烟，另外还有百年老资历鸦片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986453582716280834",
+        "conversation_id": "2034636234077962699",
+        "created_at": "2026-03-19T14:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034636234077962699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034636234077962699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2801,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝大烟馆正式开张：这里免费提供右美沙芬、普瑞巴林、思诺思、愈美、白兔、金刚烷胺、甘草片、止咳糖浆等基础款娱乐药物，重量级嘉宾曲马多、地西泮、吗啡、芬太尼，以及彩蛋项目魔法邮票、魔法香烟，另外还有百年老资历鸦片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 20,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 853
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:20:37.000Z",
+        "description": "♡pansexual ˙˚ʚ( ´ᵕ`⸝⸝⸝ )ɞ˚˙//记录电波发送全过程的赛博日记本(〃ω〃)ᰔ｡ﾟ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/soislove",
+                "end": 23,
+                "expanded_url": "https://ngl.link/soislove",
+                "start": 0,
+                "url": "https://t.co/ul5u3lLf1I"
+              }
+            ]
+          }
+        },
+        "id": "1986453582716280834",
+        "location": "☕️",
+        "name": "✞soizepam✞",
+        "pinned_tweet_id": "1995129414762291412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025210016291033089/eQnDkr6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 241,
+          "like_count": 7913,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 3957
+        },
+        "url": "https://t.co/ul5u3lLf1I",
+        "username": "darawkko",
+        "verified": false
+      }
+    ]
+  }
+}

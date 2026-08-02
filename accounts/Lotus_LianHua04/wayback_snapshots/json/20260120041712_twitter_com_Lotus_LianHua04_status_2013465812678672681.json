@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2013465812678672681",
+    "created_at": "2026-01-20T04:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T05:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013465812678672681"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 141,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2013464999570874470",
+          "start": 118,
+          "url": "https://t.co/e1gLi2fYIr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013465812678672681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013464999570874470",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最好笑的事他好像以为我是听不懂粤语也不会说，为了嗑药(好励志)才现学了几句。实际上我听得懂只是说不好。于是他和那个拿药的人对话是“點解今次佢拿咁多”“佢哋呢種人都係咁樣啦，愈加愈多”我假装真的听不懂，傻傻地笑着又拿了一瓶佩夫人一起结账 https://t.co/e1gLi2fYIr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2013465812678672681",
+        "created_at": "2026-01-20T04:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T05:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013465812678672681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2013464999570874470",
+              "start": 118,
+              "url": "https://t.co/e1gLi2fYIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013465812678672681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013464999570874470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最好笑的事他好像以为我是听不懂粤语也不会说，为了嗑药(好励志)才现学了几句。实际上我听得懂只是说不好。于是他和那个拿药的人对话是“點解今次佢拿咁多”“佢哋呢種人都係咁樣啦，愈加愈多”我假装真的听不懂，傻傻地笑着又拿了一瓶佩夫人一起结账 https://t.co/e1gLi2fYIr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2013464999570874470",
+        "created_at": "2026-01-20T04:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T05:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013464999570874470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2013464597043228833",
+              "start": 128,
+              "url": "https://t.co/lENim15EDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013464999570874470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013464597043228833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一开始我还不知道散卖一次能买多少，他笑得很灿烂说你有多少钱就给你多少，我可以给你一整瓶一千港币的。我当时没要，就买了一百还是一百五十粒。再之后开始卖，就买得越来越多，他开始用一种复杂的眼神看着我。三分忧愁三分尴尬三分鄙夷一分“你是不是还有注射毒品”的探究 https://t.co/lENim15EDU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 9,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 410
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

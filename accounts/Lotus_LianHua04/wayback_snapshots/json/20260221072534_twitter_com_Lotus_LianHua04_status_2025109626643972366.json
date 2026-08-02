@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025030433163956224"
+      ],
+      "media_source_tweet_id": [
+        "2025030439811891448"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2025109626643972366",
+    "created_at": "2026-02-21T07:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025109626643972366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2876562028",
+          "start": 3,
+          "username": "Elparaguayo1231"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XIwYtf3Seo",
+          "end": 44,
+          "expanded_url": "https://x.com/Elparaguayo1231/status/2025030439811891448/photo/1",
+          "media_key": "3_2025030433163956224",
+          "start": 21,
+          "url": "https://t.co/XIwYtf3Seo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025109626643972366",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 348
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025030439811891448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Elparaguayo1231: https://t.co/XIwYtf3Seo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 857,
+        "media_key": "3_2025030433163956224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpacywX0AAAy2m.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025030433163956224"
+          ],
+          "media_source_tweet_id": [
+            "2025030439811891448"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2025109626643972366",
+        "created_at": "2026-02-21T07:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025109626643972366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2876562028",
+              "start": 3,
+              "username": "Elparaguayo1231"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XIwYtf3Seo",
+              "end": 44,
+              "expanded_url": "https://x.com/Elparaguayo1231/status/2025030439811891448/photo/1",
+              "media_key": "3_2025030433163956224",
+              "start": 21,
+              "url": "https://t.co/XIwYtf3Seo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025109626643972366",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 348
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025030439811891448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Elparaguayo1231: https://t.co/XIwYtf3Seo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025030433163956224"
+          ]
+        },
+        "author_id": "2876562028",
+        "conversation_id": "2025030439811891448",
+        "created_at": "2026-02-21T02:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T03:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025030439811891448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XIwYtf3Seo",
+              "end": 23,
+              "expanded_url": "https://x.com/Elparaguayo1231/status/2025030439811891448/photo/1",
+              "media_key": "3_2025030433163956224",
+              "start": 0,
+              "url": "https://t.co/XIwYtf3Seo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025030439811891448",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 18942,
+          "like_count": 2678,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 348
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XIwYtf3Seo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 16,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 622
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-14T15:35:49.000Z",
+        "description": "La comunidad 420 más grande",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/elparaguave",
+                "end": 23,
+                "expanded_url": "http://instagram.com/elparaguave",
+                "start": 0,
+                "url": "https://t.co/MV0liXOPQc"
+              }
+            ]
+          }
+        },
+        "id": "2876562028",
+        "name": "El Paragua Venenoso",
+        "pinned_tweet_id": "1816979795261161609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505347084693610501/g8yL6kL3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558738,
+          "following_count": 129,
+          "like_count": 10815,
+          "listed_count": 247,
+          "media_count": 8780,
+          "tweet_count": 22863
+        },
+        "url": "https://t.co/MV0liXOPQc",
+        "username": "Elparaguayo1231",
+        "verified": true
+      }
+    ]
+  }
+}

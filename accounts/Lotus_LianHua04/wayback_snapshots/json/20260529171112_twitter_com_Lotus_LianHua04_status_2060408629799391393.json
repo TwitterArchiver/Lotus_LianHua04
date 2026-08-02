@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2060408629799391393",
+    "created_at": "2026-05-29T17:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060408629799391393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1776328627057041408",
+          "start": 3,
+          "username": "fodaseluna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060408629799391393",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2638
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060065189291065716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fodaseluna: queria morar sozinha pra andar pelada com um cigarro aceso na boca"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2060408629799391393",
+        "created_at": "2026-05-29T17:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060408629799391393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776328627057041408",
+              "start": 3,
+              "username": "fodaseluna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060408629799391393",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2638
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060065189291065716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fodaseluna: queria morar sozinha pra andar pelada com um cigarro aceso na boca"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776328627057041408",
+        "conversation_id": "2060065189291065716",
+        "created_at": "2026-05-28T18:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060065189291065716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060065189291065716",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 121930,
+          "like_count": 9965,
+          "quote_count": 360,
+          "reply_count": 72,
+          "retweet_count": 2638
+        },
+        "reply_settings": "everyone",
+        "text": "queria morar sozinha pra andar pelada com um cigarro aceso na boca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 25,
+          "like_count": 743,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1660
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T19:18:51.000Z",
+        "description": "medos bobos e pensamentos absurdos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "guns.lol/luniska",
+                "end": 23,
+                "expanded_url": "https://guns.lol/luniska",
+                "start": 0,
+                "url": "https://t.co/RwH01qOtFH"
+              }
+            ]
+          }
+        },
+        "id": "1776328627057041408",
+        "name": "nicotina games",
+        "pinned_tweet_id": "2055703898606752186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055346593608421377/7jPNST60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 192,
+          "like_count": 6899,
+          "listed_count": 0,
+          "media_count": 573,
+          "tweet_count": 3989
+        },
+        "url": "https://t.co/RwH01qOtFH",
+        "username": "fodaseluna",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2028320475688878497",
+    "created_at": "2026-03-02T04:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T05:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028320475688878497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1984623209707384832",
+          "start": 3,
+          "username": "8964TianAnMens"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028320475688878497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028017005992038496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964TianAnMens: 没去过中国的外国人，如果在网上和中国人大聊中国，中国人一般的话术就是：你来过中国吗？你了解中国吗？你都没来过中国，你凭什么谈？你这都是造谣，滚\n\n没去过外国的中国人谈到外国就是：我有一个朋友，我有一个亲戚，我听说一个真实的故事，这些就是真…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2028320475688878497",
+        "created_at": "2026-03-02T04:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028320475688878497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1984623209707384832",
+              "start": 3,
+              "username": "8964TianAnMens"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028320475688878497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028017005992038496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964TianAnMens: 没去过中国的外国人，如果在网上和中国人大聊中国，中国人一般的话术就是：你来过中国吗？你了解中国吗？你都没来过中国，你凭什么谈？你这都是造谣，滚\n\n没去过外国的中国人谈到外国就是：我有一个朋友，我有一个亲戚，我听说一个真实的故事，这些就是真…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984623209707384832",
+        "conversation_id": "2028017005992038496",
+        "created_at": "2026-03-01T07:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T08:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028017005992038496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028017005992038496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4065,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "没去过中国的外国人，如果在网上和中国人大聊中国，中国人一般的话术就是：你来过中国吗？你了解中国吗？你都没来过中国，你凭什么谈？你这都是造谣，滚\n\n没去过外国的中国人谈到外国就是：我有一个朋友，我有一个亲戚，我听说一个真实的故事，这些就是真的，别问我怎么知道，我就是知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 17,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 672
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T14:09:47.000Z",
+        "description": "滞纳人应该冷静     二号机@8964TianAnMenss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "8964TianAnMenss"
+              }
+            ]
+          }
+        },
+        "id": "1984623209707384832",
+        "name": "习泽东与毛近平",
+        "pinned_tweet_id": "2017597926890213643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984626943904694272/Dm1RoiKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 279,
+          "like_count": 118,
+          "listed_count": 9,
+          "media_count": 1068,
+          "tweet_count": 3508
+        },
+        "username": "8964TianAnMens",
+        "verified": false
+      }
+    ]
+  }
+}

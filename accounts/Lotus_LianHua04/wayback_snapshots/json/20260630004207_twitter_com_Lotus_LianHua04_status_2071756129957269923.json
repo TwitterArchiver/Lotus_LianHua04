@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071756110894161920"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2071756129957269923",
+    "created_at": "2026-06-30T00:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T01:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071756129957269923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G3eYM75BNM",
+          "end": 74,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2071756129957269923/photo/1",
+          "media_key": "3_2071756110894161920",
+          "start": 51,
+          "url": "https://t.co/G3eYM75BNM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071756129957269923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧是划蓝线的是因为只有别人给我吸了两口不知道算不算。我发现我吃到一种我觉得爽的药就不会想尝试新的了 https://t.co/G3eYM75BNM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1249,
+        "media_key": "3_2071756110894161920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBbNMsXYAArFUM.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071756110894161920"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2071756129957269923",
+        "created_at": "2026-06-30T00:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071756129957269923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3eYM75BNM",
+              "end": 74,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2071756129957269923/photo/1",
+              "media_key": "3_2071756110894161920",
+              "start": 51,
+              "url": "https://t.co/G3eYM75BNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071756129957269923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧是划蓝线的是因为只有别人给我吸了两口不知道算不算。我发现我吃到一种我觉得爽的药就不会想尝试新的了 https://t.co/G3eYM75BNM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 28,
+          "like_count": 1144,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 2589
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

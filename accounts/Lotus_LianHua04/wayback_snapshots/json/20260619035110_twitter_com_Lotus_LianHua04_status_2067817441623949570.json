@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2067817441623949570",
+    "created_at": "2026-06-19T03:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067817441623949570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shannasparkleo…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/shannasparkleof/status/2067675161063538883",
+          "start": 13,
+          "url": "https://t.co/P2DjH29nyR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067817441623949570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067675161063538883",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我怎么又觉得这是我家产呢 https://t.co/P2DjH29nyR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_2067675156504248320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHbmY5WAAAcPPL.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2067817441623949570",
+        "created_at": "2026-06-19T03:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067817441623949570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shannasparkleo…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/shannasparkleof/status/2067675161063538883",
+              "start": 13,
+              "url": "https://t.co/P2DjH29nyR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067817441623949570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067675161063538883",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我怎么又觉得这是我家产呢 https://t.co/P2DjH29nyR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067675156504248320"
+          ]
+        },
+        "author_id": "733969720827740160",
+        "conversation_id": "2067675161063538883",
+        "created_at": "2026-06-18T18:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067675161063538883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a1L6PBl6TX",
+              "end": 124,
+              "expanded_url": "https://x.com/shannasparkleof/status/2067675161063538883/photo/1",
+              "media_key": "3_2067675156504248320",
+              "start": 101,
+              "url": "https://t.co/a1L6PBl6TX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067675161063538883",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1185,
+          "impression_count": 391815,
+          "like_count": 23748,
+          "quote_count": 403,
+          "reply_count": 540,
+          "retweet_count": 2116
+        },
+        "reply_settings": "everyone",
+        "text": "Mes sœurs qu’Allah vous accorde un homme pieux comme le mien, qui porte son voile sans discuter 🤲🏻❤️ https://t.co/a1L6PBl6TX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 25,
+          "like_count": 993,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 2192
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-21T10:36:32.000Z",
+        "description": "🫰🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/shannasparkle",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/shannasparkle",
+                "start": 0,
+                "url": "https://t.co/bmI4bOef90"
+              }
+            ]
+          }
+        },
+        "id": "733969720827740160",
+        "name": "Shanna✨",
+        "pinned_tweet_id": "2067675161063538883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675276981444608/BtvD39BJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28254,
+          "following_count": 911,
+          "like_count": 30076,
+          "listed_count": 51,
+          "media_count": 4722,
+          "tweet_count": 17056
+        },
+        "url": "https://t.co/bmI4bOef90",
+        "username": "shannasparkleof",
+        "verified": false
+      }
+    ]
+  }
+}

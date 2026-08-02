@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2069742228293996959",
+    "created_at": "2026-06-24T11:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069742228293996959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "The Cultural Revolution (1966-1976), one of the darkest moments in twentieth-century Chinese history, has long been seen as a political tragedy linked with power struggles, ruthless violence, and even mass hysteria, but never with \"sex.\" Personal accounts of the events complicate the public narrative, however. In three Red Guard memoirs—Anchee Min's Red Azalea (1995), Rae Yang's Spider Eaters (1997), and Liang Xiaosheng's Confession of a Red Guard (Yige hongweibing di zibai, 1988), the writers drastically contradict the typical perception, recounting revolutionary experiences that were charged with sexual escapades and erotic fantasies. Rather than producing a \"sexless\" young generation of Red Guards as the conventional story asserts, the ideal of an \"androgynous\" hero during the Cultural Revolution, with Chairman Mao Zedong himself as the ultimate model, put forward a new sex symbol that merged political conviction with sexual desire. The aim of this project is, on one hand, to examin",
+          "display_url": "digital.car.chula.ac.th/arv/vol19/iss1…",
+          "end": 23,
+          "expanded_url": "https://digital.car.chula.ac.th/arv/vol19/iss1/2/",
+          "start": 0,
+          "status": 200,
+          "title": "Desiring revolution and revolutionary desire: gender, sexuality, and politics in three Cultural Revolution memoirs",
+          "unwound_url": "https://digital.car.chula.ac.th/arv/vol19/iss1/2/",
+          "url": "https://t.co/ZC4FPVLhpQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069742228293996959",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ZC4FPVLhpQ看得我好难绷但是我一想到我家里真有这种人我更难绷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2069742228293996959",
+        "created_at": "2026-06-24T11:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069742228293996959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "The Cultural Revolution (1966-1976), one of the darkest moments in twentieth-century Chinese history, has long been seen as a political tragedy linked with power struggles, ruthless violence, and even mass hysteria, but never with \"sex.\" Personal accounts of the events complicate the public narrative, however. In three Red Guard memoirs—Anchee Min's Red Azalea (1995), Rae Yang's Spider Eaters (1997), and Liang Xiaosheng's Confession of a Red Guard (Yige hongweibing di zibai, 1988), the writers drastically contradict the typical perception, recounting revolutionary experiences that were charged with sexual escapades and erotic fantasies. Rather than producing a \"sexless\" young generation of Red Guards as the conventional story asserts, the ideal of an \"androgynous\" hero during the Cultural Revolution, with Chairman Mao Zedong himself as the ultimate model, put forward a new sex symbol that merged political conviction with sexual desire. The aim of this project is, on one hand, to examin",
+              "display_url": "digital.car.chula.ac.th/arv/vol19/iss1…",
+              "end": 23,
+              "expanded_url": "https://digital.car.chula.ac.th/arv/vol19/iss1/2/",
+              "start": 0,
+              "status": 200,
+              "title": "Desiring revolution and revolutionary desire: gender, sexuality, and politics in three Cultural Revolution memoirs",
+              "unwound_url": "https://digital.car.chula.ac.th/arv/vol19/iss1/2/",
+              "url": "https://t.co/ZC4FPVLhpQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069742228293996959",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZC4FPVLhpQ看得我好难绷但是我一想到我家里真有这种人我更难绷了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 26,
+          "like_count": 1071,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 2389
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2048591657289896048",
+    "created_at": "2026-04-27T02:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T03:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048591657289896048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/av1o492/status…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/av1o492/status/2048588818547429389",
+          "start": 19,
+          "url": "https://t.co/aDbbZvGp7M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048591657289896048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048588818547429389",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "备战中考。拼搏百天，我要上深圳外国语 https://t.co/aDbbZvGp7M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048588814562836480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4MrEbbQAAXGTN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2048591657289896048",
+        "created_at": "2026-04-27T02:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048591657289896048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/av1o492/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/av1o492/status/2048588818547429389",
+              "start": 19,
+              "url": "https://t.co/aDbbZvGp7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048591657289896048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048588818547429389",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "备战中考。拼搏百天，我要上深圳外国语 https://t.co/aDbbZvGp7M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048588814562836480"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2048588818547429389",
+        "created_at": "2026-04-27T02:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048588818547429389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Od79n6eN3u",
+              "end": 33,
+              "expanded_url": "https://x.com/AV1O492/status/2048588818547429389/photo/1",
+              "media_key": "3_2048588814562836480",
+              "start": 10,
+              "url": "https://t.co/Od79n6eN3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048588818547429389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想当一个学生妹啊 https://t.co/Od79n6eN3u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 21,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1145
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/5Lgdtm2",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/5Lgdtm2",
+                "start": 0,
+                "url": "https://t.co/F503DrTT0k"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 75,
+          "like_count": 3948,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 1893
+        },
+        "url": "https://t.co/F503DrTT0k",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

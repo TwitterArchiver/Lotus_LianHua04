@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2032652596029305044",
+    "created_at": "2026-03-14T02:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T03:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032652596029305044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1972167157477003274",
+          "start": 3,
+          "username": "llIzj48ku889730"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032652596029305044",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 269
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032292495527461218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @llIzj48ku889730: 自◯←慰？傷？殺？炊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2032652596029305044",
+        "created_at": "2026-03-14T02:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T03:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032652596029305044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1972167157477003274",
+              "start": 3,
+              "username": "llIzj48ku889730"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032652596029305044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 269
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032292495527461218",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @llIzj48ku889730: 自◯←慰？傷？殺？炊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972167157477003274",
+        "conversation_id": "2032292495527461218",
+        "created_at": "2026-03-13T03:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T04:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032292495527461218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032292495527461218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 81089,
+          "like_count": 4586,
+          "quote_count": 81,
+          "reply_count": 35,
+          "retweet_count": 269
+        },
+        "reply_settings": "everyone",
+        "text": "自◯←慰？傷？殺？炊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 19,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 762
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T05:11:19.000Z",
+        "description": "フォロー非推奨キチガイ/鍵垢@vl9aa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "vl9aa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/s87xurw8hakbrbo",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/s87xurw8hakbrbo",
+                "start": 0,
+                "url": "https://t.co/IFGzqMqEYR"
+              }
+            ]
+          }
+        },
+        "id": "1972167157477003274",
+        "location": "絵師の裏垢",
+        "name": "鎮痛剤アンチ",
+        "pinned_tweet_id": "2032364563291914583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007779163953049600/VOBfB3NY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 203,
+          "like_count": 53295,
+          "listed_count": 10,
+          "media_count": 247,
+          "tweet_count": 9064
+        },
+        "url": "https://t.co/IFGzqMqEYR",
+        "username": "llIzj48ku889730",
+        "verified": false
+      }
+    ]
+  }
+}

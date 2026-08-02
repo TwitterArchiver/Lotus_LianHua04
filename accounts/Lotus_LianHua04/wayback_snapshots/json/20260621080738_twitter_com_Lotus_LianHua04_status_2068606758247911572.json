@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2068606758247911572",
+    "created_at": "2026-06-21T08:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T09:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068606758247911572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/niconekkod/sta…",
+          "end": 131,
+          "expanded_url": "https://twitter.com/niconekkod/status/2068281048300208575",
+          "start": 108,
+          "url": "https://t.co/debpIDaID9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068606758247911572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068281048300208575",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为中国有无穷无尽每时每刻都刷新的恋童癖。不是十四岁的女生好挣钱，是到了这个年纪的女生一般父母就根本不愿意给她花钱所以她才会发现自己身上有“好挣钱”的特质。如果她碰上我家的两公母她十一岁就会一直到自己身上有这种特质 https://t.co/debpIDaID9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2068606758247911572",
+        "created_at": "2026-06-21T08:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068606758247911572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/niconekkod/sta…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/niconekkod/status/2068281048300208575",
+              "start": 108,
+              "url": "https://t.co/debpIDaID9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068606758247911572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068281048300208575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为中国有无穷无尽每时每刻都刷新的恋童癖。不是十四岁的女生好挣钱，是到了这个年纪的女生一般父母就根本不愿意给她花钱所以她才会发现自己身上有“好挣钱”的特质。如果她碰上我家的两公母她十一岁就会一直到自己身上有这种特质 https://t.co/debpIDaID9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624337198765178881",
+        "conversation_id": "2068281048300208575",
+        "created_at": "2026-06-20T10:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068281048300208575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068281048300208575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 94352,
+          "like_count": 150,
+          "quote_count": 7,
+          "reply_count": 188,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然觉得女生好幸福，我这个年纪的女生上推特收收门槛发发比照就可以实现经济自由了（wcn的经济自由，不包括车房等等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 27,
+          "like_count": 1042,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 2280
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T09:19:19.000Z",
+        "description": "这里是 niconeko 的第五个号\n14岁傻逼低龄做题区\n坐标CQ主城\n欢迎互 fo\n我的鼠鼠：@iirin_120917🐭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "iirin_120917"
+              }
+            ]
+          }
+        },
+        "id": "1624337198765178881",
+        "location": "CKG",
+        "name": "nikonekko",
+        "pinned_tweet_id": "2066524499240235409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068126961294323712/SCEUmmkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 66,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "niconekkod",
+        "verified": false
+      }
+    ]
+  }
+}

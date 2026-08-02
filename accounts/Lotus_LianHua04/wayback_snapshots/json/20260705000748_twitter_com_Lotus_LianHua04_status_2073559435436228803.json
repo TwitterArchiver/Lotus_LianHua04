@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2073559435436228803",
+    "created_at": "2026-07-05T00:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T01:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073559435436228803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1835481513028419584",
+          "start": 3,
+          "username": "thxn2xt_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073559435436228803",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073292359325081713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @thxn2xt_: 가난한 남성은 굶고 노동하고 징집되고 맞고 감옥 가고 다치고 전쟁터 가고 혁명하다 죽는데 가난한 여성은 자꾸 벗겨진다고...? 물론 현실에도 그런 일이 있지만 문학이 현실을 선택적으로 재현한다는 점을 생각하면\n\n왜 하필 ‘남…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2073559435436228803",
+        "created_at": "2026-07-05T00:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T01:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073559435436228803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1835481513028419584",
+              "start": 3,
+              "username": "thxn2xt_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073559435436228803",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073292359325081713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @thxn2xt_: 가난한 남성은 굶고 노동하고 징집되고 맞고 감옥 가고 다치고 전쟁터 가고 혁명하다 죽는데 가난한 여성은 자꾸 벗겨진다고...? 물론 현실에도 그런 일이 있지만 문학이 현실을 선택적으로 재현한다는 점을 생각하면\n\n왜 하필 ‘남…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835481513028419584",
+        "conversation_id": "2073291789843452302",
+        "created_at": "2026-07-04T06:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073292359325081713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073292359325081713",
+        "in_reply_to_user_id": "1835481513028419584",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2827,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073291789843452302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "가난한 남성은 굶고 노동하고 징집되고 맞고 감옥 가고 다치고 전쟁터 가고 혁명하다 죽는데 가난한 여성은 자꾸 벗겨진다고...? 물론 현실에도 그런 일이 있지만 문학이 현실을 선택적으로 재현한다는 점을 생각하면\n\n왜 하필 ‘남성 작가’에게 또 이 장면인가?\n라는 질문은 충분히 가능하다고 생각함"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 29,
+          "like_count": 1267,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 2828
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T00:51:16.000Z",
+        "description": "자랑처럼 풀이 무성할 거외다",
+        "id": "1835481513028419584",
+        "name": "쎕쩨",
+        "pinned_tweet_id": "2072093564398653606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017109944055844866/TgIv0im6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5744,
+          "following_count": 751,
+          "like_count": 11132,
+          "listed_count": 16,
+          "media_count": 813,
+          "tweet_count": 3528
+        },
+        "url": "",
+        "username": "thxn2xt_",
+        "verified": false
+      }
+    ]
+  }
+}

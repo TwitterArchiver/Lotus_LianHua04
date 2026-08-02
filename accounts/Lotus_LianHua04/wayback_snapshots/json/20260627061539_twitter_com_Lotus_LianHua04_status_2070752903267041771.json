@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2070614892647002567",
+    "created_at": "2026-06-27T06:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070752903267041771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967257406129504256",
+          "start": 0,
+          "username": "Zdu1279757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070752903267041771",
+    "in_reply_to_user_id": "1967257406129504256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070614892647002567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zdu1279757 妹纸我们除了胸身材好像啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070614883662774272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxNRB9bQAAkC79.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2070614883620761600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxNRBzaMAAmQ-p.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2070614892647002567",
+        "created_at": "2026-06-27T06:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070752903267041771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967257406129504256",
+              "start": 0,
+              "username": "Zdu1279757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070752903267041771",
+        "in_reply_to_user_id": "1967257406129504256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070614892647002567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zdu1279757 妹纸我们除了胸身材好像啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070614883662774272",
+            "3_2070614883620761600"
+          ]
+        },
+        "author_id": "1967257406129504256",
+        "conversation_id": "2070614892647002567",
+        "created_at": "2026-06-26T21:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T22:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070614892647002567"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "胖女"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "坦克"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "母狗"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "反差"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "成都"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4Gpto83jM",
+              "end": 55,
+              "expanded_url": "https://x.com/Zdu1279757/status/2070614892647002567/photo/1",
+              "media_key": "3_2070614883662774272",
+              "start": 32,
+              "url": "https://t.co/w4Gpto83jM"
+            },
+            {
+              "display_url": "pic.x.com/w4Gpto83jM",
+              "end": 55,
+              "expanded_url": "https://x.com/Zdu1279757/status/2070614892647002567/photo/1",
+              "media_key": "3_2070614883620761600",
+              "start": 32,
+              "url": "https://t.co/w4Gpto83jM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070614892647002567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样要减肥吗 #胖女 #坦克 #母狗 #反差 #爸爸活 #成都 https://t.co/w4Gpto83jM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 26,
+          "like_count": 1091,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2467
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T16:01:43.000Z",
+        "description": "不管这个世界上多少坏人讨厌我 攻击我 不爱我我依旧不语 就萌萌的躺在这里 🚪52",
+        "id": "1967257406129504256",
+        "name": "iukio",
+        "pinned_tweet_id": "2060323322676863455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060324836292059136/KMYYNM1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 38,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "Zdu1279757",
+        "verified": false
+      }
+    ]
+  }
+}

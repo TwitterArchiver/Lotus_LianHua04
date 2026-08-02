@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2062523772528390255",
+    "created_at": "2026-06-04T13:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062523772528390255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/solisolsoli/st…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/solisolsoli/status/2062277895335420372",
+          "start": 87,
+          "url": "https://t.co/Cz8x7FfZ56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062523772528390255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062277895335420372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦哦啊啊咕咕嘎嘎可是你们不觉得除了第三种夹烟的方式其它的都让人感觉很别扭么，我第一次看到有人用第四种夹烟的方式我的脑子里闪过一千个美剧里抽大麻的人或者抽骆驼牌香烟的西部牛仔 https://t.co/Cz8x7FfZ56"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 839,
+        "media_key": "3_2061894897578151936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ1SfCZWEAARGyl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2062523772528390255",
+        "created_at": "2026-06-04T13:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062523772528390255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/solisolsoli/st…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/solisolsoli/status/2062277895335420372",
+              "start": 87,
+              "url": "https://t.co/Cz8x7FfZ56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062523772528390255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062277895335420372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦哦啊啊咕咕嘎嘎可是你们不觉得除了第三种夹烟的方式其它的都让人感觉很别扭么，我第一次看到有人用第四种夹烟的方式我的脑子里闪过一千个美剧里抽大麻的人或者抽骆驼牌香烟的西部牛仔 https://t.co/Cz8x7FfZ56"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061894897578151936"
+          ]
+        },
+        "author_id": "4166425527",
+        "conversation_id": "2062277895335420372",
+        "created_at": "2026-06-03T20:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T21:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062277895335420372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5o02vogez1",
+              "end": 23,
+              "expanded_url": "https://x.com/solisolsoli/status/2062277895335420372/photo/1",
+              "media_key": "3_2061894897578151936",
+              "start": 0,
+              "url": "https://t.co/5o02vogez1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062277895335420372",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 744,
+          "impression_count": 121251,
+          "like_count": 6142,
+          "quote_count": 61,
+          "reply_count": 23,
+          "retweet_count": 688
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5o02vogez1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 26,
+          "like_count": 798,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1761
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-11T21:07:17.000Z",
+        "description": "https://t.co/Lws6KCFmKb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "solisolsoli.com",
+                "end": 23,
+                "expanded_url": "http://solisolsoli.com",
+                "start": 0,
+                "url": "https://t.co/Lws6KCFmKb"
+              }
+            ]
+          }
+        },
+        "id": "4166425527",
+        "name": "soli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1240651592560513027/6fstVHAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217675,
+          "following_count": 562,
+          "like_count": 12993,
+          "listed_count": 4319,
+          "media_count": 14424,
+          "tweet_count": 16270
+        },
+        "username": "solisolsoli",
+        "verified": true
+      }
+    ]
+  }
+}

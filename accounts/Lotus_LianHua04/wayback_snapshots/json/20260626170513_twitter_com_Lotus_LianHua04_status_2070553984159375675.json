@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2070333332370715093",
+    "created_at": "2026-06-26T17:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T18:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070553984159375675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1803914919668256768",
+          "start": 0,
+          "username": "wibucraft_25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070553984159375675",
+    "in_reply_to_user_id": "1803914919668256768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070333332370715093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wibucraft_25 我不知道你是不是在反讽。。中国人甚至已经习惯给老师，医生这些人送礼了，并把行贿当作一种好事，觉得是“懂人情世故”了。btw中国人把歧视肤色偏黑的人和信伊斯兰教的人当成不需要改变的正常行为。因为我只知道说印尼语，我不知道你是不是选择成为了muslim，如果因为这个冒犯到你我以前道歉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2070333332370715093",
+        "created_at": "2026-06-26T17:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070553984159375675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1803914919668256768",
+              "start": 0,
+              "username": "wibucraft_25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070553984159375675",
+        "in_reply_to_user_id": "1803914919668256768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070333332370715093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wibucraft_25 我不知道你是不是在反讽。。中国人甚至已经习惯给老师，医生这些人送礼了，并把行贿当作一种好事，觉得是“懂人情世故”了。btw中国人把歧视肤色偏黑的人和信伊斯兰教的人当成不需要改变的正常行为。因为我只知道说印尼语，我不知道你是不是选择成为了muslim，如果因为这个冒犯到你我以前道歉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803914919668256768",
+        "conversation_id": "2070333332370715093",
+        "created_at": "2026-06-26T02:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070333332370715093"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "ce7988d3a8b6f49f"
+        },
+        "id": "2070333332370715093",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 29002,
+          "like_count": 42,
+          "quote_count": 6,
+          "reply_count": 156,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Coba kita lahir di China  deh enak bet  sekolah di China. Bayangin aja gak ada koruptor di China"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 26,
+          "like_count": 1083,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 2447
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T22:17:15.000Z",
+        "description": "Rawr~🗿💅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@wibucraft35",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@wibucraft35",
+                "start": 0,
+                "url": "https://t.co/sugVoDlSf7"
+              }
+            ]
+          }
+        },
+        "id": "1803914919668256768",
+        "location": "Kalimantan Barat, Indonesia",
+        "name": "WibuCraft",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974742475974787072/3k-v09mj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 18,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 244
+        },
+        "url": "https://t.co/sugVoDlSf7",
+        "username": "wibucraft_25",
+        "verified": false
+      }
+    ]
+  }
+}

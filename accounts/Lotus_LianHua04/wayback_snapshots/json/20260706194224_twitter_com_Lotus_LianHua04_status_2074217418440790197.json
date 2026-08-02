@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2074217418440790197",
+    "created_at": "2026-07-06T19:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T20:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074217418440790197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2017925499138240512",
+          "start": 3,
+          "username": "Pegasus_Ruler"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074217418440790197",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 211
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073537469681659971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pegasus_Ruler: Hot take but \"in moderation\" is terrible diet advice for a lot of binge eaters because ppl don't understand that it gets…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2074217418440790197",
+        "created_at": "2026-07-06T19:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074217418440790197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2017925499138240512",
+              "start": 3,
+              "username": "Pegasus_Ruler"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074217418440790197",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 211
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073537469681659971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pegasus_Ruler: Hot take but \"in moderation\" is terrible diet advice for a lot of binge eaters because ppl don't understand that it gets…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017925499138240512",
+        "conversation_id": "2073537469681659971",
+        "created_at": "2026-07-04T22:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T23:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073537469681659971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073537469681659971",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 23493,
+          "like_count": 2264,
+          "quote_count": 10,
+          "reply_count": 13,
+          "retweet_count": 211
+        },
+        "reply_settings": "everyone",
+        "text": "Hot take but \"in moderation\" is terrible diet advice for a lot of binge eaters because ppl don't understand that it gets to the point of a literal addiction you wouldn't tell an alcoholic to just have a little sip and expect that to solve their problems idk."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 29,
+          "like_count": 1294,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 2875
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T11:38:32.000Z",
+        "description": "edtwt ✨ 19! cw62/bmi 22s • sbmi 30 • ugw45 • lw 53 🌟 I FB 17+ no age = no fb ☀️ #1 tsukasa kamioshi of edtwt 💛 🏴󠁧󠁢󠁥󠁮󠁧󠁿 + 🇵🇱 milkberi is @/tsukasa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pegasusruler.straw.page",
+                "end": 23,
+                "expanded_url": "https://pegasusruler.straw.page/",
+                "start": 0,
+                "url": "https://t.co/jHP7ItDHxs"
+              }
+            ]
+          }
+        },
+        "id": "2017925499138240512",
+        "location": "she, lesbian, radleft, KuH",
+        "name": "Gehenna 🦄★",
+        "pinned_tweet_id": "2070031624834527407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068627742598299648/bTLN-xrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 745,
+          "like_count": 17127,
+          "listed_count": 22,
+          "media_count": 988,
+          "tweet_count": 5792
+        },
+        "url": "https://t.co/jHP7ItDHxs",
+        "username": "Pegasus_Ruler",
+        "verified": false
+      }
+    ]
+  }
+}

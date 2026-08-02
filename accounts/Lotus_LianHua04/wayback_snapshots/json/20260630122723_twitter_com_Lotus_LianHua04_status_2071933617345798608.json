@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2071933617345798608",
+    "created_at": "2026-06-30T12:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071933617345798608"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071933617345798608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蝴蝶君唯一不真实的地方就是六四年的中国人对一个典型的金发碧眼白种男人没那么善良，那时候已经开始打越战了到处都在写“美帝国主义必败！”和“越南人民的好男儿——阮文追！”这种标语。以及作为封建大地主的儿子的男主可以被政府选去做外交表演。但是这种违和又有点唯美，有人懂不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2071933617345798608",
+        "created_at": "2026-06-30T12:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071933617345798608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071933617345798608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蝴蝶君唯一不真实的地方就是六四年的中国人对一个典型的金发碧眼白种男人没那么善良，那时候已经开始打越战了到处都在写“美帝国主义必败！”和“越南人民的好男儿——阮文追！”这种标语。以及作为封建大地主的儿子的男主可以被政府选去做外交表演。但是这种违和又有点唯美，有人懂不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 28,
+          "like_count": 1158,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2624
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

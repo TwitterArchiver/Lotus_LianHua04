@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056474804275007488"
+      ],
+      "media_source_tweet_id": [
+        "2056474985930314176"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2062952896652619994",
+    "created_at": "2026-06-05T17:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T18:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062952896652619994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Eq04EPuFL8",
+          "end": 40,
+          "expanded_url": "https://x.com/evanxjordie/status/2056474985930314176/video/1",
+          "media_key": "13_2056474804275007488",
+          "start": 17,
+          "url": "https://t.co/Eq04EPuFL8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062952896652619994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得这个人长得像黄耀明，想辱了 https://t.co/Eq04EPuFL8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37633,
+        "height": 1920,
+        "media_key": "13_2056474804275007488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056474804275007488/img/qk78zor_PGnXA6wY.jpg",
+        "public_metrics": {
+          "view_count": 148363
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056474804275007488/vid/avc1/1080x1920/O3zDv2Qg4uoQbJpO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056474804275007488/pl/c6oOLScWuTXniR-9.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056474804275007488/vid/avc1/480x852/Y7O-idNXqJ00FyNQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056474804275007488/vid/avc1/720x1280/V9eqeMHFTXvb2j4v.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056474804275007488/vid/avc1/320x568/n0MLGkcFFt86cvq8.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056474804275007488"
+          ],
+          "media_source_tweet_id": [
+            "2056474985930314176"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2062952896652619994",
+        "created_at": "2026-06-05T17:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062952896652619994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eq04EPuFL8",
+              "end": 40,
+              "expanded_url": "https://x.com/evanxjordie/status/2056474985930314176/video/1",
+              "media_key": "13_2056474804275007488",
+              "start": 17,
+              "url": "https://t.co/Eq04EPuFL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062952896652619994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得这个人长得像黄耀明，想辱了 https://t.co/Eq04EPuFL8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 25,
+          "like_count": 815,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1796
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

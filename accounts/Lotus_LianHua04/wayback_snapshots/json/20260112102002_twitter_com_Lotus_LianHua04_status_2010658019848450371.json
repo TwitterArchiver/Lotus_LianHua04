@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010472632139808768"
+      ],
+      "media_source_tweet_id": [
+        "2010472634056581239"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2010658019848450371",
+    "created_at": "2026-01-12T10:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T11:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010658019848450371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1046576301212086272",
+          "start": 3,
+          "username": "gl0ssug4"
+        },
+        {
+          "end": 23,
+          "id": "1731997807383597056",
+          "start": 14,
+          "username": "luxuanry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dOzXwMSgvo",
+          "end": 89,
+          "expanded_url": "https://x.com/gl0ssug4/status/2010472634056581239/photo/1",
+          "media_key": "3_2010472632139808768",
+          "start": 66,
+          "url": "https://t.co/dOzXwMSgvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010658019848450371",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1514
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010472634056581239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gl0ssug4: @luxuanry \"Maybe because all men are equally awful\" https://t.co/dOzXwMSgvo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 425,
+        "media_key": "3_2010472632139808768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-aiNP1WgAAawK-.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010472632139808768"
+          ],
+          "media_source_tweet_id": [
+            "2010472634056581239"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2010658019848450371",
+        "created_at": "2026-01-12T10:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010658019848450371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1046576301212086272",
+              "start": 3,
+              "username": "gl0ssug4"
+            },
+            {
+              "end": 23,
+              "id": "1731997807383597056",
+              "start": 14,
+              "username": "luxuanry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOzXwMSgvo",
+              "end": 89,
+              "expanded_url": "https://x.com/gl0ssug4/status/2010472634056581239/photo/1",
+              "media_key": "3_2010472632139808768",
+              "start": 66,
+              "url": "https://t.co/dOzXwMSgvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010658019848450371",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1514
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010472634056581239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gl0ssug4: @luxuanry \"Maybe because all men are equally awful\" https://t.co/dOzXwMSgvo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010472632139808768"
+          ]
+        },
+        "author_id": "1046576301212086272",
+        "conversation_id": "2010212388025561210",
+        "created_at": "2026-01-11T22:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T23:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010472634056581239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1731997807383597056",
+              "start": 0,
+              "username": "luxuanry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOzXwMSgvo",
+              "end": 75,
+              "expanded_url": "https://x.com/gl0ssug4/status/2010472634056581239/photo/1",
+              "media_key": "3_2010472632139808768",
+              "start": 52,
+              "url": "https://t.co/dOzXwMSgvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010472634056581239",
+        "in_reply_to_user_id": "1731997807383597056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 290318,
+          "like_count": 27006,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 1514
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010212388025561210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luxuanry \"Maybe because all men are equally awful\" https://t.co/dOzXwMSgvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007192426985992192/ko8Vx42m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 7,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 343
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-01T01:43:29.000Z",
+        "description": "borahae apobangpo \n\n| tengo delirios de gringa a ratos. \n| @lemonxitoxdd  is my fan\n| 𝙙𝙥𝙧 + 𝙗𝙖𝙣𝙜𝙥𝙞𝙣𝙠\n| Nyx's child\n| ENG/ESP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "lemonxitoxdd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "handofmidasfanacc.com",
+                "end": 23,
+                "expanded_url": "http://handofmidasfanacc.com",
+                "start": 0,
+                "url": "https://t.co/2YEasivmQH"
+              }
+            ]
+          }
+        },
+        "id": "1046576301212086272",
+        "location": "yoongi {-_-}",
+        "name": "vi★(prod.SUGA)",
+        "pinned_tweet_id": "1536386939800145921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006481234839457793/DkR3Y1RD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 630,
+          "like_count": 124360,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 74250
+        },
+        "url": "https://t.co/2YEasivmQH",
+        "username": "gl0ssug4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T11:24:01.000Z",
+        "description": "我在想一只猫和一只鼠",
+        "id": "1731997807383597056",
+        "name": "xuan🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981290522695086080/d5Fwqzfe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 18,
+          "like_count": 1180,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 190
+        },
+        "username": "luxuanry",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069346311942402048"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069346336336499139",
+    "created_at": "2026-06-23T09:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T10:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069346336336499139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vAUl73ywV1",
+          "end": 27,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2069346336336499139/photo/1",
+          "media_key": "3_2069346311942402048",
+          "start": 4,
+          "url": "https://t.co/vAUl73ywV1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069346336336499139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我心情 https://t.co/vAUl73ywV1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 794,
+        "media_key": "3_2069346311942402048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfLgcCXcAAXEoT.jpg",
+        "width": 927
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069346311942402048"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069346336336499139",
+        "created_at": "2026-06-23T09:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069346336336499139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vAUl73ywV1",
+              "end": 27,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2069346336336499139/photo/1",
+              "media_key": "3_2069346311942402048",
+              "start": 4,
+              "url": "https://t.co/vAUl73ywV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069346336336499139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我心情 https://t.co/vAUl73ywV1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 26,
+          "like_count": 1063,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 2363
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

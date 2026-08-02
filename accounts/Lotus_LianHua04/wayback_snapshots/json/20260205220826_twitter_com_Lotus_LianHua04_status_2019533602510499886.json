@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2019291198364742142",
+    "created_at": "2026-02-05T22:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T23:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019533602510499886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1867212292514844673",
+          "start": 0,
+          "username": "perc30shortyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019533602510499886",
+    "in_reply_to_user_id": "1867212292514844673",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019291198364742142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@perc30shortyyy i can only get pills similar to it i have to take 10 tablets or more:("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2019291198364742142",
+        "created_at": "2026-02-05T22:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T23:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019533602510499886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1867212292514844673",
+              "start": 0,
+              "username": "perc30shortyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019533602510499886",
+        "in_reply_to_user_id": "1867212292514844673",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019291198364742142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@perc30shortyyy i can only get pills similar to it i have to take 10 tablets or more:("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867212292514844673",
+        "conversation_id": "2019291198364742142",
+        "created_at": "2026-02-05T06:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T07:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019291198364742142"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "ketamine",
+              "probability": 0.5552,
+              "start": 8,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019291198364742142",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13317,
+          "like_count": 185,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "i think ketamine is the only drug on the planet that i haven’t tried yet i’ve always been so curious ab it"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙 購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 10,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 516
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T14:18:08.000Z",
+        "description": "✧･ﾟ: *✧:* @cir0cmami ♡ IG: toridivinee ˙⋆✮ pax 🕊️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "cir0cmami"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "allmylinks.com/toridivine",
+                "end": 23,
+                "expanded_url": "http://allmylinks.com/toridivine",
+                "start": 0,
+                "url": "https://t.co/LKjESZY7no"
+              }
+            ]
+          }
+        },
+        "id": "1867212292514844673",
+        "location": "oblivion ☁️",
+        "name": "Ⓜ️👼🏼",
+        "pinned_tweet_id": "1877219572794683680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878022182455984128/OWxU6x-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19907,
+          "following_count": 98,
+          "like_count": 8600,
+          "listed_count": 13,
+          "media_count": 198,
+          "tweet_count": 4233
+        },
+        "url": "https://t.co/LKjESZY7no",
+        "username": "perc30shortyyy",
+        "verified": true
+      }
+    ]
+  }
+}

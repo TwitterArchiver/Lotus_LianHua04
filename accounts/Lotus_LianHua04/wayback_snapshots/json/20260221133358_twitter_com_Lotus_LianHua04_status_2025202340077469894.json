@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2025202340077469894",
+    "created_at": "2026-02-21T13:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T14:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025202340077469894"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 64,
+          "normalized_text": "JA",
+          "probability": 0.5862,
+          "start": 63,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "773974819482243072",
+          "start": 3,
+          "username": "JeffersonAirp"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Powered by found.ee",
+          "display_url": "found.ee/SurrealisticPi…",
+          "end": 129,
+          "expanded_url": "https://found.ee/SurrealisticPillow-3",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/1998825892601065472/xXaxUdTW?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1998825892601065472/xXaxUdTW?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 106,
+          "status": 200,
+          "title": "Jefferson Airplane",
+          "unwound_url": "https://found.ee/SurrealisticPillow-3",
+          "url": "https://t.co/6SmnV2DboR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025202340077469894",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867585280095793569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JeffersonAirp: Take a trip with the Airplane🍄\n\nStream this JA classic and the rest of the album here: https://t.co/6SmnV2DboR https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50366,
+        "height": 1920,
+        "media_key": "7_1867264148544860160",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1867264148544860160/pu/img/R8W-4K37Dk7Ql9Xl.jpg",
+        "public_metrics": {
+          "view_count": 899
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867264148544860160/pu/vid/avc1/320x568/2P0Bui76PHmSvPh4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867264148544860160/pu/vid/avc1/480x852/CYHtTv1GmrQoO_ii.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867264148544860160/pu/vid/avc1/720x1280/iGBLV-B2DFczKoVz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1867264148544860160/pu/pl/g3UmpYuJ0ZJC36yd.m3u8?tag=12&v=542"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2025202340077469894",
+        "created_at": "2026-02-21T13:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025202340077469894"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 64,
+              "normalized_text": "JA",
+              "probability": 0.5862,
+              "start": 63,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "773974819482243072",
+              "start": 3,
+              "username": "JeffersonAirp"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Powered by found.ee",
+              "display_url": "found.ee/SurrealisticPi…",
+              "end": 129,
+              "expanded_url": "https://found.ee/SurrealisticPillow-3",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/1998825892601065472/xXaxUdTW?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1998825892601065472/xXaxUdTW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "Jefferson Airplane",
+              "unwound_url": "https://found.ee/SurrealisticPillow-3",
+              "url": "https://t.co/6SmnV2DboR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025202340077469894",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867585280095793569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JeffersonAirp: Take a trip with the Airplane🍄\n\nStream this JA classic and the rest of the album here: https://t.co/6SmnV2DboR https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1867264148544860160"
+          ]
+        },
+        "author_id": "773974819482243072",
+        "conversation_id": "1867585280095793569",
+        "created_at": "2024-12-13T15:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867585280095793569"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "JA",
+              "probability": 0.5853,
+              "start": 44,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Powered by found.ee",
+              "display_url": "found.ee/SurrealisticPi…",
+              "end": 110,
+              "expanded_url": "https://found.ee/SurrealisticPillow-3",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/1998825892601065472/xXaxUdTW?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1998825892601065472/xXaxUdTW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 87,
+              "status": 200,
+              "title": "Jefferson Airplane",
+              "unwound_url": "https://found.ee/SurrealisticPillow-3",
+              "url": "https://t.co/6SmnV2DboR"
+            },
+            {
+              "display_url": "pic.x.com/KRJIu2K2Av",
+              "end": 134,
+              "expanded_url": "https://x.com/JeffersonAirp/status/1867585280095793569/video/1",
+              "media_key": "7_1867264148544860160",
+              "start": 111,
+              "url": "https://t.co/KRJIu2K2Av"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867585280095793569",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1963,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "Take a trip with the Airplane🍄\n\nStream this JA classic and the rest of the album here: https://t.co/6SmnV2DboR https://t.co/KRJIu2K2Av"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 16,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 639
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-08T20:02:31.000Z",
+        "description": "The official Twitter of psychedlic rock group Jefferson Airplane. #JeffersonAirplane",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 66,
+                "tag": "JeffersonAirplane"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jeffersonairplane.com",
+                "end": 23,
+                "expanded_url": "http://www.jeffersonairplane.com",
+                "start": 0,
+                "url": "https://t.co/dUFYDyooJV"
+              }
+            ]
+          }
+        },
+        "id": "773974819482243072",
+        "location": "Los Angeles, CA",
+        "name": "jeffersonairp",
+        "pinned_tweet_id": "1594692110174736384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1463402846741667842/yhERssu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8094,
+          "following_count": 25,
+          "like_count": 176,
+          "listed_count": 62,
+          "media_count": 1260,
+          "tweet_count": 1543
+        },
+        "url": "https://t.co/dUFYDyooJV",
+        "username": "JeffersonAirp",
+        "verified": true
+      }
+    ]
+  }
+}

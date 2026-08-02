@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2073150208259616987",
+    "created_at": "2026-07-03T21:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T22:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073150208259616987"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073150208259616987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好想从此和所有的东西都一刀两断。不倾听别人也不要别人倾听我了。但是我那个贱逼PPD一发作我就跟他妈得了狂犬病的疯狗一样开始对着每个有对我好过的人乱吠乱舔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2073150208259616987",
+        "created_at": "2026-07-03T21:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T22:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073150208259616987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073150208259616987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想从此和所有的东西都一刀两断。不倾听别人也不要别人倾听我了。但是我那个贱逼PPD一发作我就跟他妈得了狂犬病的疯狗一样开始对着每个有对我好过的人乱吠乱舔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 29,
+          "like_count": 1235,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 2783
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

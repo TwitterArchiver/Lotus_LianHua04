@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2081244545375674499",
+    "created_at": "2026-07-26T05:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081244545375674499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1806835463757406208",
+          "start": 3,
+          "username": "ykkmiguel2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081244545375674499",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080704696650813646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ykkmiguel2: queria sair de casa hj pra beijar na boca de puta e viado num ambiente com a energia bem baixa e usar droga"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2081244545375674499",
+        "created_at": "2026-07-26T05:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081244545375674499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1806835463757406208",
+              "start": 3,
+              "username": "ykkmiguel2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081244545375674499",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080704696650813646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ykkmiguel2: queria sair de casa hj pra beijar na boca de puta e viado num ambiente com a energia bem baixa e usar droga"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806835463757406208",
+        "conversation_id": "2080704696650813646",
+        "created_at": "2026-07-24T17:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080704696650813646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080704696650813646",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8635,
+          "like_count": 270,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "queria sair de casa hj pra beijar na boca de puta e viado num ambiente com a energia bem baixa e usar droga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 30,
+          "like_count": 1475,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 3272
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T23:42:07.000Z",
+        "description": "sou maconheiro jogo minecraft fumo cigarro bato punheta beijo na boca",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ykkmiguel",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ykkmiguel",
+                "start": 0,
+                "url": "https://t.co/utcLcQFITz"
+              }
+            ]
+          }
+        },
+        "id": "1806835463757406208",
+        "location": "Rio de Janeiro, Brasil",
+        "name": "Miguel",
+        "pinned_tweet_id": "2078206672426696968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005367155986923520/1eHhhpHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34436,
+          "following_count": 871,
+          "like_count": 43742,
+          "listed_count": 11,
+          "media_count": 2514,
+          "tweet_count": 16512
+        },
+        "url": "https://t.co/utcLcQFITz",
+        "username": "ykkmiguel2",
+        "verified": false
+      }
+    ]
+  }
+}

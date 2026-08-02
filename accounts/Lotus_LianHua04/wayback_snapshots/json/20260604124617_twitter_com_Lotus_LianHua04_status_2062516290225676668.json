@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2062516290225676668",
+    "created_at": "2026-06-04T12:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062516290225676668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1807411157961146368",
+          "start": 3,
+          "username": "h917880"
+        },
+        {
+          "end": 29,
+          "id": "1548938925011795970",
+          "start": 13,
+          "username": "sindenekoninaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062516290225676668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062421440771874997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @h917880: @sindenekoninaru おバカ 「じゃあシャブやれば痩せて元気になれて仕事もできてコスパ良いじゃん❣️」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2062516290225676668",
+        "created_at": "2026-06-04T12:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062516290225676668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1807411157961146368",
+              "start": 3,
+              "username": "h917880"
+            },
+            {
+              "end": 29,
+              "id": "1548938925011795970",
+              "start": 13,
+              "username": "sindenekoninaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062516290225676668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062421440771874997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @h917880: @sindenekoninaru おバカ 「じゃあシャブやれば痩せて元気になれて仕事もできてコスパ良いじゃん❣️」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807411157961146368",
+        "conversation_id": "2062233653481238923",
+        "created_at": "2026-06-04T06:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062421440771874997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1548938925011795970",
+              "start": 0,
+              "username": "sindenekoninaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062421440771874997",
+        "in_reply_to_user_id": "1548938925011795970",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2256,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062233653481238923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sindenekoninaru おバカ 「じゃあシャブやれば痩せて元気になれて仕事もできてコスパ良いじゃん❣️」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 26,
+          "like_count": 798,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1752
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T13:49:47.000Z",
+        "description": "合言葉はアゲマンピザマンヤーマン🤟😚\n苦労して無さそうに見えて割と泥水すすって生きてます 20ちゃい\n心にツンポコ生えてますふたなりです",
+        "id": "1807411157961146368",
+        "location": "日本 横浜",
+        "name": "ツン❕デレ❔ハナチャン",
+        "pinned_tweet_id": "2062498444087119914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061392298643230720/BLDphwCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 85,
+          "like_count": 838,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 566
+        },
+        "username": "h917880",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T07:54:01.000Z",
+        "description": "投稿内容はすべてフィクションです。 情報提供・相談・依頼はメッセージで送ってください。開示請求の前には削除依頼をメッセージで送ってください。殺す前には殺害予告をこれまたメッセージで送ってください。僕は、生きたいんです。",
+        "id": "1548938925011795970",
+        "location": "情報提供・相談・依頼はDMまで",
+        "name": "しんでねこになる",
+        "pinned_tweet_id": "2057151533377261601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612175992134701057/9FM4ts-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44087,
+          "following_count": 244,
+          "like_count": 2778,
+          "listed_count": 115,
+          "media_count": 104,
+          "tweet_count": 607
+        },
+        "username": "sindenekoninaru",
+        "verified": true
+      }
+    ]
+  }
+}

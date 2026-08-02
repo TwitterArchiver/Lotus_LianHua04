@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2019951747326963933",
+    "created_at": "2026-02-07T01:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T02:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019951747326963933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luxetamine/sta…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/luxetamine/status/2019639247825674633",
+          "start": 58,
+          "url": "https://t.co/GPEzUUI2DT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019951747326963933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019639247825674633",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我曾经想忏悔，说一些“我的青春期是一个多么品学兼优的乖孩子”之类的话。然后我想起我第一次嗑药的时间就是青春期orz https://t.co/GPEzUUI2DT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2019951747326963933",
+        "created_at": "2026-02-07T01:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T02:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019951747326963933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luxetamine/sta…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/luxetamine/status/2019639247825674633",
+              "start": 58,
+              "url": "https://t.co/GPEzUUI2DT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019951747326963933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019639247825674633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我曾经想忏悔，说一些“我的青春期是一个多么品学兼优的乖孩子”之类的话。然后我想起我第一次嗑药的时间就是青春期orz https://t.co/GPEzUUI2DT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752796704418512896",
+        "conversation_id": "2019639247825674633",
+        "created_at": "2026-02-06T05:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T06:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019639247825674633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019639247825674633",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 305,
+          "impression_count": 128368,
+          "like_count": 10503,
+          "quote_count": 55,
+          "reply_count": 33,
+          "retweet_count": 1833
+        },
+        "reply_settings": "everyone",
+        "text": "ever since i was a child i knew all i wanted to do was abuse substances"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙 購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 12,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 536
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T20:51:28.000Z",
+        "description": "to be understood was my desire",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "luxetamine.straw.page",
+                "end": 23,
+                "expanded_url": "https://luxetamine.straw.page",
+                "start": 0,
+                "url": "https://t.co/5gGOmy3kQY"
+              }
+            ]
+          }
+        },
+        "id": "1752796704418512896",
+        "location": "20 ⋆ they",
+        "name": "꒰ 🄻u͟x͟ .ᐟ.ᐟ ꒱",
+        "pinned_tweet_id": "2015480513088160206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016187478147739648/jliiMX1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4077,
+          "following_count": 3193,
+          "like_count": 35993,
+          "listed_count": 73,
+          "media_count": 6586,
+          "tweet_count": 22793
+        },
+        "url": "https://t.co/5gGOmy3kQY",
+        "username": "luxetamine",
+        "verified": false
+      }
+    ]
+  }
+}

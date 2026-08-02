@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2065892684007375224",
+    "created_at": "2026-06-13T20:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T21:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065892684007375224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "4812818367",
+          "start": 3,
+          "username": "iiililllllilill"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065892684007375224",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065753140142747860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iiililllllilill: 다음생에는 미국 남자로 태어나고 싶다\n몸 존나 키우고 공부 열심히 해서 장교 입대함\n늙은이들에게 몸 팔아서 진급 빨리함\n그 다음 부대내 어리고 싱싱한 사병들 책상 밑으로 보내는 사랑행위 나누기\n심심하면 흙수저 사…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 316,
+        "media_key": "3_2065753137680654336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsHiK0aoAATA-H.jpg",
+        "width": 632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2065892684007375224",
+        "created_at": "2026-06-13T20:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T21:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065892684007375224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "4812818367",
+              "start": 3,
+              "username": "iiililllllilill"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065892684007375224",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065753140142747860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iiililllllilill: 다음생에는 미국 남자로 태어나고 싶다\n몸 존나 키우고 공부 열심히 해서 장교 입대함\n늙은이들에게 몸 팔아서 진급 빨리함\n그 다음 부대내 어리고 싱싱한 사병들 책상 밑으로 보내는 사랑행위 나누기\n심심하면 흙수저 사…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065753137680654336"
+          ]
+        },
+        "author_id": "4812818367",
+        "conversation_id": "2065753140142747860",
+        "created_at": "2026-06-13T11:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065753140142747860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0jFddckIog",
+              "end": 166,
+              "expanded_url": "https://x.com/iiililllllilill/status/2065753140142747860/photo/1",
+              "media_key": "3_2065753137680654336",
+              "start": 143,
+              "url": "https://t.co/0jFddckIog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065753140142747860",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 8851,
+          "like_count": 185,
+          "quote_count": 13,
+          "reply_count": 1,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "다음생에는 미국 남자로 태어나고 싶다\n몸 존나 키우고 공부 열심히 해서 장교 입대함\n늙은이들에게 몸 팔아서 진급 빨리함\n그 다음 부대내 어리고 싱싱한 사병들 책상 밑으로 보내는 사랑행위 나누기\n심심하면 흙수저 사병들 트젠 장난감 만들어서 사회에 방출해야지 https://t.co/0jFddckIog"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 26,
+          "like_count": 917,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 2024
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-15T09:40:59.000Z",
+        "description": "",
+        "id": "4812818367",
+        "location": "양귀시 헤테란로 미군읍 분홍리 69번길 74",
+        "name": "𝄂𝄂𝄃𝄃𝄁𝄁𝄃𝄁𝄃𝄁𝄃𝄁𝄂𝄂𝄂𝄁𝄃𝄃𝄃𝄂𝄂𝄁𝄂𝄁",
+        "pinned_tweet_id": "2056304606322520374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057613287022596096/SVlSYp9r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 109,
+          "like_count": 2601,
+          "listed_count": 0,
+          "media_count": 687,
+          "tweet_count": 2127
+        },
+        "username": "iiililllllilill",
+        "verified": false
+      }
+    ]
+  }
+}

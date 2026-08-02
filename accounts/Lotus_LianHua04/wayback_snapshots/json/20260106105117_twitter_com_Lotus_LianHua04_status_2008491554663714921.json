@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2008491554663714921",
+    "created_at": "2026-01-06T10:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T11:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008491554663714921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cabr_lies/stat…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/cabr_lies/status/2008430011355693549",
+          "start": 34,
+          "url": "https://t.co/k3uxU6TsIw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008491554663714921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008430011355693549",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我花钱。我磕药。我吸粉。我吃饭。我的一切都是累积抽卡保底机制的呀！ https://t.co/k3uxU6TsIw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2008491554663714921",
+        "created_at": "2026-01-06T10:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T11:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008491554663714921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cabr_lies/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/cabr_lies/status/2008430011355693549",
+              "start": 34,
+              "url": "https://t.co/k3uxU6TsIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008491554663714921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008430011355693549",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我花钱。我磕药。我吸粉。我吃饭。我的一切都是累积抽卡保底机制的呀！ https://t.co/k3uxU6TsIw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836276354041495553",
+        "conversation_id": "2008429976232591385",
+        "created_at": "2026-01-06T06:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T07:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008430011355693549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008430011355693549",
+        "in_reply_to_user_id": "1836276354041495553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008429976232591385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后第二天猛猛吸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007192426985992192/ko8Vx42m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 7,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 272
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️营业右上角搜索 #shtwt #drugtwt｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕷𝖚𝖛 𝖑𝖎𝖐𝖊 𝖗𝖔𝖈𝖐 𝖗𝖔𝖑𝖑 @Pardon_Love_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 58,
+                "tag": "shtwt"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "Pardon_Love_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/i/communities/2002034506979750304",
+                "start": 0,
+                "url": "https://t.co/NzgTJgrTtB"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2001660785513079002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007745753372864512/abdyOA7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4869,
+          "following_count": 181,
+          "like_count": 25729,
+          "listed_count": 8,
+          "media_count": 1118,
+          "tweet_count": 14050
+        },
+        "url": "https://t.co/NzgTJgrTtB",
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

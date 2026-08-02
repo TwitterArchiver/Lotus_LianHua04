@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2055601042755084724",
+    "created_at": "2026-05-16T10:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T11:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055601042755084724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/geagg15/status…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/geagg15/status/2055598781291483367",
+          "start": 59,
+          "url": "https://t.co/swhoIlbDeC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055601042755084724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055598781291483367",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我心情。对的，土家族苗族彝族女人全都是土司的情人，藏族女人全都跟和尚做爱才有的欢喜佛，汉族人你们继续吧，我已经无力了 https://t.co/swhoIlbDeC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2055601042755084724",
+        "created_at": "2026-05-16T10:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055601042755084724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/geagg15/status…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/geagg15/status/2055598781291483367",
+              "start": 59,
+              "url": "https://t.co/swhoIlbDeC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055601042755084724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055598781291483367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我心情。对的，土家族苗族彝族女人全都是土司的情人，藏族女人全都跟和尚做爱才有的欢喜佛，汉族人你们继续吧，我已经无力了 https://t.co/swhoIlbDeC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876638143537192960",
+        "conversation_id": "2055597071621566504",
+        "created_at": "2026-05-16T10:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055598781291483367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1338855048164470785",
+              "start": 0,
+              "username": "linmaomao2020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055598781291483367",
+        "in_reply_to_user_id": "1338855048164470785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055597071621566504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linmaomao2020 我跟你们说吧，你们所知的所有宋朝公主被xx，藏区剥女人头皮，全是汉男自己写的黄书。汉女负责打着同情的招牌侵略，美其名曰礼仪之邦，要教化蛮夷，整天仁义道德女人弱弱，我呸，性别比最畸形杀婴最多最喜欢虐待动物的民族"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 21,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1517
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-19T03:09:55.000Z",
+        "description": "男权只不过是我们男宝妈男宝姐玩脱了的产物，男宝别幻想妈妈爱你了，你只是个可悲的工具，我们中国女人对男人没有爱只有利用。",
+        "id": "876638143537192960",
+        "name": "中国男宝妈有罪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962016896250998784/jjLqC7kM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 15,
+          "like_count": 31,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 420
+        },
+        "username": "GeaGG15",
+        "verified": false
+      }
+    ]
+  }
+}

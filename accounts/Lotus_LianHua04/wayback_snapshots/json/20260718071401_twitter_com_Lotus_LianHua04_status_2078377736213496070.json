@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078377560589668352",
+        "13_2078377560547688448"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2078377736213496070",
+    "created_at": "2026-07-18T07:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078377736213496070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kK89zbfIYu",
+          "end": 23,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2078377736213496070/video/1",
+          "media_key": "13_2078377560589668352",
+          "start": 0,
+          "url": "https://t.co/kK89zbfIYu"
+        },
+        {
+          "display_url": "pic.x.com/kK89zbfIYu",
+          "end": 23,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2078377736213496070/video/1",
+          "media_key": "13_2078377560547688448",
+          "start": 0,
+          "url": "https://t.co/kK89zbfIYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078377736213496070",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/kK89zbfIYu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9273,
+        "height": 720,
+        "media_key": "13_2078377560589668352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078377560589668352/img/Ev9dXiyKZO0ljCm_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078377560589668352/vid/avc1/480x270/4AYNcTojMq3MHe4s.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078377560589668352/vid/avc1/640x360/AHIbpWHFfIyX-8_u.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078377560589668352/vid/avc1/1280x720/cDW_3pbkNNR509vp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078377560589668352/pl/FCS0vhFwo6fuSKUJ.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 8073,
+        "height": 720,
+        "media_key": "13_2078377560547688448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078377560547688448/img/nbReqaj9b10cTCmp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078377560547688448/vid/avc1/480x270/xllbQRusLbth5T9I.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078377560547688448/vid/avc1/640x360/UVqlgPhQILWpn9V5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078377560547688448/vid/avc1/1280x720/K7ZAd7W1vCM1xTtm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078377560547688448/pl/0VkdeUyKEoOKqr00.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078377560589668352",
+            "13_2078377560547688448"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2078377736213496070",
+        "created_at": "2026-07-18T07:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078377736213496070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kK89zbfIYu",
+              "end": 23,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2078377736213496070/video/1",
+              "media_key": "13_2078377560589668352",
+              "start": 0,
+              "url": "https://t.co/kK89zbfIYu"
+            },
+            {
+              "display_url": "pic.x.com/kK89zbfIYu",
+              "end": 23,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2078377736213496070/video/1",
+              "media_key": "13_2078377560547688448",
+              "start": 0,
+              "url": "https://t.co/kK89zbfIYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078377736213496070",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kK89zbfIYu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 30,
+          "like_count": 1399,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 3169
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

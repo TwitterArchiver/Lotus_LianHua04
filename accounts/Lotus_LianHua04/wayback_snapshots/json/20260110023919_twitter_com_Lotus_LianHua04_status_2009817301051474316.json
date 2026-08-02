@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2009817301051474316",
+    "created_at": "2026-01-10T02:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T03:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009817301051474316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overspeed_wiki…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/overspeed_wiki2/status/2009418882797457579",
+          "start": 43,
+          "url": "https://t.co/omZmHZVV7n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009817301051474316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009418882797457579",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我十一岁刚确诊的第二年就开始吃喹硫平了，剂量是一天六片。精神科医生才是我的od启蒙人 https://t.co/omZmHZVV7n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2009817301051474316",
+        "created_at": "2026-01-10T02:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T03:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009817301051474316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overspeed_wiki…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/overspeed_wiki2/status/2009418882797457579",
+              "start": 43,
+              "url": "https://t.co/omZmHZVV7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009817301051474316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009418882797457579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我十一岁刚确诊的第二年就开始吃喹硫平了，剂量是一天六片。精神科医生才是我的od启蒙人 https://t.co/omZmHZVV7n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "2009418882797457579",
+        "created_at": "2026-01-09T00:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T01:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009418882797457579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1999795510341935105",
+              "start": 5,
+              "username": "jamesniko0302"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mortis_mutsum/…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/mortis_mutsum/status/2009246582391111707",
+              "start": 157,
+              "url": "https://t.co/9K17jrswri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009418882797457579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2085,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009246582391111707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你可以问 @jamesniko0302 要病历\n屡次住院没有一点点好好改药的\n日均消费1000+\n精神病院对患者说痊，对家属说出院就要自杀\n制造信息差贩卖焦虑骗钱\n\n堆大量抗精分药，搞得迅速撤药必然反跳精分\n\n你告诉我住院对患者福祉何在？院方是为了维稳还是敛财？\n还是你们只是想伤害一个被系统性迫害的17岁孩子？ https://t.co/9K17jrswri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007192426985992192/ko8Vx42m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 7,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 304
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "2009423003097199073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 267,
+          "like_count": 28790,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 4699
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

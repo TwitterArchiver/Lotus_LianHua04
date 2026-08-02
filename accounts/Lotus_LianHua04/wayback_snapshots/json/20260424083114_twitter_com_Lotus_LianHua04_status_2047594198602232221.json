@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2047594198602232221",
+    "created_at": "2026-04-24T08:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047594198602232221"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047594198602232221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我无法容忍的一种就是笔记党特别喜欢写女主角说“那是我闺蜜”“女生的醋你都吃”“我们两个性取向一样”等等。我真心好难绷。全世界人类都围绕你们顺直转行不行满意了没大哥哥大姐姐，继续把女人把同性恋当作证明你的魅力和你男朋友的深情的一个办法吧！妾身真心无语呢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2047594198602232221",
+        "created_at": "2026-04-24T08:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047594198602232221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047594198602232221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我无法容忍的一种就是笔记党特别喜欢写女主角说“那是我闺蜜”“女生的醋你都吃”“我们两个性取向一样”等等。我真心好难绷。全世界人类都围绕你们顺直转行不行满意了没大哥哥大姐姐，继续把女人把同性恋当作证明你的魅力和你男朋友的深情的一个办法吧！妾身真心无语呢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 21,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1114
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999916203116990466"
+      ],
+      "media_source_tweet_id": [
+        "1999916205616898155"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2004725750432497723",
+    "created_at": "2025-12-27T01:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T02:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004725750432497723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1193178370948894725",
+          "start": 3,
+          "username": "imayakuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0KuAo76CKb",
+          "end": 37,
+          "expanded_url": "https://x.com/imayakuu/status/1999916205616898155/photo/1",
+          "media_key": "3_1999916203116990466",
+          "start": 14,
+          "url": "https://t.co/0KuAo76CKb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004725750432497723",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 245
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999916205616898155",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imayakuu: https://t.co/0KuAo76CKb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_1999916203116990466",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8EhMNNWEAIl8Ju.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999916203116990466"
+          ],
+          "media_source_tweet_id": [
+            "1999916205616898155"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2004725750432497723",
+        "created_at": "2025-12-27T01:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T02:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004725750432497723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1193178370948894725",
+              "start": 3,
+              "username": "imayakuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0KuAo76CKb",
+              "end": 37,
+              "expanded_url": "https://x.com/imayakuu/status/1999916205616898155/photo/1",
+              "media_key": "3_1999916203116990466",
+              "start": 14,
+              "url": "https://t.co/0KuAo76CKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004725750432497723",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 245
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999916205616898155",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imayakuu: https://t.co/0KuAo76CKb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999916203116990466"
+          ]
+        },
+        "author_id": "1193178370948894725",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999916205616898155",
+        "created_at": "2025-12-13T18:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T19:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999916205616898155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0KuAo76CKb",
+              "end": 23,
+              "expanded_url": "https://x.com/imayakuu/status/1999916205616898155/photo/1",
+              "media_key": "3_1999916203116990466",
+              "start": 0,
+              "url": "https://t.co/0KuAo76CKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999916205616898155",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 9075,
+          "like_count": 918,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 245
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0KuAo76CKb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003156132467261440/hf-wJIXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 5,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 127
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-09T14:48:02.000Z",
+        "description": "sou doente e falo merda                                                                                           \nany pronoun  @meninelinde_day",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 128,
+                "username": "meninelinde_day"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/uz31c9chs…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/uz31c9chsrmj18d6ltr4wpwsz?si=jgMDxUsKS3WPOdcnYxQUNw",
+                "start": 0,
+                "url": "https://t.co/2hQXnu2tyz"
+              }
+            ]
+          }
+        },
+        "id": "1193178370948894725",
+        "location": "\\🦴₊˚ 叫號 ♡ , 哀さんᝰ.ᐟ꩜♰",
+        "name": "lauu jurídico i musyozoku - talvez FUKURO 2026",
+        "pinned_tweet_id": "1952218830052491423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004345784859332608/XDo7j_UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 500,
+          "like_count": 41025,
+          "listed_count": 10,
+          "media_count": 2899,
+          "tweet_count": 24738
+        },
+        "url": "https://t.co/2hQXnu2tyz",
+        "username": "imayakuu",
+        "verified": false
+      }
+    ]
+  }
+}

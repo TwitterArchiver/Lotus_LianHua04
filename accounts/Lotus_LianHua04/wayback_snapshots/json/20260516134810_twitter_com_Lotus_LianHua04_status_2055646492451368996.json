@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055646454086033408",
+        "3_2055646454106984448",
+        "3_2055646454098661376"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2055646492451368996",
+    "created_at": "2026-05-16T13:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055646492451368996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FuPBXDmMHR",
+          "end": 60,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2055646492451368996/photo/1",
+          "media_key": "3_2055646454086033408",
+          "start": 37,
+          "url": "https://t.co/FuPBXDmMHR"
+        },
+        {
+          "display_url": "pic.x.com/FuPBXDmMHR",
+          "end": 60,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2055646492451368996/photo/1",
+          "media_key": "3_2055646454106984448",
+          "start": 37,
+          "url": "https://t.co/FuPBXDmMHR"
+        },
+        {
+          "display_url": "pic.x.com/FuPBXDmMHR",
+          "end": 60,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2055646492451368996/photo/1",
+          "media_key": "3_2055646454098661376",
+          "start": 37,
+          "url": "https://t.co/FuPBXDmMHR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055646492451368996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "五月六月南京港美dxm有货，暂时不邮寄出去。孩子们我最近穷疯了回归老本行 https://t.co/FuPBXDmMHR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055646454086033408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcfjweW4AAP6Gp.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055646454106984448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcfjwjWkAAr4Rt.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1979,
+        "media_key": "3_2055646454098661376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcfjwhXkAADIMx.jpg",
+        "width": 1113
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055646454086033408",
+            "3_2055646454106984448",
+            "3_2055646454098661376"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055646492451368996",
+        "created_at": "2026-05-16T13:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055646492451368996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FuPBXDmMHR",
+              "end": 60,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2055646492451368996/photo/1",
+              "media_key": "3_2055646454086033408",
+              "start": 37,
+              "url": "https://t.co/FuPBXDmMHR"
+            },
+            {
+              "display_url": "pic.x.com/FuPBXDmMHR",
+              "end": 60,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2055646492451368996/photo/1",
+              "media_key": "3_2055646454106984448",
+              "start": 37,
+              "url": "https://t.co/FuPBXDmMHR"
+            },
+            {
+              "display_url": "pic.x.com/FuPBXDmMHR",
+              "end": 60,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2055646492451368996/photo/1",
+              "media_key": "3_2055646454098661376",
+              "start": 37,
+              "url": "https://t.co/FuPBXDmMHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055646492451368996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五月六月南京港美dxm有货，暂时不邮寄出去。孩子们我最近穷疯了回归老本行 https://t.co/FuPBXDmMHR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 21,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1538
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

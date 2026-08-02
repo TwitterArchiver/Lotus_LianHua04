@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007192635371601920",
+        "3_2007192635371597827",
+        "3_2007192635380051968",
+        "3_2007192635375792129"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2007192649959387347",
+    "created_at": "2026-01-02T20:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T21:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007192649959387347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l7MinqPdNP",
+          "end": 41,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2007192649959387347/photo/1",
+          "media_key": "3_2007192635371601920",
+          "start": 18,
+          "url": "https://t.co/l7MinqPdNP"
+        },
+        {
+          "display_url": "pic.x.com/l7MinqPdNP",
+          "end": 41,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2007192649959387347/photo/1",
+          "media_key": "3_2007192635371597827",
+          "start": 18,
+          "url": "https://t.co/l7MinqPdNP"
+        },
+        {
+          "display_url": "pic.x.com/l7MinqPdNP",
+          "end": 41,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2007192649959387347/photo/1",
+          "media_key": "3_2007192635380051968",
+          "start": 18,
+          "url": "https://t.co/l7MinqPdNP"
+        },
+        {
+          "display_url": "pic.x.com/l7MinqPdNP",
+          "end": 41,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2007192649959387347/photo/1",
+          "media_key": "3_2007192635375792129",
+          "start": 18,
+          "url": "https://t.co/l7MinqPdNP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007192649959387347",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "absolutely true！！ https://t.co/l7MinqPdNP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2007192635371601920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9r7ETsawAAan85.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1133,
+        "media_key": "3_2007192635371597827",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9r7ETsasAMaYtO.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1119,
+        "media_key": "3_2007192635380051968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9r7ETubsAAYZVo.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1123,
+        "media_key": "3_2007192635375792129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9r7ETtasAExBax.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007192635371601920",
+            "3_2007192635371597827",
+            "3_2007192635380051968",
+            "3_2007192635375792129"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2007192649959387347",
+        "created_at": "2026-01-02T20:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T21:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007192649959387347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7MinqPdNP",
+              "end": 41,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2007192649959387347/photo/1",
+              "media_key": "3_2007192635371601920",
+              "start": 18,
+              "url": "https://t.co/l7MinqPdNP"
+            },
+            {
+              "display_url": "pic.x.com/l7MinqPdNP",
+              "end": 41,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2007192649959387347/photo/1",
+              "media_key": "3_2007192635371597827",
+              "start": 18,
+              "url": "https://t.co/l7MinqPdNP"
+            },
+            {
+              "display_url": "pic.x.com/l7MinqPdNP",
+              "end": 41,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2007192649959387347/photo/1",
+              "media_key": "3_2007192635380051968",
+              "start": 18,
+              "url": "https://t.co/l7MinqPdNP"
+            },
+            {
+              "display_url": "pic.x.com/l7MinqPdNP",
+              "end": 41,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2007192649959387347/photo/1",
+              "media_key": "3_2007192635375792129",
+              "start": 18,
+              "url": "https://t.co/l7MinqPdNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007192649959387347",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "absolutely true！！ https://t.co/l7MinqPdNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007192426985992192/ko8Vx42m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 7,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 201
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2047394849314504935",
+    "created_at": "2026-04-23T19:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T20:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047394849314504935"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047394849314504935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爹娘一听到止咳药就如临大敌是因为他们青春期身边一群同学都在嗑。备注没有说他们就不嗑的意思。而我们这个偏僻的小县城在上个世纪我也不知道哪里来的那么多奇妙物品，不知道的以为我的家乡是缅甸印尼等地"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2047394849314504935",
+        "created_at": "2026-04-23T19:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T20:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047394849314504935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047394849314504935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爹娘一听到止咳药就如临大敌是因为他们青春期身边一群同学都在嗑。备注没有说他们就不嗑的意思。而我们这个偏僻的小县城在上个世纪我也不知道哪里来的那么多奇妙物品，不知道的以为我的家乡是缅甸印尼等地"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 21,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1100
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

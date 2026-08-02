@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2021495975781732698",
+    "created_at": "2026-02-11T08:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T09:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021495975781732698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1277822903808032770",
+          "start": 3,
+          "username": "Anthony20211117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021495975781732698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021317329485979930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anthony20211117: 你们北京人在夸中国的时候能不能先说明自己是北京人啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2021495975781732698",
+        "created_at": "2026-02-11T08:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021495975781732698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1277822903808032770",
+              "start": 3,
+              "username": "Anthony20211117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021495975781732698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021317329485979930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anthony20211117: 你们北京人在夸中国的时候能不能先说明自己是北京人啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277822903808032770",
+        "conversation_id": "2021317329485979930",
+        "created_at": "2026-02-10T20:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T21:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021317329485979930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021317329485979930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 22861,
+          "like_count": 313,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "你们北京人在夸中国的时候能不能先说明自己是北京人啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 16,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 591
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-30T04:36:14.000Z",
+        "description": "安东尼，前帽盔山小霸王，回首摸山临时小霸王，现落基山小霸王兼Catnada小霸王，九命捕鼠大元帅，罐罐研究院首席科学家，呼噜呼噜委员会主席，卡尔加里雪原的巡游者，后院与街巷的守望者，邻里畏惧的凝视者，捕鼠无声的猎影，篱笆之王，车道之主，橘白之尊，冬日风雪的行者，九命的继承者，罐头开启之声的审判者，沙发与阳台的征服者。",
+        "id": "1277822903808032770",
+        "location": "Anywhere",
+        "name": "Anthony",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796813707328229376/pBs8PrHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39498,
+          "following_count": 1618,
+          "like_count": 43120,
+          "listed_count": 96,
+          "media_count": 770,
+          "tweet_count": 4148
+        },
+        "username": "Anthony20211117",
+        "verified": false
+      }
+    ]
+  }
+}

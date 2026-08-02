@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019838361167388672"
+      ],
+      "media_source_tweet_id": [
+        "2019838364296646735"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2020028320772157465",
+    "created_at": "2026-02-07T06:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T07:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020028320772157465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1947122584862302208",
+          "start": 3,
+          "username": "amalgamatomaton"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HkNNRwlGak",
+          "end": 44,
+          "expanded_url": "https://x.com/amalgamatomaton/status/2019838364296646735/photo/1",
+          "media_key": "3_2019838361167388672",
+          "start": 21,
+          "url": "https://t.co/HkNNRwlGak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020028320772157465",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 887
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019838364296646735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amalgamatomaton: https://t.co/HkNNRwlGak"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2019838361167388672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAfoSbUW4AApzqv.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019838361167388672"
+          ],
+          "media_source_tweet_id": [
+            "2019838364296646735"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2020028320772157465",
+        "created_at": "2026-02-07T06:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T07:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020028320772157465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1947122584862302208",
+              "start": 3,
+              "username": "amalgamatomaton"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HkNNRwlGak",
+              "end": 44,
+              "expanded_url": "https://x.com/amalgamatomaton/status/2019838364296646735/photo/1",
+              "media_key": "3_2019838361167388672",
+              "start": 21,
+              "url": "https://t.co/HkNNRwlGak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020028320772157465",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 887
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019838364296646735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amalgamatomaton: https://t.co/HkNNRwlGak"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019838361167388672"
+          ]
+        },
+        "author_id": "1947122584862302208",
+        "conversation_id": "2019838364296646735",
+        "created_at": "2026-02-06T18:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T19:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019838364296646735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HkNNRwlGak",
+              "end": 23,
+              "expanded_url": "https://x.com/amalgamatomaton/status/2019838364296646735/photo/1",
+              "media_key": "3_2019838361167388672",
+              "start": 0,
+              "url": "https://t.co/HkNNRwlGak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019838364296646735",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 674,
+          "impression_count": 72838,
+          "like_count": 5327,
+          "quote_count": 93,
+          "reply_count": 14,
+          "retweet_count": 887
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HkNNRwlGak"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997 #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 14,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 561
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-21T02:33:07.000Z",
+        "description": ":goth:",
+        "id": "1947122584862302208",
+        "name": "amalgamatomaton",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980865184231981056/0wK3NN5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3913,
+          "following_count": 36,
+          "like_count": 690,
+          "listed_count": 17,
+          "media_count": 286,
+          "tweet_count": 939
+        },
+        "username": "amalgamatomaton",
+        "verified": false
+      }
+    ]
+  }
+}

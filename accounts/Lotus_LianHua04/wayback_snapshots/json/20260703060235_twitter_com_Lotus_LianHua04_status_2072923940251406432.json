@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2072716478462226920",
+    "created_at": "2026-07-03T06:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072923940251406432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1856564264271548416",
+          "start": 0,
+          "username": "256Huang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072923940251406432",
+    "in_reply_to_user_id": "1856564264271548416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072863719558926341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@256Huang 这期小玉典珠钗了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2072716478462226920",
+        "created_at": "2026-07-03T06:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072923940251406432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1856564264271548416",
+              "start": 0,
+              "username": "256Huang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072923940251406432",
+        "in_reply_to_user_id": "1856564264271548416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072863719558926341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@256Huang 这期小玉典珠钗了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856564264271548416",
+        "conversation_id": "2072716478462226920",
+        "created_at": "2026-07-03T02:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072863719558926341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072863719558926341",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072716478462226920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 解锁新卡面了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 29,
+          "like_count": 1218,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2761
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T05:06:41.000Z",
+        "description": "一个拥抱多少钱？！",
+        "id": "1856564264271548416",
+        "name": "苯苯海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023099536059826176/srt4qC32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 107,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "256Huang",
+        "verified": false
+      }
+    ]
+  }
+}

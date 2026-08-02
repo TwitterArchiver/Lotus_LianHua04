@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2015747262819991670",
+    "created_at": "2026-01-26T11:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T12:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015747262819991670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dxm8964lxm/sta…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/dxm8964lxm/status/2001537997108580400",
+          "start": 58,
+          "url": "https://t.co/RhZWHgXMJy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015747262819991670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001537997108580400",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到现在还记得超大剂量那次呕出来的酸水都在洗手台上干掉了，害得我第二天拿钢丝球刷。以及醒来之后发现头发被系成了中国结 https://t.co/RhZWHgXMJy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2015747262819991670",
+        "created_at": "2026-01-26T11:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015747262819991670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dxm8964lxm/sta…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/dxm8964lxm/status/2001537997108580400",
+              "start": 58,
+              "url": "https://t.co/RhZWHgXMJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015747262819991670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001537997108580400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到现在还记得超大剂量那次呕出来的酸水都在洗手台上干掉了，害得我第二天拿钢丝球刷。以及醒来之后发现头发被系成了中国结 https://t.co/RhZWHgXMJy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697915168532086785",
+        "conversation_id": "2001537997108580400",
+        "created_at": "2025-12-18T06:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T07:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001537997108580400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001537997108580400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12364,
+          "like_count": 176,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "嗑药时是无尽的欢愉，药效退去后就只剩现实的一地鸡毛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 8,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 446
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T10:12:28.000Z",
+        "description": "反对od的oder/精分/友跨翻车MTX无性别/EMer/化学，合成实操爱好者8964/住长江边某城，偏爱色胺\n18/189cm/60.8964kg\n不卖皮鼓，私聊询问省市等敏感信息直接拉黑8964\nFOW参与者/极乐百科编辑/OSwiki编辑\n姐姐：@Psych_Angel\n夫君：@SalviaSWC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 126,
+                "username": "Psych_Angel"
+              },
+              {
+                "end": 152,
+                "start": 142,
+                "username": "SalviaSWC"
+              }
+            ]
+          }
+        },
+        "id": "1697915168532086785",
+        "location": "DXM的孤对电子上",
+        "name": "氯酸甲酯🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009841095149268994/J3Du_aNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 135,
+          "like_count": 7956,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 823
+        },
+        "username": "DXM8964LXM",
+        "verified": false
+      }
+    ]
+  }
+}

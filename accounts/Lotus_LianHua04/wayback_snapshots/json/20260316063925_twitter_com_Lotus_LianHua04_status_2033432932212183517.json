@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2033432932212183517",
+    "created_at": "2026-03-16T06:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033432932212183517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2033431827097030741",
+          "start": 144,
+          "url": "https://t.co/oA92VwiTVH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033432932212183517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033431827097030741",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她老板一个连telegram都没有的人，卖电子烟估计都是真假混着卖的。嗳。东北人难以想象的是，南方(也许只是我待过的南方)卖这种电子烟的都开实体店了，跟合法电子烟一起卖，我回湖北一刷同城全都是这种视频。只是好奇她究竟是长着怎样的大脑，让她觉得我会对电子烟一无所知，随便几句话就能被她骗钱 https://t.co/oA92VwiTVH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2033432932212183517",
+        "created_at": "2026-03-16T06:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033432932212183517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2033431827097030741",
+              "start": 144,
+              "url": "https://t.co/oA92VwiTVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033432932212183517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033431827097030741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她老板一个连telegram都没有的人，卖电子烟估计都是真假混着卖的。嗳。东北人难以想象的是，南方(也许只是我待过的南方)卖这种电子烟的都开实体店了，跟合法电子烟一起卖，我回湖北一刷同城全都是这种视频。只是好奇她究竟是长着怎样的大脑，让她觉得我会对电子烟一无所知，随便几句话就能被她骗钱 https://t.co/oA92VwiTVH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2033431827097030741",
+        "created_at": "2026-03-16T06:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033431827097030741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2033431344936563151",
+              "start": 107,
+              "url": "https://t.co/5AZxzCdhMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033431827097030741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033431344936563151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和我闹掰的那个辽宁人。她写oc是药贩子，结果写这人在天桥旁边的公园卖药。自己做个烟代的烟代觉得牛逼完了，一直和我说她老板“有钱什么都能给你搞到”我看着她朋友圈转发越南方便面代购我还能说些什么？我也只能苍凉大笑三声 https://t.co/5AZxzCdhMe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 22,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 818
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

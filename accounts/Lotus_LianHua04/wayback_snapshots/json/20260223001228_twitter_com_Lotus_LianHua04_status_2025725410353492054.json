@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025702513106706432"
+      ],
+      "media_source_tweet_id": [
+        "2025702520287310184"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2025725410353492054",
+    "created_at": "2026-02-23T00:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T01:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025725410353492054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700343458152468480",
+          "start": 3,
+          "username": "koralismo"
+        },
+        {
+          "end": 29,
+          "id": "1940504127089577984",
+          "start": 15,
+          "username": "madsdrugdiary"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UB6sapDcpI",
+          "end": 53,
+          "expanded_url": "https://x.com/koralismo/status/2025702520287310184/photo/1",
+          "media_key": "3_2025702513106706432",
+          "start": 30,
+          "url": "https://t.co/UB6sapDcpI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025725410353492054",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025702520287310184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koralismo: @madsdrugdiary https://t.co/UB6sapDcpI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1851,
+        "media_key": "3_2025702513106706432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBy9s_pXYAAx_Le.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025702513106706432"
+          ],
+          "media_source_tweet_id": [
+            "2025702520287310184"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025725410353492054",
+        "created_at": "2026-02-23T00:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T01:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025725410353492054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700343458152468480",
+              "start": 3,
+              "username": "koralismo"
+            },
+            {
+              "end": 29,
+              "id": "1940504127089577984",
+              "start": 15,
+              "username": "madsdrugdiary"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UB6sapDcpI",
+              "end": 53,
+              "expanded_url": "https://x.com/koralismo/status/2025702520287310184/photo/1",
+              "media_key": "3_2025702513106706432",
+              "start": 30,
+              "url": "https://t.co/UB6sapDcpI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025725410353492054",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025702520287310184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koralismo: @madsdrugdiary https://t.co/UB6sapDcpI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025702513106706432"
+          ]
+        },
+        "author_id": "1700343458152468480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025682600585499000",
+        "created_at": "2026-02-22T22:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T23:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025702520287310184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940504127089577984",
+              "start": 0,
+              "username": "madsdrugdiary"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UB6sapDcpI",
+              "end": 38,
+              "expanded_url": "https://x.com/koralismo/status/2025702520287310184/photo/1",
+              "media_key": "3_2025702513106706432",
+              "start": 15,
+              "url": "https://t.co/UB6sapDcpI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025702520287310184",
+        "in_reply_to_user_id": "1940504127089577984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1351,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025682600585499000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@madsdrugdiary https://t.co/UB6sapDcpI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 17,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 658
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T03:01:02.000Z",
+        "description": "demônio maldito dos inferno | 20 anos | não binário | qualquer pronome",
+        "id": "1700343458152468480",
+        "location": "São Paulo, Brasil",
+        "name": "koral",
+        "pinned_tweet_id": "2021346714226155745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021336310582022144/NBszpFRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 215,
+          "like_count": 21736,
+          "listed_count": 0,
+          "media_count": 903,
+          "tweet_count": 5105
+        },
+        "username": "koralismo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-02T20:13:45.000Z",
+        "description": "whatever man, i just wanna get high    @madsdelicates",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "madsdelicates"
+              }
+            ]
+          }
+        },
+        "id": "1940504127089577984",
+        "location": "Paris ⊹ 21 ⊹ -16 DNF",
+        "name": "ִ ۫ ּ mads 𝜗𝜚",
+        "pinned_tweet_id": "2020953892981440945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016124505106919424/l2VUl0-S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 204,
+          "like_count": 5441,
+          "listed_count": 3,
+          "media_count": 293,
+          "tweet_count": 1644
+        },
+        "username": "madsdrugdiary",
+        "verified": false
+      }
+    ]
+  }
+}

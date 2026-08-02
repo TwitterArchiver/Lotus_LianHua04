@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078377436190842880",
+        "3_2078377436148883456",
+        "3_2078377436144656384",
+        "3_2078377436211789824"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078377463516635281",
+    "created_at": "2026-07-18T07:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078377463516635281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EtlpqHbUpC",
+          "end": 30,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2078377463516635281/photo/1",
+          "media_key": "3_2078377436190842880",
+          "start": 7,
+          "url": "https://t.co/EtlpqHbUpC"
+        },
+        {
+          "display_url": "pic.x.com/EtlpqHbUpC",
+          "end": 30,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2078377463516635281/photo/1",
+          "media_key": "3_2078377436148883456",
+          "start": 7,
+          "url": "https://t.co/EtlpqHbUpC"
+        },
+        {
+          "display_url": "pic.x.com/EtlpqHbUpC",
+          "end": 30,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2078377463516635281/photo/1",
+          "media_key": "3_2078377436144656384",
+          "start": 7,
+          "url": "https://t.co/EtlpqHbUpC"
+        },
+        {
+          "display_url": "pic.x.com/EtlpqHbUpC",
+          "end": 30,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2078377463516635281/photo/1",
+          "media_key": "3_2078377436211789824",
+          "start": 7,
+          "url": "https://t.co/EtlpqHbUpC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078377463516635281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好骚的一群逼 https://t.co/EtlpqHbUpC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 710,
+        "media_key": "3_2078377436190842880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfhRDlXoAASUFf.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2078377436148883456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfhRDbXYAA7Isz.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2078377436144656384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfhRDaW4AAEHEh.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2078377436211789824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfhRDqXQAA04Wp.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078377436190842880",
+            "3_2078377436148883456",
+            "3_2078377436144656384",
+            "3_2078377436211789824"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078377463516635281",
+        "created_at": "2026-07-18T07:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078377463516635281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtlpqHbUpC",
+              "end": 30,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2078377463516635281/photo/1",
+              "media_key": "3_2078377436190842880",
+              "start": 7,
+              "url": "https://t.co/EtlpqHbUpC"
+            },
+            {
+              "display_url": "pic.x.com/EtlpqHbUpC",
+              "end": 30,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2078377463516635281/photo/1",
+              "media_key": "3_2078377436148883456",
+              "start": 7,
+              "url": "https://t.co/EtlpqHbUpC"
+            },
+            {
+              "display_url": "pic.x.com/EtlpqHbUpC",
+              "end": 30,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2078377463516635281/photo/1",
+              "media_key": "3_2078377436144656384",
+              "start": 7,
+              "url": "https://t.co/EtlpqHbUpC"
+            },
+            {
+              "display_url": "pic.x.com/EtlpqHbUpC",
+              "end": 30,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2078377463516635281/photo/1",
+              "media_key": "3_2078377436211789824",
+              "start": 7,
+              "url": "https://t.co/EtlpqHbUpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078377463516635281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好骚的一群逼 https://t.co/EtlpqHbUpC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 30,
+          "like_count": 1399,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 3168
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

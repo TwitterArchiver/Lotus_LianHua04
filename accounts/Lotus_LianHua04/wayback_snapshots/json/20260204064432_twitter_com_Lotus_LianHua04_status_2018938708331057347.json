@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1996498528940838912"
+      ],
+      "media_source_tweet_id": [
+        "1996498619143467209"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2018938708331057347",
+    "created_at": "2026-02-04T06:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T07:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018938708331057347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1340943821173997568",
+          "start": 3,
+          "username": "4_fanfan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RPKih5ojl4",
+          "end": 60,
+          "expanded_url": "https://x.com/4_fanfan/status/1996498619143467209/video/1",
+          "media_key": "7_1996498528940838912",
+          "start": 37,
+          "url": "https://t.co/RPKih5ojl4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018938708331057347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996498619143467209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4_fanfan: 国产经典对话：“你两个套还二十六块钱呢 😭” https://t.co/RPKih5ojl4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2018938708331057347].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2018938708331057347",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2018938708331057347"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 130935,
+        "height": 1280,
+        "media_key": "7_1996498528940838912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1996498528940838912/pu/img/enVVikVLIaF0wyn8.jpg",
+        "public_metrics": {
+          "view_count": 14744
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996498528940838912/pu/vid/avc1/320x568/vCFRDszPsVFMRXT_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996498528940838912/pu/vid/avc1/480x852/kzaXr3Ptw2ovCf_S.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996498528940838912/pu/vid/avc1/720x1280/ZLRyGiG7Y2Dc5WDW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1996498528940838912/pu/pl/TXGct_SQ3rqw9rEM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996498528940838912"
+          ]
+        },
+        "author_id": "1340943821173997568",
+        "conversation_id": "1996498619143467209",
+        "created_at": "2025-12-04T08:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T09:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996498619143467209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RPKih5ojl4",
+              "end": 46,
+              "expanded_url": "https://x.com/4_fanfan/status/1996498619143467209/video/1",
+              "media_key": "7_1996498528940838912",
+              "start": 23,
+              "url": "https://t.co/RPKih5ojl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996498619143467209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 31889,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "国产经典对话：“你两个套还二十六块钱呢 😭” https://t.co/RPKih5ojl4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、萬寶路香煙      購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 8,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 477
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-21T08:55:03.000Z",
+        "description": "微博4_fanfan，一起吃点好吃的\nbg bl gl 4i都看，杂食党\n\n解压密码：fan",
+        "id": "1340943821173997568",
+        "name": "四碗饭",
+        "pinned_tweet_id": "2000500255411130600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973060298111336448/B4Z-4Wz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15683,
+          "following_count": 236,
+          "like_count": 652,
+          "listed_count": 17,
+          "media_count": 372,
+          "tweet_count": 762
+        },
+        "username": "4_fanfan",
+        "verified": false
+      }
+    ]
+  }
+}

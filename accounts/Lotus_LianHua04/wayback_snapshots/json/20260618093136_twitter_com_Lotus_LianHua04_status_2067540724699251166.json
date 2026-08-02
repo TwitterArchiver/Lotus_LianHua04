@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2067395690360078655",
+    "created_at": "2026-06-18T09:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067540724699251166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799807052233179136",
+          "start": 0,
+          "username": "chi83688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067540724699251166",
+    "in_reply_to_user_id": "1799807052233179136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067540515474792746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chi83688 一香港老头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2067395690360078655",
+        "created_at": "2026-06-18T09:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067540724699251166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799807052233179136",
+              "start": 0,
+              "username": "chi83688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067540724699251166",
+        "in_reply_to_user_id": "1799807052233179136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067540515474792746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chi83688 一香港老头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799807052233179136",
+        "conversation_id": "2067395690360078655",
+        "created_at": "2026-06-18T09:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067540515474792746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067540515474792746",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067395690360078655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 其實黃耀明是誰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 25,
+          "like_count": 963,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 2163
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T14:14:02.000Z",
+        "description": "不od不紫餐的超级健全人｜生理女心理不明喜欢女的｜我的病都是自诊的因为现在还在排期看医生｜很多屁话所以上推吐一下",
+        "id": "1799807052233179136",
+        "name": "好耶good-yeah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979915225911492608/lBm2BrY4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 164,
+          "like_count": 1916,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "chi83688",
+        "verified": false
+      }
+    ]
+  }
+}

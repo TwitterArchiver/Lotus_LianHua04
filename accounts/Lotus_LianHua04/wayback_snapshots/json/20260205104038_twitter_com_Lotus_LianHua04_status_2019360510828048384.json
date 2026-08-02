@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018686506320420864"
+      ],
+      "media_source_tweet_id": [
+        "2018686509285609930"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2019360510828048384",
+    "created_at": "2026-02-05T10:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T11:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019360510828048384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1792158516096180224",
+          "start": 3,
+          "username": "Dr_Duckter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nUaMQErdsu",
+          "end": 39,
+          "expanded_url": "https://x.com/Dr_Duckter/status/2018686509285609930/photo/1",
+          "media_key": "3_2018686506320420864",
+          "start": 16,
+          "url": "https://t.co/nUaMQErdsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019360510828048384",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018686509285609930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dr_Duckter: https://t.co/nUaMQErdsu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1868,
+        "media_key": "3_2018686506320420864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPQrpoaYAALySl.jpg",
+        "width": 1473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018686506320420864"
+          ],
+          "media_source_tweet_id": [
+            "2018686509285609930"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2019360510828048384",
+        "created_at": "2026-02-05T10:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T11:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019360510828048384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1792158516096180224",
+              "start": 3,
+              "username": "Dr_Duckter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUaMQErdsu",
+              "end": 39,
+              "expanded_url": "https://x.com/Dr_Duckter/status/2018686509285609930/photo/1",
+              "media_key": "3_2018686506320420864",
+              "start": 16,
+              "url": "https://t.co/nUaMQErdsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019360510828048384",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018686509285609930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dr_Duckter: https://t.co/nUaMQErdsu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018686506320420864"
+          ]
+        },
+        "author_id": "1792158516096180224",
+        "conversation_id": "2018686509285609930",
+        "created_at": "2026-02-03T14:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T15:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018686509285609930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUaMQErdsu",
+              "end": 23,
+              "expanded_url": "https://x.com/Dr_Duckter/status/2018686509285609930/photo/1",
+              "media_key": "3_2018686506320420864",
+              "start": 0,
+              "url": "https://t.co/nUaMQErdsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018686509285609930",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 324664,
+          "like_count": 2322,
+          "quote_count": 5,
+          "reply_count": 254,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nUaMQErdsu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、萬寶路香煙      購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 8,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 494
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T11:41:14.000Z",
+        "description": "逃生仓 @Dr__Duckter 关注我带你看更多冲塔图片   记得找我要回关 欢迎投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "Dr__Duckter"
+              }
+            ]
+          }
+        },
+        "id": "1792158516096180224",
+        "location": "God's Country",
+        "name": "Dr Duckter Duckworth",
+        "pinned_tweet_id": "2019051325934518327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001493366782185472/9v0dyZ8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 764,
+          "like_count": 10736,
+          "listed_count": 17,
+          "media_count": 202,
+          "tweet_count": 1659
+        },
+        "username": "Dr_Duckter",
+        "verified": false
+      }
+    ]
+  }
+}

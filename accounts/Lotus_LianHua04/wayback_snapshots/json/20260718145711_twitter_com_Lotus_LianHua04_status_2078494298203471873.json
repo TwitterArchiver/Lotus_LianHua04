@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2078494298203471873",
+    "created_at": "2026-07-18T14:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078494298203471873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shinokaorii/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/shinokaorii/status/2078184285123850270",
+          "start": 7,
+          "url": "https://t.co/wjhMBcPG5T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078494298203471873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078184285123850270",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "家产的嗳概念 https://t.co/wjhMBcPG5T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2078494298203471873",
+        "created_at": "2026-07-18T14:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078494298203471873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shinokaorii/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/shinokaorii/status/2078184285123850270",
+              "start": 7,
+              "url": "https://t.co/wjhMBcPG5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078494298203471873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078184285123850270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "家产的嗳概念 https://t.co/wjhMBcPG5T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009900547881750528",
+        "conversation_id": "2078184285123850270",
+        "created_at": "2026-07-17T18:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078184285123850270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078184285123850270",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2556,
+          "impression_count": 680745,
+          "like_count": 34279,
+          "quote_count": 456,
+          "reply_count": 172,
+          "retweet_count": 957
+        },
+        "reply_settings": "everyone",
+        "text": "my bully in 6th grade was so possessive he'd get so mad if other guys would bully me 😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 30,
+          "like_count": 1404,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 3177
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T08:10:17.000Z",
+        "description": "i like a lil bit of everything",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "poisonivie.straw.page",
+                "end": 23,
+                "expanded_url": "https://poisonivie.straw.page/",
+                "start": 0,
+                "url": "https://t.co/Wt1JRMp45t"
+              }
+            ]
+          }
+        },
+        "id": "2009900547881750528",
+        "location": "she/her // 17",
+        "name": "ivy ✧⁠*⁠。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070472004608958464/-Eo32Iup_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 396,
+          "like_count": 3665,
+          "listed_count": 5,
+          "media_count": 171,
+          "tweet_count": 1428
+        },
+        "url": "https://t.co/Wt1JRMp45t",
+        "username": "shinokaorii",
+        "verified": false
+      }
+    ]
+  }
+}

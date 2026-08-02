@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Meals",
+          "id": "1034860760093024257",
+          "name": "Meals"
+        }
+      }
+    ],
+    "conversation_id": "2081186950594077025",
+    "created_at": "2026-07-26T01:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T02:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081186950594077025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1898777984925933568",
+          "start": 3,
+          "username": "cultkam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081186950594077025",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1143
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080446901262962902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cultkam: just… skipped a meal… im Ana Mia.. what’s Paul…. Bed isn’t real… I hate fat people… angels have pink hair… jingle bells… ⭐️🪽⭐️…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 584,
+        "media_key": "3_2080446899069325312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN87bpkXEAA-lYa.jpg",
+        "width": 342
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "2081186950594077025",
+        "created_at": "2026-07-26T01:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081186950594077025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1898777984925933568",
+              "start": 3,
+              "username": "cultkam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081186950594077025",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1143
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080446901262962902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cultkam: just… skipped a meal… im Ana Mia.. what’s Paul…. Bed isn’t real… I hate fat people… angels have pink hair… jingle bells… ⭐️🪽⭐️…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080446899069325312"
+          ]
+        },
+        "author_id": "1898777984925933568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "2080446901262962902",
+        "created_at": "2026-07-24T00:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080446901262962902"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 140,
+              "tag": "edrttt"
+            },
+            {
+              "end": 155,
+              "start": 148,
+              "tag": "edrtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qLSizcgW6U",
+              "end": 179,
+              "expanded_url": "https://x.com/cultkam/status/2080446901262962902/photo/1",
+              "media_key": "3_2080446899069325312",
+              "start": 156,
+              "url": "https://t.co/qLSizcgW6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080446901262962902",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 36386,
+          "like_count": 5411,
+          "quote_count": 13,
+          "reply_count": 86,
+          "retweet_count": 1143
+        },
+        "reply_settings": "everyone",
+        "text": "just… skipped a meal… im Ana Mia.. what’s Paul…. Bed isn’t real… I hate fat people… angels have pink hair… jingle bells… ⭐️🪽⭐️🪽⭐️🪽⭐️🪽⭐️🪽⭐️🪽 #edrttt #edrtwt https://t.co/qLSizcgW6U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 31,
+          "like_count": 1465,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 3270
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T16:48:52.000Z",
+        "description": "꒰ ִ ֺ ⊹ @ cultkam ⊹ ֺ ִ ꒱ 15 ♍︎\n#sillytwt #musictwt\n\ngw: 120 ugw: 70 cw: 🫍",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 32,
+                "tag": "sillytwt"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "tag": "musictwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cultkamryn.straw.page",
+                "end": 23,
+                "expanded_url": "https://cultkamryn.straw.page",
+                "start": 0,
+                "url": "https://t.co/XiPRw4Lscr"
+              }
+            ]
+          }
+        },
+        "id": "1898777984925933568",
+        "location": "no dni",
+        "name": "kamryn 🪒🥣",
+        "pinned_tweet_id": "2080168504964079767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080096591340257280/yi7oKx0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 290,
+          "like_count": 948,
+          "listed_count": 5,
+          "media_count": 62,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/XiPRw4Lscr",
+        "username": "cultkam",
+        "verified": false
+      }
+    ]
+  }
+}

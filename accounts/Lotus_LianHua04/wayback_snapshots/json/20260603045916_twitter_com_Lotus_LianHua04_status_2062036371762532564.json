@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2062036371762532564",
+    "created_at": "2026-06-03T04:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062036371762532564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3326938974",
+          "start": 3,
+          "username": "tta127032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062036371762532564",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3781
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061779293848666237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @tta127032: 그럼 남자들도 발기된 걸 가릴 속옷을 입어야 하지 않을까 싶다 여자 유두는 보이면 성희롱 당하고 조롱도 당하는데 왜 남자의 발기한 성기는 아무렇지않게 봐야하는지 모르겠다........"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2062036371762532564",
+        "created_at": "2026-06-03T04:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062036371762532564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3326938974",
+              "start": 3,
+              "username": "tta127032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062036371762532564",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3781
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061779293848666237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @tta127032: 그럼 남자들도 발기된 걸 가릴 속옷을 입어야 하지 않을까 싶다 여자 유두는 보이면 성희롱 당하고 조롱도 당하는데 왜 남자의 발기한 성기는 아무렇지않게 봐야하는지 모르겠다........"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3326938974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2061779293848666237",
+        "created_at": "2026-06-02T11:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061779293848666237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rury_vrc/statu…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/rury_vrc/status/2061652786618814947",
+              "start": 103,
+              "url": "https://t.co/b7kNOzgMMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061779293848666237",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 421,
+          "impression_count": 922179,
+          "like_count": 16190,
+          "quote_count": 257,
+          "reply_count": 0,
+          "retweet_count": 3781
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061652786618814947",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "그럼 남자들도 발기된 걸 가릴 속옷을 입어야 하지 않을까 싶다 여자 유두는 보이면 성희롱 당하고 조롱도 당하는데 왜 남자의 발기한 성기는 아무렇지않게 봐야하는지 모르겠다........ https://t.co/b7kNOzgMMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 26,
+          "like_count": 777,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1710
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-23T18:30:08.000Z",
+        "description": "",
+        "id": "3326938974",
+        "name": "구독아티스트",
+        "pinned_tweet_id": "1997208030497341476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522273407307419661/Ah8Wwd3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 4718,
+          "like_count": 62730,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 63014
+        },
+        "username": "tta127032",
+        "verified": false
+      }
+    ]
+  }
+}

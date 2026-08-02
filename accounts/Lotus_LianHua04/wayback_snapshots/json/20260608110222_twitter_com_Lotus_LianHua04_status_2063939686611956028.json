@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2063919119930741027",
+    "created_at": "2026-06-08T11:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063939686611956028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1429055428374130693",
+          "start": 0,
+          "username": "Gamer94469"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063939686611956028",
+    "in_reply_to_user_id": "1429055428374130693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063919119930741027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gamer94469 好性感"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64100,
+        "height": 1280,
+        "media_key": "13_2063918988837707776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063918988837707776/img/i77svzSJw7UjCM7O.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063918988837707776/vid/avc1/320x694/Fhh8fLYxTzRimEbD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063918988837707776/vid/avc1/480x1040/Dmf-Ezny5t7Ebtu5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063918988837707776/vid/avc1/590x1280/aLgG_4Zgw3bQGdBv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063918988837707776/pl/WIgtMPk8biUuxGRw.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2063919119930741027",
+        "created_at": "2026-06-08T11:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063939686611956028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1429055428374130693",
+              "start": 0,
+              "username": "Gamer94469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063939686611956028",
+        "in_reply_to_user_id": "1429055428374130693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063919119930741027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gamer94469 好性感"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063918988837707776"
+          ]
+        },
+        "author_id": "1429055428374130693",
+        "conversation_id": "2063919119930741027",
+        "created_at": "2026-06-08T09:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063919119930741027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KmD5JHg9Be",
+              "end": 23,
+              "expanded_url": "https://x.com/Gamer94469/status/2063919119930741027/video/1",
+              "media_key": "13_2063918988837707776",
+              "start": 0,
+              "url": "https://t.co/KmD5JHg9Be"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063919119930741027",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 51,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KmD5JHg9Be"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 27,
+          "like_count": 840,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1888
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-21T12:19:04.000Z",
+        "description": "即刻绞杀即刻刎颈",
+        "id": "1429055428374130693",
+        "name": "畜类旁通",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063317238665682944/Y0enEQVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 311,
+          "like_count": 21940,
+          "listed_count": 2,
+          "media_count": 697,
+          "tweet_count": 5689
+        },
+        "username": "Gamer94469",
+        "verified": false
+      }
+    ]
+  }
+}

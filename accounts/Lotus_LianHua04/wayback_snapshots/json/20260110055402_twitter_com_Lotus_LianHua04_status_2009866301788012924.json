@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2009866301788012924",
+    "created_at": "2026-01-10T05:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T06:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009866301788012924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844103262292803587",
+          "start": 3,
+          "username": "JJ2597758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009866301788012924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009187523613086113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JJ2597758: 有些人的自拍一眼看过去就知道是某职业技术学院的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2009866301788012924",
+        "created_at": "2026-01-10T05:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T06:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009866301788012924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844103262292803587",
+              "start": 3,
+              "username": "JJ2597758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009866301788012924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009187523613086113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JJ2597758: 有些人的自拍一眼看过去就知道是某职业技术学院的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844103262292803587",
+        "conversation_id": "2009187523613086113",
+        "created_at": "2026-01-08T08:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T09:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009187523613086113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009187523613086113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 63983,
+          "like_count": 330,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "有些人的自拍一眼看过去就知道是某职业技术学院的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007192426985992192/ko8Vx42m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 7,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 318
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T19:51:03.000Z",
+        "description": "GAME OVER",
+        "id": "1844103262292803587",
+        "name": "伴花作剑穗",
+        "pinned_tweet_id": "2009630504270876693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983696360038920196/M48jM9OQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 192,
+          "like_count": 30558,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1734
+        },
+        "username": "JJ2597758",
+        "verified": false
+      }
+    ]
+  }
+}

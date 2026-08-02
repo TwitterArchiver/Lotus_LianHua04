@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032969443710844928",
+        "3_2032969451319209989",
+        "3_2032969531795308544"
+      ],
+      "media_source_tweet_id": [
+        "2032969711751934173",
+        "2032969711751934173",
+        "2032969711751934173"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2033132944269680705",
+    "created_at": "2026-03-15T10:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T11:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033132944269680705"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "中野英治",
+          "probability": 0.9485,
+          "start": 37,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1297166467280932864",
+          "start": 3,
+          "username": "5Te6IA0NzW6JEYj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p5VMgMDZ1b",
+          "end": 90,
+          "expanded_url": "https://x.com/5Te6IA0NzW6JEYj/status/2032969711751934173/photo/1",
+          "media_key": "3_2032969443710844928",
+          "start": 67,
+          "url": "https://t.co/p5VMgMDZ1b"
+        },
+        {
+          "display_url": "pic.x.com/p5VMgMDZ1b",
+          "end": 90,
+          "expanded_url": "https://x.com/5Te6IA0NzW6JEYj/status/2032969711751934173/photo/1",
+          "media_key": "3_2032969451319209989",
+          "start": 67,
+          "url": "https://t.co/p5VMgMDZ1b"
+        },
+        {
+          "display_url": "pic.x.com/p5VMgMDZ1b",
+          "end": 90,
+          "expanded_url": "https://x.com/5Te6IA0NzW6JEYj/status/2032969711751934173/photo/1",
+          "media_key": "3_2032969531795308544",
+          "start": 67,
+          "url": "https://t.co/p5VMgMDZ1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033132944269680705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2229
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032969711751934173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5Te6IA0NzW6JEYj: という事で戦前のイケメン俳優を。中野英治です。\n昭和2年～8年（1927～33年）の写真。 https://t.co/p5VMgMDZ1b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2970,
+        "media_key": "3_2032969443710844928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDaO8BubwAAMYEw.jpg",
+        "width": 1614
+      },
+      {
+        "height": 1144,
+        "media_key": "3_2032969451319209989",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDaO8eEaMAU6OIO.jpg",
+        "width": 1377
+      },
+      {
+        "height": 962,
+        "media_key": "3_2032969531795308544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDaPBJ3aAAA76q7.jpg",
+        "width": 1598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032969443710844928",
+            "3_2032969451319209989",
+            "3_2032969531795308544"
+          ],
+          "media_source_tweet_id": [
+            "2032969711751934173",
+            "2032969711751934173",
+            "2032969711751934173"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2033132944269680705",
+        "created_at": "2026-03-15T10:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T11:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033132944269680705"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "中野英治",
+              "probability": 0.9485,
+              "start": 37,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1297166467280932864",
+              "start": 3,
+              "username": "5Te6IA0NzW6JEYj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5VMgMDZ1b",
+              "end": 90,
+              "expanded_url": "https://x.com/5Te6IA0NzW6JEYj/status/2032969711751934173/photo/1",
+              "media_key": "3_2032969443710844928",
+              "start": 67,
+              "url": "https://t.co/p5VMgMDZ1b"
+            },
+            {
+              "display_url": "pic.x.com/p5VMgMDZ1b",
+              "end": 90,
+              "expanded_url": "https://x.com/5Te6IA0NzW6JEYj/status/2032969711751934173/photo/1",
+              "media_key": "3_2032969451319209989",
+              "start": 67,
+              "url": "https://t.co/p5VMgMDZ1b"
+            },
+            {
+              "display_url": "pic.x.com/p5VMgMDZ1b",
+              "end": 90,
+              "expanded_url": "https://x.com/5Te6IA0NzW6JEYj/status/2032969711751934173/photo/1",
+              "media_key": "3_2032969531795308544",
+              "start": 67,
+              "url": "https://t.co/p5VMgMDZ1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033132944269680705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2229
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032969711751934173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5Te6IA0NzW6JEYj: という事で戦前のイケメン俳優を。中野英治です。\n昭和2年～8年（1927～33年）の写真。 https://t.co/p5VMgMDZ1b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032969443710844928",
+            "3_2032969451319209989",
+            "3_2032969531795308544"
+          ]
+        },
+        "author_id": "1297166467280932864",
+        "conversation_id": "2032969711751934173",
+        "created_at": "2026-03-14T23:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T00:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032969711751934173"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "中野英治",
+              "probability": 0.9479,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5VMgMDZ1b",
+              "end": 69,
+              "expanded_url": "https://x.com/5Te6IA0NzW6JEYj/status/2032969711751934173/photo/1",
+              "media_key": "3_2032969443710844928",
+              "start": 46,
+              "url": "https://t.co/p5VMgMDZ1b"
+            },
+            {
+              "display_url": "pic.x.com/p5VMgMDZ1b",
+              "end": 69,
+              "expanded_url": "https://x.com/5Te6IA0NzW6JEYj/status/2032969711751934173/photo/1",
+              "media_key": "3_2032969451319209989",
+              "start": 46,
+              "url": "https://t.co/p5VMgMDZ1b"
+            },
+            {
+              "display_url": "pic.x.com/p5VMgMDZ1b",
+              "end": 69,
+              "expanded_url": "https://x.com/5Te6IA0NzW6JEYj/status/2032969711751934173/photo/1",
+              "media_key": "3_2032969531795308544",
+              "start": 46,
+              "url": "https://t.co/p5VMgMDZ1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032969711751934173",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4706,
+          "impression_count": 1194616,
+          "like_count": 25977,
+          "quote_count": 164,
+          "reply_count": 17,
+          "retweet_count": 2229
+        },
+        "reply_settings": "everyone",
+        "text": "という事で戦前のイケメン俳優を。中野英治です。\n昭和2年～8年（1927～33年）の写真。 https://t.co/p5VMgMDZ1b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 22,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 807
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-22T13:39:27.000Z",
+        "description": "レトロ写真や日々のしょうもない呟きなど",
+        "id": "1297166467280932864",
+        "name": "ろっしー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635295526135685120/exMy1sQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13355,
+          "following_count": 1149,
+          "like_count": 132786,
+          "listed_count": 124,
+          "media_count": 6295,
+          "tweet_count": 40643
+        },
+        "username": "5Te6IA0NzW6JEYj",
+        "verified": false
+      }
+    ]
+  }
+}

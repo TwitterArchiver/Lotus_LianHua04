@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2070687701120987365",
+    "created_at": "2026-06-27T01:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T02:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070687701120987365"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070687701120987365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我他妈遇到的每一任贱逼都是抱着“这个天天抱怨她爹母的精神病绝对很缺爱看我怎么说几句话把她哄着给我爆金币”但这一套我已经在我爹母那里了解到了，当初我爹母就是这么把我钱骗走的。所以这群老逗比每说一句他们自以为有用的话术我都会恶心得立刻拉黑删除卸载软件并进入闹麻模式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2070687701120987365",
+        "created_at": "2026-06-27T01:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070687701120987365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070687701120987365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈遇到的每一任贱逼都是抱着“这个天天抱怨她爹母的精神病绝对很缺爱看我怎么说几句话把她哄着给我爆金币”但这一套我已经在我爹母那里了解到了，当初我爹母就是这么把我钱骗走的。所以这群老逗比每说一句他们自以为有用的话术我都会恶心得立刻拉黑删除卸载软件并进入闹麻模式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 26,
+          "like_count": 1088,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2459
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

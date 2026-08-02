@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2049797671330754965",
+    "created_at": "2026-04-30T10:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T11:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049797671330754965"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049797671330754965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "阿普唑仑我不能失去你。阿普。阿普。老婆你回来吧，你不在的日子里我总恶心反胃呕吐不宁腿浑身疼坐立不安。阿普。我错了。你的妻子还小，都是外面的药引诱她。阿普你回来我们复合，我保证我再也不嗑别的药了，我只吃你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2049797671330754965",
+        "created_at": "2026-04-30T10:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049797671330754965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049797671330754965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿普唑仑我不能失去你。阿普。阿普。老婆你回来吧，你不在的日子里我总恶心反胃呕吐不宁腿浑身疼坐立不安。阿普。我错了。你的妻子还小，都是外面的药引诱她。阿普你回来我们复合，我保证我再也不嗑别的药了，我只吃你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 20,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1195
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

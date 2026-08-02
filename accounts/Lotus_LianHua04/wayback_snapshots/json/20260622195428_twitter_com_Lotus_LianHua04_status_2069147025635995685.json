@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2068921986072416490",
+    "created_at": "2026-06-22T19:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T20:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069147025635995685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1884957076113567744",
+          "start": 0,
+          "username": "Wilhelm949151"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069147025635995685",
+    "in_reply_to_user_id": "1884957076113567744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069081526269297099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wilhelm949151 我不行了。。但我老家那群人确实是吸笑气，我第一次吸笑气就是被这群人鼓动着，我吸了一口直接顶级坏旅行还摔地上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2068921986072416490",
+        "created_at": "2026-06-22T19:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069147025635995685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884957076113567744",
+              "start": 0,
+              "username": "Wilhelm949151"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069147025635995685",
+        "in_reply_to_user_id": "1884957076113567744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069081526269297099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilhelm949151 我不行了。。但我老家那群人确实是吸笑气，我第一次吸笑气就是被这群人鼓动着，我吸了一口直接顶级坏旅行还摔地上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884957076113567744",
+        "conversation_id": "2068921986072416490",
+        "created_at": "2026-06-22T15:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069081526269297099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069081526269297099",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068921986072416490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 还吸笑气呢，吸打火机的丁烷去吧😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 26,
+          "like_count": 1053,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 2333
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T13:29:32.000Z",
+        "description": "",
+        "id": "1884957076113567744",
+        "name": "Wilhelm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026158444160634880/HrUp-SuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 33,
+          "like_count": 769,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "Wilhelm949151",
+        "verified": false
+      }
+    ]
+  }
+}

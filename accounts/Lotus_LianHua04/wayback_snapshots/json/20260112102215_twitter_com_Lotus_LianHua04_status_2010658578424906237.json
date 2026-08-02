@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2010658578424906237",
+    "created_at": "2026-01-12T10:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T11:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010658578424906237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1765599082704404480",
+          "start": 3,
+          "username": "syasgeon937071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010658578424906237",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2555
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010233697153556882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syasgeon937071: （ ͜.人 ͜.）  \n     )  . ( \n  乀 ωノ  \n  ︵ ᑎ ︵\n\n앙사니씨가\n이딴 이모지를\n카톡으로 보내주셨네요"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2010658578424906237",
+        "created_at": "2026-01-12T10:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010658578424906237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1765599082704404480",
+              "start": 3,
+              "username": "syasgeon937071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010658578424906237",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2555
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010233697153556882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syasgeon937071: （ ͜.人 ͜.）  \n     )  . ( \n  乀 ωノ  \n  ︵ ᑎ ︵\n\n앙사니씨가\n이딴 이모지를\n카톡으로 보내주셨네요"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765599082704404480",
+        "conversation_id": "2010233697153556882",
+        "created_at": "2026-01-11T06:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T07:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010233697153556882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010233697153556882",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4849,
+          "impression_count": 1266645,
+          "like_count": 14728,
+          "quote_count": 698,
+          "reply_count": 79,
+          "retweet_count": 2555
+        },
+        "reply_settings": "everyone",
+        "text": "（ ͜.人 ͜.）  \n     )  . ( \n  乀 ωノ  \n  ︵ ᑎ ︵\n\n앙사니씨가\n이딴 이모지를\n카톡으로 보내주셨네요"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007192426985992192/ko8Vx42m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 7,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 343
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T04:43:29.000Z",
+        "description": "이달의 애널리스트",
+        "id": "1765599082704404480",
+        "name": "저명한 음란시인 반창고",
+        "pinned_tweet_id": "2005267228212814221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004430736099799040/FAVmNTBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 275,
+          "like_count": 5593,
+          "listed_count": 0,
+          "media_count": 2993,
+          "tweet_count": 25337
+        },
+        "username": "syasgeon937071",
+        "verified": false
+      }
+    ]
+  }
+}

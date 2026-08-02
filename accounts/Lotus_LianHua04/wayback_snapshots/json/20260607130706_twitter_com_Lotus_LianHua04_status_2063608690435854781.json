@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063608672643645440"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2063608690435854781",
+    "created_at": "2026-06-07T13:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063608690435854781"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 10,
+          "tag": "drugtwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hhm4K1aOCz",
+          "end": 42,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2063608690435854781/photo/1",
+          "media_key": "3_2063608672643645440",
+          "start": 19,
+          "url": "https://t.co/hhm4K1aOCz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063608690435854781",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "古法研磨，匠心制作\n#drugtwt https://t.co/hhm4K1aOCz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2063608672643645440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNpJ4BXAAAfHIG.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063608672643645440"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2063608690435854781",
+        "created_at": "2026-06-07T13:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063608690435854781"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 10,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhm4K1aOCz",
+              "end": 42,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2063608690435854781/photo/1",
+              "media_key": "3_2063608672643645440",
+              "start": 19,
+              "url": "https://t.co/hhm4K1aOCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063608690435854781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "古法研磨，匠心制作\n#drugtwt https://t.co/hhm4K1aOCz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 32,
+          "like_count": 825,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1858
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

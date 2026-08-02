@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2019729148462223360"
+      ],
+      "media_source_tweet_id": [
+        "2019729208164102364"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2020030046694699488",
+    "created_at": "2026-02-07T07:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T08:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020030046694699488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1888063294214422528",
+          "start": 3,
+          "username": "vomitgore420"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6JIJ277HvO",
+          "end": 57,
+          "expanded_url": "https://x.com/vomitgore420/status/2019729208164102364/video/1",
+          "media_key": "7_2019729148462223360",
+          "start": 34,
+          "url": "https://t.co/6JIJ277HvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020030046694699488",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019729208164102364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vomitgore420: smoke with me ! https://t.co/6JIJ277HvO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 72167,
+        "height": 720,
+        "media_key": "7_2019729148462223360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2019729148462223360/pu/img/Z0RHlKRoN_5GvGaU.jpg",
+        "public_metrics": {
+          "view_count": 15047
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019729148462223360/pu/vid/avc1/480x270/xPnXAn4ZGNoFGzKE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019729148462223360/pu/vid/avc1/640x360/alZxUuqD7MyAwle2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019729148462223360/pu/vid/avc1/1280x720/7YyKVgpcvMYU9OPY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2019729148462223360/pu/pl/VolLr1OPtuxxfzhx.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2019729148462223360"
+          ],
+          "media_source_tweet_id": [
+            "2019729208164102364"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020030046694699488",
+        "created_at": "2026-02-07T07:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T08:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020030046694699488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1888063294214422528",
+              "start": 3,
+              "username": "vomitgore420"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6JIJ277HvO",
+              "end": 57,
+              "expanded_url": "https://x.com/vomitgore420/status/2019729208164102364/video/1",
+              "media_key": "7_2019729148462223360",
+              "start": 34,
+              "url": "https://t.co/6JIJ277HvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020030046694699488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019729208164102364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vomitgore420: smoke with me ! https://t.co/6JIJ277HvO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2019729148462223360"
+          ]
+        },
+        "author_id": "1888063294214422528",
+        "conversation_id": "2019729208164102364",
+        "created_at": "2026-02-06T11:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T12:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019729208164102364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6JIJ277HvO",
+              "end": 39,
+              "expanded_url": "https://x.com/vomitgore420/status/2019729208164102364/video/1",
+              "media_key": "7_2019729148462223360",
+              "start": 16,
+              "url": "https://t.co/6JIJ277HvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019729208164102364",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 25051,
+          "like_count": 1201,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "smoke with me ! https://t.co/6JIJ277HvO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997 #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 14,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 564
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T03:12:42.000Z",
+        "description": "edtwt shtwt weedtwt\nbmi: . . . , gbmi: 15\n🏥x5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rottenronnie.straw.page",
+                "end": 23,
+                "expanded_url": "https://rottenronnie.straw.page",
+                "start": 0,
+                "url": "https://t.co/YtUZ5xzXDP"
+              }
+            ]
+          }
+        },
+        "id": "1888063294214422528",
+        "location": "18",
+        "name": "meth pipe of shedtwt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888308908693037056/twQI7DJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 937,
+          "like_count": 35340,
+          "listed_count": 12,
+          "media_count": 729,
+          "tweet_count": 5728
+        },
+        "url": "https://t.co/YtUZ5xzXDP",
+        "username": "vomitgore420",
+        "verified": false
+      }
+    ]
+  }
+}

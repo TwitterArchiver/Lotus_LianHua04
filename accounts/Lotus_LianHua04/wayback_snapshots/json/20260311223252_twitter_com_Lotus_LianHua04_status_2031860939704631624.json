@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2031860939704631624",
+    "created_at": "2026-03-11T22:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T23:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031860939704631624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/doushi05759186…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/doushi05759186/status/2031591609301873134",
+          "start": 49,
+          "url": "https://t.co/EmIiE9r1Uz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031860939704631624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031591609301873134",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "皇汉又白莲花起来了。随意说汉语，随意歧视别人，默认所有人都要以你们的传统为主，还真是委屈死你了啊 https://t.co/EmIiE9r1Uz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2031860939704631624",
+        "created_at": "2026-03-11T22:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T23:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031860939704631624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/doushi05759186…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/doushi05759186/status/2031591609301873134",
+              "start": 49,
+              "url": "https://t.co/EmIiE9r1Uz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031860939704631624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031591609301873134",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "皇汉又白莲花起来了。随意说汉语，随意歧视别人，默认所有人都要以你们的传统为主，还真是委屈死你了啊 https://t.co/EmIiE9r1Uz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500161188029624321",
+        "conversation_id": "2031588425938383080",
+        "created_at": "2026-03-11T04:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T05:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031591609301873134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031591609301873134",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 18017,
+          "like_count": 571,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031588425938383080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 国内都知道其实汉族才是被压迫的那一方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 20,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 749
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-05T17:29:42.000Z",
+        "description": "",
+        "id": "1500161188029624321",
+        "name": "都世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500161643489099777/hIcKt-NF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 1052,
+          "like_count": 18,
+          "listed_count": 4,
+          "media_count": 1,
+          "tweet_count": 460
+        },
+        "username": "doushi05759186",
+        "verified": false
+      }
+    ]
+  }
+}

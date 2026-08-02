@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081426235939323904",
+        "3_2081426235947692032"
+      ],
+      "media_source_tweet_id": [
+        "2081426255048589566",
+        "2081426255048589566"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2081599171526586797",
+    "created_at": "2026-07-27T04:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T05:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081599171526586797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2079943080740851712",
+          "start": 3,
+          "username": "ecstluasy_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jSDoExqSnG",
+          "end": 104,
+          "expanded_url": "https://x.com/ecstluasy_/status/2081426255048589566/photo/1",
+          "media_key": "3_2081426235939323904",
+          "start": 81,
+          "url": "https://t.co/jSDoExqSnG"
+        },
+        {
+          "display_url": "pic.x.com/jSDoExqSnG",
+          "end": 104,
+          "expanded_url": "https://x.com/ecstluasy_/status/2081426255048589566/photo/1",
+          "media_key": "3_2081426235947692032",
+          "start": 81,
+          "url": "https://t.co/jSDoExqSnG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081599171526586797",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 223
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081426255048589566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ecstluasy_: a gente toda linda, aí quando senta em algum lugar já saca o kit https://t.co/jSDoExqSnG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_2081426235939323904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOK2IjtXgAAU57h.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081426235947692032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOK2IjvXMAA8Spj.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081426235939323904",
+            "3_2081426235947692032"
+          ]
+        },
+        "author_id": "2079943080740851712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081426255048589566",
+        "created_at": "2026-07-26T17:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081426255048589566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSDoExqSnG",
+              "end": 88,
+              "expanded_url": "https://x.com/ecstluasy_/status/2081426255048589566/photo/1",
+              "media_key": "3_2081426235939323904",
+              "start": 65,
+              "url": "https://t.co/jSDoExqSnG"
+            },
+            {
+              "display_url": "pic.x.com/jSDoExqSnG",
+              "end": 88,
+              "expanded_url": "https://x.com/ecstluasy_/status/2081426255048589566/photo/1",
+              "media_key": "3_2081426235947692032",
+              "start": 65,
+              "url": "https://t.co/jSDoExqSnG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081426255048589566",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 512,
+          "impression_count": 2121873,
+          "like_count": 9755,
+          "quote_count": 261,
+          "reply_count": 198,
+          "retweet_count": 223
+        },
+        "reply_settings": "everyone",
+        "text": "a gente toda linda, aí quando senta em algum lugar já saca o kit https://t.co/jSDoExqSnG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081426235939323904",
+            "3_2081426235947692032"
+          ],
+          "media_source_tweet_id": [
+            "2081426255048589566",
+            "2081426255048589566"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081599171526586797",
+        "created_at": "2026-07-27T04:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081599171526586797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2079943080740851712",
+              "start": 3,
+              "username": "ecstluasy_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSDoExqSnG",
+              "end": 104,
+              "expanded_url": "https://x.com/ecstluasy_/status/2081426255048589566/photo/1",
+              "media_key": "3_2081426235939323904",
+              "start": 81,
+              "url": "https://t.co/jSDoExqSnG"
+            },
+            {
+              "display_url": "pic.x.com/jSDoExqSnG",
+              "end": 104,
+              "expanded_url": "https://x.com/ecstluasy_/status/2081426255048589566/photo/1",
+              "media_key": "3_2081426235947692032",
+              "start": 81,
+              "url": "https://t.co/jSDoExqSnG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081599171526586797",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 223
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081426255048589566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ecstluasy_: a gente toda linda, aí quando senta em algum lugar já saca o kit https://t.co/jSDoExqSnG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 30,
+          "like_count": 1480,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 3288
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-22T14:55:09.000Z",
+        "description": "advogada do diabo",
+        "id": "2079943080740851712",
+        "location": "Manaus, Brasil",
+        "name": "L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081565034430230528/nh0Kmg1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 8,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "ecstluasy_",
+        "verified": false
+      }
+    ]
+  }
+}

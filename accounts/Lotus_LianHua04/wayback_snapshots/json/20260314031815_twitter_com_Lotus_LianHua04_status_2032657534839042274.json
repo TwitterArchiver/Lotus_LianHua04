@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2032467961911378118",
+    "created_at": "2026-03-14T03:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T04:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032657534839042274"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "dxm",
+          "probability": 0.4835,
+          "start": 12,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "841134548",
+          "start": 0,
+          "username": "adelin_699"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032657534839042274",
+    "in_reply_to_user_id": "841134548",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032467961911378118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adelin_699 dxm&amp;dpt🤤🤤they make me feel my body and breathing again and all the senses are magnified ten times, but not including the pain caused by my anxiety disorder"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2032467961911378118",
+        "created_at": "2026-03-14T03:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T04:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032657534839042274"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "dxm",
+              "probability": 0.4835,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "841134548",
+              "start": 0,
+              "username": "adelin_699"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032657534839042274",
+        "in_reply_to_user_id": "841134548",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032467961911378118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adelin_699 dxm&amp;dpt🤤🤤they make me feel my body and breathing again and all the senses are magnified ten times, but not including the pain caused by my anxiety disorder"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "841134548",
+        "conversation_id": "2032467961911378118",
+        "created_at": "2026-03-13T14:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032467961911378118"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 43,
+              "tag": "drugtwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032467961911378118",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5054,
+          "like_count": 140,
+          "quote_count": 6,
+          "reply_count": 60,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "What are you guy's favorite drugs and why? #drugtwt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 19,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 767
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-23T06:24:16.000Z",
+        "description": "|19F| #shtwt|#drugtwt| |#edtwt| i love drugs https://t.co/LzwohdorMM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 21,
+                "start": 13,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "edtwt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dh_nightmanager",
+                "end": 68,
+                "expanded_url": "https://t.me/dh_nightmanager",
+                "start": 45,
+                "url": "https://t.co/LzwohdorMM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/gUpSq9nSdM",
+                "end": 23,
+                "expanded_url": "https://discord.gg/gUpSq9nSdM",
+                "start": 0,
+                "url": "https://t.co/LPS3f5S6SS"
+              }
+            ]
+          }
+        },
+        "id": "841134548",
+        "location": "Dosehouse ",
+        "name": "Adelin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032509058603683842/6n3z7ZiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 376,
+          "like_count": 131,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/LPS3f5S6SS",
+        "username": "adelin_699",
+        "verified": false
+      }
+    ]
+  }
+}

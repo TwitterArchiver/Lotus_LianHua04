@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2032651844980457579",
+    "created_at": "2026-03-14T02:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T03:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032651844980457579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2032651527501090947",
+          "start": 110,
+          "url": "https://t.co/ulXGUgoUM6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032651844980457579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032651527501090947",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有很多消失的文字，都是因为我解离时的无所谓，离我而去了。什么都无所谓，跟世界断开联系一样的感觉。那么我现在陷入一道选择题。焦虑和解离究竟该选择哪种？哪种才是真正的幸福？正常的人生已经离我远去了，我只能从中感受到一种孤独 https://t.co/ulXGUgoUM6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2032651844980457579",
+        "created_at": "2026-03-14T02:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T03:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032651844980457579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2032651527501090947",
+              "start": 110,
+              "url": "https://t.co/ulXGUgoUM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032651844980457579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032651527501090947",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有很多消失的文字，都是因为我解离时的无所谓，离我而去了。什么都无所谓，跟世界断开联系一样的感觉。那么我现在陷入一道选择题。焦虑和解离究竟该选择哪种？哪种才是真正的幸福？正常的人生已经离我远去了，我只能从中感受到一种孤独 https://t.co/ulXGUgoUM6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2032651527501090947",
+        "created_at": "2026-03-14T02:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T03:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032651527501090947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2032650633833337250",
+              "start": 141,
+              "url": "https://t.co/vlI1DqE6AL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032651527501090947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032650633833337250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但焦虑的时候其实写不出太多东西，因为所有的精力都拿去疑神疑鬼了。解离的时候我的大脑里有很多字句，我和它们一起飘到天上，那些文字就像鹊桥一样，或者说像是老打字机，我觉得老打字机的按键很像吧台的凳子，皮革软垫那种。解离的时候什么也无所谓，没有及时写下来也无所谓，朋友都离开死去也无所谓 https://t.co/vlI1DqE6AL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 19,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 761
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

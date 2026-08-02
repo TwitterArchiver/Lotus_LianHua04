@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2021488413527183726",
+    "created_at": "2026-02-11T07:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T08:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021488413527183726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009773968891469824",
+          "start": 3,
+          "username": "420bbnnkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021488413527183726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016944358612996412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @420bbnnkk: 教你们如何辨别身边的吸毒人员，走到他耳旁说一句剧烈变形，蚌埠住的就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2021488413527183726",
+        "created_at": "2026-02-11T07:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021488413527183726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009773968891469824",
+              "start": 3,
+              "username": "420bbnnkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021488413527183726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016944358612996412",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @420bbnnkk: 教你们如何辨别身边的吸毒人员，走到他耳旁说一句剧烈变形，蚌埠住的就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009773968891469824",
+        "conversation_id": "2016944358612996412",
+        "created_at": "2026-01-29T18:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T19:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016944358612996412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016944358612996412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 516,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "教你们如何辨别身边的吸毒人员，走到他耳旁说一句剧烈变形，蚌埠住的就是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997 #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 16,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 589
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T23:47:23.000Z",
+        "description": "容貌焦虑、服美役、媚男、雌竞、雄竞、话语权、主体性、信息茧房、情绪价值、原生家庭、父权制、结构性压迫、躯体化、边缘化、亲密关系、向下兼容、向上社交、下沉市场、自我赋能、显化解构、沉没成本、配得感、内核稳定、PTSD、ADHD、PUA、NPD、星座塔罗、水晶转运、祛魅、磁场、I人E人、发疯文学、短择",
+        "id": "2009773968891469824",
+        "location": " Australia",
+        "name": "blackwiil9727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012895961677180929/XTjYML76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 19,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 34
+        },
+        "username": "420bbnnkk",
+        "verified": false
+      }
+    ]
+  }
+}

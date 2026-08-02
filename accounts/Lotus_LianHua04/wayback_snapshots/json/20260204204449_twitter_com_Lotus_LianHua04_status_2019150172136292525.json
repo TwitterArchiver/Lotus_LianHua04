@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2019150172136292525",
+    "created_at": "2026-02-04T20:44:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T21:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019150172136292525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1897344745523085313",
+          "start": 3,
+          "username": "chillgurui_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019150172136292525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017292711976702127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chillgurui_: 好きな薬物聞いて\nLSDという人はメンタル強い人\nMDMAは愛に飢えてる人\nケタミンは人生に疲れてる人\nコカインは飲み歩いてる人\nシャブはおじさんかアタオカ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2019150172136292525",
+        "created_at": "2026-02-04T20:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T21:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019150172136292525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1897344745523085313",
+              "start": 3,
+              "username": "chillgurui_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019150172136292525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017292711976702127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chillgurui_: 好きな薬物聞いて\nLSDという人はメンタル強い人\nMDMAは愛に飢えてる人\nケタミンは人生に疲れてる人\nコカインは飲み歩いてる人\nシャブはおじさんかアタオカ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897344745523085313",
+        "conversation_id": "2017292711976702127",
+        "created_at": "2026-01-30T17:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T18:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017292711976702127"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "ミン",
+              "probability": 0.5223,
+              "start": 40,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017292711976702127",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 289,
+          "impression_count": 193051,
+          "like_count": 1929,
+          "quote_count": 52,
+          "reply_count": 25,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "好きな薬物聞いて\nLSDという人はメンタル強い人\nMDMAは愛に飢えてる人\nケタミンは人生に疲れてる人\nコカインは飲み歩いてる人\nシャブはおじさんかアタオカ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、萬寶路香煙      購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 8,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 487
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T17:53:43.000Z",
+        "description": "chill worldへようこそ",
+        "id": "1897344745523085313",
+        "name": "chill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897465994798620672/ZNUm7WfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 33,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 94
+        },
+        "username": "chillgurui_",
+        "verified": false
+      }
+    ]
+  }
+}

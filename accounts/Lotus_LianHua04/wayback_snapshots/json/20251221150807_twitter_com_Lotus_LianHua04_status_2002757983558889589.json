@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2002757983558889589",
+    "created_at": "2025-12-21T15:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T16:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002757983558889589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lily_u830/stat…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/lily_u830/status/1688531982777737217",
+          "start": 32,
+          "url": "https://t.co/aASYCedFMX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002757983558889589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1688531982777737217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "十八岁以前没自杀的基本上已经明白自己的死法只剩寿终正寝和病逝！ https://t.co/aASYCedFMX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2002757983558889589",
+        "created_at": "2025-12-21T15:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T16:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002757983558889589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lily_u830/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/lily_u830/status/1688531982777737217",
+              "start": 32,
+              "url": "https://t.co/aASYCedFMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002757983558889589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1688531982777737217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "十八岁以前没自杀的基本上已经明白自己的死法只剩寿终正寝和病逝！ https://t.co/aASYCedFMX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541011897817767936",
+        "conversation_id": "1688531982777737217",
+        "created_at": "2023-08-07T12:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2023-08-07T13:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1688531982777737217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1688531982777737217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15841,
+          "like_count": 270,
+          "quote_count": 6,
+          "reply_count": 15,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "十八岁之前还不自杀你就等着活一辈子吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002670298060189696/pFP0w8Su_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-26T10:54:08.000Z",
+        "description": "不为什么",
+        "id": "1541011897817767936",
+        "name": "rain",
+        "pinned_tweet_id": "1657320151958843395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956388810297925632/xfCQZDRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2685,
+          "following_count": 357,
+          "like_count": 7170,
+          "listed_count": 11,
+          "media_count": 482,
+          "tweet_count": 5578
+        },
+        "username": "Lily_u830",
+        "verified": false
+      }
+    ]
+  }
+}

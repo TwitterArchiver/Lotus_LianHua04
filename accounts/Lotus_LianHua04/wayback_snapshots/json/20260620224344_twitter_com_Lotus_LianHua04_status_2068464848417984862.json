@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2068226329125011872",
+    "created_at": "2026-06-20T22:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T23:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068464848417984862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2052038529153466368",
+          "start": 0,
+          "username": "JePenseAT0Ixxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068464848417984862",
+    "in_reply_to_user_id": "2052038529153466368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068226329125011872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JePenseAT0Ixxx 娥。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2068226329125011872",
+        "created_at": "2026-06-20T22:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T23:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068464848417984862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2052038529153466368",
+              "start": 0,
+              "username": "JePenseAT0Ixxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068464848417984862",
+        "in_reply_to_user_id": "2052038529153466368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068226329125011872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JePenseAT0Ixxx 娥。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052038529153466368",
+        "conversation_id": "2068226329125011872",
+        "created_at": "2026-06-20T06:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068226329125011872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068226329125011872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎沒人給我騷擾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 27,
+          "like_count": 1039,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 2257
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T14:56:34.000Z",
+        "description": "我活著 無聲的淌血\nre：迷茫的人生 請別忘記我",
+        "id": "2052038529153466368",
+        "name": "迴2.0（推友尋回中）",
+        "pinned_tweet_id": "2067120732069642376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055765105296715776/abvXB9EU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 43,
+          "like_count": 669,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "JePenseAT0Ixxx",
+        "verified": false
+      }
+    ]
+  }
+}

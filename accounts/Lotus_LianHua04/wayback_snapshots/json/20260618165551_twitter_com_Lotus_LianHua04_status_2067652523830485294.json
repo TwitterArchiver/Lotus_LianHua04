@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2067590786951291051",
+    "created_at": "2026-06-18T16:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067652523830485294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1928386560036306944",
+          "start": 0,
+          "username": "zhoudied"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067652523830485294",
+    "in_reply_to_user_id": "1928386560036306944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067590786951291051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoudied 你那里的穿戴甲审美太好了，我这边全都是裸色大钻母大款"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1648,
+        "media_key": "3_2067590783197433856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGO3N1a0AAy34e.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2067590786951291051",
+        "created_at": "2026-06-18T16:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067652523830485294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1928386560036306944",
+              "start": 0,
+              "username": "zhoudied"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067652523830485294",
+        "in_reply_to_user_id": "1928386560036306944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067590786951291051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoudied 你那里的穿戴甲审美太好了，我这边全都是裸色大钻母大款"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067590783197433856"
+          ]
+        },
+        "author_id": "1928386560036306944",
+        "conversation_id": "2067590786951291051",
+        "created_at": "2026-06-18T12:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067590786951291051"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "kleptotwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gfBMN9uZov",
+              "end": 41,
+              "expanded_url": "https://x.com/zhoudied/status/2067590786951291051/photo/1",
+              "media_key": "3_2067590783197433856",
+              "start": 18,
+              "url": "https://t.co/gfBMN9uZov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067590786951291051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#kleptotwt 今天我是女人 https://t.co/gfBMN9uZov"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 25,
+          "like_count": 967,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 2168
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T09:42:44.000Z",
+        "description": "我不会在这个世界上停留太久",
+        "id": "1928386560036306944",
+        "location": "哈萨克",
+        "name": "₊˚⊹琳⋆˚𝜗𝜚˚⋆",
+        "pinned_tweet_id": "2056248297153859917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066214629320294400/GprRGNsX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 606,
+          "like_count": 9287,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 4188
+        },
+        "url": "",
+        "username": "zhoudied",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2082422627394535509",
+    "created_at": "2026-07-29T11:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082422627394535509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860341670073815040",
+          "start": 3,
+          "username": "aweidadesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082422627394535509",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 225
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082162454658945025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aweidadesu: レズビアンの友達、彼女がフーゾクで働いてて大丈夫なの？って聞いたら\n『男に汚されて帰ってくる彼女も悪くない』\nって言ってて強いなって思ったら\n『嘘…やっぱりツライ』って\nだから「私が彼女だと楽だよ？」って言ったら『無理だよ…それでも好きなの』だっ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2082422627394535509",
+        "created_at": "2026-07-29T11:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082422627394535509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860341670073815040",
+              "start": 3,
+              "username": "aweidadesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082422627394535509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 225
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082162454658945025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aweidadesu: レズビアンの友達、彼女がフーゾクで働いてて大丈夫なの？って聞いたら\n『男に汚されて帰ってくる彼女も悪くない』\nって言ってて強いなって思ったら\n『嘘…やっぱりツライ』って\nだから「私が彼女だと楽だよ？」って言ったら『無理だよ…それでも好きなの』だっ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860341670073815040",
+        "conversation_id": "2082162454658945025",
+        "created_at": "2026-07-28T17:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082162454658945025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082162454658945025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 733,
+          "impression_count": 1385406,
+          "like_count": 8989,
+          "quote_count": 31,
+          "reply_count": 31,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": "レズビアンの友達、彼女がフーゾクで働いてて大丈夫なの？って聞いたら\n『男に汚されて帰ってくる彼女も悪くない』\nって言ってて強いなって思ったら\n『嘘…やっぱりツライ』って\nだから「私が彼女だと楽だよ？」って言ったら『無理だよ…それでも好きなの』だってさ\nいや私の方がツライわ泣\n\nって百合"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 30,
+          "like_count": 1519,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 3329
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T15:17:03.000Z",
+        "description": "健全垢\n百合　ポケモン　大空スバル　ブルアカ",
+        "id": "1860341670073815040",
+        "name": "あうぇ田",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054913512170987520/UFIv-dN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72496,
+          "following_count": 89,
+          "like_count": 1538,
+          "listed_count": 255,
+          "media_count": 242,
+          "tweet_count": 1681
+        },
+        "url": "",
+        "username": "aweidadesu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2064442001567674865",
+    "created_at": "2026-06-09T20:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T21:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064442001567674865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1509242952098488324",
+          "start": 3,
+          "username": "ploocki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064442001567674865",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 800
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063890617906630790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ploocki: been neglecting my groceries so i have money to spend on cigarettes and drugs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2064442001567674865",
+        "created_at": "2026-06-09T20:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T21:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064442001567674865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1509242952098488324",
+              "start": 3,
+              "username": "ploocki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064442001567674865",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 800
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063890617906630790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ploocki: been neglecting my groceries so i have money to spend on cigarettes and drugs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509242952098488324",
+        "conversation_id": "2063890617906630790",
+        "created_at": "2026-06-08T07:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063890617906630790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063890617906630790",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 104187,
+          "like_count": 7017,
+          "quote_count": 46,
+          "reply_count": 12,
+          "retweet_count": 800
+        },
+        "reply_settings": "everyone",
+        "text": "been neglecting my groceries so i have money to spend on cigarettes and drugs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 27,
+          "like_count": 874,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1926
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-30T18:55:49.000Z",
+        "description": "deerblogger and nursing student on a healing journey",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/ploocki",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/ploocki",
+                "start": 0,
+                "url": "https://t.co/VQjRMDl0sg"
+              }
+            ]
+          }
+        },
+        "id": "1509242952098488324",
+        "location": "forwards, beckon, rebound | 18",
+        "name": "(つ﹏⊂)",
+        "pinned_tweet_id": "2033472284388642833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000915929002110980/PiX0jp22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9258,
+          "following_count": 1204,
+          "like_count": 51065,
+          "listed_count": 69,
+          "media_count": 4589,
+          "tweet_count": 33439
+        },
+        "url": "https://t.co/VQjRMDl0sg",
+        "username": "ploocki",
+        "verified": false
+      }
+    ]
+  }
+}

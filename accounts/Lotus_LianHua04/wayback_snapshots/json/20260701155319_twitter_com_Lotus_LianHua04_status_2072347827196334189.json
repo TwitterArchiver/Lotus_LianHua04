@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2072347827196334189",
+    "created_at": "2026-07-01T15:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072347827196334189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "924814145781891072",
+          "start": 3,
+          "username": "ragingxngxl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072347827196334189",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 460
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072018686706094230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ragingxngxl: I feel like I’ll open up more in therapy if they allowed me to smoke a cigarette during the session."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2072347827196334189",
+        "created_at": "2026-07-01T15:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072347827196334189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "924814145781891072",
+              "start": 3,
+              "username": "ragingxngxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072347827196334189",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 460
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072018686706094230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ragingxngxl: I feel like I’ll open up more in therapy if they allowed me to smoke a cigarette during the session."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "924814145781891072",
+        "conversation_id": "2072018686706094230",
+        "created_at": "2026-06-30T18:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072018686706094230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072018686706094230",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 83441,
+          "like_count": 5124,
+          "quote_count": 50,
+          "reply_count": 29,
+          "retweet_count": 460
+        },
+        "reply_settings": "everyone",
+        "text": "I feel like I’ll open up more in therapy if they allowed me to smoke a cigarette during the session."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 28,
+          "like_count": 1184,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2677
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-30T01:44:09.000Z",
+        "description": "",
+        "id": "924814145781891072",
+        "name": "۟",
+        "pinned_tweet_id": "1778861613493182975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028334564343427072/5u_w88B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5116,
+          "following_count": 712,
+          "like_count": 152473,
+          "listed_count": 12,
+          "media_count": 5059,
+          "tweet_count": 36006
+        },
+        "url": "",
+        "username": "ragingxngxl",
+        "verified": false
+      }
+    ]
+  }
+}

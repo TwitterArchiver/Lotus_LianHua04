@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073007998780190720"
+      ],
+      "media_source_tweet_id": [
+        "2073008000592138587"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2073465627973390612",
+    "created_at": "2026-07-04T17:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073465627973390612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759741321000935424",
+          "start": 3,
+          "username": "Bad_CactuSUS_"
+        },
+        {
+          "end": 28,
+          "id": "1254605353838231553",
+          "start": 19,
+          "username": "sss_1713"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dKpnnXamdd",
+          "end": 113,
+          "expanded_url": "https://x.com/Bad_CactuSUS_/status/2073008000592138587/photo/1",
+          "media_key": "3_2073007998780190720",
+          "start": 90,
+          "url": "https://t.co/dKpnnXamdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073465627973390612",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 215
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073008000592138587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bad_CactuSUS_: @sss_1713 La diferencia entre un dilema amoroso y un triangulo amoroso https://t.co/dKpnnXamdd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_2073007998780190720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTNyqfWMAArGjQ.jpg",
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073007998780190720"
+          ],
+          "media_source_tweet_id": [
+            "2073008000592138587"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2073465627973390612",
+        "created_at": "2026-07-04T17:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073465627973390612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759741321000935424",
+              "start": 3,
+              "username": "Bad_CactuSUS_"
+            },
+            {
+              "end": 28,
+              "id": "1254605353838231553",
+              "start": 19,
+              "username": "sss_1713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKpnnXamdd",
+              "end": 113,
+              "expanded_url": "https://x.com/Bad_CactuSUS_/status/2073008000592138587/photo/1",
+              "media_key": "3_2073007998780190720",
+              "start": 90,
+              "url": "https://t.co/dKpnnXamdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073465627973390612",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 215
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073008000592138587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bad_CactuSUS_: @sss_1713 La diferencia entre un dilema amoroso y un triangulo amoroso https://t.co/dKpnnXamdd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073007998780190720"
+          ]
+        },
+        "author_id": "1759741321000935424",
+        "conversation_id": "2072827056363082162",
+        "created_at": "2026-07-03T11:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073008000592138587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254605353838231553",
+              "start": 0,
+              "username": "sss_1713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKpnnXamdd",
+              "end": 94,
+              "expanded_url": "https://x.com/Bad_CactuSUS_/status/2073008000592138587/photo/1",
+              "media_key": "3_2073007998780190720",
+              "start": 71,
+              "url": "https://t.co/dKpnnXamdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073008000592138587",
+        "in_reply_to_user_id": "1254605353838231553",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 327,
+          "impression_count": 1299074,
+          "like_count": 6929,
+          "quote_count": 183,
+          "reply_count": 21,
+          "retweet_count": 215
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072827056363082162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_1713 La diferencia entre un dilema amoroso y un triangulo amoroso https://t.co/dKpnnXamdd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 29,
+          "like_count": 1259,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 2810
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T00:46:55.000Z",
+        "description": "Act like a they/them\n-Look like a she/her\n-Smoke like a he/him\n-Party like a xe/xyr",
+        "id": "1759741321000935424",
+        "location": "Manhattan, NY (curently Spain)",
+        "name": "BiBanka 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002184913710149632/0S61PZss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 44,
+          "like_count": 27846,
+          "listed_count": 1,
+          "media_count": 391,
+          "tweet_count": 1496
+        },
+        "url": "",
+        "username": "Bad_CactuSUS_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5937,
+          "following_count": 788,
+          "like_count": 53578,
+          "listed_count": 18,
+          "media_count": 1056,
+          "tweet_count": 9279
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": false
+      }
+    ]
+  }
+}

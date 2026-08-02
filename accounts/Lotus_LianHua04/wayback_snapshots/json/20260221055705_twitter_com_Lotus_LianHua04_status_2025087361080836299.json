@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2022140931902947430",
+    "created_at": "2026-02-21T05:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025087361080836299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1806319278431633409",
+          "start": 0,
+          "username": "psychomantisyay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025087361080836299",
+    "in_reply_to_user_id": "1806319278431633409",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022140931902947430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@psychomantisyay so sad😢😢btw why you just 14 years old but do you have to make these choices? It‘s too early💧💧I have to wait until I‘m at least 17 years old—where I live"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2022140931902947430",
+        "created_at": "2026-02-21T05:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025087361080836299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1806319278431633409",
+              "start": 0,
+              "username": "psychomantisyay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025087361080836299",
+        "in_reply_to_user_id": "1806319278431633409",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022140931902947430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psychomantisyay so sad😢😢btw why you just 14 years old but do you have to make these choices? It‘s too early💧💧I have to wait until I‘m at least 17 years old—where I live"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806319278431633409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          }
+        ],
+        "conversation_id": "2022140931902947430",
+        "created_at": "2026-02-13T02:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022140931902947430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022140931902947430",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Guys, my school told me earlier today I have to start planning for my fuckass future, I decided to do Accounting/Business, but if that doesn't work out, I am going to be taking chemistry for the rest of high school as a backup plan ifykwim, why did I want to grow up 🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 16,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 605
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T13:31:03.000Z",
+        "description": "//I'm kinda f'ed in the head//#shedtwt//I 🔄 censored and uncensored SH|I'm 14yrs/o, emo, and F//I love gore🔪🩸//I'm single 💔//MOOT ME//Cw:160lbs, Gw:90lbs",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 30,
+                "tag": "shedtwt"
+              }
+            ]
+          }
+        },
+        "id": "1806319278431633409",
+        "location": "Canada",
+        "name": "psychomantisyaya",
+        "pinned_tweet_id": "2003900860389351709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806320115014656001/-iud8dck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 447,
+          "like_count": 5035,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 3393
+        },
+        "username": "psychomantisyay",
+        "verified": false
+      }
+    ]
+  }
+}

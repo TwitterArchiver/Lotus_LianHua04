@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025452713606348803"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2025452734577869286",
+    "created_at": "2026-02-22T06:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T07:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025452734577869286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JhzDLkBX5v",
+          "end": 118,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2025452734577869286/photo/1",
+          "media_key": "3_2025452713606348803",
+          "start": 95,
+          "url": "https://t.co/JhzDLkBX5v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025452734577869286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蓮花=Lotus=洛塔斯\n我什么圈子都不混只是懵逼地听歌，懵逼地写东西\n我们可以一起听歌&amp;互相看对方写的东西&amp;联机嗑药药后打语音\n喜欢聊天的和我互fo好么plsssss💧💧 https://t.co/JhzDLkBX5v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2025452713606348803",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvagv_bgAMB_Sj.jpg",
+        "width": 1104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025452713606348803"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2025452734577869286",
+        "created_at": "2026-02-22T06:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025452734577869286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhzDLkBX5v",
+              "end": 118,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2025452734577869286/photo/1",
+              "media_key": "3_2025452713606348803",
+              "start": 95,
+              "url": "https://t.co/JhzDLkBX5v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025452734577869286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓮花=Lotus=洛塔斯\n我什么圈子都不混只是懵逼地听歌，懵逼地写东西\n我们可以一起听歌&amp;互相看对方写的东西&amp;联机嗑药药后打语音\n喜欢聊天的和我互fo好么plsssss💧💧 https://t.co/JhzDLkBX5v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 16,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 647
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

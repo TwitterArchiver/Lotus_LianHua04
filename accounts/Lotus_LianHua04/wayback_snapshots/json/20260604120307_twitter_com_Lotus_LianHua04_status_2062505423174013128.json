@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2062129229563576639",
+    "created_at": "2026-06-04T12:03:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:03:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062505423174013128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2054741972783599616",
+          "start": 0,
+          "username": "ydr8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062505423174013128",
+    "in_reply_to_user_id": "2054741972783599616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062502955253891396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ydr8p 嗑药逼有自己的她想死也想去巴黎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2062129229563576639",
+        "created_at": "2026-06-04T12:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062505423174013128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2054741972783599616",
+              "start": 0,
+              "username": "ydr8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062505423174013128",
+        "in_reply_to_user_id": "2054741972783599616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062502955253891396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ydr8p 嗑药逼有自己的她想死也想去巴黎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054741972783599616",
+        "conversation_id": "2062129229563576639",
+        "created_at": "2026-06-04T11:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062502955253891396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062502955253891396",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062129229563576639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 我吸毒也想自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 26,
+          "like_count": 798,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1741
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T01:54:41.000Z",
+        "description": "热爱吸毒，从事灰黑产行业（不是擦边）可可爱爱ovo",
+        "id": "2054741972783599616",
+        "name": "妤儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742376934170624/l7d2fACV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 115,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 82
+        },
+        "username": "ydr8p",
+        "verified": false
+      }
+    ]
+  }
+}

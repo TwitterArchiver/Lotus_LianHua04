@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2068211832922193978",
+    "created_at": "2026-06-20T06:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068215204911972665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1928386560036306944",
+          "start": 0,
+          "username": "zhoudied"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068215204911972665",
+    "in_reply_to_user_id": "1928386560036306944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068214951974477934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoudied 难点在于我有饮食障碍而且我对呕吐这个行为本身上瘾了我今天没吃东西也想催吐💧💧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2068211832922193978",
+        "created_at": "2026-06-20T06:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068215204911972665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1928386560036306944",
+              "start": 0,
+              "username": "zhoudied"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068215204911972665",
+        "in_reply_to_user_id": "1928386560036306944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068214951974477934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoudied 难点在于我有饮食障碍而且我对呕吐这个行为本身上瘾了我今天没吃东西也想催吐💧💧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928386560036306944",
+        "conversation_id": "2068211832922193978",
+        "created_at": "2026-06-20T06:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068214951974477934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068214951974477934",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068211832922193978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 哎少催吐吧太伤身了试试下定决心多饿一会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 25,
+          "like_count": 1027,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 2235
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T09:42:44.000Z",
+        "description": "我不会在这个世界上停留太久",
+        "id": "1928386560036306944",
+        "location": "哈萨克",
+        "name": "₊˚⊹琳⋆˚𝜗𝜚˚⋆🍀🌷",
+        "pinned_tweet_id": "2056248297153859917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066214629320294400/GprRGNsX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 615,
+          "like_count": 9528,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 4281
+        },
+        "url": "",
+        "username": "zhoudied",
+        "verified": false
+      }
+    ]
+  }
+}

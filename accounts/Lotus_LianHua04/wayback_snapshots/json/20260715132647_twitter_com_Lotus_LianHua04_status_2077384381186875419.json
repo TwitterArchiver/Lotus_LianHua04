@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2077384381186875419",
+    "created_at": "2026-07-15T13:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077384381186875419"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077384381186875419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得我女神给别人带来了无穷无尽的精神病，而她自己又很健全。但她太有才华了我愿意每天让她触发我的焦虑抑郁躁狂精分PPD然后她再对我来一套中式母子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2077384381186875419",
+        "created_at": "2026-07-15T13:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077384381186875419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077384381186875419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我女神给别人带来了无穷无尽的精神病，而她自己又很健全。但她太有才华了我愿意每天让她触发我的焦虑抑郁躁狂精分PPD然后她再对我来一套中式母子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 29,
+          "like_count": 1363,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 3116
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

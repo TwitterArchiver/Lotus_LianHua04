@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2005757086978957614",
+    "created_at": "2025-12-29T21:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T22:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005757086978957614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2005756276136108480",
+          "start": 79,
+          "url": "https://t.co/v4nd0WnTBt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005757086978957614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005756276136108480",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他是卖保险的。以前只要你四肢健全，有腿能走路有手能敲门有嘴能推销，就可以入职保险公司。他吸K粉，说因为吸完感觉什么也不害怕了，胆子很大，而且说话自信声音洪亮 https://t.co/v4nd0WnTBt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2005757086978957614",
+        "created_at": "2025-12-29T21:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T22:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005757086978957614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2005756276136108480",
+              "start": 79,
+              "url": "https://t.co/v4nd0WnTBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005757086978957614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005756276136108480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他是卖保险的。以前只要你四肢健全，有腿能走路有手能敲门有嘴能推销，就可以入职保险公司。他吸K粉，说因为吸完感觉什么也不害怕了，胆子很大，而且说话自信声音洪亮 https://t.co/v4nd0WnTBt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2005756276136108480",
+        "created_at": "2025-12-29T21:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T22:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005756276136108480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005756276136108480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到现在我还记得我爸以前一个男同事因为吸毒并且容留了另一个吸毒的女人(他们当时在恋爱)被抓了，强制戒毒。他说只是想多攒点钱回老家结婚。他也是湖北的。我觉得很难受。是不是其实人根本就没得选。因为这个想法我曾经还信过神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003156132467261440/hf-wJIXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 6,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 186
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

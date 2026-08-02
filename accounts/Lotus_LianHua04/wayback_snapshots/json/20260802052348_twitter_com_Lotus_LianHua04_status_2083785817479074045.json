@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2083264194032337302",
+    "created_at": "2026-08-02T05:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083785817479074045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2046741896974700545",
+          "start": 0,
+          "username": "oinkBum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083785817479074045",
+    "in_reply_to_user_id": "2002670122767667200",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083784131754733843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oinkBum sorry I only now do I understand what you said\n\nyou don‘t rely on sertraline itself to therefore weight but it‘s still very dangerous..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2083264194032337302",
+        "created_at": "2026-08-02T05:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083785817479074045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2046741896974700545",
+              "start": 0,
+              "username": "oinkBum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083785817479074045",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083784131754733843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oinkBum sorry I only now do I understand what you said\n\nyou don‘t rely on sertraline itself to therefore weight but it‘s still very dangerous..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2083264194032337302",
+        "created_at": "2026-08-02T05:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083784131754733843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2046741896974700545",
+              "start": 0,
+              "username": "oinkBum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083784131754733843",
+        "in_reply_to_user_id": "2046741896974700545",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083264194032337302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oinkBum girl but I have to say that it varies from person to person...my best friend and I have been prescribed sertraline by the doctor I gained 20kg because of hormone or what other reasons? I don‘t know about pharmacology💔💔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 30,
+          "like_count": 1628,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 3426
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T00:08:09.000Z",
+        "description": "\"Drill or hammer?\"\nShe/Her (っ◞‸◟c) 18 !!\n#LARPtwt #shedtwt #BPD\nMy old account was deleted !! I'm just ranting tbh",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "LARPtwt"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "BPD"
+              }
+            ]
+          }
+        },
+        "id": "2046741896974700545",
+        "location": ":+.ﾟ(*´□`*)ﾟ.+:",
+        "name": "PiggyVal ଘ(੭ˊ꒳​ˋ)੭✧",
+        "pinned_tweet_id": "2083264194032337302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082964591353417729/gXnsQ0N-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 53,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "oinkBum",
+        "verified": false
+      }
+    ]
+  }
+}

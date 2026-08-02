@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2062235412266164594",
+    "created_at": "2026-06-03T18:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062235412266164594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1933008607424937984",
+          "start": 3,
+          "username": "Max_elpotaxie22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062235412266164594",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2253
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061836039539327451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Max_elpotaxie22: Las personas que romantizan la depresión cuando ven a una persona con depresión que no se baña,se autolesiona, no se l…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 452,
+        "media_key": "3_2061836037324701696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0c863WgAAp7t0.jpg",
+        "width": 444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2062235412266164594",
+        "created_at": "2026-06-03T18:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062235412266164594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1933008607424937984",
+              "start": 3,
+              "username": "Max_elpotaxie22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062235412266164594",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2253
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061836039539327451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Max_elpotaxie22: Las personas que romantizan la depresión cuando ven a una persona con depresión que no se baña,se autolesiona, no se l…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061836037324701696"
+          ]
+        },
+        "author_id": "1933008607424937984",
+        "conversation_id": "2061836039539327451",
+        "created_at": "2026-06-02T15:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061836039539327451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b1p0Wxkcpv",
+              "end": 162,
+              "expanded_url": "https://x.com/Max_elpotaxie22/status/2061836039539327451/photo/1",
+              "media_key": "3_2061836037324701696",
+              "start": 139,
+              "url": "https://t.co/b1p0Wxkcpv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061836039539327451",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 56206,
+          "like_count": 8979,
+          "quote_count": 49,
+          "reply_count": 55,
+          "retweet_count": 2253
+        },
+        "reply_settings": "everyone",
+        "text": "Las personas que romantizan la depresión cuando ven a una persona con depresión que no se baña,se autolesiona, no se lava los dientes etc: https://t.co/b1p0Wxkcpv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 26,
+          "like_count": 792,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1728
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T03:49:12.000Z",
+        "description": "Soy gay//Soy yumeshipper del reverendo Alegría//Mi serie fav es American horror story//Me gusta Cookie run  y  Melanie \nMartinez//tengo 19 añitos",
+        "id": "1933008607424937984",
+        "location": "Costa rica",
+        "name": "Maxin🦋",
+        "pinned_tweet_id": "2049093695673180216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049093167996362752/IC_3TOIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 288,
+          "like_count": 12740,
+          "listed_count": 7,
+          "media_count": 4570,
+          "tweet_count": 18946
+        },
+        "username": "Max_elpotaxie22",
+        "verified": false
+      }
+    ]
+  }
+}

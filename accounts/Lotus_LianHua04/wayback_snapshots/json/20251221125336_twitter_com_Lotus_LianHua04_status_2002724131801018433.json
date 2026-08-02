@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2002724032689602560"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2002724131801018433",
+    "created_at": "2025-12-21T12:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T13:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002724131801018433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ydoxonndtL",
+          "end": 23,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2002724131801018433/video/1",
+          "media_key": "13_2002724032689602560",
+          "start": 0,
+          "url": "https://t.co/ydoxonndtL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002724131801018433",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ydoxonndtL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17673,
+        "height": 590,
+        "media_key": "13_2002724032689602560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002724032689602560/img/CSM-kzCg60epZu7U.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002724032689602560/vid/avc1/406x270/pSc-6EQLV7KVriP2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002724032689602560/vid/avc1/540x360/RtWr3cE5dewOqR3i.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002724032689602560/vid/avc1/888x590/kbc204axOZaXFMFk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002724032689602560/pl/SjHnu052whPtBLX9.m3u8"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002724032689602560"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2002724131801018433",
+        "created_at": "2025-12-21T12:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T13:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002724131801018433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ydoxonndtL",
+              "end": 23,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2002724131801018433/video/1",
+              "media_key": "13_2002724032689602560",
+              "start": 0,
+              "url": "https://t.co/ydoxonndtL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002724131801018433",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ydoxonndtL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002670298060189696/pFP0w8Su_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

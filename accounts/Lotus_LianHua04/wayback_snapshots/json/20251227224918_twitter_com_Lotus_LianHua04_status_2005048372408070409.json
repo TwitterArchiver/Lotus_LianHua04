@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2005048372408070409",
+    "created_at": "2025-12-27T22:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T23:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005048372408070409"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005048372408070409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对皇汉无话可说，李自成屠湖北但我老家中年男人依旧坚定认为如果明朝挺住了中国人现在很幸福。我坚持认为被屠也是一种因果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2005048372408070409",
+        "created_at": "2025-12-27T22:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T23:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005048372408070409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005048372408070409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对皇汉无话可说，李自成屠湖北但我老家中年男人依旧坚定认为如果明朝挺住了中国人现在很幸福。我坚持认为被屠也是一种因果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003156132467261440/hf-wJIXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 5,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 149
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

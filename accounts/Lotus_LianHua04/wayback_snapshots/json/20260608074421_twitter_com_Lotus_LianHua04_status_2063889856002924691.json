@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2063889856002924691",
+    "created_at": "2026-06-08T07:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T08:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063889856002924691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050411405874991106",
+          "start": 3,
+          "username": "Fw_k4ylee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063889856002924691",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 654
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063624314818121992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fw_k4ylee: left wing drugs: \nweed\nLSD\nxanax\n\nright wing drugs:\nmeth\ncocaine\nzyns\n\nWe need centrist drugs for radical centrists."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2063889856002924691",
+        "created_at": "2026-06-08T07:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063889856002924691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050411405874991106",
+              "start": 3,
+              "username": "Fw_k4ylee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063889856002924691",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 654
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063624314818121992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fw_k4ylee: left wing drugs: \nweed\nLSD\nxanax\n\nright wing drugs:\nmeth\ncocaine\nzyns\n\nWe need centrist drugs for radical centrists."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050411405874991106",
+        "conversation_id": "2063624314818121992",
+        "created_at": "2026-06-07T14:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063624314818121992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063624314818121992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 880,
+          "impression_count": 1059592,
+          "like_count": 13274,
+          "quote_count": 329,
+          "reply_count": 863,
+          "retweet_count": 654
+        },
+        "reply_settings": "everyone",
+        "text": "left wing drugs: \nweed\nLSD\nxanax\n\nright wing drugs:\nmeth\ncocaine\nzyns\n\nWe need centrist drugs for radical centrists."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 27,
+          "like_count": 835,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1874
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T03:08:38.000Z",
+        "description": "𝐒𝐨𝐦𝐞 𝐠𝐢𝐫𝐥𝐬 𝐧𝐚𝐭𝐮𝐫𝐚𝐥𝐥𝐲 𝐡𝐚𝐯𝐞 𝐢𝐭… 𝐈’𝐦 𝐡𝐞𝐫 😮‍🔥💨",
+        "id": "2050411405874991106",
+        "name": "k4ylee🖤🎀",
+        "pinned_tweet_id": "2063883868466266203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050756019983417344/FAGENlQo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 66,
+          "like_count": 919,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 53
+        },
+        "username": "Fw_k4ylee",
+        "verified": true
+      }
+    ]
+  }
+}

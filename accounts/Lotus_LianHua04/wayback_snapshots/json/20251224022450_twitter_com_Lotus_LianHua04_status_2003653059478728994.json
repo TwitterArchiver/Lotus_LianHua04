@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2003653059478728994",
+    "created_at": "2025-12-24T02:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T03:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003653059478728994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2003652903647736076",
+          "start": 33,
+          "url": "https://t.co/R2JbHS9616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003653059478728994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003652903647736076",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "化日系妆夸你像日本人有啥问题你接受不了怎么不一开始仿妆吴京得了呢 https://t.co/R2JbHS9616"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2003653059478728994",
+        "created_at": "2025-12-24T02:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T03:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003653059478728994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2003652903647736076",
+              "start": 33,
+              "url": "https://t.co/R2JbHS9616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003653059478728994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003652903647736076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "化日系妆夸你像日本人有啥问题你接受不了怎么不一开始仿妆吴京得了呢 https://t.co/R2JbHS9616"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2003652903647736076",
+        "created_at": "2025-12-24T02:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T03:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003652903647736076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003652903647736076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人事怎么那么多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003156132467261440/hf-wJIXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 53
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

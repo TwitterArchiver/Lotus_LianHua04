@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2013455156034040079",
+    "created_at": "2026-01-20T03:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T04:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013455156034040079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2013454708292083834",
+          "start": 60,
+          "url": "https://t.co/NA3NsF7xhM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013455156034040079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013454708292083834",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老爹老母在经历我好几次自杀之后，现在南京租的房子家具全是圆角，窗户外还有开不了的纱窗，无杆轨道窗帘。死神来了都带不走我 https://t.co/NA3NsF7xhM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2013455156034040079",
+        "created_at": "2026-01-20T03:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T04:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013455156034040079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2013454708292083834",
+              "start": 60,
+              "url": "https://t.co/NA3NsF7xhM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013455156034040079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013454708292083834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老爹老母在经历我好几次自杀之后，现在南京租的房子家具全是圆角，窗户外还有开不了的纱窗，无杆轨道窗帘。死神来了都带不走我 https://t.co/NA3NsF7xhM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2013454708292083834",
+        "created_at": "2026-01-20T03:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T04:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013454708292083834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2013354086796566736",
+              "start": 71,
+              "url": "https://t.co/0hgBWIW45L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013454708292083834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013354086796566736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我得到了一个特别好笑的答案。。我一定会这样做的等我好消息。但至少是在过年之后因为我老家的房子可以说是bad trip助推器一拉开窗户就能跳楼 https://t.co/0hgBWIW45L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 9,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 404
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

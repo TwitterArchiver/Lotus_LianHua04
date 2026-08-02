@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2065742151019790710",
+    "created_at": "2026-06-13T17:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065844943306846615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1799439179992158209",
+          "start": 0,
+          "username": "N08T4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065844943306846615",
+    "in_reply_to_user_id": "1799439179992158209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065824051562693060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N08T4 偷东西的时候我的白男人格顶号了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2065742151019790710",
+        "created_at": "2026-06-13T17:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065844943306846615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1799439179992158209",
+              "start": 0,
+              "username": "N08T4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065844943306846615",
+        "in_reply_to_user_id": "1799439179992158209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065824051562693060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N08T4 偷东西的时候我的白男人格顶号了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799439179992158209",
+        "conversation_id": "2065742151019790710",
+        "created_at": "2026-06-13T15:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065824051562693060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065824051562693060",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065742151019790710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 偷东西太舒服了这个世界都是我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 26,
+          "like_count": 916,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 2014
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T13:51:57.000Z",
+        "description": "美国人的时候@sipsick0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "sipsick0"
+              }
+            ]
+          }
+        },
+        "id": "1799439179992158209",
+        "location": "你的床下",
+        "name": "呃",
+        "pinned_tweet_id": "1980359410779320339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008855223159398400/ARjl8tJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 104,
+          "like_count": 9438,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1641
+        },
+        "username": "N08T4",
+        "verified": false
+      }
+    ]
+  }
+}

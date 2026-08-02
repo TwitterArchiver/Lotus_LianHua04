@@ -1,0 +1,636 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065585005917581312"
+      ],
+      "media_source_tweet_id": [
+        "2065585012800405904"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Mick Jagger",
+          "id": "877848588486754304",
+          "name": "Mick Jagger"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "British singer, songwriter and actress",
+          "id": "1070723466700046337",
+          "name": "Marianne Faithfull"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Mick Jagger",
+          "id": "877848588486754304",
+          "name": "Mick Jagger"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "British singer, songwriter and actress",
+          "id": "1070723466700046337",
+          "name": "Marianne Faithfull"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mick Jagger",
+          "id": "877848588486754304",
+          "name": "Mick Jagger"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "British singer, songwriter and actress",
+          "id": "1070723466700046337",
+          "name": "Marianne Faithfull"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Classic Rock",
+          "id": "1108100469778345984",
+          "name": "Classic rock"
+        }
+      }
+    ],
+    "conversation_id": "2065845623421645101",
+    "created_at": "2026-06-13T17:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065845623421645101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1724196599495118849",
+          "start": 3,
+          "username": "modernhistory"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uo3wmodk4G",
+          "end": 123,
+          "expanded_url": "https://x.com/modernhistory/status/2065585012800405904/photo/1",
+          "media_key": "3_2065585005917581312",
+          "start": 100,
+          "url": "https://t.co/uo3wmodk4G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065845623421645101",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 837
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065585012800405904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @modernhistory: When Mick Jagger and his\ngirlfriend Marianne Faithfull\nmet Alain Delon in 1967.. https://t.co/uo3wmodk4G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2065585005917581312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKpunnMXMAAKo8D.jpg",
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065585005917581312"
+          ],
+          "media_source_tweet_id": [
+            "2065585012800405904"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Mick Jagger",
+              "id": "877848588486754304",
+              "name": "Mick Jagger"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British singer, songwriter and actress",
+              "id": "1070723466700046337",
+              "name": "Marianne Faithfull"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Mick Jagger",
+              "id": "877848588486754304",
+              "name": "Mick Jagger"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "British singer, songwriter and actress",
+              "id": "1070723466700046337",
+              "name": "Marianne Faithfull"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mick Jagger",
+              "id": "877848588486754304",
+              "name": "Mick Jagger"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British singer, songwriter and actress",
+              "id": "1070723466700046337",
+              "name": "Marianne Faithfull"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          }
+        ],
+        "conversation_id": "2065845623421645101",
+        "created_at": "2026-06-13T17:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065845623421645101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1724196599495118849",
+              "start": 3,
+              "username": "modernhistory"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uo3wmodk4G",
+              "end": 123,
+              "expanded_url": "https://x.com/modernhistory/status/2065585012800405904/photo/1",
+              "media_key": "3_2065585005917581312",
+              "start": 100,
+              "url": "https://t.co/uo3wmodk4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065845623421645101",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 837
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065585012800405904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @modernhistory: When Mick Jagger and his\ngirlfriend Marianne Faithfull\nmet Alain Delon in 1967.. https://t.co/uo3wmodk4G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065585005917581312"
+          ]
+        },
+        "author_id": "1724196599495118849",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Mick Jagger",
+              "id": "877848588486754304",
+              "name": "Mick Jagger"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British singer, songwriter and actress",
+              "id": "1070723466700046337",
+              "name": "Marianne Faithfull"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Mick Jagger",
+              "id": "877848588486754304",
+              "name": "Mick Jagger"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "British singer, songwriter and actress",
+              "id": "1070723466700046337",
+              "name": "Marianne Faithfull"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mick Jagger",
+              "id": "877848588486754304",
+              "name": "Mick Jagger"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British singer, songwriter and actress",
+              "id": "1070723466700046337",
+              "name": "Marianne Faithfull"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          }
+        ],
+        "conversation_id": "2065585012800405904",
+        "created_at": "2026-06-13T00:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065585012800405904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uo3wmodk4G",
+              "end": 104,
+              "expanded_url": "https://x.com/modernhistory/status/2065585012800405904/photo/1",
+              "media_key": "3_2065585005917581312",
+              "start": 81,
+              "url": "https://t.co/uo3wmodk4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065585012800405904",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1505,
+          "impression_count": 1088210,
+          "like_count": 9342,
+          "quote_count": 337,
+          "reply_count": 286,
+          "retweet_count": 837
+        },
+        "reply_settings": "everyone",
+        "text": "When Mick Jagger and his\ngirlfriend Marianne Faithfull\nmet Alain Delon in 1967.. https://t.co/uo3wmodk4G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 26,
+          "like_count": 916,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 2015
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T22:45:00.000Z",
+        "description": "Content Producer | Nostalgia |",
+        "id": "1724196599495118849",
+        "name": "Modern History",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032782748419543040/BLe_fLmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284911,
+          "following_count": 99873,
+          "like_count": 266952,
+          "listed_count": 649,
+          "media_count": 16423,
+          "tweet_count": 31475
+        },
+        "username": "modernhistory",
+        "verified": true
+      }
+    ]
+  }
+}

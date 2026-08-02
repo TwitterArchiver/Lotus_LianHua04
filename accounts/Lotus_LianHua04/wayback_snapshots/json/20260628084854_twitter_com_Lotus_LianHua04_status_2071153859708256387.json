@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2071153859708256387",
+    "created_at": "2026-06-28T08:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071153859708256387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1002444673548341248",
+          "start": 3,
+          "username": "_lithographica_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071153859708256387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3234
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070848445099962542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_lithographica_: 目覚めたらセックスしないと出られない部屋に閉じ込められており、横を見るともうひとりは既に死亡しているというホラーが見たいと常々思っています"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2071153859708256387",
+        "created_at": "2026-06-28T08:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071153859708256387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1002444673548341248",
+              "start": 3,
+              "username": "_lithographica_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071153859708256387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3234
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070848445099962542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_lithographica_: 目覚めたらセックスしないと出られない部屋に閉じ込められており、横を見るともうひとりは既に死亡しているというホラーが見たいと常々思っています"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1002444673548341248",
+        "conversation_id": "2070848445099962542",
+        "created_at": "2026-06-27T12:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070848445099962542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070848445099962542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3840,
+          "impression_count": 3498071,
+          "like_count": 55056,
+          "quote_count": 1100,
+          "reply_count": 242,
+          "retweet_count": 3237
+        },
+        "reply_settings": "everyone",
+        "text": "目覚めたらセックスしないと出られない部屋に閉じ込められており、横を見るともうひとりは既に死亡しているというホラーが見たいと常々思っています"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 26,
+          "like_count": 1103,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 2517
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-01T07:00:09.000Z",
+        "description": "巨大な犬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/66377058",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/66377058",
+                "start": 0,
+                "url": "https://t.co/7DHTUsWBxs"
+              }
+            ]
+          }
+        },
+        "id": "1002444673548341248",
+        "name": "リトグラフィカ",
+        "pinned_tweet_id": "1745830129081930233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642213556769918977/OnUw_n3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40223,
+          "following_count": 631,
+          "like_count": 57989,
+          "listed_count": 343,
+          "media_count": 927,
+          "tweet_count": 50825
+        },
+        "url": "https://t.co/7DHTUsWBxs",
+        "username": "_lithographica_",
+        "verified": false
+      }
+    ]
+  }
+}

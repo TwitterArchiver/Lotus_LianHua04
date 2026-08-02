@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2050226995707957616",
+    "created_at": "2026-05-01T14:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T15:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050226995707957616"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2050226833275109639",
+          "start": 16,
+          "url": "https://t.co/fpFi0VMOc9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050226995707957616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050226833275109639",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可是闺蜜这不是一个死妈丘比么？ https://t.co/fpFi0VMOc9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2050226817076793344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPebXTXkAARSqA.jpg",
+        "width": 738
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2050226817080983552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPebXUXgAARhqj.jpg",
+        "width": 466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2050226995707957616",
+        "created_at": "2026-05-01T14:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050226995707957616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2050226833275109639",
+              "start": 16,
+              "url": "https://t.co/fpFi0VMOc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050226995707957616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050226833275109639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可是闺蜜这不是一个死妈丘比么？ https://t.co/fpFi0VMOc9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050226817076793344",
+            "3_2050226817080983552"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050226833275109639",
+        "created_at": "2026-05-01T14:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050226833275109639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PCH96a83ka",
+              "end": 23,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2050226833275109639/photo/1",
+              "media_key": "3_2050226817076793344",
+              "start": 0,
+              "url": "https://t.co/PCH96a83ka"
+            },
+            {
+              "display_url": "pic.x.com/PCH96a83ka",
+              "end": 23,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2050226833275109639/photo/1",
+              "media_key": "3_2050226817080983552",
+              "start": 0,
+              "url": "https://t.co/PCH96a83ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050226833275109639",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PCH96a83ka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 22,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1227
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

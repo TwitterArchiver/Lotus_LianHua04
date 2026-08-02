@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012462339715731456"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2012462343712817395",
+    "created_at": "2026-01-17T09:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T10:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012462343712817395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 26,
+          "id": "1836276354041495553",
+          "start": 16,
+          "username": "CABR_Lies"
+        }
+      ],
+      "urls": [
+        {
+          "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+          "display_url": "infinitetweet.me/secret-crush?l…",
+          "end": 54,
+          "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2010301998047084544/BRxUSwTu?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2010301998047084544/BRxUSwTu?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 31,
+          "status": 200,
+          "title": "Secret Crush • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "url": "https://t.co/cyj33q7nnO"
+        },
+        {
+          "display_url": "pic.x.com/BJzvJwyJYv",
+          "end": 78,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2012462343712817395/photo/1",
+          "media_key": "3_2012462339715731456",
+          "start": 55,
+          "url": "https://t.co/BJzvJwyJYv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012462343712817395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在Twitter上的暗恋是  @CABR_Lies\n\n➡️ https://t.co/cyj33q7nnO https://t.co/BJzvJwyJYv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2012462339715731456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2z1eKbkAASfxF.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012462339715731456"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2012462343712817395",
+        "created_at": "2026-01-17T09:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012462343712817395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1836276354041495553",
+              "start": 16,
+              "username": "CABR_Lies"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infinitetweet.me/secret-crush?l…",
+              "end": 54,
+              "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2010301998047084544/BRxUSwTu?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010301998047084544/BRxUSwTu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/cyj33q7nnO"
+            },
+            {
+              "display_url": "pic.x.com/BJzvJwyJYv",
+              "end": 78,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2012462343712817395/photo/1",
+              "media_key": "3_2012462339715731456",
+              "start": 55,
+              "url": "https://t.co/BJzvJwyJYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012462343712817395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @CABR_Lies\n\n➡️ https://t.co/cyj33q7nnO https://t.co/BJzvJwyJYv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007192426985992192/ko8Vx42m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 12,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 387
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️营业右上角搜索 #shtwt #drugtwt｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕷𝖚𝖛 𝖑𝖎𝖐𝖊 𝖗𝖔𝖈𝖐 𝖗𝖔𝖑𝖑 @Pardon_Love_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 58,
+                "tag": "shtwt"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "Pardon_Love_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/i/communities/2002034506979750304",
+                "start": 0,
+                "url": "https://t.co/NzgTJgrTtB"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "1869201059912282381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011180329244246017/MhsXEVWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5003,
+          "following_count": 158,
+          "like_count": 26797,
+          "listed_count": 8,
+          "media_count": 1171,
+          "tweet_count": 14587
+        },
+        "url": "https://t.co/NzgTJgrTtB",
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

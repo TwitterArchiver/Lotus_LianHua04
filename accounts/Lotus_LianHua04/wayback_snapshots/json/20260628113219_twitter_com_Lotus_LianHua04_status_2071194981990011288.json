@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2071194981990011288",
+    "created_at": "2026-06-28T11:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071194981990011288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1344683189323837440",
+          "start": 3,
+          "username": "vxlxcsz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071194981990011288",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 386
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070945257248735407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vxlxcsz: q casar oq mano vc tem 20 anos vai usa droga"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2071194981990011288",
+        "created_at": "2026-06-28T11:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071194981990011288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1344683189323837440",
+              "start": 3,
+              "username": "vxlxcsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071194981990011288",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 386
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070945257248735407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vxlxcsz: q casar oq mano vc tem 20 anos vai usa droga"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344683189323837440",
+        "conversation_id": "2070945257248735407",
+        "created_at": "2026-06-27T19:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T20:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070945257248735407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070945257248735407",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 24045,
+          "like_count": 1394,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 386
+        },
+        "reply_settings": "everyone",
+        "text": "q casar oq mano vc tem 20 anos vai usa droga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 27,
+          "like_count": 1108,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 2549
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-31T16:34:02.000Z",
+        "description": "contato geral 25 contas+ lucasantoSGcontato@gmail.com || tenho dona",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/vxlxcs?igsh=MW…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/vxlxcs?igsh=MWtyMTFlYjR3Ym93dg==",
+                "start": 0,
+                "url": "https://t.co/KMuWTbL4Oe"
+              }
+            ]
+          }
+        },
+        "id": "1344683189323837440",
+        "location": "🇧🇷//🇪🇸",
+        "name": "🎭",
+        "pinned_tweet_id": "2067659395362594914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714644701070917632/zxwkjrEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163696,
+          "following_count": 340,
+          "like_count": 4846,
+          "listed_count": 82,
+          "media_count": 2176,
+          "tweet_count": 67476
+        },
+        "url": "https://t.co/KMuWTbL4Oe",
+        "username": "vxlxcsz",
+        "verified": true
+      }
+    ]
+  }
+}

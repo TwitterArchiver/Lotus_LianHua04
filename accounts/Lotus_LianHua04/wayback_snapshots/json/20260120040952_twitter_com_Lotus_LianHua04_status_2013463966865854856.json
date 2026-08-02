@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2013463966865854856",
+    "created_at": "2026-01-20T04:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T05:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013463966865854856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 131,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2013463277419012295",
+          "start": 108,
+          "url": "https://t.co/6g5GCQNg59"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013463966865854856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013463277419012295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之后我只好拿药盒给他看，放大了让他看英文药名。老板立刻用一种“你以后一定是我这里的常客了”的表情看着我，叫另一个人去给我拿药，自己在外面告诉我在香港买这些要怎么说。我第一句标准的粤语就是“呢度有冇右甲嗎喃/DM？” https://t.co/6g5GCQNg59"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2013463966865854856",
+        "created_at": "2026-01-20T04:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T05:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013463966865854856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2013463277419012295",
+              "start": 108,
+              "url": "https://t.co/6g5GCQNg59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013463966865854856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013463277419012295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之后我只好拿药盒给他看，放大了让他看英文药名。老板立刻用一种“你以后一定是我这里的常客了”的表情看着我，叫另一个人去给我拿药，自己在外面告诉我在香港买这些要怎么说。我第一句标准的粤语就是“呢度有冇右甲嗎喃/DM？” https://t.co/6g5GCQNg59"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2013463277419012295",
+        "created_at": "2026-01-20T04:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T05:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013463277419012295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013463277419012295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在脑子里一直在播放一段特别好笑的回忆。我在香港那家药店第一次买右美沙芬，我认真地说我要止咳，用非常不流利的粤语说“我冇痰，係干咳”然后就被给了一瓶真的只能止咳的止咳水。尽管它是紫色的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 9,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 408
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

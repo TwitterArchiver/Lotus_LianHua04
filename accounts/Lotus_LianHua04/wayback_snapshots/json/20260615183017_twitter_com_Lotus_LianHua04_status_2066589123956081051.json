@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2066247821104181349",
+    "created_at": "2026-06-15T18:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T19:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066589123956081051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727971576505847808",
+          "start": 0,
+          "username": "Myslee4ping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066589123956081051",
+    "in_reply_to_user_id": "1727971576505847808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066588963167760422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Myslee4ping 老爷病了，快请戴雪媚戴太太来呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2066247821104181349",
+        "created_at": "2026-06-15T18:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066589123956081051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727971576505847808",
+              "start": 0,
+              "username": "Myslee4ping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066589123956081051",
+        "in_reply_to_user_id": "1727971576505847808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066588963167760422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Myslee4ping 老爷病了，快请戴雪媚戴太太来呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727971576505847808",
+        "conversation_id": "2066247821104181349",
+        "created_at": "2026-06-15T18:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066588963167760422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066588963167760422",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066247821104181349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 好想吃dxm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 26,
+          "like_count": 939,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 2079
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T08:45:12.000Z",
+        "description": "叫我小水就好🤍喜欢您来！\n低频率od者🩸偶尔一割\n不键政 很温良欢迎互fo",
+        "id": "1727971576505847808",
+        "location": "因為想成為你的明天所以活過了今天",
+        "name": "请给我被确认过的爱吧",
+        "pinned_tweet_id": "2047950915165147602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063467484926423040/T5UhfLH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 21,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 82
+        },
+        "username": "Myslee4ping",
+        "verified": false
+      }
+    ]
+  }
+}

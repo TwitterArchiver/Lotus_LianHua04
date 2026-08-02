@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2056865646739136820",
+    "created_at": "2026-05-19T22:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T23:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056865646739136820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ninjacatrising…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/ninjacatrising/status/2056736908894429405",
+          "start": 19,
+          "url": "https://t.co/rV9JmvYiUu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056865646739136820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056736908894429405",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以不要给我香蕉么？我觉得这个好难吃 https://t.co/rV9JmvYiUu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2056865646739136820",
+        "created_at": "2026-05-19T22:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T23:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056865646739136820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ninjacatrising…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/ninjacatrising/status/2056736908894429405",
+              "start": 19,
+              "url": "https://t.co/rV9JmvYiUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056865646739136820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056736908894429405",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以不要给我香蕉么？我觉得这个好难吃 https://t.co/rV9JmvYiUu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028432059002150912",
+        "conversation_id": "2056736908894429405",
+        "created_at": "2026-05-19T14:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056736908894429405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056736908894429405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2877,
+          "like_count": 104,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "好想回到远古时代，你给我一个苹果我给你一个香蕉，我们就是这方土地关系最好的两只猴，我也无须猜测你话里的真假了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 23,
+          "like_count": 722,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1599
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T11:29:34.000Z",
+        "description": "保持佛系",
+        "id": "2028432059002150912",
+        "name": "gangjeup",
+        "pinned_tweet_id": "2053443454030459336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056774583965843456/OqOW1dSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 16,
+          "like_count": 2118,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 334
+        },
+        "username": "NinJaCatRising",
+        "verified": false
+      }
+    ]
+  }
+}

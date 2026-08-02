@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2007769734432100821",
+    "created_at": "2026-01-04T11:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T12:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007769734432100821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2007769539069833399",
+          "start": 34,
+          "url": "https://t.co/GFphFwbLBf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007769734432100821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007769539069833399",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你不会变得多聪明你只会从原皮文盲变成一个六六年的共产主义联动皮文盲 https://t.co/GFphFwbLBf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2007769734432100821",
+        "created_at": "2026-01-04T11:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T12:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007769734432100821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2007769539069833399",
+              "start": 34,
+              "url": "https://t.co/GFphFwbLBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007769734432100821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007769539069833399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你不会变得多聪明你只会从原皮文盲变成一个六六年的共产主义联动皮文盲 https://t.co/GFphFwbLBf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2007769539069833399",
+        "created_at": "2026-01-04T11:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T12:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007769539069833399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2007769045316354207",
+              "start": 90,
+              "url": "https://t.co/vgWtr6Y5sq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007769539069833399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007769045316354207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你高级一点的痛苦只是因为很穷，你沧桑的灵魂只是因为你一直很穷，你绝望痛苦湿棉袄一样的原生家庭只是因为你爸妈也很穷。我只想求这种人别抱团盯着别人的主页找一些幸福=小资=肤浅的说法了 https://t.co/vgWtr6Y5sq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007192426985992192/ko8Vx42m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 7,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 218
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

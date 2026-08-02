@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052357909263118337",
+        "3_2052357909254721536"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052357923192369641",
+    "created_at": "2026-05-07T12:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052357923192369641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wOTp2MHs2V",
+          "end": 23,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2052357923192369641/photo/1",
+          "media_key": "3_2052357909263118337",
+          "start": 0,
+          "url": "https://t.co/wOTp2MHs2V"
+        },
+        {
+          "display_url": "pic.x.com/wOTp2MHs2V",
+          "end": 23,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2052357923192369641/photo/1",
+          "media_key": "3_2052357909254721536",
+          "start": 0,
+          "url": "https://t.co/wOTp2MHs2V"
+        },
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2052357698658660389",
+          "start": 24,
+          "url": "https://t.co/YlxUHopDtj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052357923192369641",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052357698658660389",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/wOTp2MHs2V https://t.co/YlxUHopDtj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_2052357909263118337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtwpQWXcAEoQT2.jpg",
+        "width": 510
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2052357909254721536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtwpQUXUAAuWgs.jpg",
+        "width": 978
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2052357666043740162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtwbGSWQAIZ83Q.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2052357666043789317",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtwbGSXAAUsqaY.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2052357666039558150",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtwbGRWcAYaUhO.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2052357666043756551",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtwbGSWgAc-8C0.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052357909263118337",
+            "3_2052357909254721536"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052357923192369641",
+        "created_at": "2026-05-07T12:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052357923192369641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wOTp2MHs2V",
+              "end": 23,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2052357923192369641/photo/1",
+              "media_key": "3_2052357909263118337",
+              "start": 0,
+              "url": "https://t.co/wOTp2MHs2V"
+            },
+            {
+              "display_url": "pic.x.com/wOTp2MHs2V",
+              "end": 23,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2052357923192369641/photo/1",
+              "media_key": "3_2052357909254721536",
+              "start": 0,
+              "url": "https://t.co/wOTp2MHs2V"
+            },
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2052357698658660389",
+              "start": 24,
+              "url": "https://t.co/YlxUHopDtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052357923192369641",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052357698658660389",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/wOTp2MHs2V https://t.co/YlxUHopDtj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052357666043740162",
+            "3_2052357666043789317",
+            "3_2052357666039558150",
+            "3_2052357666043756551"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2052357698658660389",
+        "created_at": "2026-05-07T11:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052357698658660389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQ1rfpGcjC",
+              "end": 41,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2052357698658660389/photo/1",
+              "media_key": "3_2052357666043740162",
+              "start": 18,
+              "url": "https://t.co/LQ1rfpGcjC"
+            },
+            {
+              "display_url": "pic.x.com/LQ1rfpGcjC",
+              "end": 41,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2052357698658660389/photo/1",
+              "media_key": "3_2052357666043789317",
+              "start": 18,
+              "url": "https://t.co/LQ1rfpGcjC"
+            },
+            {
+              "display_url": "pic.x.com/LQ1rfpGcjC",
+              "end": 41,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2052357698658660389/photo/1",
+              "media_key": "3_2052357666039558150",
+              "start": 18,
+              "url": "https://t.co/LQ1rfpGcjC"
+            },
+            {
+              "display_url": "pic.x.com/LQ1rfpGcjC",
+              "end": 41,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2052357698658660389/photo/1",
+              "media_key": "3_2052357666043756551",
+              "start": 18,
+              "url": "https://t.co/LQ1rfpGcjC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052357698658660389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几个要是做成乐队T恤给我帅晕过去 https://t.co/LQ1rfpGcjC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 23,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1308
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

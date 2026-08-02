@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2062809404681212348",
+    "created_at": "2026-06-05T08:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062809404681212348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2062809185704989143",
+          "start": 59,
+          "url": "https://t.co/5qiAiBGvKN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062809404681212348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062809185704989143",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果誰有可能傷害到女人，就讓女人退出，如果有什麼空間對女人不利，也讓女人退出。你們這樣搞下去女人總有一天會沒地方去的 https://t.co/5qiAiBGvKN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2062809404681212348",
+        "created_at": "2026-06-05T08:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062809404681212348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2062809185704989143",
+              "start": 59,
+              "url": "https://t.co/5qiAiBGvKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062809404681212348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062809185704989143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果誰有可能傷害到女人，就讓女人退出，如果有什麼空間對女人不利，也讓女人退出。你們這樣搞下去女人總有一天會沒地方去的 https://t.co/5qiAiBGvKN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2062809185704989143",
+        "created_at": "2026-06-05T08:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062809185704989143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062809185704989143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實我很討厭那些說「女校很好不會有矛盾」「在全是女生的地方就算裸奔我也不擔心」這種話的人，但是我也討厭那些說「什麼性別都有壞人」的人。我只是很討厭上個世紀的性別隔離現在居然被吹捧說是對女生好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 26,
+          "like_count": 811,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1790
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

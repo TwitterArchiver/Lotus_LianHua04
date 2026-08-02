@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2071131531716735090",
+    "created_at": "2026-06-28T07:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071131531716735090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nozomi0891/sta…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/nozomi0891/status/2070986408060449104",
+          "start": 41,
+          "url": "https://t.co/T7SDMcBNTH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071131531716735090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070986408060449104",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "精卫医生给病人开出1日/3次，1次/2t剂量的喹硫平导致其两个月增重五十斤欲轻生 https://t.co/T7SDMcBNTH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2071131531716735090",
+        "created_at": "2026-06-28T07:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071131531716735090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nozomi0891/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/nozomi0891/status/2070986408060449104",
+              "start": 41,
+              "url": "https://t.co/T7SDMcBNTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071131531716735090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070986408060449104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "精卫医生给病人开出1日/3次，1次/2t剂量的喹硫平导致其两个月增重五十斤欲轻生 https://t.co/T7SDMcBNTH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1382368172628643845",
+        "conversation_id": "2070794587166101751",
+        "created_at": "2026-06-27T21:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T22:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070986408060449104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070986408060449104",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 348,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070794587166101751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 精卫医生给病人开奥氮平导其两个月增重40斤欲轻生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 26,
+          "like_count": 1102,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 2511
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-14T16:20:42.000Z",
+        "description": "",
+        "id": "1382368172628643845",
+        "name": "小望",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047863762124967936/uixQS6xk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 106,
+          "like_count": 2036,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 848
+        },
+        "url": "",
+        "username": "Nozomi0891",
+        "verified": false
+      }
+    ]
+  }
+}

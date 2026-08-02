@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2007209485408899147",
+    "created_at": "2026-01-02T21:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T22:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007209485408899147"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007209485408899147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我小时候吃的怎么那么美国穷鬼。我刚刚在神游然后我看到我小时候吃的饭了。我那个时候每周都去盐田那个超大的在三楼的商超，买那个有半条手臂那么长的切片白方包，一大袋的蝴蝶意粉，还有那种特别特别甜的樽装橘子汁。便宜得要死但现在那三个牌子我都找不到了你们破产了么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2007209485408899147",
+        "created_at": "2026-01-02T21:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T22:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007209485408899147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007209485408899147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我小时候吃的怎么那么美国穷鬼。我刚刚在神游然后我看到我小时候吃的饭了。我那个时候每周都去盐田那个超大的在三楼的商超，买那个有半条手臂那么长的切片白方包，一大袋的蝴蝶意粉，还有那种特别特别甜的樽装橘子汁。便宜得要死但现在那三个牌子我都找不到了你们破产了么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007192426985992192/ko8Vx42m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 7,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 208
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

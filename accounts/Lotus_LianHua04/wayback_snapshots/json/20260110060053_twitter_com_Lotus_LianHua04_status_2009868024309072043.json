@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2009868024309072043",
+    "created_at": "2026-01-10T06:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T07:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009868024309072043"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hell_etc/statu…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/hell_etc/status/2009274187576181000",
+          "start": 19,
+          "url": "https://t.co/RPBdBz9rZI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009868024309072043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009274187576181000",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以告诉我为什么这张又那么清纯女大么 https://t.co/RPBdBz9rZI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 438,
+        "media_key": "3_2009274137705926656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JgLsJXUAAyeaa.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2009868024309072043",
+        "created_at": "2026-01-10T06:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T07:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009868024309072043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hell_etc/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/hell_etc/status/2009274187576181000",
+              "start": 19,
+              "url": "https://t.co/RPBdBz9rZI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009868024309072043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009274187576181000",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以告诉我为什么这张又那么清纯女大么 https://t.co/RPBdBz9rZI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009274137705926656"
+          ]
+        },
+        "author_id": "169362364",
+        "conversation_id": "2009274187576181000",
+        "created_at": "2026-01-08T14:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009274187576181000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KEw2fvSyUr",
+              "end": 45,
+              "expanded_url": "https://x.com/HELL_ETC/status/2009274187576181000/photo/1",
+              "media_key": "3_2009274137705926656",
+              "start": 22,
+              "url": "https://t.co/KEw2fvSyUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009274187576181000",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1228,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "Manson e Rose em 1999 https://t.co/KEw2fvSyUr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007192426985992192/ko8Vx42m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 7,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 324
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-22T04:28:18.000Z",
+        "description": "Mídia, notícias, ETC.",
+        "id": "169362364",
+        "name": "HELL, ETC.",
+        "pinned_tweet_id": "1070700353883131906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766160498989346816/ou0Pdvuy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5266,
+          "following_count": 3,
+          "like_count": 467,
+          "listed_count": 22,
+          "media_count": 18310,
+          "tweet_count": 24675
+        },
+        "username": "HELL_ETC",
+        "verified": false
+      }
+    ]
+  }
+}

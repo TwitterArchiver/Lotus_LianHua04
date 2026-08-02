@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2062509635173847186",
+    "created_at": "2026-06-04T12:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062509635173847186"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062509635173847186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爸妈一时兴起说的话全都被我当成他们爱我当真了，我他妈就是个傻逼。这两个人也是个傻逼。而这两个傻逼其实也根本不在意我的死活只要我不给他们惹事就行，但他们喜欢装作是对我这个刁蛮任性的女儿无奈了并且完全不提我的精神病是遗传的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2062509635173847186",
+        "created_at": "2026-06-04T12:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062509635173847186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062509635173847186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸妈一时兴起说的话全都被我当成他们爱我当真了，我他妈就是个傻逼。这两个人也是个傻逼。而这两个傻逼其实也根本不在意我的死活只要我不给他们惹事就行，但他们喜欢装作是对我这个刁蛮任性的女儿无奈了并且完全不提我的精神病是遗传的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 26,
+          "like_count": 798,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1745
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

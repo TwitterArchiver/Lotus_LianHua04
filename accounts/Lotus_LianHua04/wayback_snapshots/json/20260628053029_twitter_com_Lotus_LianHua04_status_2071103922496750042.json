@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2071103922496750042",
+    "created_at": "2026-06-28T05:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T06:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071103922496750042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970268026256629760",
+          "start": 3,
+          "username": "lunitalovesh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071103922496750042",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7696
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070515803829510620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lunitalovesh: Cambiar tik tok por Twitter es como dejar la cocaina por el fentanilo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2071103922496750042",
+        "created_at": "2026-06-28T05:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071103922496750042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970268026256629760",
+              "start": 3,
+              "username": "lunitalovesh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071103922496750042",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7696
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070515803829510620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lunitalovesh: Cambiar tik tok por Twitter es como dejar la cocaina por el fentanilo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970268026256629760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2070515803829510620",
+        "created_at": "2026-06-26T14:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070515803829510620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070515803829510620",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 586,
+          "impression_count": 259092,
+          "like_count": 42999,
+          "quote_count": 77,
+          "reply_count": 35,
+          "retweet_count": 7696
+        },
+        "reply_settings": "everyone",
+        "text": "Cambiar tik tok por Twitter es como dejar la cocaina por el fentanilo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 26,
+          "like_count": 1096,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 2505
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T23:25:19.000Z",
+        "description": "#988twt #suicidetwt #toxictwt #obslovetwt #minor // solo quiero atención de Internet okey 🦄 // my heart beats for him and only him",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "988twt"
+              },
+              {
+                "end": 19,
+                "start": 8,
+                "tag": "suicidetwt"
+              },
+              {
+                "end": 29,
+                "start": 20,
+                "tag": "toxictwt"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "tag": "obslovetwt"
+              },
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "minor"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "i.love.my.bf",
+                "end": 23,
+                "expanded_url": "http://i.love.my.bf",
+                "start": 0,
+                "url": "https://t.co/RuyaEqXODV"
+              }
+            ]
+          }
+        },
+        "id": "1970268026256629760",
+        "location": "Him 💘",
+        "name": "Lunita ₊˚⊹ 𐂯",
+        "pinned_tweet_id": "2064373245466325417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068894337216159744/Ru8hGBIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 89,
+          "like_count": 417,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 499
+        },
+        "url": "https://t.co/RuyaEqXODV",
+        "username": "lunitalovesh",
+        "verified": false
+      }
+    ]
+  }
+}

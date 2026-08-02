@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2032659317216927770",
+    "created_at": "2026-03-14T03:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T04:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032659317216927770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1820928104426090496",
+          "start": 3,
+          "username": "Jimbo666xL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032659317216927770",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 480
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032393407029444911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jimbo666xL: lista de experiencias vividas en lo que llevamos de 2026:\n\nAlcohol✅\nAnfetas✅\nCocaina✅\nCrack✅\nDXM✅\nHeroína✅\nGHB✅\nKetamina✅\nL…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2032659317216927770",
+        "created_at": "2026-03-14T03:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T04:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032659317216927770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1820928104426090496",
+              "start": 3,
+              "username": "Jimbo666xL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032659317216927770",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 480
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032393407029444911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jimbo666xL: lista de experiencias vividas en lo que llevamos de 2026:\n\nAlcohol✅\nAnfetas✅\nCocaina✅\nCrack✅\nDXM✅\nHeroína✅\nGHB✅\nKetamina✅\nL…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820928104426090496",
+        "conversation_id": "2032393407029444911",
+        "created_at": "2026-03-13T09:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T10:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032393407029444911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032393407029444911",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 47849,
+          "like_count": 3422,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 480
+        },
+        "reply_settings": "everyone",
+        "text": "lista de experiencias vividas en lo que llevamos de 2026:\n\nAlcohol✅\nAnfetas✅\nCocaina✅\nCrack✅\nDXM✅\nHeroína✅\nGHB✅\nKetamina✅\nLSD✅\nMDMA✅\nMarihuana✅\nMetanfetamina✅\nLigar con una mujer❌\nSer feliz ❌\nRohypnol✅\nTabaco✅\nHacerme una paja en mercadona ✅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 19,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 768
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T21:01:23.000Z",
+        "description": "gitano, ludopata y desviado\n\nhttps://t.co/eVcOPdRqRx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "link.me/jimbo666xl",
+                "end": 52,
+                "expanded_url": "https://link.me/jimbo666xl",
+                "start": 29,
+                "url": "https://t.co/eVcOPdRqRx"
+              }
+            ]
+          }
+        },
+        "id": "1820928104426090496",
+        "location": "no soy @Jimbo4xL",
+        "name": "Juan Manson",
+        "pinned_tweet_id": "2028771541035425996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867677400194043904/oZfcKXU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34602,
+          "following_count": 559,
+          "like_count": 2126,
+          "listed_count": 15,
+          "media_count": 649,
+          "tweet_count": 1313
+        },
+        "username": "Jimbo666xL",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2074544618121592906",
+    "created_at": "2026-07-07T17:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074544618121592906"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074544618121592906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得任何宣称能真的帮你减肥而不是让你腹泻的减肥药都是虚假宣传。除了提高代谢还有什么能让你不少吃也不多动坐着就能瘦的药，但是提高代谢会让你更饿你忍住不吃不就相当于也是少吃了。信这个你不如吸点毒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2074544618121592906",
+        "created_at": "2026-07-07T17:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074544618121592906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074544618121592906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得任何宣称能真的帮你减肥而不是让你腹泻的减肥药都是虚假宣传。除了提高代谢还有什么能让你不少吃也不多动坐着就能瘦的药，但是提高代谢会让你更饿你忍住不吃不就相当于也是少吃了。信这个你不如吸点毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 29,
+          "like_count": 1270,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 2904
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

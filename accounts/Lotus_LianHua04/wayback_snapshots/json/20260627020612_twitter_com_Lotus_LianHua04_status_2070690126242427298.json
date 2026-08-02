@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2070690126242427298",
+    "created_at": "2026-06-27T02:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070690126242427298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/diamond62171/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/diamond62171/status/2070562747155136927",
+          "start": 8,
+          "url": "https://t.co/uGWJe5ok1r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070690126242427298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070562747155136927",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这真是我家产吧 https://t.co/uGWJe5ok1r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_2070562734916227072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwd1kvX0AA1uu4.jpg",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2070690126242427298",
+        "created_at": "2026-06-27T02:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070690126242427298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/diamond62171/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/diamond62171/status/2070562747155136927",
+              "start": 8,
+              "url": "https://t.co/uGWJe5ok1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070690126242427298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070562747155136927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这真是我家产吧 https://t.co/uGWJe5ok1r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070562734916227072"
+          ]
+        },
+        "author_id": "1852033384207278080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070560873706315890",
+        "created_at": "2026-06-26T17:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070562747155136927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2033556291600445440",
+              "start": 0,
+              "username": "M1L4GR03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iJEFXulBid",
+              "end": 40,
+              "expanded_url": "https://x.com/DIAMOND62171/status/2070562747155136927/photo/1",
+              "media_key": "3_2070562734916227072",
+              "start": 17,
+              "url": "https://t.co/iJEFXulBid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070562747155136927",
+        "in_reply_to_user_id": "2033556291600445440",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 663,
+          "impression_count": 166052,
+          "like_count": 8670,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070560873706315890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M1L4GR03 Fix it https://t.co/iJEFXulBid"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 26,
+          "like_count": 1090,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2464
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T17:02:46.000Z",
+        "description": "Cinematic 🍿🎥\nRandom thoughts 💭 \nFarmer 🌾",
+        "id": "1852033384207278080",
+        "location": "Nigeria",
+        "name": "DIAMOND",
+        "pinned_tweet_id": "2069705492952154490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852033759123542017/QsKJ6GRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1869,
+          "following_count": 1889,
+          "like_count": 48511,
+          "listed_count": 2,
+          "media_count": 1387,
+          "tweet_count": 25020
+        },
+        "url": "",
+        "username": "DIAMOND62171",
+        "verified": true
+      }
+    ]
+  }
+}

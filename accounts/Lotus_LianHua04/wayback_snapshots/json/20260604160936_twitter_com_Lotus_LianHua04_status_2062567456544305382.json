@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2062523772528390255",
+    "created_at": "2026-06-04T16:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062567456544305382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704097441455517696",
+          "start": 0,
+          "username": "takemeawayform"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062567456544305382",
+    "in_reply_to_user_id": "1704097441455517696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062566748839375051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takemeawayform 啊啊我第一次看到的其实也是，一群初中的烂仔但是那群人抽烟的手势意外和文艺电影里的法国女人一样我都喷血🩸🩸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2062523772528390255",
+        "created_at": "2026-06-04T16:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062567456544305382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704097441455517696",
+              "start": 0,
+              "username": "takemeawayform"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062567456544305382",
+        "in_reply_to_user_id": "1704097441455517696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062566748839375051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takemeawayform 啊啊我第一次看到的其实也是，一群初中的烂仔但是那群人抽烟的手势意外和文艺电影里的法国女人一样我都喷血🩸🩸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704097441455517696",
+        "conversation_id": "2062523772528390255",
+        "created_at": "2026-06-04T16:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062566748839375051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062566748839375051",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062543639927267694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 其實我第一次看到的應該是地痞流氓。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 26,
+          "like_count": 808,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1771
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T11:38:00.000Z",
+        "description": "这里只会留下我的 痕跡🚪188/288 /520 🏳️‍🌈LGBTQ/Bi 偏女 switch 偏brat07已成年 ip：上海 enfp/确诊：精分/极重度偏执躁狂/重度焦虑軀體化 戒割戒o 另外私密帳號過門給",
+        "id": "1704097441455517696",
+        "location": "🩵",
+        "name": "takemefaraway",
+        "pinned_tweet_id": "2061358459648614737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036375394971164672/CCz24jsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 49,
+          "like_count": 617,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 578
+        },
+        "username": "takemeawayform",
+        "verified": false
+      }
+    ]
+  }
+}

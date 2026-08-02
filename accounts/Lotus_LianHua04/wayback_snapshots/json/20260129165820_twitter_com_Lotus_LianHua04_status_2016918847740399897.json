@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2016918847740399897",
+    "created_at": "2026-01-29T16:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T17:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016918847740399897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1976224313339777024",
+          "start": 3,
+          "username": "WinbornN94577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016918847740399897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016487261853118659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WinbornN94577: 朋友，我有七交:\n1.喜欢od的，滥用药物追求快感，这是大胆，我交\n2.喜欢od的，追求痛苦，这是美学，我交\n3.喜欢od的，轻浮享受，这是自尊，我交\n4.喜欢od的，有钱买药，这是富人，我交\n5.喜欢od的，固定吃一两种药，这是深情，我交…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2016918847740399897",
+        "created_at": "2026-01-29T16:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T17:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016918847740399897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1976224313339777024",
+              "start": 3,
+              "username": "WinbornN94577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016918847740399897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016487261853118659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WinbornN94577: 朋友，我有七交:\n1.喜欢od的，滥用药物追求快感，这是大胆，我交\n2.喜欢od的，追求痛苦，这是美学，我交\n3.喜欢od的，轻浮享受，这是自尊，我交\n4.喜欢od的，有钱买药，这是富人，我交\n5.喜欢od的，固定吃一两种药，这是深情，我交…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976224313339777024",
+        "conversation_id": "2016487261853118659",
+        "created_at": "2026-01-28T12:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T13:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016487261853118659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016487261853118659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8104,
+          "like_count": 227,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "朋友，我有七交:\n1.喜欢od的，滥用药物追求快感，这是大胆，我交\n2.喜欢od的，追求痛苦，这是美学，我交\n3.喜欢od的，轻浮享受，这是自尊，我交\n4.喜欢od的，有钱买药，这是富人，我交\n5.喜欢od的，固定吃一两种药，这是深情，我交\n6.喜欢od的，为国捐钱，这是忠诚，我交\n7.喜欢od的，肯定得爱喝水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 8,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 450
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "药物Wiki混子🏴‍☠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Freeod.Wiki",
+                "end": 23,
+                "expanded_url": "http://Freeod.Wiki",
+                "start": 0,
+                "url": "https://t.co/00oa1doxAd"
+              }
+            ]
+          }
+        },
+        "id": "1976224313339777024",
+        "location": "🚪52",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2009440325455294908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 79,
+          "like_count": 2614,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1225
+        },
+        "url": "https://t.co/00oa1doxAd",
+        "username": "WinbornN94577",
+        "verified": false
+      }
+    ]
+  }
+}

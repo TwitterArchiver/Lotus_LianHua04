@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2009760361486909440"
+      ],
+      "media_source_tweet_id": [
+        "2009760369179271376"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2073830916959416393",
+    "created_at": "2026-07-05T18:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073830916959416393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "924814145781891072",
+          "start": 3,
+          "username": "ragingxngxl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G7gCzOvmrL",
+          "end": 99,
+          "expanded_url": "https://x.com/ragingxngxl/status/2009760369179271376/photo/1",
+          "media_key": "16_2009760361486909440",
+          "start": 76,
+          "url": "https://t.co/G7gCzOvmrL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073830916959416393",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 328
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073549194325799043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ragingxngxl: Just sold my wedding ring to buy 7 grams and a rave ticket https://t.co/G7gCzOvmrL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_2009760361486909440",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G-QaZo4WgAAaXdH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G-QaZo4WgAAaXdH.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2009760361486909440"
+          ],
+          "media_source_tweet_id": [
+            "2009760369179271376"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2073830916959416393",
+        "created_at": "2026-07-05T18:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073830916959416393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "924814145781891072",
+              "start": 3,
+              "username": "ragingxngxl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7gCzOvmrL",
+              "end": 99,
+              "expanded_url": "https://x.com/ragingxngxl/status/2009760369179271376/photo/1",
+              "media_key": "16_2009760361486909440",
+              "start": 76,
+              "url": "https://t.co/G7gCzOvmrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073830916959416393",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 328
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073549194325799043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ragingxngxl: Just sold my wedding ring to buy 7 grams and a rave ticket https://t.co/G7gCzOvmrL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2009760361486909440"
+          ],
+          "media_source_tweet_id": [
+            "2009760369179271376"
+          ]
+        },
+        "author_id": "924814145781891072",
+        "conversation_id": "2073549194325799043",
+        "created_at": "2026-07-04T23:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073549194325799043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7gCzOvmrL",
+              "end": 82,
+              "expanded_url": "https://x.com/ragingxngxl/status/2009760369179271376/photo/1",
+              "media_key": "16_2009760361486909440",
+              "start": 59,
+              "url": "https://t.co/G7gCzOvmrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073549194325799043",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 476,
+          "impression_count": 285852,
+          "like_count": 19233,
+          "quote_count": 31,
+          "reply_count": 40,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "Just sold my wedding ring to buy 7 grams and a rave ticket https://t.co/G7gCzOvmrL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 29,
+          "like_count": 1283,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 2838
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-30T01:44:09.000Z",
+        "description": "",
+        "id": "924814145781891072",
+        "name": "۟",
+        "pinned_tweet_id": "1778861613493182975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028334564343427072/5u_w88B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5168,
+          "following_count": 712,
+          "like_count": 152788,
+          "listed_count": 11,
+          "media_count": 5075,
+          "tweet_count": 36086
+        },
+        "url": "",
+        "username": "ragingxngxl",
+        "verified": false
+      }
+    ]
+  }
+}

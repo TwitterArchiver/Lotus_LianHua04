@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2067845562209292446",
+    "created_at": "2026-06-19T07:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067865149348974608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1928386560036306944",
+          "start": 0,
+          "username": "zhoudied"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067865149348974608",
+    "in_reply_to_user_id": "1928386560036306944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067845562209292446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoudied 香港深水埗有家叫雅俗共想的店里有，有机会可以去，我在那里买的合集cd一共六张才350港币"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2067845562209292446",
+        "created_at": "2026-06-19T07:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067865149348974608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1928386560036306944",
+              "start": 0,
+              "username": "zhoudied"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067865149348974608",
+        "in_reply_to_user_id": "1928386560036306944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067845562209292446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoudied 香港深水埗有家叫雅俗共想的店里有，有机会可以去，我在那里买的合集cd一共六张才350港币"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928386560036306944",
+        "conversation_id": "2067845562209292446",
+        "created_at": "2026-06-19T05:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067845562209292446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067845562209292446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我有钱后第一件事是买林夕的书（他妈的说真的我觉得我根本读不完读完也记不住）还有黄耀明专辑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 25,
+          "like_count": 994,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 2195
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T09:42:44.000Z",
+        "description": "我不会在这个世界上停留太久",
+        "id": "1928386560036306944",
+        "location": "哈萨克",
+        "name": "₊˚⊹琳⋆˚𝜗𝜚˚⋆",
+        "pinned_tweet_id": "2056248297153859917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066214629320294400/GprRGNsX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 607,
+          "like_count": 9342,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 4214
+        },
+        "url": "",
+        "username": "zhoudied",
+        "verified": false
+      }
+    ]
+  }
+}

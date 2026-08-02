@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2074577632956387613",
+    "created_at": "2026-07-07T19:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T20:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074577632956387613"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074577632956387613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我其实对打扮有很多奇怪的喜好。female muslim，disco ball，霓虹灯色调的丝袜，穿着带亮片或细闪的衣服在黑夜里整夜地走，系三条皮带，穿半透明的薄衣服来做到看上去不得体，轻浮(轻飘飘)，穿衣不足，不上粉底不遮瑕很粗糙地化妆，涂很艳的眼影，正红色口红，紫色和蓝色眼影，纯黑色指甲油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2074577632956387613",
+        "created_at": "2026-07-07T19:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T20:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074577632956387613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074577632956387613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实对打扮有很多奇怪的喜好。female muslim，disco ball，霓虹灯色调的丝袜，穿着带亮片或细闪的衣服在黑夜里整夜地走，系三条皮带，穿半透明的薄衣服来做到看上去不得体，轻浮(轻飘飘)，穿衣不足，不上粉底不遮瑕很粗糙地化妆，涂很艳的眼影，正红色口红，紫色和蓝色眼影，纯黑色指甲油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 29,
+          "like_count": 1274,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 2911
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

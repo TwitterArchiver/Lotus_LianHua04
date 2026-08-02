@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063794028676575232"
+      ],
+      "media_source_tweet_id": [
+        "2063794039632072786"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      }
+    ],
+    "conversation_id": "2064463162489938311",
+    "created_at": "2026-06-09T21:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T22:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064463162489938311"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "pride"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1645051987556270080",
+          "start": 3,
+          "username": "awefulgf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1B0RQDYDss",
+          "end": 44,
+          "expanded_url": "https://x.com/awefulgf/status/2063794039632072786/photo/1",
+          "media_key": "3_2063794028676575232",
+          "start": 21,
+          "url": "https://t.co/1B0RQDYDss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064463162489938311",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27304
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063794039632072786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @awefulgf: #pride https://t.co/1B0RQDYDss"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2063794028676575232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQRvBDW8AAJvOW.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063794028676575232"
+          ],
+          "media_source_tweet_id": [
+            "2063794039632072786"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          }
+        ],
+        "conversation_id": "2064463162489938311",
+        "created_at": "2026-06-09T21:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T22:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064463162489938311"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "pride"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1645051987556270080",
+              "start": 3,
+              "username": "awefulgf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1B0RQDYDss",
+              "end": 44,
+              "expanded_url": "https://x.com/awefulgf/status/2063794039632072786/photo/1",
+              "media_key": "3_2063794028676575232",
+              "start": 21,
+              "url": "https://t.co/1B0RQDYDss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064463162489938311",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27304
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063794039632072786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @awefulgf: #pride https://t.co/1B0RQDYDss"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063794028676575232"
+          ]
+        },
+        "author_id": "1645051987556270080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          }
+        ],
+        "conversation_id": "2063794039632072786",
+        "created_at": "2026-06-08T01:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063794039632072786"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "pride"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1B0RQDYDss",
+              "end": 30,
+              "expanded_url": "https://x.com/awefulgf/status/2063794039632072786/photo/1",
+              "media_key": "3_2063794028676575232",
+              "start": 7,
+              "url": "https://t.co/1B0RQDYDss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063794039632072786",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9966,
+          "impression_count": 2833804,
+          "like_count": 282890,
+          "quote_count": 685,
+          "reply_count": 251,
+          "retweet_count": 27304
+        },
+        "reply_settings": "everyone",
+        "text": "#pride https://t.co/1B0RQDYDss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 27,
+          "like_count": 875,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1929
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T13:12:23.000Z",
+        "description": "refer to header|| @aphrodisiavault",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "aphrodisiavault"
+              }
+            ]
+          }
+        },
+        "id": "1645051987556270080",
+        "location": "MDNI",
+        "name": "biblically accurate hater",
+        "pinned_tweet_id": "2062723138345980273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063966540521742336/hW1FdMZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 354,
+          "like_count": 6614,
+          "listed_count": 2,
+          "media_count": 1058,
+          "tweet_count": 9070
+        },
+        "username": "awefulgf",
+        "verified": false
+      }
+    ]
+  }
+}

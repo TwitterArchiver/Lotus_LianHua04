@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024854957464367106",
+        "3_2024854958278168577"
+      ],
+      "media_source_tweet_id": [
+        "2024854961612583292",
+        "2024854961612583292"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2025204264738676876",
+    "created_at": "2026-02-21T13:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T14:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025204264738676876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1450208653642907650",
+          "start": 3,
+          "username": "androcygne"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BvPcC0uGxa",
+          "end": 51,
+          "expanded_url": "https://x.com/androcygne/status/2024854961612583292/photo/1",
+          "media_key": "3_2024854957464367106",
+          "start": 28,
+          "url": "https://t.co/BvPcC0uGxa"
+        },
+        {
+          "display_url": "pic.x.com/BvPcC0uGxa",
+          "end": 51,
+          "expanded_url": "https://x.com/androcygne/status/2024854961612583292/photo/1",
+          "media_key": "3_2024854958278168577",
+          "start": 28,
+          "url": "https://t.co/BvPcC0uGxa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025204264738676876",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024854961612583292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @androcygne: All I need. https://t.co/BvPcC0uGxa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2024854957464367106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBm62w1aMAIXADs.jpg",
+        "width": 500
+      },
+      {
+        "height": 650,
+        "media_key": "3_2024854958278168577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBm62z3b0AEFhi-.jpg",
+        "width": 432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024854957464367106",
+            "3_2024854958278168577"
+          ],
+          "media_source_tweet_id": [
+            "2024854961612583292",
+            "2024854961612583292"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2025204264738676876",
+        "created_at": "2026-02-21T13:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025204264738676876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1450208653642907650",
+              "start": 3,
+              "username": "androcygne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BvPcC0uGxa",
+              "end": 51,
+              "expanded_url": "https://x.com/androcygne/status/2024854961612583292/photo/1",
+              "media_key": "3_2024854957464367106",
+              "start": 28,
+              "url": "https://t.co/BvPcC0uGxa"
+            },
+            {
+              "display_url": "pic.x.com/BvPcC0uGxa",
+              "end": 51,
+              "expanded_url": "https://x.com/androcygne/status/2024854961612583292/photo/1",
+              "media_key": "3_2024854958278168577",
+              "start": 28,
+              "url": "https://t.co/BvPcC0uGxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025204264738676876",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024854961612583292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @androcygne: All I need. https://t.co/BvPcC0uGxa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024854957464367106",
+            "3_2024854958278168577"
+          ]
+        },
+        "author_id": "1450208653642907650",
+        "conversation_id": "2024854961612583292",
+        "created_at": "2026-02-20T14:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024854961612583292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BvPcC0uGxa",
+              "end": 35,
+              "expanded_url": "https://x.com/androcygne/status/2024854961612583292/photo/1",
+              "media_key": "3_2024854957464367106",
+              "start": 12,
+              "url": "https://t.co/BvPcC0uGxa"
+            },
+            {
+              "display_url": "pic.x.com/BvPcC0uGxa",
+              "end": 35,
+              "expanded_url": "https://x.com/androcygne/status/2024854961612583292/photo/1",
+              "media_key": "3_2024854958278168577",
+              "start": 12,
+              "url": "https://t.co/BvPcC0uGxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024854961612583292",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3230,
+          "like_count": 314,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "All I need. https://t.co/BvPcC0uGxa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 16,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 641
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T21:14:30.000Z",
+        "description": "",
+        "id": "1450208653642907650",
+        "location": "21. SEASIAN. ONE/ONESELF.",
+        "name": "BYRON",
+        "pinned_tweet_id": "1944542330578682229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023432183936086016/c2sNIXFb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4653,
+          "following_count": 278,
+          "like_count": 13769,
+          "listed_count": 26,
+          "media_count": 3611,
+          "tweet_count": 19968
+        },
+        "username": "androcygne",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2025068046000238701",
+    "created_at": "2026-02-21T04:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T05:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025068046000238701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1976224313339777024",
+          "start": 3,
+          "username": "WinbornN94577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025068046000238701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015547386811314181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WinbornN94577: 嗯，你就继续逛你那货柜，逛你的黑X 账号Telegram飞机群，搜刮自己吃过或者没吃过的毒品致幻剂解离剂抑制剂兴奋剂，问毒枭货物付款几g多少钱在哪埋包，关注国家毒品管列名单有没有管列到自己喜欢的策划药，你每天就吃你那阿片类，父母和精神病院医…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2025068046000238701",
+        "created_at": "2026-02-21T04:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025068046000238701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1976224313339777024",
+              "start": 3,
+              "username": "WinbornN94577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025068046000238701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015547386811314181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WinbornN94577: 嗯，你就继续逛你那货柜，逛你的黑X 账号Telegram飞机群，搜刮自己吃过或者没吃过的毒品致幻剂解离剂抑制剂兴奋剂，问毒枭货物付款几g多少钱在哪埋包，关注国家毒品管列名单有没有管列到自己喜欢的策划药，你每天就吃你那阿片类，父母和精神病院医…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976224313339777024",
+        "conversation_id": "2015547386811314181",
+        "created_at": "2026-01-25T22:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T23:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015547386811314181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015547386811314181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 14789,
+          "like_count": 251,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，你就继续逛你那货柜，逛你的黑X 账号Telegram飞机群，搜刮自己吃过或者没吃过的毒品致幻剂解离剂抑制剂兴奋剂，问毒枭货物付款几g多少钱在哪埋包，关注国家毒品管列名单有没有管列到自己喜欢的策划药，你每天就吃你那阿片类，父母和精神病院医生一点都不辛苦，一点都不累！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 16,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 597
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "🚪9999999999999999999999.99",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Freeod.Wiki",
+                "end": 23,
+                "expanded_url": "http://Freeod.Wiki",
+                "start": 0,
+                "url": "https://t.co/00oa1doxAd"
+              }
+            ]
+          }
+        },
+        "id": "1976224313339777024",
+        "location": "🚪52",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2019103377612063033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019070778399248384/k14HPoiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 97,
+          "like_count": 3191,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1492
+        },
+        "url": "https://t.co/00oa1doxAd",
+        "username": "WinbornN94577",
+        "verified": false
+      }
+    ]
+  }
+}

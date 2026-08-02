@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2056504296384963017",
+    "created_at": "2026-05-18T22:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T23:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056504296384963017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/coconut_quq/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/coconut_quq/status/2056171138229924183",
+          "start": 11,
+          "url": "https://t.co/Vj4kSRIpkM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056504296384963017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056171138229924183",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开局一张纸天下自己争 https://t.co/Vj4kSRIpkM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2056504296384963017",
+        "created_at": "2026-05-18T22:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T23:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056504296384963017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coconut_quq/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/coconut_quq/status/2056171138229924183",
+              "start": 11,
+              "url": "https://t.co/Vj4kSRIpkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056504296384963017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056171138229924183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开局一张纸天下自己争 https://t.co/Vj4kSRIpkM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2056171138229924183",
+        "created_at": "2026-05-18T00:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056171138229924183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056171138229924183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1568,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好想回娘胎里回炉重造 开局我只是一个抑郁症 现在双相加ADHD在人类社会步步惊心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 23,
+          "like_count": 714,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1557
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5722,
+          "following_count": 23,
+          "like_count": 94,
+          "listed_count": 11,
+          "media_count": 35,
+          "tweet_count": 58
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

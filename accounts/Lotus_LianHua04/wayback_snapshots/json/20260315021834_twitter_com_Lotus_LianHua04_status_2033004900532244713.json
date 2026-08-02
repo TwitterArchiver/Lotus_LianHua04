@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2033004900532244713",
+    "created_at": "2026-03-15T02:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T03:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033004900532244713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/china_action/s…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/china_action/status/2032948285162533105",
+          "start": 31,
+          "url": "https://t.co/NvR6OGQ8nA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033004900532244713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032948285162533105",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "皇汉嘴里“导致汉族文化断代”的满清当初都没逼迫你们学满语😇😇 https://t.co/NvR6OGQ8nA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1747,
+        "media_key": "3_2032948278707499014",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDZ7sD8aMAYriWm.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2033004900532244713",
+        "created_at": "2026-03-15T02:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T03:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033004900532244713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/china_action/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/china_action/status/2032948285162533105",
+              "start": 31,
+              "url": "https://t.co/NvR6OGQ8nA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033004900532244713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032948285162533105",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "皇汉嘴里“导致汉族文化断代”的满清当初都没逼迫你们学满语😇😇 https://t.co/NvR6OGQ8nA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032948278707499014"
+          ]
+        },
+        "author_id": "1682735551072423936",
+        "conversation_id": "2032948285162533105",
+        "created_at": "2026-03-14T22:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T23:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032948285162533105"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 14,
+              "tag": "民族团结进步促进法"
+            },
+            {
+              "end": 75,
+              "start": 65,
+              "tag": "必须接受普通话教育"
+            },
+            {
+              "end": 141,
+              "start": 136,
+              "tag": "民族同化"
+            },
+            {
+              "end": 161,
+              "start": 154,
+              "tag": "文化灭绝政策"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O2e9ezKKME",
+              "end": 185,
+              "expanded_url": "https://x.com/china_action/status/2032948285162533105/photo/1",
+              "media_key": "3_2032948278707499014",
+              "start": 162,
+              "url": "https://t.co/O2e9ezKKME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032948285162533105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1143,
+          "like_count": 18,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "【3月12中共通过&lt; #民族团结进步促进法 &gt;进一步加强对少数民族的管控和同化】\n\n该法规定所有孩子在高中毕业前，都 #必须接受普通话教育 \n\n此前学生可用自己的母语(藏语、维语、蒙语等)学习大部分课程\n\n1此法旨在压制民族多样性\n2被指以“民族团结”之名行 #民族同化 之实\n3对其他民族实行 #文化灭绝政策 https://t.co/O2e9ezKKME"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 22,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 794
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T12:53:44.000Z",
+        "description": "“中国行动”是由现代政治文明倡导者发起成立的一个非盈利组织，目的在于终结中国数千年之专制制度，建立一个自由民主文明的、真正的新中国。为达成这一目标，它携手全球华人，致力于推动在约定的共同时间统一举行抗议、罢工、罢课，开展大规模非暴力不合作运动，推翻独裁专制、开启民主转型之路。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinaaction.org",
+                "end": 23,
+                "expanded_url": "https://chinaaction.org/",
+                "start": 0,
+                "url": "https://t.co/NPgtDrHamQ"
+              }
+            ]
+          }
+        },
+        "id": "1682735551072423936",
+        "name": "China Action",
+        "pinned_tweet_id": "2031883184108159244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955281655083700224/saaphaEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23363,
+          "following_count": 1674,
+          "like_count": 7185,
+          "listed_count": 85,
+          "media_count": 811,
+          "tweet_count": 6963
+        },
+        "url": "https://t.co/NPgtDrHamQ",
+        "username": "china_action",
+        "verified": true
+      }
+    ]
+  }
+}

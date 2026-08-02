@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2019951341158986066",
+    "created_at": "2026-02-07T01:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T02:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019951341158986066"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "feb",
+          "probability": 0.5156,
+          "start": 37,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688465384578465792",
+          "start": 3,
+          "username": "ricblurs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019951341158986066",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8501
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019601116061987261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ricblurs: if you want flowers on feb 14th just die on feb 13th"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2019951341158986066",
+        "created_at": "2026-02-07T01:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T02:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019951341158986066"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "feb",
+              "probability": 0.5156,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688465384578465792",
+              "start": 3,
+              "username": "ricblurs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019951341158986066",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8501
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019601116061987261",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ricblurs: if you want flowers on feb 14th just die on feb 13th"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688465384578465792",
+        "conversation_id": "2019601116061987261",
+        "created_at": "2026-02-06T02:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T03:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019601116061987261"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "feb",
+              "probability": 0.7137,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 46,
+              "normalized_text": "feb",
+              "probability": 0.6141,
+              "start": 44,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019601116061987261",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1385,
+          "impression_count": 623028,
+          "like_count": 31166,
+          "quote_count": 905,
+          "reply_count": 339,
+          "retweet_count": 8501
+        },
+        "reply_settings": "everyone",
+        "text": "if you want flowers on feb 14th just die on feb 13th"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙 購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 12,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 534
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T08:21:43.000Z",
+        "description": "tweeter ✮✮✮",
+        "id": "1688465384578465792",
+        "name": "Riċ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009346424551440384/zWyfbdar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11204,
+          "following_count": 4350,
+          "like_count": 72622,
+          "listed_count": 78,
+          "media_count": 386,
+          "tweet_count": 11664
+        },
+        "username": "ricblurs",
+        "verified": true
+      }
+    ]
+  }
+}

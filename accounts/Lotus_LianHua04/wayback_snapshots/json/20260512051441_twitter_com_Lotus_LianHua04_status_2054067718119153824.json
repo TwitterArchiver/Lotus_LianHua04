@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2054067718119153824",
+    "created_at": "2026-05-12T05:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T06:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054067718119153824"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054067718119153824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做了一个很奇葩的噩梦。我先带着一个小时候关系很好但在我得病之后几乎不来往的姐姐去了小区负一层的一个荒废的地方，在机器上各种蹦跳。之后我和我表弟表妹进了一个电梯，必须要按照规则才能去到没有生命危险的楼层，但不管怎么样都回不到自己的家。这个设定怎么还有点伤悲？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2054067718119153824",
+        "created_at": "2026-05-12T05:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T06:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054067718119153824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054067718119153824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了一个很奇葩的噩梦。我先带着一个小时候关系很好但在我得病之后几乎不来往的姐姐去了小区负一层的一个荒废的地方，在机器上各种蹦跳。之后我和我表弟表妹进了一个电梯，必须要按照规则才能去到没有生命危险的楼层，但不管怎么样都回不到自己的家。这个设定怎么还有点伤悲？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 22,
+          "like_count": 662,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1419
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082804794960330752",
+        "13_2082804800219959296",
+        "13_2082804794972925952",
+        "13_2082804800236761089"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2082805221210673356",
+    "created_at": "2026-07-30T12:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082805221210673356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t7C3g5MBbz",
+          "end": 41,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2082805221210673356/video/1",
+          "media_key": "13_2082804794960330752",
+          "start": 18,
+          "url": "https://t.co/t7C3g5MBbz"
+        },
+        {
+          "display_url": "pic.x.com/t7C3g5MBbz",
+          "end": 41,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2082805221210673356/video/1",
+          "media_key": "13_2082804800219959296",
+          "start": 18,
+          "url": "https://t.co/t7C3g5MBbz"
+        },
+        {
+          "display_url": "pic.x.com/t7C3g5MBbz",
+          "end": 41,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2082805221210673356/video/1",
+          "media_key": "13_2082804794972925952",
+          "start": 18,
+          "url": "https://t.co/t7C3g5MBbz"
+        },
+        {
+          "display_url": "pic.x.com/t7C3g5MBbz",
+          "end": 41,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2082805221210673356/video/1",
+          "media_key": "13_2082804800236761089",
+          "start": 18,
+          "url": "https://t.co/t7C3g5MBbz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082805221210673356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想请Grace Slick上我身 https://t.co/t7C3g5MBbz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20000,
+        "height": 1280,
+        "media_key": "13_2082804794960330752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082804794960330752/img/01GTcC5gwemn7fck.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082804794960330752/vid/avc1/320x694/MoMuqUselY4QKyMK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082804794960330752/vid/avc1/480x1040/cvxIDs0WUWzYwcYH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082804794960330752/vid/avc1/590x1280/HwSAIpGTWg1mV0Uf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082804794960330752/pl/0RW37uYwJIDYmWY5.m3u8"
+          }
+        ],
+        "width": 590
+      },
+      {
+        "duration_ms": 13101,
+        "height": 1280,
+        "media_key": "13_2082804800219959296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082804800219959296/img/T0XWBWq-tF86TmQ1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082804800219959296/vid/avc1/320x694/4KseVAggBbM_jn24.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082804800219959296/vid/avc1/480x1040/brjaGmbBMSSdmJNF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082804800219959296/vid/avc1/590x1280/Su2BARo1NE-gkw7y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082804800219959296/pl/kwHDf-S9HbODcr9w.m3u8"
+          }
+        ],
+        "width": 590
+      },
+      {
+        "duration_ms": 12768,
+        "height": 1280,
+        "media_key": "13_2082804794972925952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082804794972925952/img/MthfIdlLezGmWMXO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082804794972925952/vid/avc1/320x694/KCrerwRjaGm6kuKu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082804794972925952/vid/avc1/480x1040/2gxLSuOxPrJGwDez.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082804794972925952/vid/avc1/590x1280/ElfjPQK62u40nwcp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082804794972925952/pl/OR6Mw5kZa7L7UCZh.m3u8"
+          }
+        ],
+        "width": 590
+      },
+      {
+        "duration_ms": 20033,
+        "height": 1280,
+        "media_key": "13_2082804800236761089",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082804800236761089/img/QUCr21m5gnCprZDE.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082804800236761089/vid/avc1/320x694/ntogPPq4tJ-62mB-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082804800236761089/vid/avc1/480x1040/VwSTqC37RmktrOJU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082804800236761089/vid/avc1/590x1280/IyFipX44PddkEPBY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082804800236761089/pl/dOOEwOhcTSdEBYM_.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082804794960330752",
+            "13_2082804800219959296",
+            "13_2082804794972925952",
+            "13_2082804800236761089"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2082805221210673356",
+        "created_at": "2026-07-30T12:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082805221210673356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7C3g5MBbz",
+              "end": 41,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2082805221210673356/video/1",
+              "media_key": "13_2082804794960330752",
+              "start": 18,
+              "url": "https://t.co/t7C3g5MBbz"
+            },
+            {
+              "display_url": "pic.x.com/t7C3g5MBbz",
+              "end": 41,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2082805221210673356/video/1",
+              "media_key": "13_2082804800219959296",
+              "start": 18,
+              "url": "https://t.co/t7C3g5MBbz"
+            },
+            {
+              "display_url": "pic.x.com/t7C3g5MBbz",
+              "end": 41,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2082805221210673356/video/1",
+              "media_key": "13_2082804794972925952",
+              "start": 18,
+              "url": "https://t.co/t7C3g5MBbz"
+            },
+            {
+              "display_url": "pic.x.com/t7C3g5MBbz",
+              "end": 41,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2082805221210673356/video/1",
+              "media_key": "13_2082804800236761089",
+              "start": 18,
+              "url": "https://t.co/t7C3g5MBbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082805221210673356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想请Grace Slick上我身 https://t.co/t7C3g5MBbz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 30,
+          "like_count": 1538,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 3351
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

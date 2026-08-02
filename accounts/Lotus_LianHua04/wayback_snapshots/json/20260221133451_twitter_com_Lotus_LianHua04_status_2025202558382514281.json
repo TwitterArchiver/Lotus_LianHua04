@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2002705936771952640"
+      ],
+      "media_source_tweet_id": [
+        "2002706187930980520"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025202558382514281",
+    "created_at": "2026-02-21T13:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T14:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025202558382514281"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Jefferson Airplane",
+          "probability": 0.5554,
+          "start": 21,
+          "type": "Person"
+        },
+        {
+          "end": 58,
+          "normalized_text": "Somebody to Love",
+          "probability": 0.9527,
+          "start": 43,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1503531705877028867",
+          "start": 3,
+          "username": "somethingrand77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9k7nmlMXGz",
+          "end": 115,
+          "expanded_url": "https://x.com/B_in_Lyrics/status/2002706187930980520/video/1",
+          "media_key": "13_2002705936771952640",
+          "start": 92,
+          "url": "https://t.co/9k7nmlMXGz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025202558382514281",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020334175031874026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @somethingrand77: Jefferson Airplane's \"Somebody to Love\" defined the psychedelic '60s.\n https://t.co/9k7nmlMXGz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 177795,
+        "height": 480,
+        "media_key": "13_2002705936771952640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002705936771952640/img/SvxZbotQ0lsudA0H.jpg",
+        "public_metrics": {
+          "view_count": 29174
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002705936771952640/vid/avc1/480x270/g_1OiyGKxLZGeVtF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002705936771952640/vid/avc1/640x360/b_ODlzi8rJNoev1D.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002705936771952640/vid/avc1/854x480/o84zm7dLSPalB2LB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002705936771952640/pl/BzBEdy8Fg0AJP9B-.m3u8"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002705936771952640"
+          ],
+          "media_source_tweet_id": [
+            "2002706187930980520"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025202558382514281",
+        "created_at": "2026-02-21T13:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025202558382514281"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Jefferson Airplane",
+              "probability": 0.5554,
+              "start": 21,
+              "type": "Person"
+            },
+            {
+              "end": 58,
+              "normalized_text": "Somebody to Love",
+              "probability": 0.9527,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1503531705877028867",
+              "start": 3,
+              "username": "somethingrand77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9k7nmlMXGz",
+              "end": 115,
+              "expanded_url": "https://x.com/B_in_Lyrics/status/2002706187930980520/video/1",
+              "media_key": "13_2002705936771952640",
+              "start": 92,
+              "url": "https://t.co/9k7nmlMXGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025202558382514281",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020334175031874026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @somethingrand77: Jefferson Airplane's \"Somebody to Love\" defined the psychedelic '60s.\n https://t.co/9k7nmlMXGz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002705936771952640"
+          ],
+          "media_source_tweet_id": [
+            "2002706187930980520"
+          ]
+        },
+        "author_id": "1503531705877028867",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020334175031874026",
+        "created_at": "2026-02-08T03:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T04:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020334175031874026"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Jefferson Airplane",
+              "probability": 0.5961,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 37,
+              "normalized_text": "Somebody to Love",
+              "probability": 0.9488,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9k7nmlMXGz",
+              "end": 94,
+              "expanded_url": "https://x.com/B_in_Lyrics/status/2002706187930980520/video/1",
+              "media_key": "13_2002705936771952640",
+              "start": 71,
+              "url": "https://t.co/9k7nmlMXGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020334175031874026",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 16795,
+          "like_count": 723,
+          "quote_count": 11,
+          "reply_count": 20,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "Jefferson Airplane's \"Somebody to Love\" defined the psychedelic '60s.\n https://t.co/9k7nmlMXGz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 16,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 640
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-15T00:41:14.000Z",
+        "description": "Sharing iconic songs, videos & vibes from every decade |🎸",
+        "id": "1503531705877028867",
+        "location": "Planet Earth",
+        "name": "Music and lyrics! 🎙️🎵🎸🎼🎹🤘",
+        "pinned_tweet_id": "1988636281459429611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696649544287821825/k3h21F5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53641,
+          "following_count": 18772,
+          "like_count": 108621,
+          "listed_count": 213,
+          "media_count": 4101,
+          "tweet_count": 6352
+        },
+        "username": "somethingrand77",
+        "verified": true
+      }
+    ]
+  }
+}

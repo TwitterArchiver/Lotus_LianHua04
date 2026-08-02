@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2014241866301211021",
+    "created_at": "2026-01-22T07:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T08:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014241866301211021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1520006097385693185",
+          "start": 3,
+          "username": "wowmanypeople"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014241866301211021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014162703783481758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wowmanypeople: 一天24h开着 vpn，手机卡都变成全球通了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2014241866301211021",
+        "created_at": "2026-01-22T07:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014241866301211021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1520006097385693185",
+              "start": 3,
+              "username": "wowmanypeople"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014241866301211021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014162703783481758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wowmanypeople: 一天24h开着 vpn，手机卡都变成全球通了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520006097385693185",
+        "conversation_id": "2014162703783481758",
+        "created_at": "2026-01-22T02:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T03:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014162703783481758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014162703783481758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 25364,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一天24h开着 vpn，手机卡都变成全球通了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 8,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 432
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T11:44:48.000Z",
+        "description": "\"真實的做自己，不忘記看每天的月亮\"",
+        "id": "1520006097385693185",
+        "name": "new",
+        "pinned_tweet_id": "1621840926418288640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004240898628935680/79pEE37w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 240,
+          "like_count": 52455,
+          "listed_count": 4,
+          "media_count": 852,
+          "tweet_count": 12210
+        },
+        "username": "wowmanypeople",
+        "verified": false
+      }
+    ]
+  }
+}

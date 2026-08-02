@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2021480064492372077",
+    "created_at": "2026-02-11T07:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T08:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021480064492372077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2021479591509098794",
+          "start": 91,
+          "url": "https://t.co/mBBf79qb0s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021480064492372077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021479591509098794",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "「離婚了你跟他還是跟我」\n「叫你爸/媽過去吃飯」\n「xx你說這次是不是爸/媽做得太過份了」\n等等。。和孩子說幹什麼呢。你們才是夫妻。夫妻關係的問題要一個連戀愛都還沒談過的幼童來評判 https://t.co/mBBf79qb0s"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2021480064492372077",
+        "created_at": "2026-02-11T07:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021480064492372077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2021479591509098794",
+              "start": 91,
+              "url": "https://t.co/mBBf79qb0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021480064492372077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021479591509098794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「離婚了你跟他還是跟我」\n「叫你爸/媽過去吃飯」\n「xx你說這次是不是爸/媽做得太過份了」\n等等。。和孩子說幹什麼呢。你們才是夫妻。夫妻關係的問題要一個連戀愛都還沒談過的幼童來評判 https://t.co/mBBf79qb0s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2021479591509098794",
+        "created_at": "2026-02-11T07:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021479591509098794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021479591509098794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最不理解的就是那種父母吵架不避開孩子就算了，還要跑孩子面前吵甚至讓他們評理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997 #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 16,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 586
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

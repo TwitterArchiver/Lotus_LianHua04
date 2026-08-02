@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2009867383251579348",
+    "created_at": "2026-01-10T05:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T06:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009867383251579348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2009867165730750887",
+          "start": 70,
+          "url": "https://t.co/1BptmnR4Go"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009867383251579348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009867165730750887",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国人对此很自豪就是了，觉得这是“中华文化博大精深改变一个标点符号就能变一整句话的意思”这他妈有什么可骄傲的这不就是因为中文容易产生歧义么 https://t.co/1BptmnR4Go"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2009867383251579348",
+        "created_at": "2026-01-10T05:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T06:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009867383251579348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2009867165730750887",
+              "start": 70,
+              "url": "https://t.co/1BptmnR4Go"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009867383251579348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009867165730750887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人对此很自豪就是了，觉得这是“中华文化博大精深改变一个标点符号就能变一整句话的意思”这他妈有什么可骄傲的这不就是因为中文容易产生歧义么 https://t.co/1BptmnR4Go"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2009867165730750887",
+        "created_at": "2026-01-10T05:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T06:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009867165730750887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009867165730750887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会坚定地认为中文就是最容易产生歧义从而导致必须不停破折号括号破折号括号破折号括号。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007192426985992192/ko8Vx42m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 7,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 322
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

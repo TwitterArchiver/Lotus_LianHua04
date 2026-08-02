@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024558549062283264",
+        "3_2024558549045485568"
+      ],
+      "media_source_tweet_id": [
+        "2024558554300973195",
+        "2024558554300973195"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2025109226993938764",
+    "created_at": "2026-02-21T07:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025109226993938764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1891109389958017024",
+          "start": 3,
+          "username": "maevaemiliaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XO3tav5Qqx",
+          "end": 80,
+          "expanded_url": "https://x.com/maevaemiliaa/status/2024558554300973195/photo/1",
+          "media_key": "3_2024558549062283264",
+          "start": 57,
+          "url": "https://t.co/XO3tav5Qqx"
+        },
+        {
+          "display_url": "pic.x.com/XO3tav5Qqx",
+          "end": 80,
+          "expanded_url": "https://x.com/maevaemiliaa/status/2024558554300973195/photo/1",
+          "media_key": "3_2024558549045485568",
+          "start": 57,
+          "url": "https://t.co/XO3tav5Qqx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025109226993938764",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1756
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024558554300973195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @maevaemiliaa: the heart shaped filter is so cute btw https://t.co/XO3tav5Qqx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024558549062283264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBitRhfWcAAnlY7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024558549045485568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBitRhbWIAAKfnd.jpg",
+        "width": 1870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024558549062283264",
+            "3_2024558549045485568"
+          ],
+          "media_source_tweet_id": [
+            "2024558554300973195",
+            "2024558554300973195"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025109226993938764",
+        "created_at": "2026-02-21T07:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025109226993938764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1891109389958017024",
+              "start": 3,
+              "username": "maevaemiliaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XO3tav5Qqx",
+              "end": 80,
+              "expanded_url": "https://x.com/maevaemiliaa/status/2024558554300973195/photo/1",
+              "media_key": "3_2024558549062283264",
+              "start": 57,
+              "url": "https://t.co/XO3tav5Qqx"
+            },
+            {
+              "display_url": "pic.x.com/XO3tav5Qqx",
+              "end": 80,
+              "expanded_url": "https://x.com/maevaemiliaa/status/2024558554300973195/photo/1",
+              "media_key": "3_2024558549045485568",
+              "start": 57,
+              "url": "https://t.co/XO3tav5Qqx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025109226993938764",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024558554300973195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @maevaemiliaa: the heart shaped filter is so cute btw https://t.co/XO3tav5Qqx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024558549062283264",
+            "3_2024558549045485568"
+          ]
+        },
+        "author_id": "1891109389958017024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2024558554300973195",
+        "created_at": "2026-02-19T18:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T19:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024558554300973195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XO3tav5Qqx",
+              "end": 62,
+              "expanded_url": "https://x.com/maevaemiliaa/status/2024558554300973195/photo/1",
+              "media_key": "3_2024558549062283264",
+              "start": 39,
+              "url": "https://t.co/XO3tav5Qqx"
+            },
+            {
+              "display_url": "pic.x.com/XO3tav5Qqx",
+              "end": 62,
+              "expanded_url": "https://x.com/maevaemiliaa/status/2024558554300973195/photo/1",
+              "media_key": "3_2024558549045485568",
+              "start": 39,
+              "url": "https://t.co/XO3tav5Qqx"
+            },
+            {
+              "display_url": "x.com/7i__g/status/2…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/7i__g/status/2024186065720950843",
+              "start": 63,
+              "url": "https://t.co/Vp8ByZzgEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024558554300973195",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2473,
+          "impression_count": 1630060,
+          "like_count": 25769,
+          "quote_count": 709,
+          "reply_count": 56,
+          "retweet_count": 1756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024186065720950843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "the heart shaped filter is so cute btw https://t.co/XO3tav5Qqx https://t.co/Vp8ByZzgEM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 16,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 619
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-16T12:56:41.000Z",
+        "description": "don’t use my pictures without credit",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/maeva.emilia?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/maeva.emilia?igsh=MWs2cTYyNjJ1dGM4OA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/nCYxAckCdu"
+              }
+            ]
+          }
+        },
+        "id": "1891109389958017024",
+        "name": "maeva",
+        "pinned_tweet_id": "1996538409779884255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925442694760808448/EviRq6-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4244,
+          "following_count": 252,
+          "like_count": 12152,
+          "listed_count": 8,
+          "media_count": 404,
+          "tweet_count": 2411
+        },
+        "url": "https://t.co/nCYxAckCdu",
+        "username": "maevaemiliaa",
+        "verified": false
+      }
+    ]
+  }
+}

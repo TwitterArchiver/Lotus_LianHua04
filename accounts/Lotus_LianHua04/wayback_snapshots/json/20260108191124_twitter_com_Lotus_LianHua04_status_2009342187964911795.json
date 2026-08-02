@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2009342187964911795",
+    "created_at": "2026-01-08T19:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T20:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009342187964911795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lin_dialog/sta…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/lin_dialog/status/2009328988318286169",
+          "start": 79,
+          "url": "https://t.co/Bdh5QB9sH7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009342187964911795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009328988318286169",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国人一直没有学会为自己的人生负责。同时他们还说“都是国家把我们保护的太好了”但又是沾沾自喜的。除了中国人我没见过哪个地方的人傻逼到因为有一堆蠢货而自豪骄傲 https://t.co/Bdh5QB9sH7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2009342187964911795",
+        "created_at": "2026-01-08T19:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T20:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009342187964911795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lin_dialog/sta…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/lin_dialog/status/2009328988318286169",
+              "start": 79,
+              "url": "https://t.co/Bdh5QB9sH7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009342187964911795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009328988318286169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人一直没有学会为自己的人生负责。同时他们还说“都是国家把我们保护的太好了”但又是沾沾自喜的。除了中国人我没见过哪个地方的人傻逼到因为有一堆蠢货而自豪骄傲 https://t.co/Bdh5QB9sH7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2009281405839147058",
+        "created_at": "2026-01-08T18:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T19:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009328988318286169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009328988318286169",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009281405839147058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 很简单的老中连坐制度，毒品 毒贩 瘾君子一条龙 ，提到就是禁区 就是杜绝，这多亏了老中日以继夜的从小洗脑，导致这些人长大了 根本不会思考 背后的逻辑与动机是否合理。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007192426985992192/ko8Vx42m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 7,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 282
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "霖霖 ♡ 18 they/them｜shedtwt odtwt｜bmi14.87｜more moots!｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+🏳️‍🌈全友好^^｜互fo私信  选拒",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2006041221995847931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004224773761781761/oqlHflEK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 195,
+          "like_count": 711,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1274
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

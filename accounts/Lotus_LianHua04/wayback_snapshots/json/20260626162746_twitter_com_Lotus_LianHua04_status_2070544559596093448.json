@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2070297393497600164",
+    "created_at": "2026-06-26T16:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070544559596093448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2067153872477454336",
+          "start": 0,
+          "username": "Roryslitting"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070544559596093448",
+    "in_reply_to_user_id": "2067153872477454336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070297393497600164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Roryslitting 因为我们很少住联排别墅，基本上都住在公寓或者楼房里，很多小区就算是最矮的楼房也有七层。没有裸露出来的横梁所以不能上吊，吸入煤气自杀很难，能有效自杀的农药因为太多人用来自杀被停产了，所以最后只剩下跳楼和投水自尽(有些内陆城市还没有河，湖，海可以拿来跳)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2070297393497600164",
+        "created_at": "2026-06-26T16:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070544559596093448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2067153872477454336",
+              "start": 0,
+              "username": "Roryslitting"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070544559596093448",
+        "in_reply_to_user_id": "2067153872477454336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070297393497600164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Roryslitting 因为我们很少住联排别墅，基本上都住在公寓或者楼房里，很多小区就算是最矮的楼房也有七层。没有裸露出来的横梁所以不能上吊，吸入煤气自杀很难，能有效自杀的农药因为太多人用来自杀被停产了，所以最后只剩下跳楼和投水自尽(有些内陆城市还没有河，湖，海可以拿来跳)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067153872477454336",
+        "conversation_id": "2070297393497600164",
+        "created_at": "2026-06-26T00:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070297393497600164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070297393497600164",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I am so sorry if this is insensitive but why is jumping such a common suicide method in asian countries? Im genuinely curious!!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 26,
+          "like_count": 1083,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 2440
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-17T07:54:57.000Z",
+        "description": "hi im rory!! | essaychtwt | !f u ask n!c3ly ! can s3nd th3 unc3ns0r3d p!cs !n dm 👀👀 | BLOCK DONT REPORT PLEASE!!!! 🙏 backup @roryisslittin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "roryisslittin"
+              }
+            ]
+          }
+        },
+        "id": "2067153872477454336",
+        "location": "Stockholm, Sweden",
+        "name": "Rory 🇸🇪",
+        "pinned_tweet_id": "2067169091559809524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069166104946040834/m2h7-WLw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 141,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "Roryslitting",
+        "verified": false
+      }
+    ]
+  }
+}

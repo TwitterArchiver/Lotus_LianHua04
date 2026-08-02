@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065724741684723713"
+      ],
+      "media_source_tweet_id": [
+        "2065724744599777375"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2065925973745299933",
+    "created_at": "2026-06-13T22:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T23:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065925973745299933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1897105733906522112",
+          "start": 3,
+          "username": "ch0rus0fn0ne"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MQwVkE7CuY",
+          "end": 53,
+          "expanded_url": "https://x.com/ch0rus0fn0ne/status/2065724744599777375/photo/1",
+          "media_key": "3_2065724741684723713",
+          "start": 30,
+          "url": "https://t.co/MQwVkE7CuY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065925973745299933",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065724744599777375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ch0rus0fn0ne: The Culture https://t.co/MQwVkE7CuY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1495,
+        "media_key": "3_2065724741684723713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrttTfagAEBC3Z.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065724741684723713"
+          ],
+          "media_source_tweet_id": [
+            "2065724744599777375"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2065925973745299933",
+        "created_at": "2026-06-13T22:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T23:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065925973745299933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1897105733906522112",
+              "start": 3,
+              "username": "ch0rus0fn0ne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MQwVkE7CuY",
+              "end": 53,
+              "expanded_url": "https://x.com/ch0rus0fn0ne/status/2065724744599777375/photo/1",
+              "media_key": "3_2065724741684723713",
+              "start": 30,
+              "url": "https://t.co/MQwVkE7CuY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065925973745299933",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065724744599777375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ch0rus0fn0ne: The Culture https://t.co/MQwVkE7CuY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065724741684723713"
+          ]
+        },
+        "author_id": "1897105733906522112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1534290336670883840",
+              "name": "4chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2065724744599777375",
+        "created_at": "2026-06-13T09:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065724744599777375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MQwVkE7CuY",
+              "end": 35,
+              "expanded_url": "https://x.com/ch0rus0fn0ne/status/2065724744599777375/photo/1",
+              "media_key": "3_2065724741684723713",
+              "start": 12,
+              "url": "https://t.co/MQwVkE7CuY"
+            },
+            {
+              "display_url": "x.com/polypocketknif…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/polypocketknife/status/2065534168390615137",
+              "start": 36,
+              "url": "https://t.co/MBeA9AwWp7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065724744599777375",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 42875,
+          "like_count": 980,
+          "quote_count": 13,
+          "reply_count": 10,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065534168390615137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The Culture https://t.co/MQwVkE7CuY https://t.co/MBeA9AwWp7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 26,
+          "like_count": 919,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 2027
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T02:04:23.000Z",
+        "description": "⚸ 𐍁𐍀𐌷𐌰ࠋࠋ𐍈𐐎𐌴Ɗ ⚸",
+        "id": "1897105733906522112",
+        "location": "𐍀𐌰𐌰𐍂ꡕ//Ⲋ𐌷𐌴𐍀Ɗ𐍊ࠋ𐌰ⱱ𐍂𐍊",
+        "name": "𝖈𝖍𝖔𝖗𝖚𝖘",
+        "pinned_tweet_id": "2055464200672260338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057048772442816512/RIHNnA1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 702,
+          "like_count": 22842,
+          "listed_count": 1,
+          "media_count": 445,
+          "tweet_count": 4394
+        },
+        "username": "ch0rus0fn0ne",
+        "verified": false
+      }
+    ]
+  }
+}

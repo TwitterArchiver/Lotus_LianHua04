@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2062523772528390255",
+    "created_at": "2026-06-04T14:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062543639927267694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704097441455517696",
+          "start": 0,
+          "username": "takemeawayform"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062543639927267694",
+    "in_reply_to_user_id": "1704097441455517696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062535356336259091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takemeawayform 那么你也是一个西部牛仔😇😇我感觉每个人抽烟的姿势完全因为他们第一次看到抽烟的姿势是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2062523772528390255",
+        "created_at": "2026-06-04T14:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062543639927267694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704097441455517696",
+              "start": 0,
+              "username": "takemeawayform"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062543639927267694",
+        "in_reply_to_user_id": "1704097441455517696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062535356336259091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takemeawayform 那么你也是一个西部牛仔😇😇我感觉每个人抽烟的姿势完全因为他们第一次看到抽烟的姿势是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704097441455517696",
+        "conversation_id": "2062523772528390255",
+        "created_at": "2026-06-04T14:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062535356336259091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062535356336259091",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062523772528390255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 我真的會使用第二種😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 26,
+          "like_count": 807,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1763
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T11:38:00.000Z",
+        "description": "这里只会留下我的 痕跡🚪188/288 /520 🏳️‍🌈LGBTQ/Bi 偏女 switch 偏brat07已成年 ip：上海 enfp/确诊：精分/极重度偏执躁狂/重度焦虑軀體化 戒割戒o 另外私密帳號過門給",
+        "id": "1704097441455517696",
+        "location": "🩵",
+        "name": "takemefaraway",
+        "pinned_tweet_id": "2061358459648614737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036375394971164672/CCz24jsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 49,
+          "like_count": 617,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 576
+        },
+        "username": "takemeawayform",
+        "verified": false
+      }
+    ]
+  }
+}

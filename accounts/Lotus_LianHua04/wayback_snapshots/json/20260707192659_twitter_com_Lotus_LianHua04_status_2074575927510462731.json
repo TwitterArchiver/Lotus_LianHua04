@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2074575927510462731",
+    "created_at": "2026-07-07T19:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T20:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074575927510462731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ng07mk10/statu…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/ng07mk10/status/2074407160642208150",
+          "start": 32,
+          "url": "https://t.co/GIoDoEHg5u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074575927510462731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074407160642208150",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "马蹄。。我感觉马是很完美的构造，如果真的能投胎下辈子好想当马啊 https://t.co/GIoDoEHg5u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 150,
+        "media_key": "3_2074406580091830272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnFyz4bQAAAQse.jpg",
+        "width": 238
+      },
+      {
+        "height": 168,
+        "media_key": "3_2074406585036890112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnFzGTa4AAlvpJ.jpg",
+        "width": 310
+      },
+      {
+        "height": 214,
+        "media_key": "3_2074406588396564480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnFzS0bcAAaHMn.jpg",
+        "width": 274
+      },
+      {
+        "height": 246,
+        "media_key": "3_2074406592657997824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnFzisbwAAegl5.jpg",
+        "width": 369
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2074575927510462731",
+        "created_at": "2026-07-07T19:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T20:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074575927510462731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ng07mk10/statu…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/ng07mk10/status/2074407160642208150",
+              "start": 32,
+              "url": "https://t.co/GIoDoEHg5u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074575927510462731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074407160642208150",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马蹄。。我感觉马是很完美的构造，如果真的能投胎下辈子好想当马啊 https://t.co/GIoDoEHg5u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074406580091830272",
+            "3_2074406585036890112",
+            "3_2074406588396564480",
+            "3_2074406592657997824"
+          ]
+        },
+        "author_id": "1962188338561171456",
+        "conversation_id": "2074407160642208150",
+        "created_at": "2026-07-07T08:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074407160642208150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrUMYOJwOu",
+              "end": 79,
+              "expanded_url": "https://x.com/ng07mk10/status/2074407160642208150/photo/1",
+              "media_key": "3_2074406580091830272",
+              "start": 56,
+              "url": "https://t.co/jrUMYOJwOu"
+            },
+            {
+              "display_url": "pic.x.com/jrUMYOJwOu",
+              "end": 79,
+              "expanded_url": "https://x.com/ng07mk10/status/2074407160642208150/photo/1",
+              "media_key": "3_2074406585036890112",
+              "start": 56,
+              "url": "https://t.co/jrUMYOJwOu"
+            },
+            {
+              "display_url": "pic.x.com/jrUMYOJwOu",
+              "end": 79,
+              "expanded_url": "https://x.com/ng07mk10/status/2074407160642208150/photo/1",
+              "media_key": "3_2074406588396564480",
+              "start": 56,
+              "url": "https://t.co/jrUMYOJwOu"
+            },
+            {
+              "display_url": "pic.x.com/jrUMYOJwOu",
+              "end": 79,
+              "expanded_url": "https://x.com/ng07mk10/status/2074407160642208150/photo/1",
+              "media_key": "3_2074406592657997824",
+              "start": 56,
+              "url": "https://t.co/jrUMYOJwOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074407160642208150",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5120,
+          "impression_count": 838395,
+          "like_count": 27405,
+          "quote_count": 899,
+          "reply_count": 20,
+          "retweet_count": 4343
+        },
+        "reply_settings": "everyone",
+        "text": "뭐라해야하지... 레깅스나 바지로 덮었을때 생기는  부츠와 발목 사이 단차?가 너무... 너무 좋음 https://t.co/jrUMYOJwOu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 29,
+          "like_count": 1274,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 2910
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T16:19:06.000Z",
+        "description": "올라운더, 가능충, 리버시블!!!!!!!!!!!🔁🔁🔁🔁🔁🔁🔁",
+        "id": "1962188338561171456",
+        "name": "킨",
+        "pinned_tweet_id": "2043034610570006637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042991136772624388/AnydLoLZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 23,
+          "like_count": 2072,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 583
+        },
+        "url": "",
+        "username": "ng07mk10",
+        "verified": false
+      }
+    ]
+  }
+}

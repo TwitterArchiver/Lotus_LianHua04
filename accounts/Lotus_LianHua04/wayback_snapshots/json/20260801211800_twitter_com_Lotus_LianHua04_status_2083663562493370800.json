@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2083659368835465643",
+    "created_at": "2026-08-01T21:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T22:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083663562493370800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2034261641119014912",
+          "start": 0,
+          "username": "xxh448838021382"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083663562493370800",
+    "in_reply_to_user_id": "2034261641119014912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083659368835465643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxh448838021382 再见了，旅行者，接下来的路只能你一个人走了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 383,
+        "media_key": "3_2083659366004310016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqlJ1eaQAAl2Sh.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2083659368835465643",
+        "created_at": "2026-08-01T21:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083663562493370800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2034261641119014912",
+              "start": 0,
+              "username": "xxh448838021382"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083663562493370800",
+        "in_reply_to_user_id": "2034261641119014912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083659368835465643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxh448838021382 再见了，旅行者，接下来的路只能你一个人走了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083659366004310016"
+          ]
+        },
+        "author_id": "2034261641119014912",
+        "conversation_id": "2083659368835465643",
+        "created_at": "2026-08-01T21:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083659368835465643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IW73dNgzrt",
+              "end": 57,
+              "expanded_url": "https://x.com/xxh448838021382/status/2083659368835465643/photo/1",
+              "media_key": "3_2083659366004310016",
+              "start": 34,
+              "url": "https://t.co/IW73dNgzrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083659368835465643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我跟我坤蜜坐屋里静看手机都笑吐了，开小号被拆穿就这样华丽丽告别演出 https://t.co/IW73dNgzrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 30,
+          "like_count": 1597,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 3402
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T13:32:34.000Z",
+        "description": "我是马尔维德｜drugaholic｜mlm｜中文/ENG/ESP/DEU｜我是世界上最帅的黑人没有之一，哎我操我也太帅了吧🔥😂👇🏿🤎｜寻一天使媚黑之婊｜$67.67 for DM or no rape｜关注我的全部死妈🥷🏿｜以上所有内容信了你就输了｜审美累积账号",
+        "id": "2034261641119014912",
+        "location": "六道轮回苦 死对象之地狱",
+        "name": "超梦迷奸(天使系列电光绿)",
+        "pinned_tweet_id": "2054058573362299066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083306374872907776/BKIq94x-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 28,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "xxh448838021382",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2036822549720420799",
+    "created_at": "2026-03-25T15:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036822549720420799"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thoushaltatone…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/thoushaltatone/status/2036735498014867673",
+          "start": 121,
+          "url": "https://t.co/sxyOKNhUb6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036822549720420799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036735498014867673",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看到“污蔑民警是要负法律责任的”我就想呕。中国的家长出事了第一反应就是质疑自己孩子是不是污蔑别人好像这片土地被圣光笼罩，等孩子自杀死了又闹个天翻地覆觉得一定有阴谋。对你们来说最安全的地方不是中国，是戴夫他家，因为你们没脑子僵尸来了也没辙啊 https://t.co/sxyOKNhUb6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2036822549720420799",
+        "created_at": "2026-03-25T15:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036822549720420799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thoushaltatone…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/thoushaltatone/status/2036735498014867673",
+              "start": 121,
+              "url": "https://t.co/sxyOKNhUb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036822549720420799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036735498014867673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看到“污蔑民警是要负法律责任的”我就想呕。中国的家长出事了第一反应就是质疑自己孩子是不是污蔑别人好像这片土地被圣光笼罩，等孩子自杀死了又闹个天翻地覆觉得一定有阴谋。对你们来说最安全的地方不是中国，是戴夫他家，因为你们没脑子僵尸来了也没辙啊 https://t.co/sxyOKNhUb6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028659650405773312",
+        "conversation_id": "2036375353208480249",
+        "created_at": "2026-03-25T09:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T10:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036735498014867673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1428960202276040708",
+              "start": 0,
+              "username": "newszg_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036735498014867673",
+        "in_reply_to_user_id": "1428960202276040708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1502,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036375353208480249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newszg_official 哪个吸毒者这么正能量？希望吸毒者多多刺伤变态警察，我们供他吸毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 20,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 949
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T02:32:25.000Z",
+        "description": "Radfem.",
+        "id": "2028659650405773312",
+        "location": "West Hollywood, CA",
+        "name": "大胆刁民🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029804584265515008/qLQXsqCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 76
+        },
+        "username": "ThouShaltAtone",
+        "verified": false
+      }
+    ]
+  }
+}

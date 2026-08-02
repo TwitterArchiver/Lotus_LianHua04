@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017600249809014790"
+      ],
+      "media_source_tweet_id": [
+        "2017600262454817066"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2019147906255876535",
+    "created_at": "2026-02-04T20:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T21:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019147906255876535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678171777409875968",
+          "start": 3,
+          "username": "420420420CTL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/43qxTYB0qf",
+          "end": 59,
+          "expanded_url": "https://x.com/420420420CTL/status/2017600262454817066/photo/1",
+          "media_key": "3_2017600249809014790",
+          "start": 36,
+          "url": "https://t.co/43qxTYB0qf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019147906255876535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017600262454817066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @420420420CTL: 老板，除了检验试剂，每份都来一样🤪 https://t.co/43qxTYB0qf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_2017600249809014790",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__0vMybEAYr0Wo.jpg",
+        "width": 745
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017600249809014790"
+          ],
+          "media_source_tweet_id": [
+            "2017600262454817066"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2019147906255876535",
+        "created_at": "2026-02-04T20:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T21:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019147906255876535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678171777409875968",
+              "start": 3,
+              "username": "420420420CTL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/43qxTYB0qf",
+              "end": 59,
+              "expanded_url": "https://x.com/420420420CTL/status/2017600262454817066/photo/1",
+              "media_key": "3_2017600249809014790",
+              "start": 36,
+              "url": "https://t.co/43qxTYB0qf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019147906255876535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017600262454817066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @420420420CTL: 老板，除了检验试剂，每份都来一样🤪 https://t.co/43qxTYB0qf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017600249809014790"
+          ]
+        },
+        "author_id": "1678171777409875968",
+        "conversation_id": "2017600262454817066",
+        "created_at": "2026-01-31T14:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017600262454817066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/43qxTYB0qf",
+              "end": 41,
+              "expanded_url": "https://x.com/420420420CTL/status/2017600262454817066/photo/1",
+              "media_key": "3_2017600249809014790",
+              "start": 18,
+              "url": "https://t.co/43qxTYB0qf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017600262454817066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 39570,
+          "like_count": 336,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "老板，除了检验试剂，每份都来一样🤪 https://t.co/43qxTYB0qf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、萬寶路香煙      購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 8,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 485
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018807810830770177/xgp8x96H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 658,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 876
+        },
+        "username": "420420420CTL",
+        "verified": true
+      }
+    ]
+  }
+}

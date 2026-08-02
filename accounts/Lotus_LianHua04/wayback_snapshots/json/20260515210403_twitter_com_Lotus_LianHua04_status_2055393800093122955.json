@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2055393800093122955",
+    "created_at": "2026-05-15T21:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T22:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055393800093122955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cigsmake/statu…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/cigsmake/status/2055126523435192744",
+          "start": 83,
+          "url": "https://t.co/iHXrSpppbj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055393800093122955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055126523435192744",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以前上学的时候天天遇到抽金好的小混混，我去画室必须路过他们的学校根本没有第二条路走。一群乐子狗成群结队混在一起给自己壮胆，也不抢钱，也不打架，就拦着你问七问八恶心人 https://t.co/iHXrSpppbj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 929,
+        "media_key": "3_2054189776803102720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHyt-uWgAAoRJ3.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2055393800093122955",
+        "created_at": "2026-05-15T21:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T22:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055393800093122955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cigsmake/statu…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/cigsmake/status/2055126523435192744",
+              "start": 83,
+              "url": "https://t.co/iHXrSpppbj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055393800093122955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055126523435192744",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前上学的时候天天遇到抽金好的小混混，我去画室必须路过他们的学校根本没有第二条路走。一群乐子狗成群结队混在一起给自己壮胆，也不抢钱，也不打架，就拦着你问七问八恶心人 https://t.co/iHXrSpppbj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054189776803102720"
+          ]
+        },
+        "author_id": "1221441944267653120",
+        "conversation_id": "2055126523435192744",
+        "created_at": "2026-05-15T03:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055126523435192744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GDXSVOQQRi",
+              "end": 31,
+              "expanded_url": "https://x.com/CigsMake/status/2055126523435192744/photo/1",
+              "media_key": "3_2054189776803102720",
+              "start": 8,
+              "url": "https://t.co/GDXSVOQQRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055126523435192744",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 208,
+          "impression_count": 111220,
+          "like_count": 4659,
+          "quote_count": 35,
+          "reply_count": 39,
+          "retweet_count": 314
+        },
+        "reply_settings": "everyone",
+        "text": "So true https://t.co/GDXSVOQQRi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 21,
+          "like_count": 697,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1493
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-26T14:37:19.000Z",
+        "description": "Cigarettes, Cultural Things From The Past, and Satire",
+        "id": "1221441944267653120",
+        "location": "United States",
+        "name": "Cigarette Nostalgia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1226870747395743744/PDCqoH7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270762,
+          "following_count": 404,
+          "like_count": 40519,
+          "listed_count": 478,
+          "media_count": 1157,
+          "tweet_count": 1691
+        },
+        "username": "CigsMake",
+        "verified": true
+      }
+    ]
+  }
+}

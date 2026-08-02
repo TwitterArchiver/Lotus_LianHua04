@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2068606758247911572",
+    "created_at": "2026-06-21T13:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T14:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068691026701619344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029585628074262528",
+          "start": 0,
+          "username": "Serinda_Aqua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068691026701619344",
+    "in_reply_to_user_id": "2029585628074262528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068637250351689774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Serinda_Aqua 原推大概也不知道入门槛的人有多喜欢羞辱人，但我想羞辱人本身就是绝大部分人找妓女或者入门槛的目的之一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2068606758247911572",
+        "created_at": "2026-06-21T13:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068691026701619344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029585628074262528",
+              "start": 0,
+              "username": "Serinda_Aqua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068691026701619344",
+        "in_reply_to_user_id": "2029585628074262528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068637250351689774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Serinda_Aqua 原推大概也不知道入门槛的人有多喜欢羞辱人，但我想羞辱人本身就是绝大部分人找妓女或者入门槛的目的之一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029585628074262528",
+        "conversation_id": "2068606758247911572",
+        "created_at": "2026-06-21T10:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068637250351689774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068637250351689774",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068607232653107398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 感觉原推智商低，别思考了，事实是推特上这个赛道挤满了人，赚点门槛也不容易，而且十四岁就要靠这样赚钱其实很命苦啊，不管怎么说都不会觉得幸福吧，思想观念都扭曲了，真觉得拍拍照就有钱拿啊，干这个只会不断放低下限，越陷越深，然后呢年纪小又容易被骗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 27,
+          "like_count": 1043,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 2283
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T15:52:08.000Z",
+        "description": "这是我的呕吐之地🩵双取随意\n只是为了看nsfw🔞的不要关注了谢谢\n如你所见这是一个有点暴露癖的精神病\n⁺✞ ʚ精品神药重度依赖⁺ɞ✟ 会查成分回fo\n⚠️有非常严重的边缘型人格障碍",
+        "id": "2029585628074262528",
+        "location": "🚪 88详细请看置顶谢谢😘",
+        "name": "水色歌",
+        "pinned_tweet_id": "2068384127737528428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067367698817036288/40p-j80S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 171,
+          "like_count": 3263,
+          "listed_count": 12,
+          "media_count": 160,
+          "tweet_count": 1385
+        },
+        "url": "",
+        "username": "Serinda_Aqua",
+        "verified": false
+      }
+    ]
+  }
+}

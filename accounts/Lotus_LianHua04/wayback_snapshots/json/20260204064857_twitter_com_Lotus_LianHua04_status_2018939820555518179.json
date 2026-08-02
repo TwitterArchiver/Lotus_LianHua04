@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018939810430451713"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2017408992885329944",
+    "created_at": "2026-02-04T06:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T07:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018939820555518179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qPv9Fhe1DD",
+          "end": 58,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2018939820555518179/photo/1",
+          "media_key": "3_2018939810430451713",
+          "start": 35,
+          "url": "https://t.co/qPv9Fhe1DD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018939820555518179",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017408992885329944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 我去我可以散瞳到這樣。每次我媽都能看出來我嗑了 https://t.co/qPv9Fhe1DD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_2018939810430451713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAS3D4-aAAEcVkQ.jpg",
+        "width": 1170
+      },
+      {
+        "height": 420,
+        "media_key": "3_2017288375477407746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_7ZFuXbEAIc9Cx.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018939810430451713"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2017408992885329944",
+        "created_at": "2026-02-04T06:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018939820555518179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qPv9Fhe1DD",
+              "end": 58,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2018939820555518179/photo/1",
+              "media_key": "3_2018939810430451713",
+              "start": 35,
+              "url": "https://t.co/qPv9Fhe1DD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018939820555518179",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017408992885329944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 我去我可以散瞳到這樣。每次我媽都能看出來我嗑了 https://t.co/qPv9Fhe1DD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017288375477407746"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2017408992885329944",
+        "created_at": "2026-01-31T01:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T02:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017408992885329944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cI3iF95YXT",
+              "end": 167,
+              "expanded_url": "https://x.com/SalviaSWC/status/2017408992885329944/photo/1",
+              "media_key": "3_2017288375477407746",
+              "start": 144,
+              "url": "https://t.co/cI3iF95YXT"
+            },
+            {
+              "display_url": "x.com/Kagamine_8964/…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/Kagamine_8964/status/2017267221337444815",
+              "start": 168,
+              "url": "https://t.co/Sg8lQJ8YK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017408992885329944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6241,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017267221337444815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我过量某阿片类药物那次缩的更厉害，可惜没拍照🥺但是很不明显，老师同学都没看出来🤓\n\n我觉得中国人一大优势就在于——\"黑眼睛黄皮肤\"，瞳孔、虹膜、和皮肤的颜色很接近。众所周知，很多娱乐性药物会导致瞳孔扩散或缩小，见下图。外国人的瞳孔与周围对比度很大，经常因吸毒后瞳孔异常被抓，中国人就不😋 https://t.co/cI3iF95YXT https://t.co/Sg8lQJ8YK2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、萬寶路香煙      購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 8,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 478
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰如果没回fo的话，请私信哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨知识无罪📚丨😼👍⬇请关注FreeODwiki喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCSXa"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2609,
+          "following_count": 788,
+          "like_count": 18479,
+          "listed_count": 9,
+          "media_count": 257,
+          "tweet_count": 5217
+        },
+        "url": "https://t.co/ki2TerCSXa",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

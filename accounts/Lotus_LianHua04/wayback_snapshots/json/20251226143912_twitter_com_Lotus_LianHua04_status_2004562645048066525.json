@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      }
+    ],
+    "conversation_id": "2004562645048066525",
+    "created_at": "2025-12-26T14:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T15:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004562645048066525"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2gqlifym/statu…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/2gqlifym/status/2004188036444442693",
+          "start": 131,
+          "url": "https://t.co/LZavKQeuYh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004562645048066525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004188036444442693",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得一个人有钱了，钱对她来说就成了唾手可得的，也就不重要不想要了。她的生理心理依旧不健康，生命里唯一不健全的东西出现了，她对健全的渴望一定是会增加成百上千倍的。但我也好想体验一下这种痛苦啊！我没钱也没治好病！我的脑子就这样互相打架。我不知道，我只能望父成龙！ https://t.co/LZavKQeuYh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          }
+        ],
+        "conversation_id": "2004562645048066525",
+        "created_at": "2025-12-26T14:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T15:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004562645048066525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2gqlifym/statu…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/2gqlifym/status/2004188036444442693",
+              "start": 131,
+              "url": "https://t.co/LZavKQeuYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004562645048066525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004188036444442693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得一个人有钱了，钱对她来说就成了唾手可得的，也就不重要不想要了。她的生理心理依旧不健康，生命里唯一不健全的东西出现了，她对健全的渴望一定是会增加成百上千倍的。但我也好想体验一下这种痛苦啊！我没钱也没治好病！我的脑子就这样互相打架。我不知道，我只能望父成龙！ https://t.co/LZavKQeuYh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914521439392423939",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2004188036444442693",
+        "created_at": "2025-12-25T13:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T14:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004188036444442693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004188036444442693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 125756,
+          "like_count": 2197,
+          "quote_count": 19,
+          "reply_count": 66,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "有钱真好，有钱学不好可以出国，有钱抑郁症可以旅游，有钱被校园暴力可以果断休学，有钱可以不用担心看病钱，有钱可以打车不用做公交车，有钱可以玩Cosplay，有钱可以随便点外卖吃，有钱可以不用省空调电费，有钱真好啊下辈子我也要当有钱人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003156132467261440/hf-wJIXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 5,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 110
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T03:28:06.000Z",
+        "description": "我是外星人别管我了 盗图死全家 不接推广",
+        "id": "1914521439392423939",
+        "location": "🚪200/520",
+        "name": "我踏马受够这个逼世界了",
+        "pinned_tweet_id": "1984258317863256431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993944465795641344/e_ZquwVd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15294,
+          "following_count": 41,
+          "like_count": 404,
+          "listed_count": 40,
+          "media_count": 99,
+          "tweet_count": 617
+        },
+        "username": "2gqLIfyM",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2072444120996446474",
+    "created_at": "2026-07-01T22:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T23:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072444120996446474"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072444120996446474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的朋友给了我真正的爱而且给了我特别多，我没自杀就是因为这些爱，它们真的像城墙一样萦绕在我身边，那些因为我的PPD被幻想出来的虚假的伤害不必要的焦虑就都被挡住了。这些爱用完了我就想找个人谈恋爱，压榨一下，弄点替代品。我不可能去质问我的朋友去找他们索要爱因为这太他妈畜生了而且我舍不得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2072444120996446474",
+        "created_at": "2026-07-01T22:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T23:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072444120996446474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072444120996446474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的朋友给了我真正的爱而且给了我特别多，我没自杀就是因为这些爱，它们真的像城墙一样萦绕在我身边，那些因为我的PPD被幻想出来的虚假的伤害不必要的焦虑就都被挡住了。这些爱用完了我就想找个人谈恋爱，压榨一下，弄点替代品。我不可能去质问我的朋友去找他们索要爱因为这太他妈畜生了而且我舍不得"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 28,
+          "like_count": 1196,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2703
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

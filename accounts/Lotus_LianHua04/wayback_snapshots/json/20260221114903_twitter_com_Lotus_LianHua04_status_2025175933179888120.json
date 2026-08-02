@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10029072690",
+          "name": "ドラえもん"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1012681620074053632",
+          "name": "Doraemon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1012681620074053632",
+          "name": "Doraemon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2025175933179888120",
+    "created_at": "2026-02-21T11:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T12:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025175933179888120"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sumile_vivi/st…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/sumile_vivi/status/2024640360157503855",
+          "start": 51,
+          "url": "https://t.co/k8wFvZRJ8y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025175933179888120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024640360157503855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哆啦A梦里每个做错事的人都没有得到应有的教训。搞霸凌的胖虎，对别人嘲笑侮辱的小夫，偷窥别人隐私的大雄 https://t.co/k8wFvZRJ8y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10029072690",
+              "name": "ドラえもん"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1012681620074053632",
+              "name": "Doraemon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1012681620074053632",
+              "name": "Doraemon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2025175933179888120",
+        "created_at": "2026-02-21T11:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025175933179888120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sumile_vivi/st…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/sumile_vivi/status/2024640360157503855",
+              "start": 51,
+              "url": "https://t.co/k8wFvZRJ8y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025175933179888120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024640360157503855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哆啦A梦里每个做错事的人都没有得到应有的教训。搞霸凌的胖虎，对别人嘲笑侮辱的小夫，偷窥别人隐私的大雄 https://t.co/k8wFvZRJ8y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1602009758877110272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10029072690",
+              "name": "ドラえもん"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1012681620074053632",
+              "name": "Doraemon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1012681620074053632",
+              "name": "Doraemon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2024640360157503855",
+        "created_at": "2026-02-20T00:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T01:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024640360157503855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024640360157503855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 753,
+          "impression_count": 1036043,
+          "like_count": 34838,
+          "quote_count": 246,
+          "reply_count": 89,
+          "retweet_count": 2465
+        },
+        "reply_settings": "everyone",
+        "text": "やっぱ風呂覗かれても頬赤らめてキャー！て水掛けて終わるしずかちゃん見て育った人達が性加害の何が悪いのかわからない事例がある様なので\n\n風呂覗かれたしずかちゃんが茫然と硬直し翌日から学校へ行けなくなり親がのび太んちへ怒鳴り込みのび太親は泣いて謝り叱る様を見せるべきなのでは"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2018923477701652839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012462927819988992/Xn5gpI4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 16,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 627
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T18:38:37.000Z",
+        "description": "あっためたお水を飲み、おいしいフルーツを食べる。",
+        "id": "1602009758877110272",
+        "location": "日本",
+        "name": "sumile🟣ｽﾐﾚ",
+        "pinned_tweet_id": "1956002917837889694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903014476783419392/TqRtvMM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 678,
+          "like_count": 167678,
+          "listed_count": 80,
+          "media_count": 181,
+          "tweet_count": 10760
+        },
+        "username": "sumile_vivi",
+        "verified": false
+      }
+    ]
+  }
+}

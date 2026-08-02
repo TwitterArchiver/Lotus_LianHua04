@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2009525028472410338",
+    "created_at": "2026-01-09T07:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T08:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009525028472410338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2000060779056492544",
+          "start": 3,
+          "username": "kakou0026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009525028472410338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009241549457260686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakou0026: 自从开始玩推，微博不刷了，小红书不看了，抖音火花也不续了，就抱着这个黑色神秘软件一直玩，为什么推特每一秒都那么好玩？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2009525028472410338",
+        "created_at": "2026-01-09T07:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T08:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009525028472410338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2000060779056492544",
+              "start": 3,
+              "username": "kakou0026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009525028472410338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009241549457260686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakou0026: 自从开始玩推，微博不刷了，小红书不看了，抖音火花也不续了，就抱着这个黑色神秘软件一直玩，为什么推特每一秒都那么好玩？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000060779056492544",
+        "conversation_id": "2009241549457260686",
+        "created_at": "2026-01-08T12:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T13:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009241549457260686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009241549457260686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 91122,
+          "like_count": 811,
+          "quote_count": 10,
+          "reply_count": 108,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "自从开始玩推，微博不刷了，小红书不看了，抖音火花也不续了，就抱着这个黑色神秘软件一直玩，为什么推特每一秒都那么好玩？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "購買人造自來血贈萬寶路香煙 請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007192426985992192/ko8Vx42m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 7,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 293
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T04:30:32.000Z",
+        "description": "07｜女｜switch｜双｜单身｜ 我会回关所有的女孩^ ^｜防走丢1579218791",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kakou36409",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kakou36409",
+                "start": 0,
+                "url": "https://t.co/HmMHXfI5vl"
+              }
+            ]
+          }
+        },
+        "id": "2000060779056492544",
+        "location": "这里是Kakou 喜欢你来＞_＜",
+        "name": "Kakou",
+        "pinned_tweet_id": "2008049528918671858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000061289511682048/wHjUAiK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 99,
+          "like_count": 1371,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 1336
+        },
+        "url": "https://t.co/HmMHXfI5vl",
+        "username": "kakou0026",
+        "verified": false
+      }
+    ]
+  }
+}

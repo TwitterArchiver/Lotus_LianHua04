@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2062037065114476639",
+    "created_at": "2026-06-03T05:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062037065114476639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1374511465185517571",
+          "start": 3,
+          "username": "feorico911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062037065114476639",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061835284421976305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @feorico911: Pedí unos dildos por Temu y me llegaron con medida asiática \n\nIs this racist?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2062037065114476639",
+        "created_at": "2026-06-03T05:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062037065114476639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1374511465185517571",
+              "start": 3,
+              "username": "feorico911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062037065114476639",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061835284421976305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @feorico911: Pedí unos dildos por Temu y me llegaron con medida asiática \n\nIs this racist?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374511465185517571",
+        "conversation_id": "2061835284421976305",
+        "created_at": "2026-06-02T15:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061835284421976305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061835284421976305",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 56014,
+          "like_count": 2315,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Pedí unos dildos por Temu y me llegaron con medida asiática \n\nIs this racist?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 26,
+          "like_count": 778,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1712
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-24T00:00:56.000Z",
+        "description": "LaFeda Privada",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.com/paypalme/fedem…",
+                "end": 23,
+                "expanded_url": "https://www.paypal.com/paypalme/fedemore911",
+                "start": 0,
+                "url": "https://t.co/TaPehE53HK"
+              }
+            ]
+          }
+        },
+        "id": "1374511465185517571",
+        "name": "Papelito",
+        "pinned_tweet_id": "1416078059044839425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884813125137858560/TOmG8_6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8132,
+          "following_count": 125,
+          "like_count": 32313,
+          "listed_count": 6,
+          "media_count": 1295,
+          "tweet_count": 10302
+        },
+        "url": "https://t.co/TaPehE53HK",
+        "username": "feorico911",
+        "verified": false
+      }
+    ]
+  }
+}
