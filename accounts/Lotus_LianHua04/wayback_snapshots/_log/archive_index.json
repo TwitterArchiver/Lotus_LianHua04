@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T12:50:04",
+  "last_updated": "2026-08-02T12:50:57",
   "html": {
     "https://web.archive.org/web/20251221125336if_/https://twitter.com/Lotus_LianHua04/status/2002724131801018433": {
       "status": "done",
@@ -19176,27 +19176,27 @@
       "referenced_by": [
         "20251221125336_twitter_com_Lotus_LianHua04_status_2002724131801018433.json"
       ],
-      "last_updated": "2026-08-02T12:26:13",
+      "last_updated": "2026-08-02T12:50:31",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251221125336/https://video.twimg.com/amplify_video/2002724032689602560/vid/avc1/888x590/kbc204axOZaXFMFk.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2003690761699885059/pu/vid/avc1/720x1280/YcYNfCOOMPsRpbbU.mp4?tag=12": {
       "status": "failed_all",
       "referenced_by": [
         "20251224105125_twitter_com_Lotus_LianHua04_status_2003780548662346173.json"
       ],
-      "last_updated": "2026-08-02T12:26:13",
+      "last_updated": "2026-08-02T12:50:33",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251224105125/https://video.twimg.com/ext_tw_video/2003690761699885059/pu/vid/avc1/720x1280/YcYNfCOOMPsRpbbU.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2002694273846902784/pu/vid/avc1/720x1280/SXGTbto6reic452z.mp4?tag=12": {
       "status": "failed_all",
       "referenced_by": [
         "20251224110228_twitter_com_Lotus_LianHua04_status_2003783325941641513.json"
       ],
-      "last_updated": "2026-08-02T12:26:13",
+      "last_updated": "2026-08-02T12:50:35",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251224110228/https://video.twimg.com/ext_tw_video/2002694273846902784/pu/vid/avc1/720x1280/SXGTbto6reic452z.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2007932867326996480/vid/avc1/888x492/jydul0PSGx8geiOk.mp4": {
       "status": "done",
@@ -19267,27 +19267,27 @@
       "referenced_by": [
         "20260310134533_twitter_com_Lotus_LianHua04_status_2031365845415608705.json"
       ],
-      "last_updated": "2026-08-02T12:26:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310134533/https://video.twimg.com/ext_tw_video/2031315713563176960/pu/vid/avc1/720x1280/2ApENq2dAytboW__.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f11d2effe00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-08-02T12:50:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310134533if_/https://video.twimg.com/ext_tw_video/2031315713563176960/pu/vid/avc1/720x1280/2ApENq2dAytboW__.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f269bb02fc0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/ext_tw_video/2031315717841383424/pu/vid/avc1/720x1280/YpdYDUu9qO02ZJ6T.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260310134533_twitter_com_Lotus_LianHua04_status_2031365845415608705.json"
       ],
-      "last_updated": "2026-08-02T12:26:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310134533im_/https://video.twimg.com/ext_tw_video/2031315717841383424/pu/vid/avc1/720x1280/YpdYDUu9qO02ZJ6T.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f11d2d34e30>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:50:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310134533im_/https://video.twimg.com/ext_tw_video/2031315717841383424/pu/vid/avc1/720x1280/YpdYDUu9qO02ZJ6T.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f269b9388f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2031433190578266112/pu/vid/avc1/720x1280/PkHNR_w9PT0GuBN_.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260310200741_twitter_com_Lotus_LianHua04_status_2031462014175031457.json"
       ],
-      "last_updated": "2026-08-02T12:26:13",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260310200741/https://video.twimg.com/ext_tw_video/2031433190578266112/pu/vid/avc1/720x1280/PkHNR_w9PT0GuBN_.mp4?tag=12",
-      "miss_count": 2
+      "last_updated": "2026-08-02T12:50:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310200741im_/https://video.twimg.com/ext_tw_video/2031433190578266112/pu/vid/avc1/720x1280/PkHNR_w9PT0GuBN_.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f269bb029f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2032833996556750848/pu/vid/avc1/720x1280/_sFGXTabkLoAiJmD.mp4?tag=12": {
       "status": "done",
@@ -19316,9 +19316,9 @@
       "referenced_by": [
         "20260501085529_twitter_com_Lotus_LianHua04_status_2050137017871221145.json"
       ],
-      "last_updated": "2026-08-02T12:26:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501085529im_/https://video.twimg.com/ext_tw_video/2049852712138014720/pu/vid/avc1/1280x720/tWsRreOa2mXYOyT-.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f11d2d36bd0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:50:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501085529im_/https://video.twimg.com/ext_tw_video/2049852712138014720/pu/vid/avc1/1280x720/tWsRreOa2mXYOyT-.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f269b95db20>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2050230975356088320/vid/avc1/720x1280/YXDWwYqp_A4grG4A.mp4?tag=27": {
       "status": "done",
@@ -19384,13 +19384,13 @@
       "last_updated": "2026-08-02T11:52:18"
     },
     "https://video.twimg.com/amplify_video/2073312604756586496/vid/avc1/720x1280/b5T2mFr8yeTUv5OB.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260704075731_twitter_com_Lotus_LianHua04_status_2073315254306570541.json"
       ],
-      "last_updated": "2026-08-02T12:26:14",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260704075731/https://video.twimg.com/amplify_video/2073312604756586496/vid/avc1/720x1280/b5T2mFr8yeTUv5OB.mp4",
-      "miss_count": 2
+      "last_updated": "2026-08-02T12:50:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260704075731im_/https://video.twimg.com/amplify_video/2073312604756586496/vid/avc1/720x1280/b5T2mFr8yeTUv5OB.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f269b95c560>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/G-QaZo4WgAAaXdH.mp4": {
       "status": "done",
@@ -61720,7 +61720,7 @@
       "last_updated": "2026-08-02T11:53:51"
     },
     "20260704075731_twitter_com_Lotus_LianHua04_status_2073315254306570541.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -61731,7 +61731,7 @@
           "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T12:26:14",
+      "last_updated": "2026-08-02T12:50:57",
       "miss_count": 1
     },
     "20260704075944_twitter_com_Lotus_LianHua04_status_2073315810337075666.json": {
