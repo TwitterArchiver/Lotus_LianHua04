@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2088786854074102233",
+    "created_at": "2026-08-16T00:36:08.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T01:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088786854074102233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2046008953339777024",
+          "start": 3,
+          "username": "yareishaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088786854074102233",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8909
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088464837206524305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yareishaa: what's a lil smoke to a girls lungs in a world that's already burning"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2088786854074102233",
+        "created_at": "2026-08-16T00:36:08.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T01:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088786854074102233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2046008953339777024",
+              "start": 3,
+              "username": "yareishaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088786854074102233",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8909
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088464837206524305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yareishaa: what's a lil smoke to a girls lungs in a world that's already burning"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046008953339777024",
+        "conversation_id": "2088464837206524305",
+        "created_at": "2026-08-15T03:16:33.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088464837206524305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088464837206524305",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1427,
+          "impression_count": 631718,
+          "like_count": 42530,
+          "quote_count": 187,
+          "reply_count": 46,
+          "retweet_count": 8909
+        },
+        "reply_settings": "everyone",
+        "text": "what's a lil smoke to a girls lungs in a world that's already burning"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2088786854074102233",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1786639550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 24,
+          "like_count": 1863,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 3813
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-19T23:32:49.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/flowersfrmytomb",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/flowersfrmytomb",
+                "start": 0,
+                "url": "https://t.co/79s0uD9OHb"
+              }
+            ]
+          }
+        },
+        "id": "2046008953339777024",
+        "is_identity_verified": false,
+        "location": " ",
+        "most_recent_tweet_id": "2088731840534262105",
+        "name": "princesa",
+        "pinned_tweet_id": "2087887210263486935",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046008953339777024/1786375257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088446287884525569/OPo40fXL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 34,
+          "like_count": 1809,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/79s0uD9OHb",
+        "username": "yareishaa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

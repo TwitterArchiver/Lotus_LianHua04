@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096605945770160128",
+        "3_2096605945925390336"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2096605963767971944",
+    "created_at": "2026-09-06T14:26:29.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096605963767971944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UblYKnhS4v",
+          "end": 65,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2096605963767971944/photo/1",
+          "media_key": "3_2096605945770160128",
+          "start": 42,
+          "url": "https://t.co/UblYKnhS4v"
+        },
+        {
+          "display_url": "pic.x.com/UblYKnhS4v",
+          "end": 65,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2096605963767971944/photo/1",
+          "media_key": "3_2096605945925390336",
+          "start": 42,
+          "url": "https://t.co/UblYKnhS4v"
+        },
+        {
+          "display_url": "x.com/2kawaii4kaworu…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/2kawaii4kaworu/status/2096259768713396636",
+          "start": 66,
+          "url": "https://t.co/8RV44o7ImH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096605963767971944",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2096605945770160128"
+      },
+      {
+        "media_key": "3_2096605945925390336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096259768713396636",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "when i was 13 my dream was to be like she https://t.co/UblYKnhS4v https://t.co/8RV44o7ImH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2096605945770160128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRij_9eaMAAz_1E.jpg",
+        "width": 1170
+      },
+      {
+        "height": 646,
+        "media_key": "3_2096605945925390336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRij_-Da0AAEnP1.jpg",
+        "width": 1040
+      },
+      {
+        "height": 736,
+        "media_key": "3_2096259735007932416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdpH14aMAAiKWM.png",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096605945770160128",
+            "3_2096605945925390336"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2096605963767971944",
+        "created_at": "2026-09-06T14:26:29.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096605963767971944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UblYKnhS4v",
+              "end": 65,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2096605963767971944/photo/1",
+              "media_key": "3_2096605945770160128",
+              "start": 42,
+              "url": "https://t.co/UblYKnhS4v"
+            },
+            {
+              "display_url": "pic.x.com/UblYKnhS4v",
+              "end": 65,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2096605963767971944/photo/1",
+              "media_key": "3_2096605945925390336",
+              "start": 42,
+              "url": "https://t.co/UblYKnhS4v"
+            },
+            {
+              "display_url": "x.com/2kawaii4kaworu…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/2kawaii4kaworu/status/2096259768713396636",
+              "start": 66,
+              "url": "https://t.co/8RV44o7ImH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096605963767971944",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096605945770160128"
+          },
+          {
+            "media_key": "3_2096605945925390336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096259768713396636",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "when i was 13 my dream was to be like she https://t.co/UblYKnhS4v https://t.co/8RV44o7ImH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096259735007932416"
+          ]
+        },
+        "author_id": "2052438028430479360",
+        "conversation_id": "2096259768713396636",
+        "created_at": "2026-09-05T15:30:50.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096259768713396636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCugHh4fLN",
+              "end": 66,
+              "expanded_url": "https://x.com/2kawaii4kaworu/status/2096259768713396636/photo/1",
+              "media_key": "3_2096259735007932416",
+              "start": 43,
+              "url": "https://t.co/oCugHh4fLN"
+            },
+            {
+              "display_url": "x.com/brioco__/statu…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/brioco__/status/2095927032345448828",
+              "start": 67,
+              "url": "https://t.co/wXHhA5itQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096259768713396636",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096259735007932416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 556,
+          "impression_count": 114113,
+          "like_count": 10923,
+          "quote_count": 151,
+          "reply_count": 27,
+          "retweet_count": 2249
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095927032345448828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "when i was 13 my dream was to be like this https://t.co/oCugHh4fLN https://t.co/wXHhA5itQd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2096605963767971944",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 27,
+          "like_count": 2149,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 4373
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-07T17:19:16.000Z",
+        "description": "i am dripping wet everytime allison cameron is on screen\nhey foreman yo mama so fat when her \nbeeper goes off people think shes backing up \ni dont like kawoshin",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shinmoe.straw.page",
+                "end": 23,
+                "expanded_url": "https://shinmoe.straw.page/",
+                "start": 0,
+                "url": "https://t.co/BxmjrzHDQS"
+              }
+            ]
+          }
+        },
+        "id": "2052438028430479360",
+        "is_identity_verified": false,
+        "location": "dm 4 credits art isnt mine btw",
+        "most_recent_tweet_id": "2096545721747128744",
+        "name": "cure #kawoshintwt",
+        "pinned_tweet_id": "2076348496203128992",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2052438028430479360/1788621940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096258458274369536/9Y17U6Od_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 265,
+          "like_count": 1662,
+          "listed_count": 5,
+          "media_count": 314,
+          "tweet_count": 5112
+        },
+        "url": "https://t.co/BxmjrzHDQS",
+        "username": "2kawaii4kaworu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

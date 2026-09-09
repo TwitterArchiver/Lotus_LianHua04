@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2096909059974660475",
+    "created_at": "2026-09-07T10:30:53.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096909059974660475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1104879730698960898",
+          "start": 3,
+          "username": "btrizmart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096909059974660475",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2496
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096691540336718142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @btrizmart: Dostoievski decía que hay corazones que se enamoran de la posibilidad del amor, porque la realidad exige una valentía que el…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2096909059974660475",
+        "created_at": "2026-09-07T10:30:53.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096909059974660475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1104879730698960898",
+              "start": 3,
+              "username": "btrizmart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096909059974660475",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2496
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096691540336718142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @btrizmart: Dostoievski decía que hay corazones que se enamoran de la posibilidad del amor, porque la realidad exige una valentía que el…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1104879730698960898",
+        "conversation_id": "2096691540336718142",
+        "created_at": "2026-09-06T20:06:32.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T21:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096691540336718142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096691540336718142",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2637,
+          "impression_count": 213750,
+          "like_count": 17844,
+          "quote_count": 136,
+          "reply_count": 20,
+          "retweet_count": 2496
+        },
+        "reply_settings": "everyone",
+        "text": "Dostoievski decía que hay corazones que se enamoran de la posibilidad del amor, porque la realidad exige una valentía que el sueño nunca pide."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2096909059974660475",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 26,
+          "like_count": 2159,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 4387
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-10T23:00:30.000Z",
+        "description": "Me gusta hablar con quien le gusta hablar de Jesús. Aquí comparto mis pensamientos.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/btrizmart?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/btrizmart?igsh=NmFzeGh6OThjazYz&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/e8dVtPhYt6"
+              }
+            ]
+          }
+        },
+        "id": "1104879730698960898",
+        "is_identity_verified": false,
+        "location": "São Paulo, Brasil",
+        "most_recent_tweet_id": "2096815725566443792",
+        "name": "Beatriz",
+        "pinned_tweet_id": "2095473153635987637",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1104879730698960898/1552260228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035928986404974592/zBZqB9CS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 31,
+          "like_count": 10058,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1740
+        },
+        "url": "https://t.co/e8dVtPhYt6",
+        "username": "btrizmart",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

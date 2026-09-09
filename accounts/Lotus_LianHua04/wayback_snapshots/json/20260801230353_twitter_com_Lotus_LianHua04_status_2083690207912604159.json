@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2083677249321181291",
+    "created_at": "2026-08-01T23:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T00:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083690207912604159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2034261641119014912",
+          "start": 0,
+          "username": "xxh448838021382"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083690207912604159",
+    "in_reply_to_user_id": "2034261641119014912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083677249321181291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxh448838021382 维密模特分享经验中"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083677249321181291].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083677249321181291",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083677249321181291"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2083677249321181291",
+        "created_at": "2026-08-01T23:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083690207912604159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2034261641119014912",
+              "start": 0,
+              "username": "xxh448838021382"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083690207912604159",
+        "in_reply_to_user_id": "2034261641119014912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083677249321181291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxh448838021382 维密模特分享经验中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 30,
+          "like_count": 1625,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 3419
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T13:32:34.000Z",
+        "description": "我是马尔维德｜drugaholic｜mlm｜中文/ENG/ESP/DEU｜我是世界上最帅的黑人没有之一，哎我操我也太帅了吧🔥😂👇🏿🤎｜寻一天使媚黑之婊｜$67.67 for DM or no rape｜关注我的全部死妈🥷🏿｜以上所有内容信了你就输了｜审美累积账号",
+        "id": "2034261641119014912",
+        "location": "六道轮回苦 死对象之地狱",
+        "name": "超梦迷奸(天使系列电光绿)",
+        "pinned_tweet_id": "2054058573362299066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083306374872907776/BKIq94x-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 28,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "xxh448838021382",
+        "verified": false
+      }
+    ]
+  }
+}

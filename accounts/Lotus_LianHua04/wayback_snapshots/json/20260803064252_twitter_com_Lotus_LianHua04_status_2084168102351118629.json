@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083741803493163008"
+      ],
+      "media_source_tweet_id": [
+        "2083741810287886768"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2084168102351118629",
+    "created_at": "2026-08-03T06:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084168102351118629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2064073716334530560",
+          "start": 3,
+          "username": "ang3ljong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oCC2xjsR22",
+          "end": 77,
+          "expanded_url": "https://x.com/ang3ljong/status/2083741810287886768/video/1",
+          "media_key": "13_2083741803493163008",
+          "start": 54,
+          "url": "https://t.co/oCC2xjsR22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084168102351118629",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1292
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083741810287886768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ang3ljong: trying to poop when u eat 500cal a day https://t.co/oCC2xjsR22"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10187,
+        "height": 362,
+        "media_key": "13_2083741803493163008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083741803493163008/img/WZJNk3u_Lh8qa-2v.jpg",
+        "public_metrics": {
+          "view_count": 65613
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083741803493163008/vid/avc1/370x270/gvHHUle6SRs-JVZd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083741803493163008/vid/avc1/498x362/_2Jd2Imob2W3L6BM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083741803493163008/pl/b0R7IgKSH4JsTQLj.m3u8"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083741803493163008"
+          ]
+        },
+        "author_id": "2064073716334530560",
+        "conversation_id": "2083741810287886768",
+        "created_at": "2026-08-02T02:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083741810287886768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCC2xjsR22",
+              "end": 62,
+              "expanded_url": "https://x.com/ang3ljong/status/2083741810287886768/video/1",
+              "media_key": "13_2083741803493163008",
+              "start": 39,
+              "url": "https://t.co/oCC2xjsR22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083741810287886768",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 319,
+          "impression_count": 121738,
+          "like_count": 13057,
+          "quote_count": 32,
+          "reply_count": 48,
+          "retweet_count": 1292
+        },
+        "reply_settings": "everyone",
+        "text": "trying to poop when u eat 500cal a day https://t.co/oCC2xjsR22"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083741803493163008"
+          ],
+          "media_source_tweet_id": [
+            "2083741810287886768"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2084168102351118629",
+        "created_at": "2026-08-03T06:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084168102351118629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2064073716334530560",
+              "start": 3,
+              "username": "ang3ljong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCC2xjsR22",
+              "end": 77,
+              "expanded_url": "https://x.com/ang3ljong/status/2083741810287886768/video/1",
+              "media_key": "13_2083741803493163008",
+              "start": 54,
+              "url": "https://t.co/oCC2xjsR22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084168102351118629",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1292
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083741810287886768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ang3ljong: trying to poop when u eat 500cal a day https://t.co/oCC2xjsR22"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 30,
+          "like_count": 1656,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 3469
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T19:56:04.000Z",
+        "description": "໒꒱ ‧₊˚ \nshe/her -- 6teen '09\nhw: 87 , ugw: 50\n🍃🍃 super gay",
+        "id": "2064073716334530560",
+        "location": "edtwt   coeredtwt   kpopedtwt",
+        "name": "vee",
+        "pinned_tweet_id": "2082236558107639900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083243827389681664/ufelRBtE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 116,
+          "like_count": 7085,
+          "listed_count": 4,
+          "media_count": 85,
+          "tweet_count": 511
+        },
+        "url": "",
+        "username": "ang3ljong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2086528526530867460",
+    "created_at": "2026-08-09T19:02:21.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T20:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086528526530867460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1267536123322122242",
+          "start": 3,
+          "username": "fourloko_gold"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086528526530867460",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1868
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086318130658226484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fourloko_gold: prendí un incienso (un cigarro) para meditar (reflexioné sobre mis pendejadas)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2086528526530867460",
+        "created_at": "2026-08-09T19:02:21.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T20:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086528526530867460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1267536123322122242",
+              "start": 3,
+              "username": "fourloko_gold"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086528526530867460",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1868
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086318130658226484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fourloko_gold: prendí un incienso (un cigarro) para meditar (reflexioné sobre mis pendejadas)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1267536123322122242",
+        "conversation_id": "2086318130658226484",
+        "created_at": "2026-08-09T05:06:18.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086318130658226484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086318130658226484",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 99761,
+          "like_count": 7762,
+          "quote_count": 28,
+          "reply_count": 3,
+          "retweet_count": 1868
+        },
+        "reply_settings": "everyone",
+        "text": "prendí un incienso (un cigarro) para meditar (reflexioné sobre mis pendejadas)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2086528526530867460",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1766309717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 28,
+          "like_count": 1775,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 3640
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-01T19:19:17.000Z",
+        "description": "",
+        "id": "1267536123322122242",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086527399361954123",
+        "name": "marlboro ice mix",
+        "pinned_tweet_id": "1991024125783970250",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267536123322122242/1775242659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041530073694818305/g1GQLM53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 133,
+          "like_count": 14763,
+          "listed_count": 0,
+          "media_count": 953,
+          "tweet_count": 10357
+        },
+        "url": "",
+        "username": "fourloko_gold",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

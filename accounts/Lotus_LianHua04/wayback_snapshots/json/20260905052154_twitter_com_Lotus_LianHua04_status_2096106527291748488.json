@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096106502385975296"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2096106527291748488",
+    "created_at": "2026-09-05T05:21:54.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T06:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096106527291748488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IK919Gfmkf",
+          "end": 142,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2096106527291748488/photo/1",
+          "media_key": "3_2096106502385975296",
+          "start": 119,
+          "url": "https://t.co/IK919Gfmkf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096106527291748488",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096106502385975296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个台湾老太太给我的。就想象一下一个烟瘾犯了走路都急得左脚六右脚七的人，看到一个很面善的老太太，我问她where the smoking area，她听都不听来一句看看吧都是中文的。我气都要气死，但看到那四个字我马上接过来忍不住微微一笑 https://t.co/IK919Gfmkf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2096106502385975296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbdwh4aQAAdj1s.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096106502385975296"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2096106527291748488",
+        "created_at": "2026-09-05T05:21:54.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T06:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096106527291748488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IK919Gfmkf",
+              "end": 142,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2096106527291748488/photo/1",
+              "media_key": "3_2096106502385975296",
+              "start": 119,
+              "url": "https://t.co/IK919Gfmkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096106527291748488",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096106502385975296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个台湾老太太给我的。就想象一下一个烟瘾犯了走路都急得左脚六右脚七的人，看到一个很面善的老太太，我问她where the smoking area，她听都不听来一句看看吧都是中文的。我气都要气死，但看到那四个字我马上接过来忍不住微微一笑 https://t.co/IK919Gfmkf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2096106527291748488",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 27,
+          "like_count": 2125,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 4340
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

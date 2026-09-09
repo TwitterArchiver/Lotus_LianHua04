@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094377892922957824",
+        "3_2094378061072674816"
+      ],
+      "media_source_tweet_id": [
+        "2094378289595097271",
+        "2094378289595097271"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2094378403344310456",
+    "created_at": "2026-08-31T10:54:57.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T11:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094378403344310456"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "dmc"
+        },
+        {
+          "end": 27,
+          "start": 20,
+          "tag": "vergil"
+        },
+        {
+          "end": 34,
+          "start": 28,
+          "tag": "dante"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1936742995698835456",
+          "start": 3,
+          "username": "_DerLiebe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g727Uag4m1",
+          "end": 58,
+          "expanded_url": "https://x.com/_DerLiebe/status/2094378289595097271/photo/1",
+          "media_key": "3_2094377892922957824",
+          "start": 35,
+          "url": "https://t.co/g727Uag4m1"
+        },
+        {
+          "display_url": "pic.x.com/g727Uag4m1",
+          "end": 58,
+          "expanded_url": "https://x.com/_DerLiebe/status/2094378289595097271/photo/1",
+          "media_key": "3_2094378061072674816",
+          "start": 35,
+          "url": "https://t.co/g727Uag4m1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094378403344310456",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2094377892922957824"
+      },
+      {
+        "media_key": "3_2094378061072674816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094378289595097271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_DerLiebe: #dmc #vergil #dante https://t.co/g727Uag4m1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2343,
+        "media_key": "3_2094377892922957824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC5mN0aoAAjZAs.jpg",
+        "width": 2470
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2094378061072674816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC5wAObsAALRWi.jpg",
+        "width": 2617
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094377892922957824",
+            "3_2094378061072674816"
+          ],
+          "media_source_tweet_id": [
+            "2094378289595097271",
+            "2094378289595097271"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2094378403344310456",
+        "created_at": "2026-08-31T10:54:57.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094378403344310456"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "dmc"
+            },
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "vergil"
+            },
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "dante"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1936742995698835456",
+              "start": 3,
+              "username": "_DerLiebe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g727Uag4m1",
+              "end": 58,
+              "expanded_url": "https://x.com/_DerLiebe/status/2094378289595097271/photo/1",
+              "media_key": "3_2094377892922957824",
+              "start": 35,
+              "url": "https://t.co/g727Uag4m1"
+            },
+            {
+              "display_url": "pic.x.com/g727Uag4m1",
+              "end": 58,
+              "expanded_url": "https://x.com/_DerLiebe/status/2094378289595097271/photo/1",
+              "media_key": "3_2094378061072674816",
+              "start": 35,
+              "url": "https://t.co/g727Uag4m1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094378403344310456",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094377892922957824"
+          },
+          {
+            "media_key": "3_2094378061072674816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094378289595097271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_DerLiebe: #dmc #vergil #dante https://t.co/g727Uag4m1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094377892922957824",
+            "3_2094378061072674816"
+          ]
+        },
+        "author_id": "1936742995698835456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2094378289595097271",
+        "created_at": "2026-08-31T10:54:30.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094378289595097271"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "dmc"
+            },
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "vergil"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "dante"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g727Uag4m1",
+              "end": 43,
+              "expanded_url": "https://x.com/_DerLiebe/status/2094378289595097271/photo/1",
+              "media_key": "3_2094377892922957824",
+              "start": 20,
+              "url": "https://t.co/g727Uag4m1"
+            },
+            {
+              "display_url": "pic.x.com/g727Uag4m1",
+              "end": 43,
+              "expanded_url": "https://x.com/_DerLiebe/status/2094378289595097271/photo/1",
+              "media_key": "3_2094378061072674816",
+              "start": 20,
+              "url": "https://t.co/g727Uag4m1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094378289595097271",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094377892922957824"
+          },
+          {
+            "media_key": "3_2094378061072674816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#dmc #vergil #dante https://t.co/g727Uag4m1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2094378403344310456",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 27,
+          "like_count": 2056,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 4212
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-22T11:08:26.000Z",
+        "description": "我讨厌蠢逼",
+        "id": "1936742995698835456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094378289595097271",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1936742995698835456/1787438557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093737688734294016/u8dhd7WC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 19,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "_DerLiebe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

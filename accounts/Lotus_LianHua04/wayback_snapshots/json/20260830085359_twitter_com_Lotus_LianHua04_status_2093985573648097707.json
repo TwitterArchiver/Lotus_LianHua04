@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2093985573648097707",
+    "created_at": "2026-08-30T08:53:59.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T09:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093985573648097707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1959681812688711680",
+          "start": 3,
+          "username": "luxiyee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093985573648097707",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 158
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093704956847038732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luxiyee: Being a child means having no responsibilities and being cared for without having to ask for it. Personally, I never felt love…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2093985573648097707",
+        "created_at": "2026-08-30T08:53:59.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093985573648097707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1959681812688711680",
+              "start": 3,
+              "username": "luxiyee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093985573648097707",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093704956847038732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luxiyee: Being a child means having no responsibilities and being cared for without having to ask for it. Personally, I never felt love…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959681812688711680",
+        "conversation_id": "2093704956847038732",
+        "created_at": "2026-08-29T14:18:55.000Z",
+        "display_text_range": [
+          0,
+          271
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T15:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093704956847038732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/babyangelwtx/s…",
+              "end": 295,
+              "expanded_url": "https://twitter.com/babyangelwtx/status/2092666498913288234",
+              "start": 272,
+              "url": "https://t.co/yzMZnMBOVg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093704956847038732",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 242,
+          "impression_count": 40608,
+          "like_count": 1707,
+          "quote_count": 7,
+          "reply_count": 7,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092666498913288234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Being a child means having no responsibilities and being cared for without having to ask for it. Personally, I never felt loved or prioritised as a child so part of me wants to look frail and vulnerable because I associate that with being worried about and treated gently https://t.co/yzMZnMBOVg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2093985573648097707",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 27,
+          "like_count": 2042,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 4169
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-24T18:18:57.000Z",
+        "description": "’04 borderline mess ⋮ ⌗ ┆Magical girl\n༘⋆ priv account @luxispam",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "luxispam"
+              }
+            ]
+          }
+        },
+        "id": "1959681812688711680",
+        "is_identity_verified": false,
+        "location": "Ednos + BPD",
+        "most_recent_tweet_id": "2093904281367711824",
+        "name": "Luxie ⋆.𐙚 ̊",
+        "pinned_tweet_id": "2090450194579988732",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959681812688711680/1787151108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090088393212354560/vO8hegqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 368,
+          "like_count": 1107,
+          "listed_count": 2,
+          "media_count": 544,
+          "tweet_count": 1797
+        },
+        "url": "",
+        "username": "luxiyee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

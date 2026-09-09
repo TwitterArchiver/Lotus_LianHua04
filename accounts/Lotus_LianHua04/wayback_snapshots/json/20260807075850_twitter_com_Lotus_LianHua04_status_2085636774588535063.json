@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2085636774588535063",
+    "created_at": "2026-08-07T07:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T08:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085636774588535063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525616282607005697",
+          "start": 3,
+          "username": "errai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085636774588535063",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1627
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085489830398435506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @errai: I love the contrast between these two images. Reminds you that, whether you live as a lonesome shower emperor or as beloved king…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 718,
+        "media_key": "3_2085489064669548544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPElQUKXEAAIKk_.jpg",
+        "width": 750
+      },
+      {
+        "height": 960,
+        "media_key": "3_2085489505071443968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPElp8yWsAAWS1B.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2085636774588535063",
+        "created_at": "2026-08-07T07:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085636774588535063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525616282607005697",
+              "start": 3,
+              "username": "errai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085636774588535063",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1627
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085489830398435506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @errai: I love the contrast between these two images. Reminds you that, whether you live as a lonesome shower emperor or as beloved king…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085489064669548544",
+            "3_2085489505071443968"
+          ]
+        },
+        "author_id": "1525616282607005697",
+        "conversation_id": "2085489830398435506",
+        "created_at": "2026-08-06T22:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T23:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085489830398435506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYR4FZ1WKV",
+              "end": 191,
+              "expanded_url": "https://x.com/errai/status/2085489830398435506/photo/1",
+              "media_key": "3_2085489064669548544",
+              "start": 168,
+              "url": "https://t.co/vYR4FZ1WKV"
+            },
+            {
+              "display_url": "pic.x.com/vYR4FZ1WKV",
+              "end": 191,
+              "expanded_url": "https://x.com/errai/status/2085489830398435506/photo/1",
+              "media_key": "3_2085489505071443968",
+              "start": 168,
+              "url": "https://t.co/vYR4FZ1WKV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085489830398435506",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1903,
+          "impression_count": 523794,
+          "like_count": 18504,
+          "quote_count": 51,
+          "reply_count": 31,
+          "retweet_count": 1627
+        },
+        "reply_settings": "everyone",
+        "text": "I love the contrast between these two images. Reminds you that, whether you live as a lonesome shower emperor or as beloved king of the pond, you still die a moist man https://t.co/vYR4FZ1WKV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 27,
+          "like_count": 1746,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 3586
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T23:17:26.000Z",
+        "description": "from me the dragon / bf @sumiaou / personal @dryflat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "sumiaou"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "dryflat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "errai.tf",
+                "end": 23,
+                "expanded_url": "http://errai.tf",
+                "start": 0,
+                "url": "https://t.co/9hLrb1JZdg"
+              }
+            ]
+          }
+        },
+        "id": "1525616282607005697",
+        "location": "Somerville, MA",
+        "name": "Errai",
+        "pinned_tweet_id": "1892654509802807629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019129740267773952/uQGbeDRG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5988,
+          "following_count": 534,
+          "like_count": 9724,
+          "listed_count": 27,
+          "media_count": 2597,
+          "tweet_count": 9913
+        },
+        "url": "https://t.co/9hLrb1JZdg",
+        "username": "errai",
+        "verified": false
+      }
+    ]
+  }
+}

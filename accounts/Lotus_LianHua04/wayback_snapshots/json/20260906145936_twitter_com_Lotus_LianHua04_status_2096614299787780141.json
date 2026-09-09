@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096178552978747396"
+      ],
+      "media_source_tweet_id": [
+        "2096178766812778572"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2096614299787780141",
+    "created_at": "2026-09-06T14:59:36.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096614299787780141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1263200873628471296",
+          "start": 3,
+          "username": "PicturesUssr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mJ7popVDtQ",
+          "end": 101,
+          "expanded_url": "https://x.com/PicturesUssr/status/2096178766812778572/photo/1",
+          "media_key": "3_2096178552978747396",
+          "start": 78,
+          "url": "https://t.co/mJ7popVDtQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096614299787780141",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2096178552978747396"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 430
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096178766812778572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PicturesUssr: \"Drug addiction is suicide\" - Soviet Ukrainian poster, 1987 https://t.co/mJ7popVDtQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3601,
+        "media_key": "3_2096178552978747396",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcfSbQXMAQKDvf.jpg",
+        "width": 2361
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096178552978747396"
+          ],
+          "media_source_tweet_id": [
+            "2096178766812778572"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2096614299787780141",
+        "created_at": "2026-09-06T14:59:36.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096614299787780141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1263200873628471296",
+              "start": 3,
+              "username": "PicturesUssr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mJ7popVDtQ",
+              "end": 101,
+              "expanded_url": "https://x.com/PicturesUssr/status/2096178766812778572/photo/1",
+              "media_key": "3_2096178552978747396",
+              "start": 78,
+              "url": "https://t.co/mJ7popVDtQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096614299787780141",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096178552978747396"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 430
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096178766812778572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PicturesUssr: \"Drug addiction is suicide\" - Soviet Ukrainian poster, 1987 https://t.co/mJ7popVDtQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096178552978747396"
+          ]
+        },
+        "author_id": "1263200873628471296",
+        "conversation_id": "2096178766812778572",
+        "created_at": "2026-09-05T10:08:57.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:08:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096178561639952739",
+          "2096178766812778572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mJ7popVDtQ",
+              "end": 83,
+              "expanded_url": "https://x.com/PicturesUssr/status/2096178766812778572/photo/1",
+              "media_key": "3_2096178552978747396",
+              "start": 60,
+              "url": "https://t.co/mJ7popVDtQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096178766812778572",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096178552978747396"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 423,
+          "impression_count": 93042,
+          "like_count": 3857,
+          "quote_count": 65,
+          "reply_count": 22,
+          "retweet_count": 430
+        },
+        "reply_settings": "everyone",
+        "text": "\"Drug addiction is suicide\" - Soviet Ukrainian poster, 1987 https://t.co/mJ7popVDtQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2096614299787780141",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 27,
+          "like_count": 2151,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 4375
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-20T20:13:49.000Z",
+        "description": "Pictures and photographs from Soviet Union 🚩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ussrpictures/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ussrpictures/",
+                "start": 0,
+                "url": "https://t.co/VMzK0cwW14"
+              }
+            ]
+          }
+        },
+        "id": "1263200873628471296",
+        "is_identity_verified": false,
+        "location": "USSR",
+        "most_recent_tweet_id": "2096602074943222233",
+        "name": "USSR Pictures",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1263200873628471296/1597734381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263201378337542146/arQpQpPY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193291,
+          "following_count": 332,
+          "like_count": 679,
+          "listed_count": 630,
+          "media_count": 7656,
+          "tweet_count": 8135
+        },
+        "url": "https://t.co/VMzK0cwW14",
+        "username": "PicturesUssr",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

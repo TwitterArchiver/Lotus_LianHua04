@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2086199829839917078",
+    "created_at": "2026-08-08T21:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T22:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086199829839917078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417210564825296897",
+          "start": 3,
+          "username": "ozgundurmuss"
+        },
+        {
+          "end": 31,
+          "id": "1412491640917331975",
+          "start": 18,
+          "username": "siyahsancakx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086199829839917078",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085834333974048886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ozgundurmuss: @siyahsancakx Sana kurban olurum ben ya sendeki vefa insanoğlunda olsa keşke"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2086199829839917078",
+        "created_at": "2026-08-08T21:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T22:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086199829839917078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417210564825296897",
+              "start": 3,
+              "username": "ozgundurmuss"
+            },
+            {
+              "end": 31,
+              "id": "1412491640917331975",
+              "start": 18,
+              "username": "siyahsancakx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086199829839917078",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085834333974048886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ozgundurmuss: @siyahsancakx Sana kurban olurum ben ya sendeki vefa insanoğlunda olsa keşke"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417210564825296897",
+        "conversation_id": "2085799087815696864",
+        "created_at": "2026-08-07T21:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T22:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085834333974048886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1412491640917331975",
+              "start": 0,
+              "username": "siyahsancakx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085834333974048886",
+        "in_reply_to_user_id": "1412491640917331975",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19688,
+          "like_count": 422,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085799087815696864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siyahsancakx Sana kurban olurum ben ya sendeki vefa insanoğlunda olsa keşke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 28,
+          "like_count": 1763,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 3623
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T19:51:53.000Z",
+        "description": "Fenerbahçe",
+        "id": "1417210564825296897",
+        "name": "özgün durmuş",
+        "pinned_tweet_id": "2083654557834330412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920494574260150272/2Ds-zk6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 4587,
+          "like_count": 200034,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 18500
+        },
+        "url": "",
+        "username": "ozgundurmuss",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-06T19:20:31.000Z",
+        "description": "Bağımsız ve tarafsız yayın yapan, siyaset üstü, Devlet yanlısı bir kuruluştur. 🇹🇷 Whatsapp İletişim ve İhbar Hattımız: 0540 036 6000 📲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "siyahsancakx.com",
+                "end": 23,
+                "expanded_url": "http://www.siyahsancakx.com",
+                "start": 0,
+                "url": "https://t.co/Y5OvIYX0nh"
+              }
+            ]
+          }
+        },
+        "id": "1412491640917331975",
+        "name": "SİYAH SANCAK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802024455805276160/0EXni_uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616839,
+          "following_count": 126,
+          "like_count": 6,
+          "listed_count": 376,
+          "media_count": 95665,
+          "tweet_count": 98087
+        },
+        "url": "https://t.co/Y5OvIYX0nh",
+        "username": "siyahsancakx",
+        "verified": true
+      }
+    ]
+  }
+}

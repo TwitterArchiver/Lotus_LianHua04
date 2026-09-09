@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2085432966197481941",
+    "created_at": "2026-08-06T18:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085432966197481941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1320316316616593408",
+          "start": 3,
+          "username": "Casey_Business"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085432966197481941",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 917
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085190318161633384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Casey_Business: *touches your circumcision scar* is this where they hurt you? :(\n*touches your circumcision scar*\n*touches your circumc…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2085432966197481941",
+        "created_at": "2026-08-06T18:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085432966197481941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1320316316616593408",
+              "start": 3,
+              "username": "Casey_Business"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085432966197481941",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 917
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085190318161633384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Casey_Business: *touches your circumcision scar* is this where they hurt you? :(\n*touches your circumcision scar*\n*touches your circumc…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320316316616593408",
+        "conversation_id": "2085190318161633384",
+        "created_at": "2026-08-06T02:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T03:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085190318161633384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085190318161633384",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 856,
+          "impression_count": 397714,
+          "like_count": 16595,
+          "quote_count": 63,
+          "reply_count": 47,
+          "retweet_count": 917
+        },
+        "reply_settings": "everyone",
+        "text": "*touches your circumcision scar* is this where they hurt you? :(\n*touches your circumcision scar*\n*touches your circumcision scar*\n*touches your circumcision scar*\n*touches your circumcision scar*\n*touches your circumcision scar*\n*touches your circumcision scar*\n*touches your cir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 27,
+          "like_count": 1732,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 3576
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-25T10:50:36.000Z",
+        "description": "currently making a video about the grifter with a stupidly high IQ. still writing my 5 hour PORTAL video essay. mostly SFW but be warned",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/caseybusiness",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/caseybusiness",
+                "start": 0,
+                "url": "https://t.co/fbMDdmTjvN"
+              }
+            ]
+          }
+        },
+        "id": "1320316316616593408",
+        "location": "23 | Perth | they/them",
+        "name": "Casey 🌸📊",
+        "pinned_tweet_id": "1520628816229507072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042979362711252992/q2TSnNgC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12215,
+          "following_count": 169,
+          "like_count": 524610,
+          "listed_count": 46,
+          "media_count": 4370,
+          "tweet_count": 34563
+        },
+        "url": "https://t.co/fbMDdmTjvN",
+        "username": "Casey_Business",
+        "verified": false
+      }
+    ]
+  }
+}

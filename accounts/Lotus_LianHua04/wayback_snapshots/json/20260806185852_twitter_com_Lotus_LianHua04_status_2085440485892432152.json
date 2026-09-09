@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2085440485892432152",
+    "created_at": "2026-08-06T18:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085440485892432152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1984316892849598464",
+          "start": 3,
+          "username": "P0chitaLuvr69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085440485892432152",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1306
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085153554730246650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @P0chitaLuvr69: when i was younger, maybe around 12, a girl i had a crush on was obsessed with how easily i bled so sh poked me with sta…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2085440485892432152",
+        "created_at": "2026-08-06T18:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085440485892432152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1984316892849598464",
+              "start": 3,
+              "username": "P0chitaLuvr69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085440485892432152",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1306
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085153554730246650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @P0chitaLuvr69: when i was younger, maybe around 12, a girl i had a crush on was obsessed with how easily i bled so sh poked me with sta…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984316892849598464",
+        "conversation_id": "2085153554730246650",
+        "created_at": "2026-08-05T23:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T00:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085153554730246650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Senevigrof/sta…",
+              "end": 295,
+              "expanded_url": "https://twitter.com/Senevigrof/status/2085103601022586966",
+              "start": 272,
+              "url": "https://t.co/aJxZPqQI3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085153554730246650",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1888,
+          "impression_count": 603473,
+          "like_count": 30887,
+          "quote_count": 135,
+          "reply_count": 137,
+          "retweet_count": 1306
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085103601022586966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "when i was younger, maybe around 12, a girl i had a crush on was obsessed with how easily i bled so sh poked me with staples until i bled and then shed watch it with morbid curiosity, i think this has permanently affected my taste in women\n\nprobably salt or something idk https://t.co/aJxZPqQI3b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 27,
+          "like_count": 1740,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 3581
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T17:50:03.000Z",
+        "description": "🔞 OCCASIONAL NSFW 🔞MINORS GO AWAY\ni like dragons and dinosaurs and women and chainsaw man and deadlock and friends and having fun and women and godzilla",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pochitaluvr69.straw.page",
+                "end": 23,
+                "expanded_url": "https://pochitaluvr69.straw.page",
+                "start": 0,
+                "url": "https://t.co/VeuEv5S1ab"
+              }
+            ]
+          }
+        },
+        "id": "1984316892849598464",
+        "location": "keep on dreaming!",
+        "name": "Pochi ⛓️🪚🧡",
+        "pinned_tweet_id": "2031222591986274590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041934868431446016/zcQbg9gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2727,
+          "following_count": 623,
+          "like_count": 74394,
+          "listed_count": 10,
+          "media_count": 2142,
+          "tweet_count": 14087
+        },
+        "url": "https://t.co/VeuEv5S1ab",
+        "username": "P0chitaLuvr69",
+        "verified": false
+      }
+    ]
+  }
+}

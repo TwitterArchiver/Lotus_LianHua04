@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093896937200037888"
+      ],
+      "media_source_tweet_id": [
+        "2093896950428950722"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2093897046004478033",
+    "created_at": "2026-08-30T03:02:13.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T04:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093897046004478033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2002670122767667200",
+          "start": 3,
+          "username": "Lotus_LianHua04"
+        },
+        {
+          "end": 36,
+          "id": "2087606321642422272",
+          "start": 21,
+          "username": "JudasLoveNHate"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8N61ac2Cw7",
+          "end": 70,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2093896950428950722/photo/1",
+          "media_key": "3_2093896937200037888",
+          "start": 47,
+          "url": "https://t.co/8N61ac2Cw7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093897046004478033",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093896937200037888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093896950428950722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lotus_LianHua04: @JudasLoveNHate 冒号姐妹你要完蛋了 https://t.co/8N61ac2Cw7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 199,
+        "media_key": "3_2093896937200037888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8EK6IWMAA7F84.jpg",
+        "width": 798
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093896937200037888"
+          ],
+          "media_source_tweet_id": [
+            "2093896950428950722"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2093897046004478033",
+        "created_at": "2026-08-30T03:02:13.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T04:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093897046004478033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2002670122767667200",
+              "start": 3,
+              "username": "Lotus_LianHua04"
+            },
+            {
+              "end": 36,
+              "id": "2087606321642422272",
+              "start": 21,
+              "username": "JudasLoveNHate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8N61ac2Cw7",
+              "end": 70,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2093896950428950722/photo/1",
+              "media_key": "3_2093896937200037888",
+              "start": 47,
+              "url": "https://t.co/8N61ac2Cw7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093897046004478033",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093896937200037888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093896950428950722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lotus_LianHua04: @JudasLoveNHate 冒号姐妹你要完蛋了 https://t.co/8N61ac2Cw7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093896937200037888"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2093896950428950722",
+        "created_at": "2026-08-30T03:01:50.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T04:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093896950428950722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2087606321642422272",
+              "start": 0,
+              "username": "JudasLoveNHate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8N61ac2Cw7",
+              "end": 49,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2093896950428950722/photo/1",
+              "media_key": "3_2093896937200037888",
+              "start": 26,
+              "url": "https://t.co/8N61ac2Cw7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093896950428950722",
+        "in_reply_to_user_id": "2087606321642422272",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093896937200037888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@JudasLoveNHate 冒号姐妹你要完蛋了 https://t.co/8N61ac2Cw7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2093897046004478033",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 27,
+          "like_count": 2023,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 4149
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T18:34:51.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自歹戋自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠️#5htwt #drugtwt ⚠️|我是Dizzy也可以叫我枭儿| he/them | 防绑架备用：@_DerLiebe ｜𝑳𝒐𝒗𝒆 𝑪𝒖𝒕𝒔 𝑴𝒆 𝑳𝒊𝒌𝒆 𝒀𝒂𝒎𝒂𝒕𝒐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "5htwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_DerLiebe"
+              }
+            ]
+          }
+        },
+        "id": "2087606321642422272",
+        "is_identity_verified": false,
+        "location": "冰冻泪湖的中央",
+        "most_recent_tweet_id": "2093736983051022783",
+        "name": "新中国第二毒枭 𝑹𝒊𝒄𝒉𝒕𝒆𝒓𝟖𝟗𝟎𝟒𝟐𝟔",
+        "pinned_tweet_id": "2088911616813543774",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087606321642422272/1786674138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093737583876730880/SfIO_HLv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 20,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "JudasLoveNHate",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2088393772925153764",
+    "created_at": "2026-08-14T23:28:49.000Z",
+    "display_text_range": [
+      17,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T00:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088407526828048870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2027071639478026240",
+          "start": 0,
+          "username": "1imadie3thisway"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088407526828048870",
+    "in_reply_to_user_id": "2027071639478026240",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088393772925153764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1imadie3thisway wtf??what happened?this person appear at your door?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1189,
+        "media_key": "3_2088393769947197440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPt3EajXcAARyPu.jpg",
+        "width": 801
+      },
+      {
+        "height": 1186,
+        "media_key": "3_2088393769955532800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPt3EalWoAAvC7S.jpg",
+        "width": 1017
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2088393772925153764",
+        "created_at": "2026-08-14T23:28:49.000Z",
+        "display_text_range": [
+          17,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T00:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088407526828048870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2027071639478026240",
+              "start": 0,
+              "username": "1imadie3thisway"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088407526828048870",
+        "in_reply_to_user_id": "2027071639478026240",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088393772925153764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1imadie3thisway wtf??what happened?this person appear at your door?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088393769947197440",
+            "3_2088393769955532800"
+          ]
+        },
+        "author_id": "2027071639478026240",
+        "conversation_id": "2088393772925153764",
+        "created_at": "2026-08-14T22:34:10.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T23:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088393772925153764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFAM2mCDjk",
+              "end": 304,
+              "expanded_url": "https://x.com/1imadie3thisway/status/2088393772925153764/photo/1",
+              "media_key": "3_2088393769947197440",
+              "start": 281,
+              "url": "https://t.co/DFAM2mCDjk"
+            },
+            {
+              "display_url": "pic.x.com/DFAM2mCDjk",
+              "end": 304,
+              "expanded_url": "https://x.com/1imadie3thisway/status/2088393772925153764/photo/1",
+              "media_key": "3_2088393769955532800",
+              "start": 281,
+              "url": "https://t.co/DFAM2mCDjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088393772925153764",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088393769947197440"
+          },
+          {
+            "media_key": "3_2088393769955532800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Whoever this is I have a message. I will track you down. You will never be happy whether it’s never having friends, family, a partner, peace, love, no jobs, no colleges, nothing your life will be nothing. You will be a homeless guy on the side of the street no one will ever loveu https://t.co/DFAM2mCDjk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2088407526828048870",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1786639550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 25,
+          "like_count": 1844,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 3807
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-26T17:22:01.000Z",
+        "description": "ᡕᠵデ气亠",
+        "id": "2027071639478026240",
+        "is_identity_verified": false,
+        "location": "Nevada, USA",
+        "most_recent_tweet_id": "2088393772925153764",
+        "name": "Vile of recovery twt",
+        "pinned_tweet_id": "2050834528445292554",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027071639478026240/1777791732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050833240236371968/7zkpuxtC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 107,
+          "like_count": 5631,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1287
+        },
+        "url": "",
+        "username": "1imadie3thisway",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

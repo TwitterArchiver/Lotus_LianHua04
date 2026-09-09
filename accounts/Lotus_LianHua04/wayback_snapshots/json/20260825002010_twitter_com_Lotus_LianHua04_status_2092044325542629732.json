@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2092044325542629732",
+    "created_at": "2026-08-25T00:20:10.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T01:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092044325542629732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "132088078",
+          "start": 3,
+          "username": "___ka38___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092044325542629732",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958097131358896555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @___ka38___: 1980年(昭和55年)8月13日\nゲイの男性。20歳で独身。東京在住。六本木のショーパブに勤務。ドラッグにハマっていて、時にはカラダも売っているようだ。素敵な男性に一目惚れしたときの日記。\nーーーーーーーーーーーーーー\n8.10.日曜… htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_1958096981135642624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyyO1HRa0AAy2j3.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2092044325542629732",
+        "created_at": "2026-08-25T00:20:10.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T01:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092044325542629732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "132088078",
+              "start": 3,
+              "username": "___ka38___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092044325542629732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958097131358896555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @___ka38___: 1980年(昭和55年)8月13日\nゲイの男性。20歳で独身。東京在住。六本木のショーパブに勤務。ドラッグにハマっていて、時にはカラダも売っているようだ。素敵な男性に一目惚れしたときの日記。\nーーーーーーーーーーーーーー\n8.10.日曜… htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958096981135642624"
+          ]
+        },
+        "author_id": "132088078",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1958097131358896555",
+        "created_at": "2025-08-20T09:21:50.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2025-08-20T10:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958097131358896555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pY3qUVMOaN",
+              "end": 142,
+              "expanded_url": "https://x.com/___ka38___/status/1958097131358896555/photo/1",
+              "media_key": "3_1958096981135642624",
+              "start": 119,
+              "url": "https://t.co/pY3qUVMOaN"
+            },
+            {
+              "display_url": "x.com/___ka38___/sta…",
+              "end": 166,
+              "expanded_url": "https://x.com/___ka38___/status/1948287241270517871",
+              "start": 143,
+              "url": "https://t.co/y6dqgbeQhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958097131358896555",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_1958096981135642624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/___ka38___/sta…",
+                "end": 590,
+                "expanded_url": "https://x.com/___ka38___/status/1948287241270517871",
+                "start": 567,
+                "url": "https://t.co/y6dqgbeQhK"
+              }
+            ]
+          },
+          "text": "1980年(昭和55年)8月13日\nゲイの男性。20歳で独身。東京在住。六本木のショーパブに勤務。ドラッグにハマっていて、時にはカラダも売っているようだ。素敵な男性に一目惚れしたときの日記。\nーーーーーーーーーーーーーー\n8.10.日曜　とってもすてきな人に会った。10日からもうその人のことが頭のまん中へんにくっついてはなれない。考えただけで今でもむねがときめいちゃう。17の時はたらいていたジョージで会った。\nちょうど仕事が休みでひまだったしちょっといってみようか？なんてかんじで行ったんだけどそこで会うなんて何かのえんだと思う。頭をリーゼントにしてスーツをびっときて16〜17才の男をつれて年は27くらい。部(屋？)にかえって来てもその人のことばかり……。カガミをみて自分も16〜17になりたいと思ったり、歯を早くなおそうと考えたり、かおもなおしたい。\nこの恋もし実ったら頭おかしくなりそー。\nーーーーーーーーーーーーー\n80年代に六本木のショーパブで働いていた男の子。\n好みの男性に出会ってテンションが爆上がりな男の子。この頃は「頭をリーゼントにして」という男性が流行の最先端でありカッコ良かったのが分かる。\nその男性が連れていた若い男の子と自分を比較して、年齢やルックスを気にしているのが可愛らしい。\n彼の以前の日記は以下\nhttps://t.co/y6dqgbeQhK"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 179060,
+          "like_count": 200,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948287241270517871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1980年(昭和55年)8月13日\nゲイの男性。20歳で独身。東京在住。六本木のショーパブに勤務。ドラッグにハマっていて、時にはカラダも売っているようだ。素敵な男性に一目惚れしたときの日記。\nーーーーーーーーーーーーーー\n8.10.日曜 https://t.co/pY3qUVMOaN https://t.co/y6dqgbeQhK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2092044337114755449",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1786639550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 24,
+          "like_count": 1975,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 4047
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-04-12T07:17:30.000Z",
+        "description": "古本道楽。紙くずのようなものを集めています。ここでは主に蒐集した数千冊の手書き日記帳から誰かのある日を紹介します。※個人のご不要になった日記、処分に困った日記などありましたらお譲り下さい。お譲り頂いた日記のプライバシーは遵守いたします。そして取り扱いも提供者様のご意向（公開、非公開など）に従います。ご連絡はDMにて。",
+        "id": "132088078",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091905481254346947",
+        "name": "zk",
+        "pinned_tweet_id": "1918626613832397088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24649,
+          "following_count": 1102,
+          "like_count": 5604,
+          "listed_count": 81,
+          "media_count": 1692,
+          "tweet_count": 9817
+        },
+        "url": "",
+        "username": "___ka38___",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

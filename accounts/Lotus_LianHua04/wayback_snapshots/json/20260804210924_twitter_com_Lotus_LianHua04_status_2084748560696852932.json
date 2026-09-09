@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084431336685654016"
+      ],
+      "media_source_tweet_id": [
+        "2084431343954346340"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2084748560696852932",
+    "created_at": "2026-08-04T21:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T22:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084748560696852932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1969817556342194176",
+          "start": 3,
+          "username": "seraphbyte"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jNRA5Arrxg",
+          "end": 115,
+          "expanded_url": "https://x.com/seraphbyte/status/2084431343954346340/photo/1",
+          "media_key": "3_2084431336685654016",
+          "start": 92,
+          "url": "https://t.co/jNRA5Arrxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084748560696852932",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 211
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084431343954346340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seraphbyte: Me and him when we finally abandon everything and disappear into the woods. https://t.co/jNRA5Arrxg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 918,
+        "media_key": "3_2084431336685654016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1jQcXXUAAq8Sa.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084431336685654016"
+          ]
+        },
+        "author_id": "1969817556342194176",
+        "conversation_id": "2084431343954346340",
+        "created_at": "2026-08-04T00:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084431343954346340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jNRA5Arrxg",
+              "end": 99,
+              "expanded_url": "https://x.com/seraphbyte/status/2084431343954346340/photo/1",
+              "media_key": "3_2084431336685654016",
+              "start": 76,
+              "url": "https://t.co/jNRA5Arrxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084431343954346340",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 26945,
+          "like_count": 1557,
+          "quote_count": 36,
+          "reply_count": 35,
+          "retweet_count": 211
+        },
+        "reply_settings": "everyone",
+        "text": "Me and him when we finally abandon everything and disappear into the woods. https://t.co/jNRA5Arrxg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084431336685654016"
+          ],
+          "media_source_tweet_id": [
+            "2084431343954346340"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2084748560696852932",
+        "created_at": "2026-08-04T21:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T22:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084748560696852932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1969817556342194176",
+              "start": 3,
+              "username": "seraphbyte"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jNRA5Arrxg",
+              "end": 115,
+              "expanded_url": "https://x.com/seraphbyte/status/2084431343954346340/photo/1",
+              "media_key": "3_2084431336685654016",
+              "start": 92,
+              "url": "https://t.co/jNRA5Arrxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084748560696852932",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 211
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084431343954346340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seraphbyte: Me and him when we finally abandon everything and disappear into the woods. https://t.co/jNRA5Arrxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 27,
+          "like_count": 1697,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 3534
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T17:34:51.000Z",
+        "description": "˚₊‧ ᛟ ⟡ J ♡︎ @fashoutcrashout ‘s wife ⟡ editor ⟡ OC in highlights ᛭ TG ⟡ schizoposting acc ⟡ DNI ⟡ nicht erreichbar ⟡ ᛟ ‧₊˚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "fashoutcrashout"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SeraphByteArch…",
+                "end": 23,
+                "expanded_url": "https://t.me/SeraphByteArchive",
+                "start": 0,
+                "url": "https://t.co/iJvL2HuG1Q"
+              }
+            ]
+          }
+        },
+        "id": "1969817556342194176",
+        "location": "᛭1995᛭",
+        "name": "꒰ঌ наша ໒꒱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068014254398087169/37cRI8CJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 218,
+          "like_count": 1995,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 667
+        },
+        "url": "https://t.co/iJvL2HuG1Q",
+        "username": "seraphbyte",
+        "verified": true
+      }
+    ]
+  }
+}

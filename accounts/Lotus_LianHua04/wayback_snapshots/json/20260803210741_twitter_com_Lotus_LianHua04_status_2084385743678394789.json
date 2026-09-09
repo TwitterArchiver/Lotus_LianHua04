@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084315931056955392"
+      ],
+      "media_source_tweet_id": [
+        "2084315937902047384"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2084385743678394789",
+    "created_at": "2026-08-03T21:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T22:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084385743678394789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1313647919908745220",
+          "start": 3,
+          "username": "7i__g"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SgELbkGwbW",
+          "end": 34,
+          "expanded_url": "https://x.com/7i__g/status/2084315937902047384/photo/1",
+          "media_key": "3_2084315931056955392",
+          "start": 11,
+          "url": "https://t.co/SgELbkGwbW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084385743678394789",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084315937902047384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7i__g: https://t.co/SgELbkGwbW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1039,
+        "media_key": "3_2084315931056955392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOz6S85WYAA6WNr.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084315931056955392"
+          ]
+        },
+        "author_id": "1313647919908745220",
+        "conversation_id": "2084315937902047384",
+        "created_at": "2026-08-03T16:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084315937902047384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgELbkGwbW",
+              "end": 23,
+              "expanded_url": "https://x.com/7i__g/status/2084315937902047384/photo/1",
+              "media_key": "3_2084315931056955392",
+              "start": 0,
+              "url": "https://t.co/SgELbkGwbW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084315937902047384",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 13095,
+          "like_count": 973,
+          "quote_count": 15,
+          "reply_count": 1,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SgELbkGwbW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084315931056955392"
+          ],
+          "media_source_tweet_id": [
+            "2084315937902047384"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2084385743678394789",
+        "created_at": "2026-08-03T21:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084385743678394789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1313647919908745220",
+              "start": 3,
+              "username": "7i__g"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgELbkGwbW",
+              "end": 34,
+              "expanded_url": "https://x.com/7i__g/status/2084315937902047384/photo/1",
+              "media_key": "3_2084315931056955392",
+              "start": 11,
+              "url": "https://t.co/SgELbkGwbW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084385743678394789",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084315937902047384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7i__g: https://t.co/SgELbkGwbW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 30,
+          "like_count": 1667,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 3499
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T01:11:08.000Z",
+        "description": "˚ʚ ❀ ♡ ❀ .",
+        "id": "1313647919908745220",
+        "name": "ًً",
+        "pinned_tweet_id": "2058592279900586263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997969157204127744/A_-9ztr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31068,
+          "following_count": 33,
+          "like_count": 356735,
+          "listed_count": 55,
+          "media_count": 1433,
+          "tweet_count": 5025
+        },
+        "url": "",
+        "username": "7i__g",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095529787662159872"
+      ],
+      "media_source_tweet_id": [
+        "2095531526561861690"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095655680325865916",
+    "created_at": "2026-09-03T23:30:24.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T00:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095655680325865916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1936742995698835456",
+          "start": 3,
+          "username": "_DerLiebe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ikdGqeGKxL",
+          "end": 51,
+          "expanded_url": "https://x.com/_DerLiebe/status/2095531526561861690/video/1",
+          "media_key": "13_2095529787662159872",
+          "start": 28,
+          "url": "https://t.co/ikdGqeGKxL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095655680325865916",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2095529787662159872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095531526561861690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_DerLiebe: 性欲由心而生\n好了，散会 https://t.co/ikdGqeGKxL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33181,
+        "height": 1280,
+        "media_key": "13_2095529787662159872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095529787662159872/img/iJTGtK3EwUUXnigo.jpg",
+        "public_metrics": {
+          "view_count": 186
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095529787662159872/vid/avc1/320x568/ONliotRg7njU-GHi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095529787662159872/vid/avc1/480x852/cRLOfebba88gh7hp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095529787662159872/vid/avc1/720x1280/zlU_K8rcFddgAHsg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095529787662159872/pl/XPfbWfeik6eiJubq.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095529787662159872"
+          ],
+          "media_source_tweet_id": [
+            "2095531526561861690"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095655680325865916",
+        "created_at": "2026-09-03T23:30:24.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T00:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095655680325865916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1936742995698835456",
+              "start": 3,
+              "username": "_DerLiebe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ikdGqeGKxL",
+              "end": 51,
+              "expanded_url": "https://x.com/_DerLiebe/status/2095531526561861690/video/1",
+              "media_key": "13_2095529787662159872",
+              "start": 28,
+              "url": "https://t.co/ikdGqeGKxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095655680325865916",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2095529787662159872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095531526561861690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_DerLiebe: 性欲由心而生\n好了，散会 https://t.co/ikdGqeGKxL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095529787662159872"
+          ]
+        },
+        "author_id": "1936742995698835456",
+        "conversation_id": "2095531526561861690",
+        "created_at": "2026-09-03T15:17:03.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095531526561861690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ikdGqeGKxL",
+              "end": 36,
+              "expanded_url": "https://x.com/_DerLiebe/status/2095531526561861690/video/1",
+              "media_key": "13_2095529787662159872",
+              "start": 13,
+              "url": "https://t.co/ikdGqeGKxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095531526561861690",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2095529787662159872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 630,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "性欲由心而生\n好了，散会 https://t.co/ikdGqeGKxL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2095655680325865916",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 27,
+          "like_count": 2103,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 4295
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-22T11:08:26.000Z",
+        "description": "我讨厌蠢逼",
+        "id": "1936742995698835456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095651190528978970",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1936742995698835456/1787438557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093737688734294016/u8dhd7WC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 26,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "_DerLiebe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

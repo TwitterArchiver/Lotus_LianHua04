@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2092044449505263955",
+    "created_at": "2026-08-25T00:20:39.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T01:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092044449505263955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/___ka38___/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/___ka38___/status/2091810296151298331",
+          "start": 9,
+          "url": "https://t.co/gnLQ0zA6BS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092044449505263955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091810296151298331",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好纯美好润的概念 https://t.co/gnLQ0zA6BS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2091809997227470848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQeaHA5asAA1LPZ.jpg",
+        "width": 2266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2092044449505263955",
+        "created_at": "2026-08-25T00:20:39.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T01:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092044449505263955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/___ka38___/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/___ka38___/status/2091810296151298331",
+              "start": 9,
+              "url": "https://t.co/gnLQ0zA6BS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092044449505263955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091810296151298331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好纯美好润的概念 https://t.co/gnLQ0zA6BS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091809997227470848"
+          ]
+        },
+        "author_id": "132088078",
+        "conversation_id": "2091810296151298331",
+        "created_at": "2026-08-24T08:50:13.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091810296151298331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOi2zUPfjA",
+              "end": 138,
+              "expanded_url": "https://x.com/___ka38___/status/2091810296151298331/photo/1",
+              "media_key": "3_2091809997227470848",
+              "start": 115,
+              "url": "https://t.co/BOi2zUPfjA"
+            },
+            {
+              "display_url": "x.com/___ka38___/sta…",
+              "end": 162,
+              "expanded_url": "https://x.com/___ka38___/status/1958097131358896555",
+              "start": 139,
+              "url": "https://t.co/8mB1Yp3o4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091810296151298331",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091809997227470848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/___ka38___/sta…",
+                "end": 493,
+                "expanded_url": "https://x.com/___ka38___/status/1958097131358896555",
+                "start": 470,
+                "url": "https://t.co/8mB1Yp3o4w"
+              }
+            ]
+          },
+          "text": "1980年(昭和55年)8月24日\nゲイの男性。20歳で独身。東京在住。六本木のショーパブに勤務。ドラッグにハマっていて、時にはカラダも売っている男の子。ナンパされて行きずりのエッチをした日の日記。\nーーーーーーーーーーーーーー\n今日は仕事休み。2:00ごろかな、映画を見てきた。ジェムス･ディーンのエデンの東。あんまりよくもなかった……。本当は映画より男をさがしに映画カンに行ったんだもの。きのうアニックスでパーマをとってきた……そのかえり電車の中で外人がぼくのかおをじーっと見てるの気分がわるかった。そーしたら六本木からあとをつけてきて部屋の前のエレベーターの前でこえかけてきた英語だったからわからなかったけど、早い話が屋上でやっちゃった……。\nーーーーーーーーーーーーーーー\n最近好きな男性ができた、と数日前の日記に、そのトキメキやドキドキをキラキラした文章で書いていた男の子。でも、それはそれ、これはこれということで男漁りに出かけることも。若いだけに性欲には抗えないことだってある。\n\n彼が好きになった男性について書いた日記は以下\nhttps://t.co/8mB1Yp3o4w"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 270,
+          "impression_count": 139585,
+          "like_count": 598,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958097131358896555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1980年(昭和55年)8月24日\nゲイの男性。20歳で独身。東京在住。六本木のショーパブに勤務。ドラッグにハマっていて、時にはカラダも売っている男の子。ナンパされて行きずりのエッチをした日の日記。\nーーーーーーーーーーーーーー https://t.co/BOi2zUPfjA https://t.co/8mB1Yp3o4w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2092044449505263955",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1786639550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 24,
+          "like_count": 1975,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 4048
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-04-12T07:17:30.000Z",
+        "description": "古本道楽。紙くずのようなものを集めています。ここでは主に蒐集した数千冊の手書き日記帳から誰かのある日を紹介します。※個人のご不要になった日記、処分に困った日記などありましたらお譲り下さい。お譲り頂いた日記のプライバシーは遵守いたします。そして取り扱いも提供者様のご意向（公開、非公開など）に従います。ご連絡はDMにて。",
+        "id": "132088078",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091905481254346947",
+        "name": "zk",
+        "pinned_tweet_id": "1918626613832397088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24649,
+          "following_count": 1102,
+          "like_count": 5604,
+          "listed_count": 81,
+          "media_count": 1692,
+          "tweet_count": 9817
+        },
+        "url": "",
+        "username": "___ka38___",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

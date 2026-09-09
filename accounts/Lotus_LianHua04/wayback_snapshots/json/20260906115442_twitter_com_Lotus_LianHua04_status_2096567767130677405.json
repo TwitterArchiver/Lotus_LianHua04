@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096521492263841792"
+      ],
+      "media_source_tweet_id": [
+        "2096521497124745303"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2096567767130677405",
+    "created_at": "2026-09-06T11:54:42.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T12:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096567767130677405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1655129153166004224",
+          "start": 3,
+          "username": "FubenXin43830"
+        },
+        {
+          "end": 30,
+          "id": "1894335537743630341",
+          "start": 19,
+          "username": "2_f2597277"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ytcq69ypU3",
+          "end": 54,
+          "expanded_url": "https://x.com/FubenXin43830/status/2096521497124745303/photo/1",
+          "media_key": "3_2096521492263841792",
+          "start": 31,
+          "url": "https://t.co/Ytcq69ypU3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096567767130677405",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2096521492263841792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096521497124745303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FubenXin43830: @2_f2597277 https://t.co/Ytcq69ypU3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 508,
+        "media_key": "3_2096521492263841792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhXMHpbsAA5hay.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096521492263841792"
+          ],
+          "media_source_tweet_id": [
+            "2096521497124745303"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2096567767130677405",
+        "created_at": "2026-09-06T11:54:42.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096567767130677405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1655129153166004224",
+              "start": 3,
+              "username": "FubenXin43830"
+            },
+            {
+              "end": 30,
+              "id": "1894335537743630341",
+              "start": 19,
+              "username": "2_f2597277"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ytcq69ypU3",
+              "end": 54,
+              "expanded_url": "https://x.com/FubenXin43830/status/2096521497124745303/photo/1",
+              "media_key": "3_2096521492263841792",
+              "start": 31,
+              "url": "https://t.co/Ytcq69ypU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096567767130677405",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2096521492263841792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096521497124745303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FubenXin43830: @2_f2597277 https://t.co/Ytcq69ypU3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096521492263841792"
+          ]
+        },
+        "author_id": "1655129153166004224",
+        "conversation_id": "2096424763870880189",
+        "created_at": "2026-09-06T08:50:51.000Z",
+        "display_text_range": [
+          11,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096521497124745303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894335537743630341",
+              "start": 0,
+              "username": "2_f2597277"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ytcq69ypU3",
+              "end": 35,
+              "expanded_url": "https://x.com/FubenXin43830/status/2096521497124745303/photo/1",
+              "media_key": "3_2096521492263841792",
+              "start": 12,
+              "url": "https://t.co/Ytcq69ypU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096521497124745303",
+        "in_reply_to_user_id": "1894335537743630341",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2096521492263841792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1245,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096424763870880189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2_f2597277 https://t.co/Ytcq69ypU3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2096567782024560997",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 27,
+          "like_count": 2145,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 4370
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-07T08:35:41.000Z",
+        "description": "創価学会員三世(自民党派)、(にゃんこ民)、(アリブレ民)ベース楽しい\n無言フォロー失礼します",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/album/3t1jvhji…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/album/3t1jvhjicanv8MtpRgOUr7?si=TaCnCW95RvWyRr-6iQ3jGw",
+                "start": 0,
+                "url": "https://t.co/MBNJ1Ryir8"
+              }
+            ]
+          }
+        },
+        "id": "1655129153166004224",
+        "is_identity_verified": false,
+        "location": "「おい、笑える」が撮られた市",
+        "most_recent_tweet_id": "2096523394787545246",
+        "name": "イデオロギー反復横跳び主義者",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655129153166004224/1729495877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054522649150410752/B4cBupHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 2074,
+          "like_count": 69963,
+          "listed_count": 2,
+          "media_count": 601,
+          "tweet_count": 38313
+        },
+        "url": "https://t.co/MBNJ1Ryir8",
+        "username": "FubenXin43830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T10:36:15.000Z",
+        "description": "完顔　もう　阿骨打と\n\nicon→@ks_von_alfred\n\n雑多→@monkey753_sub\n\nマシュマロ↓\nhttps://t.co/JQryr1LyS7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "ks_von_alfred"
+              },
+              {
+                "end": 50,
+                "start": 36,
+                "username": "monkey753_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/i2r3ubb5gfu6rjp",
+                "end": 82,
+                "expanded_url": "https://marshmallow-qa.com/i2r3ubb5gfu6rjp",
+                "start": 59,
+                "url": "https://t.co/JQryr1LyS7"
+              }
+            ]
+          }
+        },
+        "id": "1894335537743630341",
+        "is_identity_verified": false,
+        "location": "フォロ・ロマーノ",
+        "most_recent_tweet_id": "2096553485647147484",
+        "name": "monkey753",
+        "pinned_tweet_id": "2087496609030701116",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894335537743630341/1788266003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973008176623796224/z0WPy11X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6258,
+          "following_count": 2969,
+          "like_count": 37019,
+          "listed_count": 25,
+          "media_count": 1026,
+          "tweet_count": 4865
+        },
+        "url": "",
+        "username": "2_f2597277",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

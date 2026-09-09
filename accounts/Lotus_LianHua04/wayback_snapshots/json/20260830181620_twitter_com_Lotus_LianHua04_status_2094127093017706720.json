@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2094127093017706720",
+    "created_at": "2026-08-30T18:16:20.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T19:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094127093017706720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2063142109465735168",
+          "start": 3,
+          "username": "bigsilmaril"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094127093017706720",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16297
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093525573029228932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bigsilmaril: When your parents aren’t abusive anymore and wanna act like nothing happened but the underlying psychological damage is st…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16301,
+        "height": 720,
+        "media_key": "13_2085038319809732608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085038319809732608/img/6M0IighmkNhlgx8U.jpg",
+        "public_metrics": {
+          "view_count": 6683968
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085038319809732608/vid/avc1/348x270/YCb_vyjbkSc6VvY2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085038319809732608/vid/avc1/466x360/IdyKUAFyO3GOaJAv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085038319809732608/vid/avc1/932x720/JFHCFqinLdIbQbBt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085038319809732608/pl/yYlFKkpqCW7tkPOE.m3u8?v=cfc"
+          }
+        ],
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2094127093017706720",
+        "created_at": "2026-08-30T18:16:20.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T19:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094127093017706720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2063142109465735168",
+              "start": 3,
+              "username": "bigsilmaril"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094127093017706720",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16297
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093525573029228932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bigsilmaril: When your parents aren’t abusive anymore and wanna act like nothing happened but the underlying psychological damage is st…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085038319809732608"
+          ],
+          "media_source_tweet_id": [
+            "2085038373635248522"
+          ]
+        },
+        "author_id": "2063142109465735168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093525573029228932",
+        "created_at": "2026-08-29T02:26:07.000Z",
+        "display_text_range": [
+          0,
+          177
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T03:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093525573029228932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LWQFBLtaWY",
+              "end": 177,
+              "expanded_url": "https://x.com/SlimeKrewDaily/status/2085038373635248522/video/1",
+              "media_key": "13_2085038319809732608",
+              "start": 154,
+              "url": "https://t.co/LWQFBLtaWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093525573029228932",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2085038319809732608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7027,
+          "impression_count": 875024,
+          "like_count": 71581,
+          "quote_count": 929,
+          "reply_count": 175,
+          "retweet_count": 16297
+        },
+        "reply_settings": "everyone",
+        "text": "When your parents aren’t abusive anymore and wanna act like nothing happened but the underlying psychological damage is still there fucking up your life  https://t.co/LWQFBLtaWY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2094127093017706720",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 27,
+          "like_count": 2049,
+          "listed_count": 0,
+          "media_count": 299,
+          "tweet_count": 4181
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T06:21:04.000Z",
+        "description": "There’s no body to batter when your mind is your might",
+        "id": "2063142109465735168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093990636143976527",
+        "name": "Isolde",
+        "pinned_tweet_id": "2086032681549345099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063142109465735168/1780735379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063218549158748160/hEOQvmCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 236,
+          "like_count": 14085,
+          "listed_count": 0,
+          "media_count": 294,
+          "tweet_count": 2578
+        },
+        "url": "",
+        "username": "bigsilmaril",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

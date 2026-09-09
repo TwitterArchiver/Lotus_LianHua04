@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2096335558301880788",
+    "created_at": "2026-09-05T23:11:30.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T00:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096375699917754662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1936742995698835456",
+          "start": 0,
+          "username": "_DerLiebe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096375699917754662",
+    "in_reply_to_user_id": "1936742995698835456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096335558301880788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_DerLiebe 父亲"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7559,
+        "height": 1280,
+        "media_key": "13_2096335532318191616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096335532318191616/img/bAx-g0lM0ih3C7dc.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096335532318191616/vid/avc1/320x568/p_AEMAjg5u0ZoW38.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096335532318191616/vid/avc1/480x852/1DiXPwG0wTKN_vcA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096335532318191616/vid/avc1/720x1280/6CRot2tktr-0W31B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096335532318191616/pl/8ZCNIW2-FS-Bh7FP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2096335558301880788",
+        "created_at": "2026-09-05T23:11:30.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096375699917754662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1936742995698835456",
+              "start": 0,
+              "username": "_DerLiebe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096375699917754662",
+        "in_reply_to_user_id": "1936742995698835456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096335558301880788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_DerLiebe 父亲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096335532318191616"
+          ]
+        },
+        "author_id": "1936742995698835456",
+        "conversation_id": "2096335558301880788",
+        "created_at": "2026-09-05T20:31:59.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096335558301880788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7cEZZgoWhT",
+              "end": 39,
+              "expanded_url": "https://x.com/_DerLiebe/status/2096335558301880788/video/1",
+              "media_key": "13_2096335532318191616",
+              "start": 16,
+              "url": "https://t.co/7cEZZgoWhT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096335558301880788",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096335532318191616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈要被我以前这b样给笑死了 https://t.co/7cEZZgoWhT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2096375699917754662",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 27,
+          "like_count": 2130,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 4345
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-22T11:08:26.000Z",
+        "description": "我讨厌蠢逼",
+        "id": "1936742995698835456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096335558301880788",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1936742995698835456/1787438557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093737688734294016/u8dhd7WC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 28,
+          "like_count": 820,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 408
+        },
+        "url": "",
+        "username": "_DerLiebe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

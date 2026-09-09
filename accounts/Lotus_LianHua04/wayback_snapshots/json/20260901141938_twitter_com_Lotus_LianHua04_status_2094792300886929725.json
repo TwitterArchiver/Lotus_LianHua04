@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2094792300886929725",
+    "created_at": "2026-09-01T14:19:38.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T15:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094792300886929725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1380537714",
+          "start": 3,
+          "username": "crfemme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094792300886929725",
+    "lang": "ro",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8310
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094465967107477702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crfemme: bdsm 🤝 catolicismo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2094792300886929725",
+        "created_at": "2026-09-01T14:19:38.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094792300886929725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1380537714",
+              "start": 3,
+              "username": "crfemme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094792300886929725",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8310
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094465967107477702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crfemme: bdsm 🤝 catolicismo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1380537714",
+        "conversation_id": "2094465967107477702",
+        "created_at": "2026-08-31T16:42:54.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094465967107477702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mourninghair/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/mourninghair/status/1765817050641867008",
+              "start": 19,
+              "url": "https://t.co/4q3t0tbrVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094465967107477702",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5225,
+          "impression_count": 1086273,
+          "like_count": 91890,
+          "quote_count": 207,
+          "reply_count": 100,
+          "retweet_count": 8310
+        },
+        "referenced_tweets": [
+          {
+            "id": "1765817050641867008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bdsm 🤝 catolicismo https://t.co/4q3t0tbrVZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2094792300886929725",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 27,
+          "like_count": 2079,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 4257
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-04-25T22:30:58.000Z",
+        "description": "proibido menores ou sem idade no perfil | nós por nós e pelos nossos até o fim",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/witchfemme",
+                "end": 23,
+                "expanded_url": "http://tellonym.me/witchfemme",
+                "start": 0,
+                "url": "https://t.co/5OgoBKcWK2"
+              }
+            ]
+          }
+        },
+        "id": "1380537714",
+        "is_identity_verified": false,
+        "location": "🔞",
+        "most_recent_tweet_id": "2094757774072660030",
+        "name": "marie",
+        "pinned_tweet_id": "2057959556903260590",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1380537714/1787590605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091932647081590786/b8wCrMs__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 273,
+          "like_count": 7108,
+          "listed_count": 5,
+          "media_count": 1090,
+          "tweet_count": 25030
+        },
+        "url": "https://t.co/5OgoBKcWK2",
+        "username": "crfemme",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

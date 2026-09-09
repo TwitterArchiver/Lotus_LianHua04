@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092963484363362304",
+        "13_2092963484308799489"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2092964390458855464",
+    "created_at": "2026-08-27T13:16:10.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092964390458855464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NjjLmTrenK",
+          "end": 23,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2092964390458855464/video/1",
+          "media_key": "13_2092963484363362304",
+          "start": 0,
+          "url": "https://t.co/NjjLmTrenK"
+        },
+        {
+          "display_url": "pic.x.com/NjjLmTrenK",
+          "end": 23,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2092964390458855464/video/1",
+          "media_key": "13_2092963484308799489",
+          "start": 0,
+          "url": "https://t.co/NjjLmTrenK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092964390458855464",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2092963484363362304"
+      },
+      {
+        "media_key": "13_2092963484308799489"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/NjjLmTrenK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34391,
+        "height": 720,
+        "media_key": "13_2092963484363362304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092963484363362304/img/I_yfXAchaOeABbkQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092963484363362304/vid/avc1/480x270/eehcvEOrq9o4-KRP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092963484363362304/vid/avc1/640x360/vsh_avR8ko6gXsdB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092963484363362304/vid/avc1/1280x720/Aq8Qr_hexNs0Xh4x.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092963484363362304/pl/R9Xz_0dPOxgmj8X5.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 63680,
+        "height": 720,
+        "media_key": "13_2092963484308799489",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092963484308799489/img/TabsZ0SdTPe-UfBz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092963484308799489/vid/avc1/480x270/pak5aofNcTHEMa2I.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092963484308799489/vid/avc1/640x360/gW4OaLsTkaXmm5Wt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092963484308799489/vid/avc1/1280x720/FnP3FDQFcvQUYhPW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092963484308799489/pl/R-eUigv0JjNUNAoY.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092963484363362304",
+            "13_2092963484308799489"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2092964390458855464",
+        "created_at": "2026-08-27T13:16:10.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092964390458855464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NjjLmTrenK",
+              "end": 23,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2092964390458855464/video/1",
+              "media_key": "13_2092963484363362304",
+              "start": 0,
+              "url": "https://t.co/NjjLmTrenK"
+            },
+            {
+              "display_url": "pic.x.com/NjjLmTrenK",
+              "end": 23,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2092964390458855464/video/1",
+              "media_key": "13_2092963484308799489",
+              "start": 0,
+              "url": "https://t.co/NjjLmTrenK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092964390458855464",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2092963484363362304"
+          },
+          {
+            "media_key": "13_2092963484308799489"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NjjLmTrenK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2092964390458855464",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 25,
+          "like_count": 2002,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 4085
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

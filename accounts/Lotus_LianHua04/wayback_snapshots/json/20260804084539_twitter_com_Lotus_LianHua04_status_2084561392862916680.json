@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084362789003378688"
+      ],
+      "media_source_tweet_id": [
+        "2084362791742247138"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2084561392862916680",
+    "created_at": "2026-08-04T08:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084561392862916680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1996180308459503616",
+          "start": 3,
+          "username": "strawberrysakuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QcPiUSQ0rW",
+          "end": 78,
+          "expanded_url": "https://x.com/strawberrysakuu/status/2084362791742247138/photo/1",
+          "media_key": "3_2084362789003378688",
+          "start": 55,
+          "url": "https://t.co/QcPiUSQ0rW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084561392862916680",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1173
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084362791742247138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @strawberrysakuu: eating vs starving vs restricting https://t.co/QcPiUSQ0rW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 708,
+        "media_key": "3_2084362789003378688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0k6cWWwAA5LmV.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084362789003378688"
+          ]
+        },
+        "author_id": "1996180308459503616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084362791742247138",
+        "created_at": "2026-08-03T19:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T20:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084362791742247138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QcPiUSQ0rW",
+              "end": 57,
+              "expanded_url": "https://x.com/strawberrysakuu/status/2084362791742247138/photo/1",
+              "media_key": "3_2084362789003378688",
+              "start": 34,
+              "url": "https://t.co/QcPiUSQ0rW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084362791742247138",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 18992,
+          "like_count": 3929,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1173
+        },
+        "reply_settings": "everyone",
+        "text": "eating vs starving vs restricting https://t.co/QcPiUSQ0rW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084362789003378688"
+          ],
+          "media_source_tweet_id": [
+            "2084362791742247138"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084561392862916680",
+        "created_at": "2026-08-04T08:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084561392862916680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1996180308459503616",
+              "start": 3,
+              "username": "strawberrysakuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QcPiUSQ0rW",
+              "end": 78,
+              "expanded_url": "https://x.com/strawberrysakuu/status/2084362791742247138/photo/1",
+              "media_key": "3_2084362789003378688",
+              "start": 55,
+              "url": "https://t.co/QcPiUSQ0rW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084561392862916680",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1173
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084362791742247138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @strawberrysakuu: eating vs starving vs restricting https://t.co/QcPiUSQ0rW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 30,
+          "like_count": 1668,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 3504
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T11:31:01.000Z",
+        "description": "sw: 60kg cw: 53.8kg gw: 49kg ugw: 40kg 𐙚⋆°🍭｡⋆♡❕NON EDTWT DNI!! ❕ she/her ˚ ⋅૮₍ › ˕ ‹ ₎ა ⋅˚⋅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "strawberrysakuu.straw.page",
+                "end": 23,
+                "expanded_url": "http://strawberrysakuu.straw.page",
+                "start": 0,
+                "url": "https://t.co/gU2MiTCGzA"
+              }
+            ]
+          }
+        },
+        "id": "1996180308459503616",
+        "location": "6teen (09)  |bmi:20.4| endos",
+        "name": "Adii ˖ . ݁𝜗𝜚. ݁",
+        "pinned_tweet_id": "2083695316327383359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083692482596888576/YCOqpsqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 751,
+          "like_count": 5720,
+          "listed_count": 13,
+          "media_count": 975,
+          "tweet_count": 3193
+        },
+        "url": "https://t.co/gU2MiTCGzA",
+        "username": "strawberrysakuu",
+        "verified": false
+      }
+    ]
+  }
+}

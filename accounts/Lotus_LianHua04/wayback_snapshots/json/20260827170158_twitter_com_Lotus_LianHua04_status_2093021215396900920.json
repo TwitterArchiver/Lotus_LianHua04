@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2092877205302808683",
+    "created_at": "2026-08-27T17:01:58.000Z",
+    "display_text_range": [
+      16,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T18:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093021215396900920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2087606321642422272",
+          "start": 0,
+          "username": "JudasLoveNHate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093021215396900920",
+    "in_reply_to_user_id": "2087606321642422272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092998618362085833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JudasLoveNHate 但是这个米饭是塑料味的，我吃到这个的时候我也刚禁食了一整天然后第二天睡到下午两点才吃到唯一的一顿，如果米饭不是塑料味的我也会是一个拥有传统美德的好女孩😔💔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2092877205302808683",
+        "created_at": "2026-08-27T17:01:58.000Z",
+        "display_text_range": [
+          16,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093021215396900920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2087606321642422272",
+              "start": 0,
+              "username": "JudasLoveNHate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093021215396900920",
+        "in_reply_to_user_id": "2087606321642422272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092998618362085833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JudasLoveNHate 但是这个米饭是塑料味的，我吃到这个的时候我也刚禁食了一整天然后第二天睡到下午两点才吃到唯一的一顿，如果米饭不是塑料味的我也会是一个拥有传统美德的好女孩😔💔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087606321642422272",
+        "conversation_id": "2092877205302808683",
+        "created_at": "2026-08-27T15:32:11.000Z",
+        "display_text_range": [
+          17,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092998618362085833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092998618362085833",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092877205302808683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 md你不吃我吃，我两天没吃饭，要饿死了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2093021215396900920",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 25,
+          "like_count": 2004,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 4095
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T18:34:51.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自歹戋自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠️#5htwt #drugtwt ⚠️|我是Dizzy也可以叫我枭儿| he/them | 防绑架备用：@_DerLiebe ｜𝑳𝒐𝒗𝒆 𝑪𝒖𝒕𝒔 𝑴𝒆 𝑳𝒊𝒌𝒆 𝒀𝒂𝒎𝒂𝒕𝒐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "5htwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_DerLiebe"
+              }
+            ]
+          }
+        },
+        "id": "2087606321642422272",
+        "is_identity_verified": false,
+        "location": "冰冻泪湖的中央",
+        "most_recent_tweet_id": "2093012794442674498",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2088911616813543774",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087606321642422272/1786674138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092883659913383936/1TwhP6bp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 18,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "JudasLoveNHate",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

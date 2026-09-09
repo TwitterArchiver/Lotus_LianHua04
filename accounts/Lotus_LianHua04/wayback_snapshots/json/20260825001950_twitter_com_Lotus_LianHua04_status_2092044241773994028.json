@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2092044241773994028",
+    "created_at": "2026-08-25T00:19:50.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T01:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092044241773994028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1579259771739324420",
+          "start": 3,
+          "username": "ally_must_die"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092044241773994028",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13049
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091866065852654000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ally_must_die: petplay mas eu sou um hamster entao voce precisa tentar me impedir de me matar de toda forma possivel a cada 5 minutos"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2092044241773994028",
+        "created_at": "2026-08-25T00:19:50.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T01:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092044241773994028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1579259771739324420",
+              "start": 3,
+              "username": "ally_must_die"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092044241773994028",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13049
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091866065852654000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ally_must_die: petplay mas eu sou um hamster entao voce precisa tentar me impedir de me matar de toda forma possivel a cada 5 minutos"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579259771739324420",
+        "conversation_id": "2091866065852654000",
+        "created_at": "2026-08-24T12:31:49.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T13:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091866065852654000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091866065852654000",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3228,
+          "impression_count": 743180,
+          "like_count": 71105,
+          "quote_count": 587,
+          "reply_count": 126,
+          "retweet_count": 13053
+        },
+        "reply_settings": "everyone",
+        "text": "petplay mas eu sou um hamster entao voce precisa tentar me impedir de me matar de toda forma possivel a cada 5 minutos"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2092044241773994028",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1786639550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 24,
+          "like_count": 1975,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 4045
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-09T23:57:34.000Z",
+        "description": "edgy do bem || priv @espermavoad8r ‹𝟹 @Foxy_bahh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "espermavoad8r"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "Foxy_bahh"
+              }
+            ]
+          }
+        },
+        "id": "1579259771739324420",
+        "is_identity_verified": false,
+        "location": "nb ele/dele",
+        "most_recent_tweet_id": "2092036647311274156",
+        "name": "ally",
+        "pinned_tweet_id": "1779010311481131371",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1579259771739324420/1786393704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086912365082161152/p-5HocN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4704,
+          "following_count": 1583,
+          "like_count": 187872,
+          "listed_count": 12,
+          "media_count": 2964,
+          "tweet_count": 23213
+        },
+        "url": "",
+        "username": "ally_must_die",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2096628209358131385",
+    "created_at": "2026-09-06T15:54:53.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T16:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096628209358131385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "299373762",
+          "start": 3,
+          "username": "acd6_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096628209358131385",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5961
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096346896994328625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acd6_: Un día conocerás a alguien con quien tendrás una química absurda y es importante que sepas que nunca van a estar juntos"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2096628209358131385",
+        "created_at": "2026-09-06T15:54:53.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096628209358131385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "299373762",
+              "start": 3,
+              "username": "acd6_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096628209358131385",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5961
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096346896994328625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acd6_: Un día conocerás a alguien con quien tendrás una química absurda y es importante que sepas que nunca van a estar juntos"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "299373762",
+        "conversation_id": "2096346896994328625",
+        "created_at": "2026-09-05T21:17:03.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T22:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096346896994328625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096346896994328625",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2647,
+          "impression_count": 875608,
+          "like_count": 42848,
+          "quote_count": 1214,
+          "reply_count": 318,
+          "retweet_count": 5961
+        },
+        "reply_settings": "everyone",
+        "text": "Un día conocerás a alguien con quien tendrás una química absurda y es importante que sepas que nunca van a estar juntos"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2096628209358131385",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 26,
+          "like_count": 2154,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 4382
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-05-16T00:03:02.000Z",
+        "description": "Gracias Dios, de rodillas ante ti 🙏🏻",
+        "id": "299373762",
+        "is_identity_verified": false,
+        "location": "Barcelona, España",
+        "most_recent_tweet_id": "2096494558200684619",
+        "name": "Antonieta",
+        "pinned_tweet_id": "2059215668319273028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/299373762/1723776428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057548866610708480/wyPBOz-O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12412,
+          "following_count": 658,
+          "like_count": 25224,
+          "listed_count": 8,
+          "media_count": 604,
+          "tweet_count": 9377
+        },
+        "url": "",
+        "username": "acd6_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

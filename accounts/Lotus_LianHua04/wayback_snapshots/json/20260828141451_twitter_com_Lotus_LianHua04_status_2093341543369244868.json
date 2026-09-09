@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093093701446713345"
+      ],
+      "media_source_tweet_id": [
+        "2093093707939541151"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2093341543369244868",
+    "created_at": "2026-08-28T14:14:51.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T15:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093341543369244868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1776727161732276224",
+          "start": 3,
+          "username": "oriana_gd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F0aHFqhj7Q",
+          "end": 53,
+          "expanded_url": "https://x.com/oriana_gd/status/2093093707939541151/photo/1",
+          "media_key": "3_2093093701446713345",
+          "start": 30,
+          "url": "https://t.co/F0aHFqhj7Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093341543369244868",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2093093701446713345"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2985
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093093707939541151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oriana_gd: acá estudiando https://t.co/F0aHFqhj7Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 476,
+        "media_key": "3_2093093701446713345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQwpobxWwAE1HP8.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093093701446713345"
+          ],
+          "media_source_tweet_id": [
+            "2093093707939541151"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2093341543369244868",
+        "created_at": "2026-08-28T14:14:51.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T15:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093341543369244868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776727161732276224",
+              "start": 3,
+              "username": "oriana_gd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0aHFqhj7Q",
+              "end": 53,
+              "expanded_url": "https://x.com/oriana_gd/status/2093093707939541151/photo/1",
+              "media_key": "3_2093093701446713345",
+              "start": 30,
+              "url": "https://t.co/F0aHFqhj7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093341543369244868",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2093093701446713345"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2985
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093093707939541151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oriana_gd: acá estudiando https://t.co/F0aHFqhj7Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093093701446713345"
+          ]
+        },
+        "author_id": "1776727161732276224",
+        "conversation_id": "2093093707939541151",
+        "created_at": "2026-08-27T21:50:02.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T22:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093093707939541151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0aHFqhj7Q",
+              "end": 38,
+              "expanded_url": "https://x.com/oriana_gd/status/2093093707939541151/photo/1",
+              "media_key": "3_2093093701446713345",
+              "start": 15,
+              "url": "https://t.co/F0aHFqhj7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093093707939541151",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2093093701446713345"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 564,
+          "impression_count": 152663,
+          "like_count": 16429,
+          "quote_count": 130,
+          "reply_count": 50,
+          "retweet_count": 2985
+        },
+        "reply_settings": "everyone",
+        "text": "acá estudiando https://t.co/F0aHFqhj7Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2093341543369244868",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 26,
+          "like_count": 2015,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 4120
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T21:42:39.000Z",
+        "description": "no se te va a caer un dedo por seguirme",
+        "id": "1776727161732276224",
+        "is_identity_verified": false,
+        "location": "baiteando",
+        "most_recent_tweet_id": "2093202803522986094",
+        "name": "ori",
+        "pinned_tweet_id": "2085530120828096995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776727161732276224/1785813648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084479894159822848/8leUBR99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 160,
+          "like_count": 1542,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 362
+        },
+        "url": "",
+        "username": "oriana_gd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
