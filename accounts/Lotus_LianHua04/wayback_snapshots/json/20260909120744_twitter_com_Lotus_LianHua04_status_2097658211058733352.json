@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2097658211058733352",
+    "created_at": "2026-09-09T12:07:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T13:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097658211058733352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677075422335365122",
+          "start": 3,
+          "username": "bulletss6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097658211058733352",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1676
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097443222616195104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bulletss6: yo de hija: soy una carga para tí?\nyo de novia: soy una carga para tí?\nyo de ex: soy una carga para tí?\nyo de amiga: soy una…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2097658211058733352",
+        "created_at": "2026-09-09T12:07:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097658211058733352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677075422335365122",
+              "start": 3,
+              "username": "bulletss6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097658211058733352",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1676
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097443222616195104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bulletss6: yo de hija: soy una carga para tí?\nyo de novia: soy una carga para tí?\nyo de ex: soy una carga para tí?\nyo de amiga: soy una…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677075422335365122",
+        "conversation_id": "2097443222616195104",
+        "created_at": "2026-09-08T21:53:27.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T22:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097443222616195104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097443222616195104",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 36059,
+          "like_count": 4519,
+          "quote_count": 55,
+          "reply_count": 11,
+          "retweet_count": 1676
+        },
+        "reply_settings": "everyone",
+        "text": "yo de hija: soy una carga para tí?\nyo de novia: soy una carga para tí?\nyo de ex: soy una carga para tí?\nyo de amiga: soy una carga para tí?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2097658211058733352",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 25,
+          "like_count": 2158,
+          "listed_count": 0,
+          "media_count": 318,
+          "tweet_count": 4410
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-06T22:02:23.000Z",
+        "description": "ㅤㅤ  ł ฿ⱤØɄ₲Ⱨ₮ ɎØɄ ₥Ɏ ฿ɄⱠⱠɆ₮₴,\n ㅤㅤɎØɄ ฿ⱤØɄ₲Ⱨ₮ ₥Ɇ ɎØɄⱤ ⱠØVɆ",
+        "id": "1677075422335365122",
+        "is_identity_verified": false,
+        "location": "ponyville",
+        "most_recent_tweet_id": "2097638463654740429",
+        "name": "B̶u̶l̶l̶e̶t̶s̶",
+        "pinned_tweet_id": "2078644042506621211",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677075422335365122/1787572541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090743142865625088/6x03Nqjo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 127,
+          "like_count": 10881,
+          "listed_count": 3,
+          "media_count": 530,
+          "tweet_count": 3845
+        },
+        "url": "",
+        "username": "bulletss6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2103538884898394165",
+    "created_at": "2026-09-25T17:35:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T18:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103538884898394165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1939011116472115207",
+          "start": 3,
+          "username": "damidamidamilml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103538884898394165",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1055
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103265639947522068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @damidamidamilml: mi novia y yo estamos sentados en distintos asientos en el bondi pq viene lleno de gente, ya no puedo más... me va a d…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2103538884898394165",
+        "created_at": "2026-09-25T17:35:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T18:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103538884898394165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1939011116472115207",
+              "start": 3,
+              "username": "damidamidamilml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103538884898394165",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1055
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103265639947522068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @damidamidamilml: mi novia y yo estamos sentados en distintos asientos en el bondi pq viene lleno de gente, ya no puedo más... me va a d…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939011116472115207",
+        "conversation_id": "2103265639947522068",
+        "created_at": "2026-09-24T23:29:40.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T00:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103265639947522068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103265639947522068",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1050,
+          "impression_count": 324803,
+          "like_count": 27788,
+          "quote_count": 272,
+          "reply_count": 52,
+          "retweet_count": 1055
+        },
+        "reply_settings": "everyone",
+        "text": "mi novia y yo estamos sentados en distintos asientos en el bondi pq viene lleno de gente, ya no puedo más... me va a dar algo... mi mujer.."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2103538884898394165",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 23,
+          "like_count": 2324,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 4582
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-28T17:21:03.000Z",
+        "description": "",
+        "id": "1939011116472115207",
+        "is_identity_verified": false,
+        "location": "Buenos Aires",
+        "most_recent_tweet_id": "2103515689688404152",
+        "name": "damián",
+        "pinned_tweet_id": "1958492678775067092",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939011116472115207/1772128559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090290533339930624/SEX1d24S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 177,
+          "like_count": 3760,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1267
+        },
+        "url": "",
+        "username": "damidamidamilml",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

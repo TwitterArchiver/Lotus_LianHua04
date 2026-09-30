@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226231832633344",
+          "name": "France"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226231832633344",
+          "name": "France"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "National Soccer Teams",
+          "id": "1100397500890996736",
+          "name": "Men's national soccer teams"
+        }
+      }
+    ],
+    "conversation_id": "2099831714239365453",
+    "created_at": "2026-09-15T12:04:28.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T13:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099831714239365453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1597411106037039104",
+          "start": 3,
+          "username": "paige_on_twt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099831714239365453",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8968
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099305813521453287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paige_on_twt: France weaponised homophobia to create anti smoking ads (2010)\nBut the french are all faggots and it clearly didn’t work…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 350,
+        "media_key": "3_2099305807636832256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSI7gmsboAAWOTD.jpg",
+        "width": 261
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226231832633344",
+              "name": "France"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226231832633344",
+              "name": "France"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          }
+        ],
+        "conversation_id": "2099831714239365453",
+        "created_at": "2026-09-15T12:04:28.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099831714239365453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1597411106037039104",
+              "start": 3,
+              "username": "paige_on_twt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099831714239365453",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8968
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099305813521453287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @paige_on_twt: France weaponised homophobia to create anti smoking ads (2010)\nBut the french are all faggots and it clearly didn’t work…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099305807636832256"
+          ]
+        },
+        "author_id": "1597411106037039104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226231832633344",
+              "name": "France"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226231832633344",
+              "name": "France"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          }
+        ],
+        "conversation_id": "2099305813521453287",
+        "created_at": "2026-09-14T01:14:43.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T02:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099305813521453287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/thvPxdoUnN",
+              "end": 144,
+              "expanded_url": "https://x.com/paige_on_twt/status/2099305813521453287/photo/1",
+              "media_key": "3_2099305807636832256",
+              "start": 121,
+              "url": "https://t.co/thvPxdoUnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099305813521453287",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099305807636832256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8893,
+          "impression_count": 1050711,
+          "like_count": 89835,
+          "quote_count": 1172,
+          "reply_count": 269,
+          "retweet_count": 8968
+        },
+        "reply_settings": "everyone",
+        "text": "France weaponised homophobia to create anti smoking ads (2010)\nBut the french are all faggots and it clearly didn’t work https://t.co/thvPxdoUnN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2099831714239365453",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 25,
+          "like_count": 2230,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 4479
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-29T02:04:37.000Z",
+        "description": "20 y.o. 🏳️‍⚧️\nI take photos of birds and such every now and then. \nhttps://t.co/dDts9eBYZJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paigeontwt.straw.page",
+                "end": 90,
+                "expanded_url": "http://paigeontwt.straw.page",
+                "start": 67,
+                "url": "https://t.co/dDts9eBYZJ"
+              }
+            ]
+          }
+        },
+        "id": "1597411106037039104",
+        "is_identity_verified": false,
+        "location": "🇦🇺",
+        "most_recent_tweet_id": "2099676437682979089",
+        "name": "paige",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597411106037039104/1758795432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076948347890577408/Dm64XdCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 269,
+          "like_count": 76502,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 4726
+        },
+        "url": "",
+        "username": "paige_on_twt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

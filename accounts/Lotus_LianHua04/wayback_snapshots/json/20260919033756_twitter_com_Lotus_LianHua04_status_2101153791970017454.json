@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2100849271712956524",
+    "created_at": "2026-09-19T03:37:56.000Z",
+    "display_text_range": [
+      26,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T04:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101153791970017454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1933200730443415552",
+          "start": 0,
+          "username": "riverkkk74306"
+        },
+        {
+          "end": 25,
+          "id": "1936742995698835456",
+          "start": 15,
+          "username": "_DerLiebe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101153791970017454",
+    "in_reply_to_user_id": "1933200730443415552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101105107953955118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riverkkk74306 @_DerLiebe 我操？？冒号是镜子还是双胞胎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2100849271712956524",
+        "created_at": "2026-09-19T03:37:56.000Z",
+        "display_text_range": [
+          26,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101153791970017454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1933200730443415552",
+              "start": 0,
+              "username": "riverkkk74306"
+            },
+            {
+              "end": 25,
+              "id": "1936742995698835456",
+              "start": 15,
+              "username": "_DerLiebe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101153791970017454",
+        "in_reply_to_user_id": "1933200730443415552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101105107953955118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riverkkk74306 @_DerLiebe 我操？？冒号是镜子还是双胞胎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933200730443415552",
+        "conversation_id": "2100849271712956524",
+        "created_at": "2026-09-19T00:24:29.000Z",
+        "display_text_range": [
+          28,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T01:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101105107953955118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            },
+            {
+              "end": 27,
+              "id": "1936742995698835456",
+              "start": 17,
+              "username": "_DerLiebe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101105107953955118",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100849271712956524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 @_DerLiebe 我去我床上放着一件和你这个一模一样的t恤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2101153791970017454",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 26,
+          "like_count": 2269,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 4526
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-12T16:33:06.000Z",
+        "description": "Give me drugs or something else",
+        "id": "1933200730443415552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101105107953955118",
+        "name": "nothingness",
+        "pinned_tweet_id": "2043580945433854076",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933200730443415552/1765185004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996409076876476416/kYNAR_lU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 89,
+          "like_count": 8790,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 963
+        },
+        "url": "",
+        "username": "riverkkk74306",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-22T11:08:26.000Z",
+        "description": "我讨厌蠢逼",
+        "id": "1936742995698835456",
+        "is_identity_verified": false,
+        "location": "长发男/27/184/克莱朗博色情狂/发的东西全是假的",
+        "most_recent_tweet_id": "2101153674739569081",
+        "name": "新中國第一毒梟𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1936742995698835456/1787438557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100172883582668800/aUAsMa9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 46,
+          "like_count": 1816,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 886
+        },
+        "url": "",
+        "username": "_DerLiebe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

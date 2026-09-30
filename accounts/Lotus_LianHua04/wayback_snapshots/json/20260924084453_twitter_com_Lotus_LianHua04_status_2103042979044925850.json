@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2103042979044925850",
+    "created_at": "2026-09-24T08:44:53.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T09:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103042979044925850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_derliebe/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/_derliebe/status/2103024785236410424",
+          "start": 30,
+          "url": "https://t.co/U1SiRw1Fr7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103042979044925850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103024785236410424",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有八字胡了还敢不your phone ring ring？ https://t.co/U1SiRw1Fr7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2103042979044925850",
+        "created_at": "2026-09-24T08:44:53.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T09:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103042979044925850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_derliebe/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/_derliebe/status/2103024785236410424",
+              "start": 30,
+              "url": "https://t.co/U1SiRw1Fr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103042979044925850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103024785236410424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有八字胡了还敢不your phone ring ring？ https://t.co/U1SiRw1Fr7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936742995698835456",
+        "conversation_id": "2103024785236410424",
+        "created_at": "2026-09-24T07:32:35.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103024785236410424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103024785236410424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我集美看到我耀祖第一眼：好想给他戴个斗笠"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2103042979044925850",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 25,
+          "like_count": 2311,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 4566
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-22T11:08:26.000Z",
+        "description": "https://t.co/QzRUvvBKbv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/JudasLoveNHate",
+                "end": 23,
+                "expanded_url": "http://t.me/JudasLoveNHate",
+                "start": 0,
+                "url": "https://t.co/QzRUvvBKbv"
+              }
+            ]
+          }
+        },
+        "id": "1936742995698835456",
+        "is_identity_verified": false,
+        "location": "男/27/184/克莱朗博色情狂/发的东西全是假的",
+        "most_recent_tweet_id": "2103037031102255457",
+        "name": "新中國第一毒梟𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1936742995698835456/1787438557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102045274856439808/ll4T9S7X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 43,
+          "like_count": 2200,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1099
+        },
+        "url": "",
+        "username": "_DerLiebe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

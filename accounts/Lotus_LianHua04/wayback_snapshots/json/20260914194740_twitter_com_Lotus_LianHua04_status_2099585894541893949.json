@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2099585894541893949",
+    "created_at": "2026-09-14T19:47:40.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T20:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099585894541893949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1577523301668339713",
+          "start": 3,
+          "username": "interluxx"
+        },
+        {
+          "end": 28,
+          "id": "1986796984414703616",
+          "start": 15,
+          "username": "ajaxonlyfans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099585894541893949",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096148016423899574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @interluxx: @ajaxonlyfans I was like this in my last relationship then realized he’s too ugly for it to be worth the struggle"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2099585894541893949",
+        "created_at": "2026-09-14T19:47:40.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T20:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099585894541893949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1577523301668339713",
+              "start": 3,
+              "username": "interluxx"
+            },
+            {
+              "end": 28,
+              "id": "1986796984414703616",
+              "start": 15,
+              "username": "ajaxonlyfans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099585894541893949",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096148016423899574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @interluxx: @ajaxonlyfans I was like this in my last relationship then realized he’s too ugly for it to be worth the struggle"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577523301668339713",
+        "conversation_id": "2096038216511967553",
+        "created_at": "2026-09-05T08:06:46.000Z",
+        "display_text_range": [
+          14,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096148016423899574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986796984414703616",
+              "start": 0,
+              "username": "ajaxonlyfans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096148016423899574",
+        "in_reply_to_user_id": "1986796984414703616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2082,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096038216511967553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ajaxonlyfans I was like this in my last relationship then realized he’s too ugly for it to be worth the struggle"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2099585894541893949",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 25,
+          "like_count": 2224,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 4471
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-05T04:57:45.000Z",
+        "description": "feminine mystique\nbmi 20\ngbmi 17",
+        "id": "1577523301668339713",
+        "is_identity_verified": false,
+        "location": "18",
+        "most_recent_tweet_id": "2099435975780745659",
+        "name": "🐾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577523301668339713/1717587267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815866512147640320/8wa_cTg6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 22,
+          "like_count": 820,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "interluxx",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-07T14:05:15.000Z",
+        "description": "˚₊‧꒰ა 𓂋 ໒꒱ ‧₊˚\ni draw myself here || pls dont romanticize my vents! || Dni moids || collared to @meowxonlyfans 🦦ྀི\n⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔\n(main account @kawaiiisann)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "meowxonlyfans"
+              },
+              {
+                "end": 157,
+                "start": 145,
+                "username": "kawaiiisann"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ajaxonlyfans.straw.page",
+                "end": 23,
+                "expanded_url": "https://ajaxonlyfans.straw.page",
+                "start": 0,
+                "url": "https://t.co/eAO1tchV9G"
+              }
+            ]
+          }
+        },
+        "id": "1986796984414703616",
+        "is_identity_verified": false,
+        "location": "She/her🪽₊⊹",
+        "most_recent_tweet_id": "2099528943363596355",
+        "name": "🎀 𝐀𝐣𝐚𝐱 ﾟʚ♡︎ɞ˚",
+        "pinned_tweet_id": "2085992723073372336",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986796984414703616/1786113416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085735543480913920/zQO1yNAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5956,
+          "following_count": 14,
+          "like_count": 2606,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 302
+        },
+        "url": "https://t.co/eAO1tchV9G",
+        "username": "ajaxonlyfans",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2103549394092278022",
+    "created_at": "2026-09-25T18:17:12.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T19:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103549394092278022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "949699834176356352",
+          "start": 3,
+          "username": "luckyy_chaarmss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103549394092278022",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2185
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103198188094079468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luckyy_chaarmss: Lo que más me gusta de fumar es salirte (de donde sea que estés) a fumar"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2103549394092278022",
+        "created_at": "2026-09-25T18:17:12.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T19:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103549394092278022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "949699834176356352",
+              "start": 3,
+              "username": "luckyy_chaarmss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103549394092278022",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2185
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103198188094079468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luckyy_chaarmss: Lo que más me gusta de fumar es salirte (de donde sea que estés) a fumar"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "949699834176356352",
+        "conversation_id": "2103198188094079468",
+        "created_at": "2026-09-24T19:01:38.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T20:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103198188094079468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103198188094079468",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 91939,
+          "like_count": 10454,
+          "quote_count": 63,
+          "reply_count": 9,
+          "retweet_count": 2185
+        },
+        "reply_settings": "everyone",
+        "text": "Lo que más me gusta de fumar es salirte (de donde sea que estés) a fumar"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2103549394092278022",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 23,
+          "like_count": 2325,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 4583
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-06T17:50:59.000Z",
+        "description": "estoy conformada en tres dimensiones porque no soy una foto",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/carmina.yal?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/carmina.yal?igsh=bTR1OWJqNGxqazly&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/fwtholIpeO"
+              }
+            ]
+          }
+        },
+        "id": "949699834176356352",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103497652809969690",
+        "name": "carmina",
+        "pinned_tweet_id": "1746215792524349740",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/949699834176356352/1786693844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092050590063067136/boEvODp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 249,
+          "like_count": 63972,
+          "listed_count": 0,
+          "media_count": 567,
+          "tweet_count": 7287
+        },
+        "url": "https://t.co/fwtholIpeO",
+        "username": "luckyy_chaarmss",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

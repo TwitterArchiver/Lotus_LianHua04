@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2101735602714820885",
+    "created_at": "2026-09-20T22:18:01.000Z",
+    "display_text_range": [
+      18,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T23:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101798059227172966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1936742995698835456",
+          "start": 0,
+          "username": "_DerLiebe"
+        },
+        {
+          "end": 17,
+          "id": "1592172867189293057",
+          "start": 11,
+          "username": "cxszb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101798059227172966",
+    "in_reply_to_user_id": "1936742995698835456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101735602714820885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_DerLiebe @cxszb 想象一下，你兄弟拿着那两个遥控器一直对着你和好集美说“控制你，控制你”就想象一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2101735507407585280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSrdTvrawAAvkPz.jpg",
+        "width": 4096
+      },
+      {
+        "duration_ms": 2846,
+        "height": 1280,
+        "media_key": "13_2101735536985833472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101735536985833472/img/0Hur7FMZqQTe7iRR.jpg",
+        "public_metrics": {
+          "view_count": 54
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101735536985833472/vid/avc1/320x568/pn1tPQOsmJWofzqn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101735536985833472/vid/avc1/480x852/iRWpArTq8vyZubjU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101735536985833472/vid/avc1/720x1280/xq222U-uivW0ZXSs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101735536985833472/pl/GoADQLoxIRlbRzFI.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2101735566111027200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSrdXKXaMAAdAYK.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2101735584977100800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSrdYQpboAAek8S.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2101735602714820885",
+        "created_at": "2026-09-20T22:18:01.000Z",
+        "display_text_range": [
+          18,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T23:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101798059227172966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1936742995698835456",
+              "start": 0,
+              "username": "_DerLiebe"
+            },
+            {
+              "end": 17,
+              "id": "1592172867189293057",
+              "start": 11,
+              "username": "cxszb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101798059227172966",
+        "in_reply_to_user_id": "1936742995698835456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101735602714820885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_DerLiebe @cxszb 想象一下，你兄弟拿着那两个遥控器一直对着你和好集美说“控制你，控制你”就想象一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101735507407585280",
+            "13_2101735536985833472",
+            "3_2101735566111027200",
+            "3_2101735584977100800"
+          ]
+        },
+        "author_id": "1936742995698835456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101735602714820885",
+        "created_at": "2026-09-20T18:09:50.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T19:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101735602714820885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1592172867189293057",
+              "start": 2,
+              "username": "cxszb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k9vHHRRUZ0",
+              "end": 79,
+              "expanded_url": "https://x.com/_DerLiebe/status/2101735602714820885/video/1",
+              "media_key": "3_2101735507407585280",
+              "start": 56,
+              "url": "https://t.co/k9vHHRRUZ0"
+            },
+            {
+              "display_url": "pic.x.com/k9vHHRRUZ0",
+              "end": 79,
+              "expanded_url": "https://x.com/_DerLiebe/status/2101735602714820885/video/1",
+              "media_key": "13_2101735536985833472",
+              "start": 56,
+              "url": "https://t.co/k9vHHRRUZ0"
+            },
+            {
+              "display_url": "pic.x.com/k9vHHRRUZ0",
+              "end": 79,
+              "expanded_url": "https://x.com/_DerLiebe/status/2101735602714820885/video/1",
+              "media_key": "3_2101735566111027200",
+              "start": 56,
+              "url": "https://t.co/k9vHHRRUZ0"
+            },
+            {
+              "display_url": "pic.x.com/k9vHHRRUZ0",
+              "end": 79,
+              "expanded_url": "https://x.com/_DerLiebe/status/2101735602714820885/video/1",
+              "media_key": "3_2101735584977100800",
+              "start": 56,
+              "url": "https://t.co/k9vHHRRUZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101735602714820885",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101735507407585280"
+          },
+          {
+            "media_key": "13_2101735536985833472"
+          },
+          {
+            "media_key": "3_2101735566111027200"
+          },
+          {
+            "media_key": "3_2101735584977100800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我和@cxszb 在四季吃东西，然后他妈的我一翻包儿，他妈的发现我把我家空调给器带出来了，我操我他妈我要死亡了 https://t.co/k9vHHRRUZ0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2101798059227172966",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 25,
+          "like_count": 2279,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 4543
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-22T11:08:26.000Z",
+        "description": "https://t.co/QzRUvvBKbv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/JudasLoveNHate",
+                "end": 23,
+                "expanded_url": "http://t.me/JudasLoveNHate",
+                "start": 0,
+                "url": "https://t.co/QzRUvvBKbv"
+              }
+            ]
+          }
+        },
+        "id": "1936742995698835456",
+        "is_identity_verified": false,
+        "location": "长发男/27/184/克莱朗博色情狂/发的东西全是假的",
+        "most_recent_tweet_id": "2101762411271483445",
+        "name": "新中國第一毒梟𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1936742995698835456/1787438557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101451946817445888/mAf33kqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 43,
+          "like_count": 1898,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 933
+        },
+        "url": "",
+        "username": "_DerLiebe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-14T15:09:37.000Z",
+        "description": "非二元/无性吸引/s/收ATM/水仙/反出生主义/负能警告/现居北京/",
+        "id": "1592172867189293057",
+        "is_identity_verified": false,
+        "location": "🚪好友位188",
+        "most_recent_tweet_id": "2101736470881165775",
+        "name": "直花今天不嘴碎",
+        "pinned_tweet_id": "1895930921351823445",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592172867189293057/1742847301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914757234996994056/9DnzxE3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5498,
+          "following_count": 214,
+          "like_count": 17457,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 16302
+        },
+        "url": "",
+        "username": "cxszb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

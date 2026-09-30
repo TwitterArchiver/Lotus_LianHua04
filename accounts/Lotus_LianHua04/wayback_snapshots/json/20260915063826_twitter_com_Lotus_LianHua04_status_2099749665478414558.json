@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2099749665478414558",
+    "created_at": "2026-09-15T06:38:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T07:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099749665478414558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "731479974914334720",
+          "start": 3,
+          "username": "ethelmermanstan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099749665478414558",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 738
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099545607123640395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ethelmermanstan: To be a housewife in 1969 with a valium prescription listening to this on the radio while preparing my man and 2.5 chi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2099749665478414558",
+        "created_at": "2026-09-15T06:38:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T07:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099749665478414558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "731479974914334720",
+              "start": 3,
+              "username": "ethelmermanstan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099749665478414558",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 738
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099545607123640395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ethelmermanstan: To be a housewife in 1969 with a valium prescription listening to this on the radio while preparing my man and 2.5 chi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "731479974914334720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027570780",
+              "name": "Jell-O"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027570780",
+              "name": "Jell-O"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027570780",
+              "name": "Jell-O"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Turkey ",
+              "id": "842481274715484161",
+              "name": "Turkey"
+            }
+          }
+        ],
+        "conversation_id": "2099545607123640395",
+        "created_at": "2026-09-14T17:07:35.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T18:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099545607123640395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/peal8888/statu…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/peal8888/status/2098607532810104894",
+              "start": 150,
+              "url": "https://t.co/QRgfFpMA8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099545607123640395",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1142,
+          "impression_count": 699785,
+          "like_count": 13894,
+          "quote_count": 24,
+          "reply_count": 44,
+          "retweet_count": 738
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098607532810104894",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "To be a housewife in 1969 with a valium prescription listening to this on the radio while preparing my man and 2.5 children a jello turkey casserole. https://t.co/QRgfFpMA8M"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2099749665478414558",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 25,
+          "like_count": 2227,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 4475
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-14T13:43:11.000Z",
+        "description": "",
+        "id": "731479974914334720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099655756114952200",
+        "name": "gabriel",
+        "pinned_tweet_id": "1974879874985959494",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/731479974914334720/1649890790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098908162648633347/WNrdfRLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4705,
+          "following_count": 2317,
+          "like_count": 76585,
+          "listed_count": 5,
+          "media_count": 1740,
+          "tweet_count": 8657
+        },
+        "url": "",
+        "username": "ethelmermanstan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

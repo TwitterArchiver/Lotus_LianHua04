@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104138079653056512"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "conversation_id": "2104138100721271067",
+    "created_at": "2026-09-27T09:16:30.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T10:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104138100721271067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8dnXTKyXs8",
+          "end": 71,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2104138100721271067/photo/1",
+          "media_key": "3_2104138079653056512",
+          "start": 48,
+          "url": "https://t.co/8dnXTKyXs8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104138100721271067",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104138079653056512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么时候我的卷发才能全部长出来长回以前的大卷而不是新长出来的上半截卷以前拉直的下半截拖拖拉拉着 https://t.co/8dnXTKyXs8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104138079653056512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNmb2wX0AA5xIw.jpg",
+        "width": 1318
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104138079653056512"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2104138100721271067",
+        "created_at": "2026-09-27T09:16:30.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104138100721271067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8dnXTKyXs8",
+              "end": 71,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2104138100721271067/photo/1",
+              "media_key": "3_2104138079653056512",
+              "start": 48,
+              "url": "https://t.co/8dnXTKyXs8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104138100721271067",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104138079653056512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候我的卷发才能全部长出来长回以前的大卷而不是新长出来的上半截卷以前拉直的下半截拖拖拉拉着 https://t.co/8dnXTKyXs8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2104138100721271067",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 23,
+          "like_count": 2334,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 4603
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

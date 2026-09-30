@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2098607405877579937",
+    "created_at": "2026-09-12T02:59:30.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T03:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098607405877579937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1801209423182073857",
+          "start": 3,
+          "username": "zhihuanji6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098607405877579937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098067256324563199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhihuanji6: 和别人之间短暂又温柔的情感连接才是最烈性的毒品吧，反复吃药就是为了追寻那种相似的感觉，可惜还是一片空虚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2098607405877579937",
+        "created_at": "2026-09-12T02:59:30.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T03:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098607405877579937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1801209423182073857",
+              "start": 3,
+              "username": "zhihuanji6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098607405877579937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098067256324563199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhihuanji6: 和别人之间短暂又温柔的情感连接才是最烈性的毒品吧，反复吃药就是为了追寻那种相似的感觉，可惜还是一片空虚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801209423182073857",
+        "conversation_id": "2098067256324563199",
+        "created_at": "2026-09-10T15:13:08.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098067256324563199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098067256324563199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "和别人之间短暂又温柔的情感连接才是最烈性的毒品吧，反复吃药就是为了追寻那种相似的感觉，可惜还是一片空虚"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2098607405877579937",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 26,
+          "like_count": 2169,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 4433
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-13T11:06:24.000Z",
+        "description": "废话",
+        "id": "1801209423182073857",
+        "is_identity_verified": false,
+        "location": "你家",
+        "most_recent_tweet_id": "2098595237430284640",
+        "name": "老狗",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801209423182073857/1789151948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097858082529546240/uiHdiZmq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 62,
+          "like_count": 1290,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "zhihuanji6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2098737557555048548",
+    "created_at": "2026-09-12T11:36:41.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T12:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098737557555048548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1955036826168856577",
+          "start": 3,
+          "username": "b0nes0fsal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098737557555048548",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2870
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098477627623260655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @b0nes0fsal: \"im a gay man\"\n\nsociety: Okay\n\n\"im a lesbian woman\"\n\nsociety: but if you were having a schizophrenic psychosis bipolar epis…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2098737557555048548",
+        "created_at": "2026-09-12T11:36:41.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098737557555048548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1955036826168856577",
+              "start": 3,
+              "username": "b0nes0fsal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098737557555048548",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2870
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098477627623260655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @b0nes0fsal: \"im a gay man\"\n\nsociety: Okay\n\n\"im a lesbian woman\"\n\nsociety: but if you were having a schizophrenic psychosis bipolar epis…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955036826168856577",
+        "conversation_id": "2098477627623260655",
+        "created_at": "2026-09-11T18:23:48.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T19:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098477627623260655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098477627623260655",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 674,
+          "impression_count": 183212,
+          "like_count": 21661,
+          "quote_count": 43,
+          "reply_count": 16,
+          "retweet_count": 2870
+        },
+        "reply_settings": "everyone",
+        "text": "\"im a gay man\"\n\nsociety: Okay\n\n\"im a lesbian woman\"\n\nsociety: but if you were having a schizophrenic psychosis bipolar episode and you snorted coke then took magic mushrooms you could accidentally slip and fall on a guy's dick and like it therefore all lesbians are actually bi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2098737557555048548",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 25,
+          "like_count": 2190,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 4440
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-11T22:41:26.000Z",
+        "description": "Dyke and i like to dissect girls. follow≠endorsment",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b0nes0fsal.straw.page",
+                "end": 23,
+                "expanded_url": "https://b0nes0fsal.straw.page",
+                "start": 0,
+                "url": "https://t.co/OHAp9IZWvZ"
+              }
+            ]
+          }
+        },
+        "id": "1955036826168856577",
+        "is_identity_verified": false,
+        "location": "the demiurge's blindspot",
+        "most_recent_tweet_id": "2098723864742129749",
+        "name": "SⒶL (?/39)",
+        "pinned_tweet_id": "2068123095223677186",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1955036826168856577/1788205737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049948306223026179/4masBHus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3092,
+          "following_count": 835,
+          "like_count": 47717,
+          "listed_count": 33,
+          "media_count": 1944,
+          "tweet_count": 21608
+        },
+        "url": "https://t.co/OHAp9IZWvZ",
+        "username": "b0nes0fsal",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

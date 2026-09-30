@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098969359460790280",
+        "3_2098969359506980866",
+        "3_2098969359515361284",
+        "3_2098969359674916864"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2098969396437803287",
+    "created_at": "2026-09-13T02:57:55.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T03:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098969396437803287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lNtw3eb4fC",
+          "end": 23,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2098969396437803287/photo/1",
+          "media_key": "3_2098969359460790280",
+          "start": 0,
+          "url": "https://t.co/lNtw3eb4fC"
+        },
+        {
+          "display_url": "pic.x.com/lNtw3eb4fC",
+          "end": 23,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2098969396437803287/photo/1",
+          "media_key": "3_2098969359506980866",
+          "start": 0,
+          "url": "https://t.co/lNtw3eb4fC"
+        },
+        {
+          "display_url": "pic.x.com/lNtw3eb4fC",
+          "end": 23,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2098969396437803287/photo/1",
+          "media_key": "3_2098969359515361284",
+          "start": 0,
+          "url": "https://t.co/lNtw3eb4fC"
+        },
+        {
+          "display_url": "pic.x.com/lNtw3eb4fC",
+          "end": 23,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2098969396437803287/photo/1",
+          "media_key": "3_2098969359674916864",
+          "start": 0,
+          "url": "https://t.co/lNtw3eb4fC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098969396437803287",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2098969359460790280"
+      },
+      {
+        "media_key": "3_2098969359506980866"
+      },
+      {
+        "media_key": "3_2098969359515361284"
+      },
+      {
+        "media_key": "3_2098969359674916864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/lNtw3eb4fC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 236,
+        "media_key": "3_2098969359460790280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSEJgvkW8AgT8GH.jpg",
+        "width": 236
+      },
+      {
+        "height": 1062,
+        "media_key": "3_2098969359506980866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSEJgvvXwAIZ0FB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 773,
+        "media_key": "3_2098969359515361284",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSEJgvxXoAQIFZp.jpg",
+        "width": 736
+      },
+      {
+        "height": 796,
+        "media_key": "3_2098969359674916864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSEJgwXaQAAidc9.jpg",
+        "width": 607
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098969359460790280",
+            "3_2098969359506980866",
+            "3_2098969359515361284",
+            "3_2098969359674916864"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098969396437803287",
+        "created_at": "2026-09-13T02:57:55.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T03:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098969396437803287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lNtw3eb4fC",
+              "end": 23,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2098969396437803287/photo/1",
+              "media_key": "3_2098969359460790280",
+              "start": 0,
+              "url": "https://t.co/lNtw3eb4fC"
+            },
+            {
+              "display_url": "pic.x.com/lNtw3eb4fC",
+              "end": 23,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2098969396437803287/photo/1",
+              "media_key": "3_2098969359506980866",
+              "start": 0,
+              "url": "https://t.co/lNtw3eb4fC"
+            },
+            {
+              "display_url": "pic.x.com/lNtw3eb4fC",
+              "end": 23,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2098969396437803287/photo/1",
+              "media_key": "3_2098969359515361284",
+              "start": 0,
+              "url": "https://t.co/lNtw3eb4fC"
+            },
+            {
+              "display_url": "pic.x.com/lNtw3eb4fC",
+              "end": 23,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2098969396437803287/photo/1",
+              "media_key": "3_2098969359674916864",
+              "start": 0,
+              "url": "https://t.co/lNtw3eb4fC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098969396437803287",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098969359460790280"
+          },
+          {
+            "media_key": "3_2098969359506980866"
+          },
+          {
+            "media_key": "3_2098969359515361284"
+          },
+          {
+            "media_key": "3_2098969359674916864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lNtw3eb4fC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2098969396437803287",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 24,
+          "like_count": 2198,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 4443
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

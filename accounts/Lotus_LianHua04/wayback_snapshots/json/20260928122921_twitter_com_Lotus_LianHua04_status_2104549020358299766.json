@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104300303839383552",
+        "3_2104300303096881152"
+      ],
+      "media_source_tweet_id": [
+        "2104300307702333908",
+        "2104300307702333908"
+      ]
+    },
+    "author_id": "2002670122767667200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104549020358299766",
+    "created_at": "2026-09-28T12:29:21.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T13:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104549020358299766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "907629983635558400",
+          "start": 3,
+          "username": "wikipistacho"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YIYvhRr0bK",
+          "end": 54,
+          "expanded_url": "https://x.com/wikipistacho/status/2104300307702333908/photo/1",
+          "media_key": "3_2104300303839383552",
+          "start": 31,
+          "url": "https://t.co/YIYvhRr0bK"
+        },
+        {
+          "display_url": "pic.x.com/YIYvhRr0bK",
+          "end": 54,
+          "expanded_url": "https://x.com/wikipistacho/status/2104300307702333908/photo/1",
+          "media_key": "3_2104300303096881152",
+          "start": 31,
+          "url": "https://t.co/YIYvhRr0bK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104549020358299766",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2104300303839383552"
+      },
+      {
+        "media_key": "3_2104300303096881152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 806
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104300307702333908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wikipistacho: no puede ser https://t.co/YIYvhRr0bK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104300303839383552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTP5-i8X0AA16EQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 544,
+        "media_key": "3_2104300303096881152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTP5-gLWIAAQcau.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104300303839383552",
+            "3_2104300303096881152"
+          ],
+          "media_source_tweet_id": [
+            "2104300307702333908",
+            "2104300307702333908"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104549020358299766",
+        "created_at": "2026-09-28T12:29:21.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T13:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104549020358299766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "907629983635558400",
+              "start": 3,
+              "username": "wikipistacho"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIYvhRr0bK",
+              "end": 54,
+              "expanded_url": "https://x.com/wikipistacho/status/2104300307702333908/photo/1",
+              "media_key": "3_2104300303839383552",
+              "start": 31,
+              "url": "https://t.co/YIYvhRr0bK"
+            },
+            {
+              "display_url": "pic.x.com/YIYvhRr0bK",
+              "end": 54,
+              "expanded_url": "https://x.com/wikipistacho/status/2104300307702333908/photo/1",
+              "media_key": "3_2104300303096881152",
+              "start": 31,
+              "url": "https://t.co/YIYvhRr0bK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104549020358299766",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2104300303839383552"
+          },
+          {
+            "media_key": "3_2104300303096881152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 806
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104300307702333908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wikipistacho: no puede ser https://t.co/YIYvhRr0bK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104300303839383552",
+            "3_2104300303096881152"
+          ]
+        },
+        "author_id": "907629983635558400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104300307702333908",
+        "created_at": "2026-09-27T20:01:04.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T21:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104300307702333908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIYvhRr0bK",
+              "end": 36,
+              "expanded_url": "https://x.com/wikipistacho/status/2104300307702333908/photo/1",
+              "media_key": "3_2104300303839383552",
+              "start": 13,
+              "url": "https://t.co/YIYvhRr0bK"
+            },
+            {
+              "display_url": "pic.x.com/YIYvhRr0bK",
+              "end": 36,
+              "expanded_url": "https://x.com/wikipistacho/status/2104300307702333908/photo/1",
+              "media_key": "3_2104300303096881152",
+              "start": 13,
+              "url": "https://t.co/YIYvhRr0bK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104300307702333908",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2104300303839383552"
+          },
+          {
+            "media_key": "3_2104300303096881152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 244855,
+          "like_count": 14443,
+          "quote_count": 15,
+          "reply_count": 18,
+          "retweet_count": 806
+        },
+        "reply_settings": "everyone",
+        "text": "no puede ser https://t.co/YIYvhRr0bK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2104549020358299766",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 22,
+          "like_count": 2344,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 4616
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-12T15:40:25.000Z",
+        "description": "juego al lol",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/wikipistacho",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/wikipistacho",
+                "start": 0,
+                "url": "https://t.co/62bfq48irT"
+              }
+            ]
+          }
+        },
+        "id": "907629983635558400",
+        "is_identity_verified": false,
+        "location": "Sevilla ",
+        "most_recent_tweet_id": "2104544821893378100",
+        "name": "chincheto pirata somali",
+        "pinned_tweet_id": "1455891411820220419",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/907629983635558400/1776904996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084036662221230080/K8LhHw1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54587,
+          "following_count": 890,
+          "like_count": 107263,
+          "listed_count": 52,
+          "media_count": 17812,
+          "tweet_count": 79150
+        },
+        "url": "https://t.co/62bfq48irT",
+        "username": "wikipistacho",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

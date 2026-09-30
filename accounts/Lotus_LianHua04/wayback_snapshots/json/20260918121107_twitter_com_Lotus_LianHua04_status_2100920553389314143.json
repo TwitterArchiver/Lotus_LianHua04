@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2002670122767667200",
+    "conversation_id": "2100838818504962294",
+    "created_at": "2026-09-18T12:11:07.000Z",
+    "display_text_range": [
+      25,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100920553389314143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2098794605223522304",
+          "start": 0,
+          "username": "cigsaferdrug"
+        },
+        {
+          "end": 24,
+          "id": "1936742995698835456",
+          "start": 14,
+          "username": "_DerLiebe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100920553389314143",
+    "in_reply_to_user_id": "2098794605223522304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100851447042920763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cigsaferdrug @_DerLiebe 我都想你想死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2100838818504962294",
+        "created_at": "2026-09-18T12:11:07.000Z",
+        "display_text_range": [
+          25,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100920553389314143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2098794605223522304",
+              "start": 0,
+              "username": "cigsaferdrug"
+            },
+            {
+              "end": 24,
+              "id": "1936742995698835456",
+              "start": 14,
+              "username": "_DerLiebe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100920553389314143",
+        "in_reply_to_user_id": "2098794605223522304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100851447042920763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsaferdrug @_DerLiebe 我都想你想死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2098794605223522304",
+        "conversation_id": "2100838818504962294",
+        "created_at": "2026-09-18T07:36:31.000Z",
+        "display_text_range": [
+          28,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100851447042920763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            },
+            {
+              "end": 27,
+              "id": "1936742995698835456",
+              "start": 17,
+              "username": "_DerLiebe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100851447042920763",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100838818504962294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 @_DerLiebe 看哭了看馋了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2100920553389314143",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1787827948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 26,
+          "like_count": 2263,
+          "listed_count": 0,
+          "media_count": 338,
+          "tweet_count": 4521
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-12T15:27:38.000Z",
+        "description": "可以叫我小迴 任何群體全友好 \n查成分互fo\n前世@cigsafterdrug 互關尋回中\n🚪52/88 互fo不用\n只要幸福就好了，祝你幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "cigsafterdrug"
+              }
+            ]
+          }
+        },
+        "id": "2098794605223522304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100918496289001910",
+        "name": "urtoolateialreadydied",
+        "pinned_tweet_id": "2098807783781273721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098794605223522304/1789227039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098796185112965120/mGi3D7-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 123,
+          "like_count": 1565,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 203
+        },
+        "url": "",
+        "username": "cigsaferdrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-22T11:08:26.000Z",
+        "description": "我讨厌蠢逼",
+        "id": "1936742995698835456",
+        "is_identity_verified": false,
+        "location": "长发男/27/184/克莱朗博色情狂/发的东西全是假的",
+        "most_recent_tweet_id": "2100832298623254650",
+        "name": "新中國第一毒梟𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1936742995698835456/1787438557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100172883582668800/aUAsMa9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 46,
+          "like_count": 1791,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 874
+        },
+        "url": "",
+        "username": "_DerLiebe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
